@@ -20,7 +20,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: sun0225SUN
+          user: SuperCB
           template: classic
           config_timezone: Asia/Shanghai
           committer_message: ":rocket: Update"
@@ -34,7 +34,7 @@ jobs:
         with:
           filename: plugin_metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: sun0225SUN
+          user: SuperCB
           template: classic
           committer_message: ":rocket: Update"
           base: ""
@@ -46,13 +46,7 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           
-          # 📰 Recent activity 最近活动
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 3
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+  
           
           # 🎟️ Follow-up of issues and pull requests
           plugin_followup: yes
@@ -69,8 +63,8 @@ jobs:
           
           # 🈷️ Most used languages 常用语言统计
           plugin_languages: yes
-          plugin_languages_ignored: html, css                               # List of languages to ignore (忽略语言)
-          plugin_languages_skipped: sun0225SUN                              # List of repositories to skip (忽略仓库)
+          plugin_languages_ignored: cpp, python                               # List of languages to ignore (忽略语言)
+          plugin_languages_skipped: SuperCB                              # List of repositories to skip (忽略仓库)
           plugin_languages_colors: "0:orange, javascript:#ff0000, ..."      # Make most used languages orange and JavaScript red (语言配色)
           plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..."     # Customize languages names with aliases (重命名语言)
           plugin_languages_details: bytes-size, percentage                  # Additionally display total bytes size and percentage (显示大小和百分比)

@@ -12,6 +12,24 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: GitHub Skyline
+        uses: lowlighter/metrics@latest
+        with:
+           filename: metrics.plugin.skyline.svg
+           token: NOT_NEEDED
+           base: ""
+           plugin_skyline: yes
+           plugin_skyline_year: 2022
+           plugin_skyline_frames: 6
+           plugin_skyline_quality: 1
+      - name: Labels
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 12
       # base metrics
       - name: base_metrics
         uses: lowlighter/metrics@latest

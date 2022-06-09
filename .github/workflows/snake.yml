@@ -10,17 +10,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    steps:
-      - name: Indepth analysis
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.followup.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_followup: yes
-          plugin_followup_indepth: yes
-
       - name: Checkout
         uses: actions/checkout@v2.3.4
       

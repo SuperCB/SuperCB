@@ -15,18 +15,9 @@
 
 ![](./contribution-snake/github-contribution-grid-snake.svg)
 
-![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 
-
-
-
-
-
-
-
-<img src="https://activity-graph.herokuapp.com/graph?username=SuperCB&theme=xcode" />
 
 <div align="center">
   <img  src="plugin_metrics.svg" />

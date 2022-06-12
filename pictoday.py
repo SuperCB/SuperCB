@@ -9,7 +9,7 @@ README = """
 
 ## Picture of the day
 <div align="center">
-  <img  src="{wiki_link}" />
+  <img width=330px src="{wiki_link}" />
 </div>
 
 >{wiki_content}

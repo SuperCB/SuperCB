@@ -3,10 +3,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=330px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fl%C3%A8che_en_feu_-_Spire_on_Fire.jpeg/450px-Fl%C3%A8che_en_feu_-_Spire_on_Fire.jpeg" />
+  <img width=330px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Danube_Delta_ESA23450088.jpeg/525px-Danube_Delta_ESA23450088.jpeg" />
 </div>
 
->The  Notre-Dame fire  broke out in the cathedral of  Notre-Dame de Paris  on 15 April 2019, causing severe damage to  the building's spire , roof, and upper walls. The fire resulted in the contamination of the site and nearby areas of the city with toxic dust and lead. Investigators believed that the fire was caused by a cigarette or an electrical  short circuit ; the prosecutor of Paris found no evidence showing the fire was started deliberately. The cathedral's wooden spire, or  flèche , was built by  Eugène Viollet-le-Duc  in the  Gothic Revival  style and installed in 1859, weighing around 250 tons. This photograph, taken during the 2019 fire, depicts the spire of Notre-Dame aflame; it collapsed shortly afterwards.
+>The  Danube Delta  is the second-largest  river delta  in Europe, after the  Volga Delta , and the best preserved on the continent. While a small part of the delta lies in Ukraine ( Odessa Oblast ), a majority of its area of 3,446 km 2  (1,331 sq mi) lies in Romania ( Tulcea County ). With the lagoons of  Razim–Sinoe , located south of the main delta, the combined territory of 5,165 km 2  (1,994 sq mi) is designated a  World Heritage Site .
 
 
 <div align="center">

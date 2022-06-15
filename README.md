@@ -3,10 +3,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=330px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Danube_Delta_ESA23450088.jpeg/525px-Danube_Delta_ESA23450088.jpeg" />
+  <img width=330px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Checker_shadow_illusion.svg/525px-Checker_shadow_illusion.svg.png" />
 </div>
 
->The  Danube Delta  is the second-largest  river delta  in Europe, after the  Volga Delta , and the best preserved on the continent. While a small part of the delta lies in Ukraine ( Odessa Oblast ), a majority of its area of 3,446 km 2  (1,331 sq mi) lies in Romania ( Tulcea County ). With the lagoons of  Razim–Sinoe , located south of the main delta, the combined territory of 5,165 km 2  (1,994 sq mi) is designated a  World Heritage Site .
+>The  checker shadow illusion  is an  optical illusion  published in 1995 by  Edward Adelson , an American professor of  vision science  at the  Massachusetts Institute of Technology . The phenomenon features an image of a  checkerboard  with light and dark squares, partly shadowed by another object, such as a cylinder as in this illustration. The optical illusion is that the area labeled A appears to be darker than the area labeled B. However, within the context of the two-dimensional image, they are of identical brightness – in other words, they would be printed with identical mixtures of ink, or displayed on a screen with pixels of identical color.
 
 
 <div align="center">

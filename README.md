@@ -3,10 +3,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=330px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Checker_shadow_illusion.svg/525px-Checker_shadow_illusion.svg.png" />
+  <img width=330px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/DefecatingSeagull.jpg/600px-DefecatingSeagull.jpg" />
 </div>
 
->The  checker shadow illusion  is an  optical illusion  published in 1995 by  Edward Adelson , an American professor of  vision science  at the  Massachusetts Institute of Technology . The phenomenon features an image of a  checkerboard  with light and dark squares, partly shadowed by another object, such as a cylinder as in this illustration. The optical illusion is that the area labeled A appears to be darker than the area labeled B. However, within the context of the two-dimensional image, they are of identical brightness – in other words, they would be printed with identical mixtures of ink, or displayed on a screen with pixels of identical color.
+>Guano   is the accumulated  excrement  of seabirds and  bats . As a  manure , guano is a highly effective  fertilizer  due to its exceptionally high content of  nitrogen ,  phosphate , and  potassium : key nutrients essential for plant growth. Guano was also, to a lesser extent, sought for the production of  gunpowder  and other explosive materials. The demand for guano in the 19th century spurred the human  colonization  of remote bird islands in many parts of the world, resulting in some of the first examples of United States colonialism and the expansion of the  British Empire . However, the guano-mining process resulted in ecological degradation through the loss of millions of seabirds. This photograph, taken near  Île-de-Bréhat  in northwestern France, depicts a  herring gull  ( Larus argentatus ) excreting waste, which accumulates to form guano.
 
 
 <div align="center">

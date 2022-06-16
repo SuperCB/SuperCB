@@ -3,10 +3,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=330px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/DefecatingSeagull.jpg/600px-DefecatingSeagull.jpg" />
+  <img width=330px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/June_odd-eyed-cat_cropped.jpg/600px-June_odd-eyed-cat_cropped.jpg" />
 </div>
 
->Guano   is the accumulated  excrement  of seabirds and  bats . As a  manure , guano is a highly effective  fertilizer  due to its exceptionally high content of  nitrogen ,  phosphate , and  potassium : key nutrients essential for plant growth. Guano was also, to a lesser extent, sought for the production of  gunpowder  and other explosive materials. The demand for guano in the 19th century spurred the human  colonization  of remote bird islands in many parts of the world, resulting in some of the first examples of United States colonialism and the expansion of the  British Empire . However, the guano-mining process resulted in ecological degradation through the loss of millions of seabirds. This photograph, taken near  Île-de-Bréhat  in northwestern France, depicts a  herring gull  ( Larus argentatus ) excreting waste, which accumulates to form guano.
+>An  odd-eyed cat  is a cat with one blue eye and one eye either green, yellow, or brown. This is a  feline  form of  complete heterochromia , a condition that occurs in some other animals, including humans. There is also partial heterochromia, where there can be one blue eye and one eye that is partially blue and partially another color. The condition most commonly affects white cats, but may be found in a cat of any color, provided that it possesses the  white-spotting gene . This white domestic cat has complete heterochromia, with a blue left eye and a yellow right eye.
 
 
 <div align="center">

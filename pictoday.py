@@ -7,6 +7,11 @@ URL = "https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day"
 README = """
 # 欢迎来到CB的Github 👋
 
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SuperCB&show_icons=true&theme=radical" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperCB&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff" />
+</div>
+
 ## Picture of the day
 <div align="center">
   <img width=330px src="{wiki_link}" />
@@ -14,10 +19,7 @@ README = """
 
 >{wiki_content}
 
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SuperCB&show_icons=true&theme=radical" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperCB&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff" />
-</div>
+
 <div align="center">
   <img height="300px" src="base_metrics.svg" />
   <img  src="metrics.plugin.calendar.full.svg" />

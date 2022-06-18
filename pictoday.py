@@ -14,7 +14,7 @@ README = """
 
 ## Picture of the day
 <div align="center">
-  <img width=330px src="{wiki_link}" />
+  <img width=400px src="{wiki_link}" />
 </div>
 
 >{wiki_content}

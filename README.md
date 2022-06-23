@@ -8,10 +8,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Indecency2.jpg/450px-Indecency2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wells_Cathedral_Arches%2C_Somerset%2C_UK_-_Diliff.jpg/600px-Wells_Cathedral_Arches%2C_Somerset%2C_UK_-_Diliff.jpg" />
 </div>
 
->Isaac Cruikshank  (1764–1811) was a Scottish painter and caricaturist. He was born in  Edinburgh  and spent most of his career in London. Cruikshank is known for his social and political  satire . His first known publications were etchings of Edinburgh "types", from 1784. He produced illustrations for books about the theatre, did the frontispiece for  Witticisms and Jests of Dr Johnson  (1791), and illustrated  George Shaw 's extensive  General Zoology  (1800–1826). With  James Gillray , Cruikshank developed the figure of  John Bull , the nationalistic representation of a solid British yeoman. He died of alcohol poisoning at the age of fifty-five as a result of a drinking contest, of which he was declared the winner. This 1799 illustration by Cruikshank, titled "Indecency", depicts a woman urinating in the street and saying: "B[las]t you what are you stareing [ sic ] at?"
+>Wells Cathedral  is an  Anglican  cathedral in  Wells, Somerset , commenced around 1175 on the site of a late-Roman  mausoleum  and an 8th-century abbey church. The cathedral has been described by the architectural historian  John Harvey  as Europe's first truly  Gothic  structure, lacking the  Romanesque  work that survives in many other cathedrals. It is the seat of the  bishop of Bath and Wells . This photograph depicts the St Andrew's Cross arches under the tower, viewed from the nave.
 
 
 

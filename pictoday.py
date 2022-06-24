@@ -17,6 +17,8 @@ README = """
     <img src="./contribution-snake/github-contribution-grid-snake.svg" />
 </div>
 
+
+
 ## Picture of the day
 <div align="center">
   <img width=400px src="{wiki_link}" />

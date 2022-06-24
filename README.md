@@ -8,10 +8,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wells_Cathedral_Arches%2C_Somerset%2C_UK_-_Diliff.jpg/600px-Wells_Cathedral_Arches%2C_Somerset%2C_UK_-_Diliff.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Th%C3%A9ophile_Thor%C3%A9_by_Nadar.jpg/450px-Th%C3%A9ophile_Thor%C3%A9_by_Nadar.jpg" />
 </div>
 
->Wells Cathedral  is an  Anglican  cathedral in  Wells, Somerset , commenced around 1175 on the site of a late-Roman  mausoleum  and an 8th-century abbey church. The cathedral has been described by the architectural historian  John Harvey  as Europe's first truly  Gothic  structure, lacking the  Romanesque  work that survives in many other cathedrals. It is the seat of the  bishop of Bath and Wells . This photograph depicts the St Andrew's Cross arches under the tower, viewed from the nave.
+>Théophile Thoré-Bürger  (23 June 1807 – 30 April 1869) was a French journalist and  art critic . He is best known today for his rediscovery of the work of painter  Johannes Vermeer  and several other prominent Dutch artists, such as  Frans Hals . This portrait photograph of Thoré-Bürger was taken by the French photographer  Nadar .
 
 
 

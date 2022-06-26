@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vincent_van_Gogh_-_Wheatfield_with_a_reaper_-_Google_Art_Project.jpg/600px-Vincent_van_Gogh_-_Wheatfield_with_a_reaper_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mrs._Crystal_Eastman_Benedict_by_Edmonston%2C_Washington%2C_D.C..jpg/525px-Mrs._Crystal_Eastman_Benedict_by_Edmonston%2C_Washington%2C_D.C..jpg" />
 </div>
 
->Reaper  is a series of three oil-on-canvas paintings by the Dutch artist  Vincent van Gogh  of a man reaping a wheat field under a bright early-morning sun. This is the second painting in the series, which Van Gogh appears to have completed in a single day in  Saint-Rémy-de-Provence , France, while taking breaks to write a letter on 4–5 September 1889. In a later part of the letter, he announced: "Phew – the reaper is finished, I think it will be one that you'll place in your home". Van Gogh initially preferred this version over the earlier study, describing it as "an image of death as the great  Book of Nature  speaks to us about it – but what I sought is the 'almost smiling'. It's all yellow except for a line of violet hills – a pale, blond yellow. I myself find that funny, that I saw it like that through the iron bars of a cell." The painting is now in the collection of the  Van Gogh Museum  in Amsterdam.
+>Crystal Eastman  (June 25, 1881 – July 28, 1928)  was an American lawyer,  antimilitarist , feminist, socialist, and journalist. She is best remembered as a leader in the fight for  women's suffrage , as a co-founder and co-editor with her brother  Max Eastman  of the radical arts and politics magazine  The Liberator ,  co-founder of the  Women's International League for Peace and Freedom , and co-founder in 1920 of the  American Civil Liberties Union . In 2000, she was inducted into the  National Women's Hall of Fame  in  Seneca Falls, New York .
 
 
 

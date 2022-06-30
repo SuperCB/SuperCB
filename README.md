@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mar%C3%A9chal_Canrobert_by_Nadar.jpg/450px-Mar%C3%A9chal_Canrobert_by_Nadar.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/St._Peter_and_St._Paul%27s_Church_3%2C_Vilnius%2C_Lithuania_-_Diliff.jpg/600px-St._Peter_and_St._Paul%27s_Church_3%2C_Vilnius%2C_Lithuania_-_Diliff.jpg" />
 </div>
 
->François Certain de Canrobert  (27 June 1809 – 28 January 1895) was a French general who held the title of  Marshal of France . A staunch supporter of Emperor  Napoleon III , he became one of the leading figures in the  Bonapartist  party under the  French Third Republic . This photograph of Canrobert in military uniform was taken by the French photographer  Nadar .
+>The  Church of St. Peter and St. Paul  is a  Roman Catholic  church located in the neighbourhood of  Antakalnis  in  Vilnius , Lithuania. Its interior has masterful compositions of some two thousand  stucco  figures by  Pietro Perti  and  ornamentation  by  Giovanni Maria Galli da Bibiena , and is unique in Europe. The church is dedicated to  Saint Peter  and  Saint Paul ,  whose feast day  is celebrated on 29 June. This photograph of the interior depicts the church's  chancel  with the main altar. The large central painting by  Franciszek Smuglewicz  depicts the emotional final parting of Peter and Paul. A life-sized sculpture of Jesus, known as Jesus of Antakalnis, is visible in a  niche  on the left of the image.
 
 
 

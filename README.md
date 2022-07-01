@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/St._Peter_and_St._Paul%27s_Church_3%2C_Vilnius%2C_Lithuania_-_Diliff.jpg/600px-St._Peter_and_St._Paul%27s_Church_3%2C_Vilnius%2C_Lithuania_-_Diliff.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ignace_Gaston_Pardies-Plate_4.jpg/750px-Ignace_Gaston_Pardies-Plate_4.jpg" />
 </div>
 
->The  Church of St. Peter and St. Paul  is a  Roman Catholic  church located in the neighbourhood of  Antakalnis  in  Vilnius , Lithuania. Its interior has masterful compositions of some two thousand  stucco  figures by  Pietro Perti  and  ornamentation  by  Giovanni Maria Galli da Bibiena , and is unique in Europe. The church is dedicated to  Saint Peter  and  Saint Paul ,  whose feast day  is celebrated on 29 June. This photograph of the interior depicts the church's  chancel  with the main altar. The large central painting by  Franciszek Smuglewicz  depicts the emotional final parting of Peter and Paul. A life-sized sculpture of Jesus, known as Jesus of Antakalnis, is visible in a  niche  on the left of the image.
+>Ignace-Gaston Pardies  (1636–1673) was a French Catholic priest and scientist. His  celestial atlas , entitled  Globi coelestis in tabulas planas redacti descriptio , comprised six charts of the night sky and was first published in 1674. The atlas uses a  gnomonic projection  so that the plates make up a cube of the  celestial sphere . The constellation figures are drawn from  Uranometria , but were carefully reworked and adapted to a broader view of the sky. This is the fourth plate from a 1693 edition of Pardies's atlas, featuring constellations including  Virgo ,  Libra  and  Boötes , visible in the  northern sky .
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/450px-James_Abram_Garfield%2C_photo_portrait_seated.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hector_Berlioz%2C_Les_Troyens_vocal_score_cover_-_Restoration.jpg/525px-Hector_Berlioz%2C_Les_Troyens_vocal_score_cover_-_Restoration.jpg" />
 </div>
 
->James A. Garfield   (1831–1881) was the 20th  president of the United States , serving from March to September 1881. On July 2, 1881, four months into his presidency,  Garfield was shot  at the  Baltimore and Potomac Railroad Station  in Washington, D.C., by  Charles J. Guiteau , a disappointed and delusional office seeker. Garfield died two months later from  infections caused by his doctors . He remains the only sitting member of the  United States House of Representatives  to be elected to the presidency.
+>Les Troyens  is a  grand opera  in five acts by  Hector Berlioz  with a French-language  libretto  written by the composer himself based on  Virgil 's  Aeneid . The score was composed between 1856 and 1858, but Berlioz did not live long enough to see the work performed in its entirety. However, the last three acts, substantially abridged, were performed during his lifetime under the title  Les Troyens à Carthage  by  Léon Carvalho 's company, the  Théâtre Lyrique , in Paris in 1863. For this performance, Berlioz added an orchestral introduction and a prologue. He was not happy with the result, noting bitterly that he had agreed to let Carvalho do it "despite the manifest impossibility of his doing it properly. He had just obtained an annual subsidy of a hundred thousand francs from the government. Nonetheless the enterprise was beyond him. His theater was not large enough, his singers were not good enough, his chorus and orchestra were small and weak." This is the cover of the  piano–vocal score  of  Les Troyens , published in 1863 by  Choudens , with a  lithographic  illustration by Antoine Barbizet.
 
 
 

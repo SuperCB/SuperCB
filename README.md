@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ellis_Island_hospital_window_mural_%2801897%29.jpg/750px-Ellis_Island_hospital_window_mural_%2801897%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pseudatelus_sp..jpg/375px-Pseudatelus_sp..jpg" />
 </div>
 
->The  Ellis Island Immigrant Hospital  (also known as USPHS Hospital #43) was a  United States Public Health Service  hospital on  Ellis Island  in  New York Harbor  that operated from 1902 to 1951. It is part of the  Statue of Liberty National Monument . The hospital had two functions: treating immigrants who were ill upon arrival, and treating immigrants with conditions that were prohibited by immigration laws. These latter patients were stabilized and often sent back to their home countries. More than 275,000 patients were treated at Ellis Island; there were approximately 4,000 fatalities and 350 babies were born there. Efforts to restore the hospital buildings and other structures on the island are being made by the non-profit organization  Save Ellis Island . This photograph depicts a window in the Ellis Island Immigrant Hospital, decorated in 2014 by the French artist  JR  with reproductions of photographs of immigrants at the hospital.
+>Pseudatelus  is a genus of  shield bugs  of the family  Pentatomidae . They range from 14 to 20 millimetres (0.55 to 0.79 in), depending on the species, and have a typical shield-shaped body. They are usually brown or dark brown in colour, with a triangular-shaped  scutellum . This  Pseudatelus  shield bug was photographed in  Dar es Salaam , Tanzania.
 
 
 

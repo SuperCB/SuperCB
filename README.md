@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pseudatelus_sp..jpg/375px-Pseudatelus_sp..jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Scintillant_hummingbird_%28Selasphorus_scintilla%29_female_in_flight_1.jpg/750px-Scintillant_hummingbird_%28Selasphorus_scintilla%29_female_in_flight_1.jpg" />
 </div>
 
->Pseudatelus  is a genus of  shield bugs  of the family  Pentatomidae . They range from 14 to 20 millimetres (0.55 to 0.79 in), depending on the species, and have a typical shield-shaped body. They are usually brown or dark brown in colour, with a triangular-shaped  scutellum . This  Pseudatelus  shield bug was photographed in  Dar es Salaam , Tanzania.
+>The  scintillant hummingbird  ( Selasphorus scintilla ) is a species of  hummingbird  that is  endemic  to the Central American countries of Costa Rica and Panama. It inhabits brushy forest edges, coffee plantations and occasionally gardens at altitudes from 900 to 2,000 metres (3,000 to 6,600 ft), and up to 2,500 metres (8,200 ft) when not breeding. It is only 6.5 to 8.0 centimetres (2.6 to 3.1 in) long, including the bill, making it one of the smallest birds in existence, marginally larger than the  bee hummingbird . This female scintillant hummingbird was photographed in the  cloud forest  of Mount Totumas in Panama.
 
 
 

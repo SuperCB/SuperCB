@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Scintillant_hummingbird_%28Selasphorus_scintilla%29_female_in_flight_1.jpg/750px-Scintillant_hummingbird_%28Selasphorus_scintilla%29_female_in_flight_1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flora_MacDonald_Denison_-_Records_of_the_National_Woman%27s_Party.jpg/375px-Flora_MacDonald_Denison_-_Records_of_the_National_Woman%27s_Party.jpg" />
 </div>
 
->The  scintillant hummingbird  ( Selasphorus scintilla ) is a species of  hummingbird  that is  endemic  to the Central American countries of Costa Rica and Panama. It inhabits brushy forest edges, coffee plantations and occasionally gardens at altitudes from 900 to 2,000 metres (3,000 to 6,600 ft), and up to 2,500 metres (8,200 ft) when not breeding. It is only 6.5 to 8.0 centimetres (2.6 to 3.1 in) long, including the bill, making it one of the smallest birds in existence, marginally larger than the  bee hummingbird . This female scintillant hummingbird was photographed in the  cloud forest  of Mount Totumas in Panama.
+>Flora MacDonald Denison  (1867–1921) was a Canadian activist, journalist, and businesswoman known for her leadership in the  Canadian suffragist movement  and her stewardship of  Bon Echo Provincial Park  in Ontario. She joined the  Canadian Suffrage Association  in 1906 when it was founded by  Augusta Stowe-Gullen  and became an active member and campaigner. In 1906, Denison traveled to Copenhagen as Canada's delegate to the  International Woman Suffrage Alliance . She also attended the International Woman's Suffrage Alliance convention in Budapest in 1913. After meeting the British activist  Emmeline Pankhurst  in London, she organized the latter's first trip to Canada in 1909. She served as president of the Canadian Suffrage Association from 1911 to 1914, until her controversial support for the militant tactics of the  Women's Social and Political Union  in England resulted in her forced resignation.
 
 
 

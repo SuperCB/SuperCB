@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sesshu_-_Haboku-Sansui_-_complete.jpg/375px-Sesshu_-_Haboku-Sansui_-_complete.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sacred_ibis_%28Threskiornis_aethiopicus%29.jpg/525px-Sacred_ibis_%28Threskiornis_aethiopicus%29.jpg" />
 </div>
 
->Haboku sansui  (破墨山水図,   Broken Ink Landscape ) is a  splashed-ink  landscape painting on a  hanging scroll . It was made by the Japanese artist  Sesshū Tōyō  in 1495, in the  Muromachi period . Sesshū Tōyō was a  Zen Buddhist  monk and painter. The work is a development of  suibokuga  paintings made with  Chinese ink , using dark and light shades on a silk or paper medium. The monochromatic style can result in artworks similar to  calligraphy . In spite of its title, the work is not one of "broken ink" ( haboku ) but rather one of "splashed ink" (hatsuboku). In this style, the painter avoids strongly defined outlines, with shapes indicated by colour washes in lighter and darker tones.
+>The  African sacred ibis  ( Threskiornis aethiopicus ) is a wading bird and a species of  ibis , of the family  Threskiornithidae . The bird, native to Africa and the Middle East, is especially known for its role in the religion of the  ancient Egyptians , where it was linked to the god  Thoth . Visually, the African sacred ibis has an all-white body  plumage , apart from the dark plumes on the rump. This African sacred ibis was photographed in  Lake Ziway , Ethiopia.
 
 
 

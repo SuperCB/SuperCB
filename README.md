@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sacred_ibis_%28Threskiornis_aethiopicus%29.jpg/525px-Sacred_ibis_%28Threskiornis_aethiopicus%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Duke_Humfrey%27s_Library_Interior_2%2C_Bodleian_Library%2C_Oxford%2C_UK_-_Diliff.jpg/600px-Duke_Humfrey%27s_Library_Interior_2%2C_Bodleian_Library%2C_Oxford%2C_UK_-_Diliff.jpg" />
 </div>
 
->The  African sacred ibis  ( Threskiornis aethiopicus ) is a wading bird and a species of  ibis , of the family  Threskiornithidae . The bird, native to Africa and the Middle East, is especially known for its role in the religion of the  ancient Egyptians , where it was linked to the god  Thoth . Visually, the African sacred ibis has an all-white body  plumage , apart from the dark plumes on the rump. This African sacred ibis was photographed in  Lake Ziway , Ethiopia.
+>Duke Humfrey's Library  is the oldest  reading room  in the  Bodleian Library  at the  University of Oxford  in  Oxford , England. It is named after  Humphrey, Duke of Gloucester , who donated 281 books after his death in 1447. Sections of the libraries were restored and expanded in the 16th and 17th centuries, including the addition of a second storey, and east and west wings. The library currently functions as a reading room.
 
 
 

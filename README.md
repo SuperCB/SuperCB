@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dom_St._Peter_und_Paul_%28Brandenburg_an_der_Havel%29_01_%28MK%29.jpg/600px-Dom_St._Peter_und_Paul_%28Brandenburg_an_der_Havel%29_01_%28MK%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dorothy_Houston_Jacobson_1967_-_Crop.jpg/600px-Dorothy_Houston_Jacobson_1967_-_Crop.jpg" />
 </div>
 
->St. Peter and Paul Cathedral , also known as Brandenburg Cathedral, is the largest medieval church in  Brandenburg an der Havel  in the German state of  Brandenburg . Construction began in 1165 as a  Romanesque  aisleless church ( Saalkirche ), and it was later expanded to a three- aisled ,  Brick Gothic  basilica. Its  patron saints  are  Saint Peter  and  Saint Paul the Apostle . This photograph depicts the cathedral's  nave , with white vaulted ceilings and red brick archways, windows, and floor, filled with rows of wooden chairs.
+>Dorothy Houston Jacobson  (November 13, 1907 – July 13, 1985) was an American political scientist and educator, and a co-founder and chair of the  Minnesota Democratic–Farmer–Labor Party . Born in  Herman, Minnesota , she served as  Assistant Secretary for International Affairs  in the  United States Department of Agriculture  (USDA) from 1964 to 1969, during the  Johnson administration , and was the first woman to serve in a sub- cabinet  position in the USDA. This 1967 photograph depicts Jacobson seated at her desk at the  USDA headquarters  in Washington, D.C.
 
 
 

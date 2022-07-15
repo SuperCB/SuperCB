@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dorothy_Houston_Jacobson_1967_-_Crop.jpg/600px-Dorothy_Houston_Jacobson_1967_-_Crop.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Red_wattlebird.jpg/600px-Red_wattlebird.jpg" />
 </div>
 
->Dorothy Houston Jacobson  (November 13, 1907 – July 13, 1985) was an American political scientist and educator, and a co-founder and chair of the  Minnesota Democratic–Farmer–Labor Party . Born in  Herman, Minnesota , she served as  Assistant Secretary for International Affairs  in the  United States Department of Agriculture  (USDA) from 1964 to 1969, during the  Johnson administration , and was the first woman to serve in a sub- cabinet  position in the USDA. This 1967 photograph depicts Jacobson seated at her desk at the  USDA headquarters  in Washington, D.C.
+>The  red wattlebird  ( Anthochaera carunculata ) is a  passerine  bird native to southern Australia. At 33 to 37 centimetres (13 to  14 + 1 ⁄ 2  in) in length, it is the second-largest species of Australian  honeyeater . The species is found in open forest and woodland, and is a common visitor to urban gardens and parks. Loud and conspicuous, the red wattlebird is generally found in trees, where it gets most of its food; occasionally it forages on the ground. It is one of the largest  nectarivorous  birds in the world, feeding from a wide variety of flowering plants, though insects also comprise part of its diet. It is territorial and at times aggressive towards birds of other species, often defending rich sources of nectar. Although it has declined in places from  land clearing , it is classified as a  least-concern species  on the  IUCN Red List .
 
 
 

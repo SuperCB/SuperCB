@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Apollo-Soyuz_Test_Project_Flown_Silver_Robbins_Medallion.jpg/750px-Apollo-Soyuz_Test_Project_Flown_Silver_Robbins_Medallion.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Joy_Young_Rogers_outside_the_White_House.jpg/675px-Joy_Young_Rogers_outside_the_White_House.jpg" />
 </div>
 
->NASA space-flown Apollo medallion  for the  Apollo–Soyuz  mission
+>Joy Young Rogers  (1891–1953) was an American suffragist who served as an assistant editor of  The Suffragist , the weekly newspaper of the  National Woman's Party  and the  Congressional Union for Woman Suffrage . This photograph depicts her (then Joy Oden Young) outside the  White House  in Washington, D.C., where she presented President  Woodrow Wilson  with a basket of flowers that contained a request for the passage of the  Nineteenth Amendment to the United States Constitution  to  allow women to vote in the United States , and letters of support from women of the American West.
 
 
 

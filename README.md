@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Joy_Young_Rogers_outside_the_White_House.jpg/675px-Joy_Young_Rogers_outside_the_White_House.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Russian_Imperial_Family_1913.jpg/600px-Russian_Imperial_Family_1913.jpg" />
 </div>
 
->Joy Young Rogers  (1891–1953) was an American suffragist who served as an assistant editor of  The Suffragist , the weekly newspaper of the  National Woman's Party  and the  Congressional Union for Woman Suffrage . This photograph depicts her (then Joy Oden Young) outside the  White House  in Washington, D.C., where she presented President  Woodrow Wilson  with a basket of flowers that contained a request for the passage of the  Nineteenth Amendment to the United States Constitution  to  allow women to vote in the United States , and letters of support from women of the American West.
+>The  execution of the Romanov family , the imperial family of Russia, took place on the night of 16–17 July 1918 in  Yekaterinburg . Following the  February Revolution , the  Romanov family  and their servants had been imprisoned in the  Alexander Palace  near  Saint Petersburg  before being moved to  Tobolsk  in Siberia in the aftermath of the  October Revolution . They were shot and  bayoneted  to death by  Bolshevik  revolutionaries under  Yakov Yurovsky  on the orders of the Ural Regional Soviet in  Ipatiev House . This 1913 photograph of the family depicts the imperial couple and their five children: from left to right,  Grand Duchess Olga ,  Grand Duchess Maria ,  Emperor Nicholas II ,  Empress Alexandra Feodorovna ,  Grand Duchess Anastasia ,  Tsesarevich Alexei , and  Grand Duchess Tatiana .
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Philemon_corniculatus_-_Glen_Davis.jpg/450px-Philemon_corniculatus_-_Glen_Davis.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_7.jpg/525px-Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_7.jpg" />
 </div>
 
->The  noisy friarbird  ( Philemon corniculatus ) is a  passerine  bird in the honeyeater family  Meliphagidae  native to southern  New Guinea  and eastern Australia. It is one of several species known as  friarbirds  whose heads are bare of feathers. The species is brown-grey in colour, with a prominent knob on its bare black-skinned head. It feeds on insects and nectar. This noisy friarbird was photographed in  Glen Davis, New South Wales .
+>The Hunting of the Snark  is a  nonsense poem  by the English writer  Lewis Carroll , telling the story of ten characters who cross the ocean to hunt a mysterious creature known as the Snark. The poem was published in 1876 with illustrations by  Henry Holiday . This is the seventh plate from his illustrations, accompanying "Fit the Fifth: The Beaver's Lesson", in which the Butcher and the Beaver hear the song of the  Jubjub bird , and this causes the Butcher to be reminded of his childhood, and begin a lengthy lesson to the Beaver:
 
 
 

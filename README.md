@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_7.jpg/525px-Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_7.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lillian_Feickert_c._1912.jpg/525px-Lillian_Feickert_c._1912.jpg" />
 </div>
 
->The Hunting of the Snark  is a  nonsense poem  by the English writer  Lewis Carroll , telling the story of ten characters who cross the ocean to hunt a mysterious creature known as the Snark. The poem was published in 1876 with illustrations by  Henry Holiday . This is the seventh plate from his illustrations, accompanying "Fit the Fifth: The Beaver's Lesson", in which the Butcher and the Beaver hear the song of the  Jubjub bird , and this causes the Butcher to be reminded of his childhood, and begin a lengthy lesson to the Beaver:
+>Lillian Feickert  (July 20, 1877 – January 21, 1945) was an American  suffragist  and political organizer. She served as the president of the New Jersey Woman Suffrage Association from 1912 to 1920, and later helped organize the New Jersey  League of Women Voters . Feickert went on to serve as the vice-chairman of the  New Jersey Republican State Committee , and unsuccessfully ran for election to the  United States Senate  in 1928, the first woman from the state to do so.
 
 
 

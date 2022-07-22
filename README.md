@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lillian_Feickert_c._1912.jpg/525px-Lillian_Feickert_c._1912.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Buzz_Aldrin.jpg/525px-Buzz_Aldrin.jpg" />
 </div>
 
->Lillian Feickert  (July 20, 1877 – January 21, 1945) was an American  suffragist  and political organizer. She served as the president of the New Jersey Woman Suffrage Association from 1912 to 1920, and later helped organize the New Jersey  League of Women Voters . Feickert went on to serve as the vice-chairman of the  New Jersey Republican State Committee , and unsuccessfully ran for election to the  United States Senate  in 1928, the first woman from the state to do so.
+>Buzz Aldrin  (born 1930) is an American former  astronaut ,   engineer  and  fighter pilot . He made three  spacewalks  as pilot of the 1966  Gemini 12  mission, and was the pilot of the  Lunar Module  Eagle  for  Apollo 11 . On July 21, 1969, he and Apollo 11 mission commander  Neil Armstrong  became the first two people to step onto the surface of the Moon. This official  NASA  portrait, taken in April 1969, depicts Aldrin in a white  Apollo space suit  in front of a large picture of the Moon, with his helmet resting on a pedestal.
 
 
 

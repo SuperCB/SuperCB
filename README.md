@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Buzz_Aldrin.jpg/525px-Buzz_Aldrin.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wells_Cathedral_Stairs_to_Chapter_House%2C_Somerset%2C_UK_-_Diliff.jpg/600px-Wells_Cathedral_Stairs_to_Chapter_House%2C_Somerset%2C_UK_-_Diliff.jpg" />
 </div>
 
->Buzz Aldrin  (born 1930) is an American former  astronaut ,   engineer  and  fighter pilot . He made three  spacewalks  as pilot of the 1966  Gemini 12  mission, and was the pilot of the  Lunar Module  Eagle  for  Apollo 11 . On July 21, 1969, he and Apollo 11 mission commander  Neil Armstrong  became the first two people to step onto the surface of the Moon. This official  NASA  portrait, taken in April 1969, depicts Aldrin in a white  Apollo space suit  in front of a large picture of the Moon, with his helmet resting on a pedestal.
+>Wells Cathedral  is an  Anglican  cathedral in  Wells, Somerset , commenced around 1175 on the site of a late-Roman  mausoleum  and an 8th-century abbey church. The cathedral has been described by the historian  John Harvey  as Europe's first truly  Gothic  structure, lacking the  Romanesque  work that survives in many other cathedrals. It is the seat of the  bishop of Bath and Wells . This photograph shows the stairs leading from the north transept to the  chapter house .
 
 
 

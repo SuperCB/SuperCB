@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wells_Cathedral_Stairs_to_Chapter_House%2C_Somerset%2C_UK_-_Diliff.jpg/600px-Wells_Cathedral_Stairs_to_Chapter_House%2C_Somerset%2C_UK_-_Diliff.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Argentina_1828_8_Escudos.jpg/750px-Argentina_1828_8_Escudos.jpg" />
 </div>
 
->Wells Cathedral  is an  Anglican  cathedral in  Wells, Somerset , commenced around 1175 on the site of a late-Roman  mausoleum  and an 8th-century abbey church. The cathedral has been described by the historian  John Harvey  as Europe's first truly  Gothic  structure, lacking the  Romanesque  work that survives in many other cathedrals. It is the seat of the  bishop of Bath and Wells . This photograph shows the stairs leading from the north transept to the  chapter house .
+>The  Argentine real  was the currency of Argentina between 1813 and 1881. From 1822, it was subdivided into ten  décimos . The  sol  was also issued during this period and was equal to the real, while the  peso  was worth eight  reales  and the  escudo  was worth sixteen  reales . This 1828 eight-escudo  gold coin  was issued by the  United Provinces of the Río de la Plata , a predecessor state of modern Argentina, featuring the  Sun of May  on the obverse and the  Argentine coat of arms  and motto ( En unión y libertad , 'In unity and freedom') on the reverse. The coin forms part of the  National Numismatic Collection  at the  Smithsonian Institution .
 
 
 

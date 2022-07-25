@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Argentina_1828_8_Escudos.jpg/750px-Argentina_1828_8_Escudos.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Turgot_map_of_Paris%2C_general_map_-_Norman_B._Leventhal_Map_Center.jpg/938px-Turgot_map_of_Paris%2C_general_map_-_Norman_B._Leventhal_Map_Center.jpg" />
 </div>
 
->The  Argentine real  was the currency of Argentina between 1813 and 1881. From 1822, it was subdivided into ten  décimos . The  sol  was also issued during this period and was equal to the real, while the  peso  was worth eight  reales  and the  escudo  was worth sixteen  reales . This 1828 eight-escudo  gold coin  was issued by the  United Provinces of the Río de la Plata , a predecessor state of modern Argentina, featuring the  Sun of May  on the obverse and the  Argentine coat of arms  and motto ( En unión y libertad , 'In unity and freedom') on the reverse. The coin forms part of the  National Numismatic Collection  at the  Smithsonian Institution .
+>The  Turgot map of Paris  is a highly accurate and detailed map of the city of  Paris , France, as it existed in the 1730s. It was published in 1739 as an atlas of twenty non-overlapping sectional bird's-eye-view maps, each approximately 50 cm × 80 cm (20 in × 31 in), in  isometric perspective  toward the southeast, as well as one simplified overview map – shown here – with a four-by-five grid indicating the general layout of the twenty sectional maps. It has been described as "the first all-comprising graphical inventory of the capital, down to the last orchard and tree, detailing every house and naming even the most modest cul-de-sac".
 
 
 

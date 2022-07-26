@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Turgot_map_of_Paris%2C_general_map_-_Norman_B._Leventhal_Map_Center.jpg/938px-Turgot_map_of_Paris%2C_general_map_-_Norman_B._Leventhal_Map_Center.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Lion%27s_mane_jellyfish_in_Gullmarn_fjord_at_S%C3%A4mstad_8_-_edited.jpg/450px-Lion%27s_mane_jellyfish_in_Gullmarn_fjord_at_S%C3%A4mstad_8_-_edited.jpg" />
 </div>
 
->The  Turgot map of Paris  is a highly accurate and detailed map of the city of  Paris , France, as it existed in the 1730s. It was published in 1739 as an atlas of twenty non-overlapping sectional bird's-eye-view maps, each approximately 50 cm × 80 cm (20 in × 31 in), in  isometric perspective  toward the southeast, as well as one simplified overview map – shown here – with a four-by-five grid indicating the general layout of the twenty sectional maps. It has been described as "the first all-comprising graphical inventory of the capital, down to the last orchard and tree, detailing every house and naming even the most modest cul-de-sac".
+>The  lion's mane jellyfish  ( Cyanea capillata ) is one of the largest known species of  jellyfish , with a range confined to the cold,  boreal  waters of the Arctic, northern Atlantic, and northern Pacific Oceans. These photographs depict a lion's mane jellyfish in  Gullmarn , a  fjord  on the western coast of Sweden, with its bell alternately expanded (top) and contracted (bottom). The specimen was likely a juvenile, with a bell 10 to 12 centimetres (3.9 to 4.7 in) in diameter and tentacles 60 to 80 centimetres (24 to 31 in) in length. The largest recorded individual of the species had a bell approximately 210 centimetres (7 ft) wide and tentacles around 36.6 metres (120 ft) long.
 
 
 

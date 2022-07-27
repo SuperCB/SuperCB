@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Lion%27s_mane_jellyfish_in_Gullmarn_fjord_at_S%C3%A4mstad_8_-_edited.jpg/450px-Lion%27s_mane_jellyfish_in_Gullmarn_fjord_at_S%C3%A4mstad_8_-_edited.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Stagonopleura_guttata_2_-_Glen_Alice.jpg/600px-Stagonopleura_guttata_2_-_Glen_Alice.jpg" />
 </div>
 
->The  lion's mane jellyfish  ( Cyanea capillata ) is one of the largest known species of  jellyfish , with a range confined to the cold,  boreal  waters of the Arctic, northern Atlantic, and northern Pacific Oceans. These photographs depict a lion's mane jellyfish in  Gullmarn , a  fjord  on the western coast of Sweden, with its bell alternately expanded (top) and contracted (bottom). The specimen was likely a juvenile, with a bell 10 to 12 centimetres (3.9 to 4.7 in) in diameter and tentacles 60 to 80 centimetres (24 to 31 in) in length. The largest recorded individual of the species had a bell approximately 210 centimetres (7 ft) wide and tentacles around 36.6 metres (120 ft) long.
+>The  diamond firetail  ( Stagonopleura guttata ) is a species of  estrildid finch  that is  endemic  to Australia. The species generally inhabits drier forests and grassy woodlands west of the  Great Dividing Range , and can be distinguished by a black band on a white breast. Their flanks are black with white spots with a scarlet rump and a black tail. This diamond firetail was photographed in  Glen Alice, New South Wales .
 
 
 

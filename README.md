@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Stagonopleura_guttata_2_-_Glen_Alice.jpg/600px-Stagonopleura_guttata_2_-_Glen_Alice.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2018_FIM_Ice_Speedway_Gladiators_World_Championship_-_GP_7_Niedermaier-5563.jpg/600px-2018_FIM_Ice_Speedway_Gladiators_World_Championship_-_GP_7_Niedermaier-5563.jpg" />
 </div>
 
->The  diamond firetail  ( Stagonopleura guttata ) is a species of  estrildid finch  that is  endemic  to Australia. The species generally inhabits drier forests and grassy woodlands west of the  Great Dividing Range , and can be distinguished by a black band on a white breast. Their flanks are black with white spots with a scarlet rump and a black tail. This diamond firetail was photographed in  Glen Alice, New South Wales .
+>Ice speedway  is a form of  motorcycle-speedway  racing on frozen surfaces. The sport uses specialised bikes that race anticlockwise around oval tracks between 260 and 425 metres (853 and 1,394 ft) in length, with a race structure and scoring similar to that of speedway racing. This photograph depicts the German speedway racer Max Niedermaier practising in  Inzell , Germany, for the finals of the  2018 Individual Ice Racing World Championship , organised by the sport's  governing body , the  Fédération Internationale de Motocyclisme .
 
 
 

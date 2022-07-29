@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2018_FIM_Ice_Speedway_Gladiators_World_Championship_-_GP_7_Niedermaier-5563.jpg/600px-2018_FIM_Ice_Speedway_Gladiators_World_Championship_-_GP_7_Niedermaier-5563.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/US-%241-SC-1899-Fr-226.jpg/453px-US-%241-SC-1899-Fr-226.jpg" />
 </div>
 
->Ice speedway  is a form of  motorcycle-speedway  racing on frozen surfaces. The sport uses specialised bikes that race anticlockwise around oval tracks between 260 and 425 metres (853 and 1,394 ft) in length, with a race structure and scoring similar to that of speedway racing. This photograph depicts the German speedway racer Max Niedermaier practising in  Inzell , Germany, for the finals of the  2018 Individual Ice Racing World Championship , organised by the sport's  governing body , the  Fédération Internationale de Motocyclisme .
+>$1:  Abraham Lincoln  and  Ulysses S. Grant 
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/US-%241-SC-1899-Fr-226.jpg/453px-US-%241-SC-1899-Fr-226.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg/675px-Eopsaltria_australis_-_Mogo_Campground.jpg" />
 </div>
 
->$1:  Abraham Lincoln  and  Ulysses S. Grant 
+>The  eastern yellow robin  ( Eopsaltria australis ) is an  Australasian robin  found in coastal and sub-coastal eastern Australia. The extent of the species's residence is from the extreme southeast corner of  South Australia  through most of  Victoria  and the western half of  New South Wales  and north as far as  Cooktown . Birds in  tropical northern Queensland  are mainly restricted to the warm heights of the  Great Dividing Range . This eastern yellow robin was photographed in  Yengo National Park , New South Wales.
 
 
 

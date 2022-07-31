@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg/675px-Eopsaltria_australis_-_Mogo_Campground.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dean_Emma_M._Gillett_274015v.jpg/525px-Dean_Emma_M._Gillett_274015v.jpg" />
 </div>
 
->The  eastern yellow robin  ( Eopsaltria australis ) is an  Australasian robin  found in coastal and sub-coastal eastern Australia. The extent of the species's residence is from the extreme southeast corner of  South Australia  through most of  Victoria  and the western half of  New South Wales  and north as far as  Cooktown . Birds in  tropical northern Queensland  are mainly restricted to the warm heights of the  Great Dividing Range . This eastern yellow robin was photographed in  Yengo National Park , New South Wales.
+>Emma Gillett  (July 30, 1852 – January 23, 1927) was an American lawyer and women's rights activist who played a pivotal role in the advancement of legal studies for women.
 
 
 

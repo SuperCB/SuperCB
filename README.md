@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dean_Emma_M._Gillett_274015v.jpg/525px-Dean_Emma_M._Gillett_274015v.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ada_S._Flatman%2C_c._1917.jpg/525px-Ada_S._Flatman%2C_c._1917.jpg" />
 </div>
 
->Emma Gillett  (July 30, 1852 – January 23, 1927) was an American lawyer and women's rights activist who played a pivotal role in the advancement of legal studies for women.
+>Ada Flatman   (1876–1952) was a British  suffragette  in the United Kingdom and the United States. She was sent to  Holloway Prison  after taking part in the "raid" on the Houses of Parliament in 1908, led by  Marion Wallace Dunlop ,  Ada Wright  and  Katherine Douglas Smith , and a second wave by  Una Dugdale . The following year she was employed by the  Women's Social and Political Union  (WSPU) to organise their activities in Liverpool, taking over from  Mary Phillips . In July 1910, Flatman was a key speaker at one of the platforms in the 10,000 women rally at  Hyde Park, London . She worked with  Alice Stewart Ker , but it was Flatman who was trusted by  Emmeline Pethick  when Liverpool requested that they be allowed to open a WSPU shop. The shop was set up for her by  Patricia Woodlock  and became a success, raising substantial funds for the cause. Flatman organised the publicity surrounding the release of Woodlock, who had completed a prison term in Holloway.
 
 
 

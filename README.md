@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Turnix_varius_-_Castlereigh_nature_reserve.jpg/675px-Turnix_varius_-_Castlereigh_nature_reserve.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard_1869_photograph_BNF_Gallica.jpg/525px-Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard_1869_photograph_BNF_Gallica.jpg" />
 </div>
 
->The  painted buttonquail  ( Turnix varius ) is a species of  buttonquail , the family Turnicidae, which resemble, but are unrelated to, the  quails  of  Phasianidae . The painted buttonquail is native to Australia. Its range extends from Queensland southwards to New South Wales, Victoria, South Australia, and Tasmania. A separate population is present in the southwestern part of Western Australia. The subspecies  T. v. scintillans  is endemic to the  Houtman Abrolhos , a chain of islands off the west coast of Australia. This painted buttonquail was photographed in the  Castlereagh Nature Reserve  near Sydney, New South Wales.
+>Louis Désiré Blanquart-Evrard  (2 August 1802 – 28 April 1872) was a French inventor, photographer and publisher of photographs. He was a cloth merchant by trade, developing an interest in photography in the 1840s, focusing on the technical and economic issues of the mass production of photographic prints. Blanquart-Evrard captured this seated self-portrait in 1869, processed as an  albumen print , a technique that he had developed himself in 1847. This photograph is in the collection of the  Bibliothèque nationale de France .
 
 
 

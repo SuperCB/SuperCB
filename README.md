@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard_1869_photograph_BNF_Gallica.jpg/525px-Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard_1869_photograph_BNF_Gallica.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dakota_territory_coat_of_arms_%28illustrated%2C_1876%29.jpg/600px-Dakota_territory_coat_of_arms_%28illustrated%2C_1876%29.jpg" />
 </div>
 
->Louis Désiré Blanquart-Evrard  (2 August 1802 – 28 April 1872) was a French inventor, photographer and publisher of photographs. He was a cloth merchant by trade, developing an interest in photography in the 1840s, focusing on the technical and economic issues of the mass production of photographic prints. Blanquart-Evrard captured this seated self-portrait in 1869, processed as an  albumen print , a technique that he had developed himself in 1847. This photograph is in the collection of the  Bibliothèque nationale de France .
+>The  Dakota Territory   was an organized incorporated  territory of the United States  that existed from March 2, 1861, until November 2, 1889, when the final extent of the reduced territory was split and  admitted to the Union  as the states of  North Dakota  and  South Dakota . This is the Dakota Territory's historical coat of arms, illustrated by Henry Mitchell in  State Arms of the Union , published by  Louis Prang  in 1876. The design is based on the  great seal  of the territory, which was officially described as follows:
 
 
 

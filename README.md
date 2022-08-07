@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Columba_leucomela_-_Brunkerville.jpg/675px-Columba_leucomela_-_Brunkerville.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Edith_Kermit_Carow_Roosevelt_by_Frances_Benjamin_Johnston.jpg/450px-Edith_Kermit_Carow_Roosevelt_by_Frances_Benjamin_Johnston.jpg" />
 </div>
 
->The  white-headed pigeon   ( Columba leucomela ) is a species of pigeon native to the east coast of Australia, belonging to the same  genus  as the  common pigeon . It builds a  nest  generally consisting of scanty twigs, usually placed high in the  canopy  up to 18 metres (59 ft) above the ground, and tends to lay one cream-white egg. Breeding takes place mostly from October to December. The species is often found alone, in pairs or in small flocks. They are very quiet and elusive, and their flight is swift and direct. Its  call  is loud and gruff, sounding like a  whoo  followed by a gruff inhalation like  uk  (repeated three times). Sometimes the call is a low  oom . This male white-headed pigeon was photographed near  Brunkerville  in New South Wales.
+>Edith Roosevelt  (August 6, 1861 – September 30, 1948) was the second wife of President  Theodore Roosevelt , serving as  First Lady of the United States  during his presidency from 1901 to 1909, and previously as  Second Lady of the United States  in 1901 while her husband was  Vice President . She was the first to employ a full-time, salaried social secretary as First Lady. Her tenure resulted in the creation of an official staff, and her formal dinners and ceremonial processions served to elevate the position. This photographic portrait of Roosevelt was taken by the American photographer  Frances Benjamin Johnston .
 
 
 

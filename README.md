@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Monarcha_melanopsis_1_-_Brunkerville.jpg/525px-Monarcha_melanopsis_1_-_Brunkerville.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Iglesia_de_San_Francisco%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_171-173_HDR.JPG/600px-Iglesia_de_San_Francisco%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_171-173_HDR.JPG" />
 </div>
 
->The  black-faced monarch  ( Monarcha melanopsis ) is a  passerine  bird in the family  Monarchidae  found along the eastern seaboard of Australia, and also New Guinea where most birds migrate to during the austral winter (May to August). It was originally  described  by  Louis Jean Pierre Vieillot  in 1818 from a specimen collected in  New South Wales . This black-faced monarch was photographed near  Brunkerville .
+>The  Basilica and Convent of San Francisco, Quito , is a large Catholic  basilica  that stands in the middle of the  historic center  of  Quito , the capital of Ecuador, in front of the square of the same name. The church is part of the UNESCO  World Heritage Site  that covers the city center. This photograph is an elevated view of the richly decorated main  nave  of the basilica, looking towards the  apse  and the  altar  in the background.
 
 
 

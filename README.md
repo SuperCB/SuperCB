@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Iglesia_de_San_Francisco%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_171-173_HDR.JPG/600px-Iglesia_de_San_Francisco%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_171-173_HDR.JPG" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Heart_Mountain_Relocation_Center%2C_Heart_Mountain%2C_Wyoming._In_his_barracks_home_at_Block_7_-_21_-_NARA_-_539206_-_Restoration.jpg/600px-Heart_Mountain_Relocation_Center%2C_Heart_Mountain%2C_Wyoming._In_his_barracks_home_at_Block_7_-_21_-_NARA_-_539206_-_Restoration.jpg" />
 </div>
 
->The  Basilica and Convent of San Francisco, Quito , is a large Catholic  basilica  that stands in the middle of the  historic center  of  Quito , the capital of Ecuador, in front of the square of the same name. The church is part of the UNESCO  World Heritage Site  that covers the city center. This photograph is an elevated view of the richly decorated main  nave  of the basilica, looking towards the  apse  and the  altar  in the background.
+>Heart Mountain Relocation Center , located in  Park County, Wyoming , was one of ten concentration camps used for the  internment of Japanese Americans  in the United States evicted during World War II from their local communities. The first inmates arrived in Heart Mountain on August 12, 1942. This 1943 photograph depicts the Japanese-American writer and journalist  Bill Hosokawa  in his barracks at Heart Mountain, accompanied by his wife Alice and their son Mike, and three members of staff. Hosakawa edited the internment camp's newspaper,  The Heart Mountain Sentinel .
 
 
 

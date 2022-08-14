@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Heart_Mountain_Relocation_Center%2C_Heart_Mountain%2C_Wyoming._In_his_barracks_home_at_Block_7_-_21_-_NARA_-_539206_-_Restoration.jpg/600px-Heart_Mountain_Relocation_Center%2C_Heart_Mountain%2C_Wyoming._In_his_barracks_home_at_Block_7_-_21_-_NARA_-_539206_-_Restoration.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nell_Mercer_1910-20.jpg/450px-Nell_Mercer_1910-20.jpg" />
 </div>
 
->Heart Mountain Relocation Center , located in  Park County, Wyoming , was one of ten concentration camps used for the  internment of Japanese Americans  in the United States evicted during World War II from their local communities. The first inmates arrived in Heart Mountain on August 12, 1942. This 1943 photograph depicts the Japanese-American writer and journalist  Bill Hosokawa  in his barracks at Heart Mountain, accompanied by his wife Alice and their son Mike, and three members of staff. Hosakawa edited the internment camp's newspaper,  The Heart Mountain Sentinel .
+>Nell Mercer  (August 13, 1893 – September 30, 1979) was an American suffragist. Born in North Landing, Virginia, she grew up in  Norfolk , becoming a member of the local branch of the  National Woman's Party . As a member of the  Silent Sentinels , she picketed  Woodrow Wilson 's  White House  in support of  women's suffrage in the United States . As a businesswoman, she purchased the Brunswick Hotel in  Copley Square , Boston, and was its final owner before the property was sold to  IBM . This photograph of Mercer, from the archives of the National Woman's Party, was taken in the 1910s.
 
 
 

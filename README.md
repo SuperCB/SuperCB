@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nell_Mercer_1910-20.jpg/450px-Nell_Mercer_1910-20.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ortolan_bunting_in_Sierra_de_Guara%2C_Aragon%2C_Spain.jpg/750px-Ortolan_bunting_in_Sierra_de_Guara%2C_Aragon%2C_Spain.jpg" />
 </div>
 
->Nell Mercer  (August 13, 1893 – September 30, 1979) was an American suffragist. Born in North Landing, Virginia, she grew up in  Norfolk , becoming a member of the local branch of the  National Woman's Party . As a member of the  Silent Sentinels , she picketed  Woodrow Wilson 's  White House  in support of  women's suffrage in the United States . As a businesswoman, she purchased the Brunswick Hotel in  Copley Square , Boston, and was its final owner before the property was sold to  IBM . This photograph of Mercer, from the archives of the National Woman's Party, was taken in the 1910s.
+>The  ortolan bunting  ( Emberiza hortulana ) is a species of bird in the  bunting  family, Emberizidae. A native of most European countries and western Asia, it reaches as far north as Scandinavia and beyond the Arctic Circle, frequenting cornfields and their neighbourhoods. It is an uncommon  vagrant  in spring, and particularly in autumn, to the  British Isles . Seeds are the bird's natural diet, but  beetles  and other insects are taken when feeding their young. The ortolan is served in  French cuisine , typically cooked and eaten whole. Traditionally diners cover their heads with their napkin or a towel while eating the delicacy. The species is so widely used that its French populations dropped dangerously low, leading to laws restricting its use in 1999. In September 2007, the French government announced its intent to enforce long-ignored laws protecting the bird. This ortolan bunting was photographed in the  Sierra de Guara , a mountain range in  Aragon , Spain.
 
 
 

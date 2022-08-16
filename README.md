@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ortolan_bunting_in_Sierra_de_Guara%2C_Aragon%2C_Spain.jpg/750px-Ortolan_bunting_in_Sierra_de_Guara%2C_Aragon%2C_Spain.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bengal_tiger_%28Panthera_tigris_tigris%29_female_3_crop.jpg/675px-Bengal_tiger_%28Panthera_tigris_tigris%29_female_3_crop.jpg" />
 </div>
 
->The  ortolan bunting  ( Emberiza hortulana ) is a species of bird in the  bunting  family, Emberizidae. A native of most European countries and western Asia, it reaches as far north as Scandinavia and beyond the Arctic Circle, frequenting cornfields and their neighbourhoods. It is an uncommon  vagrant  in spring, and particularly in autumn, to the  British Isles . Seeds are the bird's natural diet, but  beetles  and other insects are taken when feeding their young. The ortolan is served in  French cuisine , typically cooked and eaten whole. Traditionally diners cover their heads with their napkin or a towel while eating the delicacy. The species is so widely used that its French populations dropped dangerously low, leading to laws restricting its use in 1999. In September 2007, the French government announced its intent to enforce long-ignored laws protecting the bird. This ortolan bunting was photographed in the  Sierra de Guara , a mountain range in  Aragon , Spain.
+>The  Bengal tiger  is a population of the  tiger  subspecies  Panthera tigris tigris  found in the  Indian subcontinent . Ranking among the largest  wild cats  alive today, it is considered to be one of the world's  charismatic megafauna . The tiger is estimated to have been present in the Indian subcontinent since the  Late Pleistocene , for about 12,000 to 16,500 years. Today it is threatened by  poaching , and  habitat loss  and  fragmentation , and was estimated to comprise fewer than 2,500 wild individuals by 2011. The tiger is the national animal of India. This female Bengal tiger was photographed in  Kanha Tiger Reserve , in the Indian state of  Madhya Pradesh .
 
 
 

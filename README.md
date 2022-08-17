@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bengal_tiger_%28Panthera_tigris_tigris%29_female_3_crop.jpg/675px-Bengal_tiger_%28Panthera_tigris_tigris%29_female_3_crop.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Taeniopygia_bichenovii_2_-_Glen_Davis.jpg/675px-Taeniopygia_bichenovii_2_-_Glen_Davis.jpg" />
 </div>
 
->The  Bengal tiger  is a population of the  tiger  subspecies  Panthera tigris tigris  found in the  Indian subcontinent . Ranking among the largest  wild cats  alive today, it is considered to be one of the world's  charismatic megafauna . The tiger is estimated to have been present in the Indian subcontinent since the  Late Pleistocene , for about 12,000 to 16,500 years. Today it is threatened by  poaching , and  habitat loss  and  fragmentation , and was estimated to comprise fewer than 2,500 wild individuals by 2011. The tiger is the national animal of India. This female Bengal tiger was photographed in  Kanha Tiger Reserve , in the Indian state of  Madhya Pradesh .
+>The  double-barred finch  ( Stizoptera bichenovii ) is a species of  estrildid finch  found in dry  savanna , tropical (lowland) dry grassland, and  shrubland  habitats in northern and eastern Australia. It is sometimes referred to as Bicheno's finch or the owl finch, the latter owing to the dark ring of feathers around the face. This double-barred finch perching on a branch was photographed in  Glen Davis, New South Wales .
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Taeniopygia_bichenovii_2_-_Glen_Davis.jpg/675px-Taeniopygia_bichenovii_2_-_Glen_Davis.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/VST_image_of_the_spectacular_star-forming_region_Messier_17_%28Omega_Nebula%29.jpg/600px-VST_image_of_the_spectacular_star-forming_region_Messier_17_%28Omega_Nebula%29.jpg" />
 </div>
 
->The  double-barred finch  ( Stizoptera bichenovii ) is a species of  estrildid finch  found in dry  savanna , tropical (lowland) dry grassland, and  shrubland  habitats in northern and eastern Australia. It is sometimes referred to as Bicheno's finch or the owl finch, the latter owing to the dark ring of feathers around the face. This double-barred finch perching on a branch was photographed in  Glen Davis, New South Wales .
+>The  Omega Nebula  is an  H II region , a type of  emission nebula , in the constellation  Sagittarius . It was discovered by  Jean-Philippe Loys de Cheseaux  in 1745.  Charles Messier  catalogued it in 1764 as number 17 in  his set of comet-like astronomical objects . The nebula is by some of the richest starfields of the  Milky Way , in the northern two-thirds of Sagittarius. This  astrophotograph  of the Omega Nebula was taken by the  VLT Survey Telescope  (VST), located at the  European Southern Observatory 's  Paranal Observatory  in Chile. Captured by OmegaCAM, the VST's wide-field camera, in 2011, the photograph was the telescope's first image to be released.
 
 
 

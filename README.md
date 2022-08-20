@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Glyphoglossus_molossus%2C_Blunt-headed_burrowing_frog_-_Mueang_Loei_District%2C_Loei_Province_%2847097003944%29.jpg/600px-Glyphoglossus_molossus%2C_Blunt-headed_burrowing_frog_-_Mueang_Loei_District%2C_Loei_Province_%2847097003944%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_10.jpg/450px-Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_10.jpg" />
 </div>
 
->Glyphoglossus molossus  is a species of  frog  in the family  Microhylidae . Its common names include the blunt-headed burrowing frog and the balloon frog. Its natural  habitats  are subtropical or tropical dry  forests , subtropical or tropical moist lowland forests, moist  savanna , intermittent freshwater  marshes , rural gardens, temporary ponds, and heavily degraded former forest in Cambodia, Laos, Myanmar, Thailand, and Vietnam. This  G. molossus  frog was photographed in the district of  Mueang Loei  in northern Thailand.
+>The Hunting of the Snark  is a  nonsense poem  by the English writer  Lewis Carroll , telling the story of ten characters who cross the ocean to hunt a mysterious creature known as the Snark. The poem was published in 1876 with illustrations by  Henry Holiday . This is the tenth plate from his illustrations, accompanying "Fit the Eighth: The Vanishing", in which things end badly for the Baker, one of the hunters:
 
 
 

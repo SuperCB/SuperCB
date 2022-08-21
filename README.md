@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_10.jpg/450px-Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_10.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River_2.jpg/675px-Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River_2.jpg" />
 </div>
 
->The Hunting of the Snark  is a  nonsense poem  by the English writer  Lewis Carroll , telling the story of ten characters who cross the ocean to hunt a mysterious creature known as the Snark. The poem was published in 1876 with illustrations by  Henry Holiday . This is the tenth plate from his illustrations, accompanying "Fit the Eighth: The Vanishing", in which things end badly for the Baker, one of the hunters:
+>The  jaguar  ( Panthera onca ) is a large species of  cat  and the only  living  member of the genus  Panthera  native to the Americas. With a body length of up to 1.85 metres (6 ft 1 in) and a weight of up to 96 kilograms (212 lb), it is the largest cat species in the Americas and the third-largest in the world. The distinctively marked  coat  features pale yellow to tan fur covered by spots that transition to  rosettes  on the sides, although a  melanistic  black coat appears in some individuals. Its powerful bite allows it to pierce the  carapaces  of  turtles  and  tortoises , and to employ an unusual killing method: it bites directly through the skull of mammalian  prey  between the ears to deliver a fatal blow to the brain. This male  South American jaguar  was photographed in the  Encontro das Águas State Park , in the Brazilian state of  Mato Grosso .
 
 
 

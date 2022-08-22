@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River_2.jpg/675px-Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River_2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Argentina_1836_8_Escudos.jpg/750px-Argentina_1836_8_Escudos.jpg" />
 </div>
 
->The  jaguar  ( Panthera onca ) is a large species of  cat  and the only  living  member of the genus  Panthera  native to the Americas. With a body length of up to 1.85 metres (6 ft 1 in) and a weight of up to 96 kilograms (212 lb), it is the largest cat species in the Americas and the third-largest in the world. The distinctively marked  coat  features pale yellow to tan fur covered by spots that transition to  rosettes  on the sides, although a  melanistic  black coat appears in some individuals. Its powerful bite allows it to pierce the  carapaces  of  turtles  and  tortoises , and to employ an unusual killing method: it bites directly through the skull of mammalian  prey  between the ears to deliver a fatal blow to the brain. This male  South American jaguar  was photographed in the  Encontro das Águas State Park , in the Brazilian state of  Mato Grosso .
+>The  Argentine real  was the currency of Argentina between 1813 and 1881. From 1822, it was subdivided into ten décimos. The sol was also issued during this period and was equal to the real, while the peso was worth eight reales and the escudo was worth sixteen reales. This 1836 eight-escudo  gold coin  was issued by the  Argentine Confederation , a predecessor state of modern Argentina, featuring a portrait of the Argentine politician and general  Juan Manuel de Rosas  on the obverse, and a depiction of a mountain with crossed flags and cannons on the reverse. Only six of these coins are known to exist; this one forms part of the  National Numismatic Collection  at the  Smithsonian Institution .
 
 
 

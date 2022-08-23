@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Argentina_1836_8_Escudos.jpg/750px-Argentina_1836_8_Escudos.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wells_Cathedral_Organ%2C_Somerset%2C_UK_-_Diliff.jpg/600px-Wells_Cathedral_Organ%2C_Somerset%2C_UK_-_Diliff.jpg" />
 </div>
 
->The  Argentine real  was the currency of Argentina between 1813 and 1881. From 1822, it was subdivided into ten décimos. The sol was also issued during this period and was equal to the real, while the peso was worth eight reales and the escudo was worth sixteen reales. This 1836 eight-escudo  gold coin  was issued by the  Argentine Confederation , a predecessor state of modern Argentina, featuring a portrait of the Argentine politician and general  Juan Manuel de Rosas  on the obverse, and a depiction of a mountain with crossed flags and cannons on the reverse. Only six of these coins are known to exist; this one forms part of the  National Numismatic Collection  at the  Smithsonian Institution .
+>Wells Cathedral  is a  Church of England  cathedral in  Wells, Somerset . Construction commenced around 1175 on the site of a late-Roman  mausoleum  and an 8th-century abbey church. The cathedral has been described by the historian  John Harvey  as Europe's first truly  Gothic  structure, lacking the  Romanesque  work that survives in many other cathedrals. It is the seat of the  bishop of Bath and Wells . This photograph depicts Wells Cathedral's organ, built from 1909 to 1910 by  Harrison & Harrison  of Durham with parts retained from the old organ that dated to the 17th century.
 
 
 

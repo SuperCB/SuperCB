@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wells_Cathedral_Organ%2C_Somerset%2C_UK_-_Diliff.jpg/600px-Wells_Cathedral_Organ%2C_Somerset%2C_UK_-_Diliff.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fabritius-vink.jpg/525px-Fabritius-vink.jpg" />
 </div>
 
->Wells Cathedral  is a  Church of England  cathedral in  Wells, Somerset . Construction commenced around 1175 on the site of a late-Roman  mausoleum  and an 8th-century abbey church. The cathedral has been described by the historian  John Harvey  as Europe's first truly  Gothic  structure, lacking the  Romanesque  work that survives in many other cathedrals. It is the seat of the  bishop of Bath and Wells . This photograph depicts Wells Cathedral's organ, built from 1909 to 1910 by  Harrison & Harrison  of Durham with parts retained from the old organ that dated to the 17th century.
+>The Goldfinch  is an oil-on-panel painting by the  Dutch Golden Age  artist  Carel Fabritius  of a life-sized chained  goldfinch . Signed and dated 1654, it is now in the collection of the  Mauritshuis  in  The Hague , Netherlands. The work is a  trompe-l'œil  painting that was once part of a larger structure, perhaps a window  jamb  or a protective cover. It is possible that the work was in Fabritius's studio in  Delft  at the time of  a large gunpowder explosion  on 12 October 1654 that killed him and destroyed much of the city. A common and colourful bird with a pleasant song, the goldfinch was a popular pet, and could be taught simple tricks including lifting a  thimble -sized bucket of water. It was reputedly a bringer of good health, and was used in  Italian Renaissance painting  as a  symbol  of  Christian redemption  and the  Passion of Jesus .  The Goldfinch  is unusual for the Dutch Golden Age painting period in the simplicity of its composition and use of illusionary techniques. Following the death of its creator, it was lost for more than two centuries before its rediscovery in  Brussels .
 
 
 

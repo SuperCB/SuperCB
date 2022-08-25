@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fabritius-vink.jpg/525px-Fabritius-vink.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kobe_Bryant_7144_adjusted.jpg/450px-Kobe_Bryant_7144_adjusted.jpg" />
 </div>
 
->The Goldfinch  is an oil-on-panel painting by the  Dutch Golden Age  artist  Carel Fabritius  of a life-sized chained  goldfinch . Signed and dated 1654, it is now in the collection of the  Mauritshuis  in  The Hague , Netherlands. The work is a  trompe-l'œil  painting that was once part of a larger structure, perhaps a window  jamb  or a protective cover. It is possible that the work was in Fabritius's studio in  Delft  at the time of  a large gunpowder explosion  on 12 October 1654 that killed him and destroyed much of the city. A common and colourful bird with a pleasant song, the goldfinch was a popular pet, and could be taught simple tricks including lifting a  thimble -sized bucket of water. It was reputedly a bringer of good health, and was used in  Italian Renaissance painting  as a  symbol  of  Christian redemption  and the  Passion of Jesus .  The Goldfinch  is unusual for the Dutch Golden Age painting period in the simplicity of its composition and use of illusionary techniques. Following the death of its creator, it was lost for more than two centuries before its rediscovery in  Brussels .
+>Kobe Bryant  (1978–2020) was an American professional  basketball  player who spent his entire twenty-year career with the  Los Angeles Lakers  in the  National Basketball Association  (NBA) as a  shooting guard . Widely regarded as one of the greatest basketball players of all time, Bryant won five  NBA championships  and was an eighteen-time  NBA All-Star , a fifteen-time member of the  All-NBA Team , the 2008  NBA Most Valuable Player  (MVP), and a two-time  NBA Finals MVP . He was posthumously voted into the  Naismith Memorial Basketball Hall of Fame  in 2020, and August 24 of that year was commemorated as  Kobe Bryant Day  in recognition of his jersey numbers, 8 and 24. This photograph depicts Bryant playing for the Lakers against the  Golden State Warriors  in 2005.
 
 
 

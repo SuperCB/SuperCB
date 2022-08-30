@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rhacophorus_kio.jpg/675px-Rhacophorus_kio.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Henrietta_Rodman_from_the_George_Grantham_Bain_Collection.jpg/750px-Henrietta_Rodman_from_the_George_Grantham_Bain_Collection.jpg" />
 </div>
 
->Rhacophorus kio  is a species of frog in the family  Rhacophoridae . First described from Laos, the species is also known from southern China ( Yunnan  and  Guangxi ), northern Thailand, eastern India, Vietnam, and Cambodia. It is an  arboreal  species that has been recorded from primary and secondary evergreen rainforests with a closed  canopy , generally at low elevations. This  R. kio  frog was photographed in  Kui Buri National Park , Thailand.
+>Henrietta Rodman  (August 29, 1877 – March 21, 1923) was an American educator and feminist who was active in advocating on behalf of married women teachers for their right to promotion and maternity leave. She taught English and was a vocational counselor at  Wadleigh High School for Girls  in New York City. Opposed to the school board's restrictive policies on married women teachers, she married a psychologist friend, Herman de Fremery, in 1913, and announced it to the press, saying: "If the married state affects a woman's work, the authorities can mark her accordingly. If it does not affect her work, and if she is as good a teacher as she was before, she deserves promotion, if it comes to her." Rodman threw crowded dinner parties in her top-floor apartment;  Mary Hunter Austin  recalled attending one such dinner, and meeting  James Weldon Johnson  there. This photograph of Rodman was taken around the early 1910s.
 
 
 

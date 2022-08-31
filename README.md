@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Henrietta_Rodman_from_the_George_Grantham_Bain_Collection.jpg/750px-Henrietta_Rodman_from_the_George_Grantham_Bain_Collection.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ignace_Gaston_Pardies-Plate_5.jpg/750px-Ignace_Gaston_Pardies-Plate_5.jpg" />
 </div>
 
->Henrietta Rodman  (August 29, 1877 – March 21, 1923) was an American educator and feminist who was active in advocating on behalf of married women teachers for their right to promotion and maternity leave. She taught English and was a vocational counselor at  Wadleigh High School for Girls  in New York City. Opposed to the school board's restrictive policies on married women teachers, she married a psychologist friend, Herman de Fremery, in 1913, and announced it to the press, saying: "If the married state affects a woman's work, the authorities can mark her accordingly. If it does not affect her work, and if she is as good a teacher as she was before, she deserves promotion, if it comes to her." Rodman threw crowded dinner parties in her top-floor apartment;  Mary Hunter Austin  recalled attending one such dinner, and meeting  James Weldon Johnson  there. This photograph of Rodman was taken around the early 1910s.
+>Ignace-Gaston Pardies  (1636–1673) was a French Catholic priest and scientist. His  celestial atlas , entitled  Globi coelestis in tabulas planas redacti descriptio , comprised six charts of the night sky and was first published in 1674. The atlas uses a  gnomonic projection  so that the plates make up a cube of the  celestial sphere . The  constellation  figures are drawn from  Uranometria , but were carefully reworked and adapted to a broader view of the sky. This is the fifth plate from a 1693 edition of Pardies's atlas, featuring constellations including  Lyra ,  Cygnus ,  Hercules ,  Ophiuchus ,  Sagittarius  and  Scorpius ,  Aquila ,  Delphinus , and  Corona Australis , as well as  Antinous , an  obsolete constellation . All of these are visible in the  Northern Hemisphere , though a few cross the boundary from the  northern sky  into the  southern sky .
 
 
 

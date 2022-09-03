@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Idaho_territory_coat_of_arms_%28illustrated%2C_1876%29.jpg/525px-Idaho_territory_coat_of_arms_%28illustrated%2C_1876%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg/600px-Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg" />
 </div>
 
->Coat of arms of the  Idaho Territory , an  organized incorporated territory of the United States  that existed from 1863 to 1890.
+>The  surrender of Japan , announced by the Japanese emperor  Hirohito  on August 15, 1945,  brought the hostilities of World War II in Asia to a close . In this photograph, taken by a soldier of the  United States Army Signal Corps ,  Mamoru Shigemitsu ,  Minister for Foreign Affairs , signs the  Japanese Instrument of Surrender  on behalf of the Japanese government aboard  USS  Missouri  in  Tokyo Bay  on September 2, 1945, formally ending the war. U.S. Army general  Richard K. Sutherland  watches on the left of the photograph, and Shigemitsu is assisted by  Toshikazu Kase , an official of the Japanese Foreign Ministry, on the right.
 
 
 

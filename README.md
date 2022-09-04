@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg/600px-Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/District_of_Columbia_coat_of_arms_%28illustrated%2C_1876%29.jpg/525px-District_of_Columbia_coat_of_arms_%28illustrated%2C_1876%29.jpg" />
 </div>
 
->The  surrender of Japan , announced by the Japanese emperor  Hirohito  on August 15, 1945,  brought the hostilities of World War II in Asia to a close . In this photograph, taken by a soldier of the  United States Army Signal Corps ,  Mamoru Shigemitsu ,  Minister for Foreign Affairs , signs the  Japanese Instrument of Surrender  on behalf of the Japanese government aboard  USS  Missouri  in  Tokyo Bay  on September 2, 1945, formally ending the war. U.S. Army general  Richard K. Sutherland  watches on the left of the photograph, and Shigemitsu is assisted by  Toshikazu Kase , an official of the Japanese Foreign Ministry, on the right.
+>Washington, D.C. , formally the District of Columbia, is the capital city of the United States and the country's only  federal district . It is located on the east bank of the  Potomac River , which forms its southwestern and southern border with the state of  Virginia , and it shares a land border with  Maryland  on its remaining sides. The city was named for  George Washington , the first  president of the United States , and the federal district is named after  Columbia , a female personification of the nation. This illustration, created by Henry Mitchell for  State Arms of the Union , published by  Louis Prang  in 1876, depicts the District of Columbia's historical coat of arms, featuring Columbia holding the  Constitution of the United States  and a  Phrygian cap , with the motto  Justitia omnibus  ('Justice for all') below the shield.
 
 
 

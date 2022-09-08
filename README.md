@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Solvognen-00100.jpg/525px-Solvognen-00100.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Red-and-green_macaw_%28Ara_chloropterus%29_juvenile.JPG/525px-Red-and-green_macaw_%28Ara_chloropterus%29_juvenile.JPG" />
 </div>
 
->The  Trundholm sun chariot  is a  Nordic Bronze Age  artifact discovered in Denmark. It is a representation of the  sun chariot , consisting of a  bronze  statue of a horse and a large bronze disk, which are placed on a device with spoked wheels. The sculpture was discovered with no accompanying objects in 1902 in a  peat bog  on the moor of Trundholm, on the peninsula of  Odsherred  in the northwestern part of  Zealand . The artifact is now in the collection of the  National Museum of Denmark  in  Copenhagen .
+>The  red-and-green macaw  ( Ara chloropterus ) is a species of  macaw , the largest in the genus  Ara . Also known as the green-winged macaw, it is widespread in the forests and woodlands of northern and central South America. This juvenile was photographed perching on a tree near the banks of the  Rio Negro  in the  Pantanal , in southwestern Brazil.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Red-and-green_macaw_%28Ara_chloropterus%29_juvenile.JPG/525px-Red-and-green_macaw_%28Ara_chloropterus%29_juvenile.JPG" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ESTADOS_UNIDOS_LEVAM_OURO_NA_GIN%C3%81STICA_FEMININA_POR_EQUIPES_DOS_JOGOS_OL%C3%8DMPICOS_RIO_2016_%2828849586476%29_%28cropped%29.jpg/600px-ESTADOS_UNIDOS_LEVAM_OURO_NA_GIN%C3%81STICA_FEMININA_POR_EQUIPES_DOS_JOGOS_OL%C3%8DMPICOS_RIO_2016_%2828849586476%29_%28cropped%29.jpg" />
 </div>
 
->The  red-and-green macaw  ( Ara chloropterus ) is a species of  macaw , the largest in the genus  Ara . Also known as the green-winged macaw, it is widespread in the forests and woodlands of northern and central South America. This juvenile was photographed perching on a tree near the banks of the  Rio Negro  in the  Pantanal , in southwestern Brazil.
+>Daniele Hypólito  (born September 8, 1984) is a Brazilian gymnast who competed in the  2000 ,  2004 ,  2008 ,  2012 , and  2016 Summer Olympics . This photograph depicts Hypólito performing on the  balance beam  in the final of the  women's artistic team all-around  event at the 2016 Olympics in  Rio de Janeiro , in which Brazil finished in eighth place.
 
 
 

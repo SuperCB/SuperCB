@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ESTADOS_UNIDOS_LEVAM_OURO_NA_GIN%C3%81STICA_FEMININA_POR_EQUIPES_DOS_JOGOS_OL%C3%8DMPICOS_RIO_2016_%2828849586476%29_%28cropped%29.jpg/600px-ESTADOS_UNIDOS_LEVAM_OURO_NA_GIN%C3%81STICA_FEMININA_POR_EQUIPES_DOS_JOGOS_OL%C3%8DMPICOS_RIO_2016_%2828849586476%29_%28cropped%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Theloderma_corticale_-_Karlsruhe_Zoo_01.jpg/600px-Theloderma_corticale_-_Karlsruhe_Zoo_01.jpg" />
 </div>
 
->Daniele Hypólito  (born September 8, 1984) is a Brazilian gymnast who competed in the  2000 ,  2004 ,  2008 ,  2012 , and  2016 Summer Olympics . This photograph depicts Hypólito performing on the  balance beam  in the final of the  women's artistic team all-around  event at the 2016 Olympics in  Rio de Janeiro , in which Brazil finished in eighth place.
+>Theloderma corticale  is a species of frog in the family  Rhacophoridae . It is found in northern Vietnam and China, and possibly also in Laos. Its common name, the mossy frog, arises from the fact that its skin is a mottled green and brown that resembles  moss  growing on rock, forming an effective  camouflage . It has large sticky pads on its toes and a soft underbelly, with a  snout–vent length  of 61 millimetres (2.4 in). The females grow larger than the males and can reach sizes of 8 to 9 centimetres (3.1 to 3.5 in). When frightened, it will curl into a ball and play dead. This  T. corticale  frog was photographed at  Karlsruhe Zoo  in Germany.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Theloderma_corticale_-_Karlsruhe_Zoo_01.jpg/600px-Theloderma_corticale_-_Karlsruhe_Zoo_01.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lower_Manhattan_from_Governors_Island_August_2017_panorama.jpg/825px-Lower_Manhattan_from_Governors_Island_August_2017_panorama.jpg" />
 </div>
 
->Theloderma corticale  is a species of frog in the family  Rhacophoridae . It is found in northern Vietnam and China, and possibly also in Laos. Its common name, the mossy frog, arises from the fact that its skin is a mottled green and brown that resembles  moss  growing on rock, forming an effective  camouflage . It has large sticky pads on its toes and a soft underbelly, with a  snout–vent length  of 61 millimetres (2.4 in). The females grow larger than the males and can reach sizes of 8 to 9 centimetres (3.1 to 3.5 in). When frightened, it will curl into a ball and play dead. This  T. corticale  frog was photographed at  Karlsruhe Zoo  in Germany.
+>One World Trade Center , seen here amongst the skyline of  Lower Manhattan , is the main building of the rebuilt  World Trade Center  complex in New York City. It is the  tallest building in the United States , the tallest in the  Western Hemisphere , and the  seventh-tallest in the world . The  supertall structure  has the same name as the  North Tower  of the  original World Trade Center , which was destroyed in the  terrorist attacks of September 11, 2001 .
 
 
 

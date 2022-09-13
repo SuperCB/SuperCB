@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lower_Manhattan_from_Governors_Island_August_2017_panorama.jpg/825px-Lower_Manhattan_from_Governors_Island_August_2017_panorama.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Spiny-cheeked_Honeyeater_3434_-_Patchewollock_Conservation_Reserve.jpg/600px-Spiny-cheeked_Honeyeater_3434_-_Patchewollock_Conservation_Reserve.jpg" />
 </div>
 
->One World Trade Center , seen here amongst the skyline of  Lower Manhattan , is the main building of the rebuilt  World Trade Center  complex in New York City. It is the  tallest building in the United States , the tallest in the  Western Hemisphere , and the  seventh-tallest in the world . The  supertall structure  has the same name as the  North Tower  of the  original World Trade Center , which was destroyed in the  terrorist attacks of September 11, 2001 .
+>The  spiny-cheeked honeyeater  ( Acanthagenys rufogularis ) is a species of bird in the family Meliphagidae, the  honeyeaters , and the only species in the  monotypic  genus  Acanthagenys . It is large for a honeyeater, ranging from 22 to 27 centimetres (8.7 to 10.6 in) in length and weighing around 52 grams (1.8 oz). A common species throughout most of Australia, the birds are sociable and aggressive, and often observed  foraging  in large flocks. This spiny-cheeked honeyeater was photographed near  Patchewollock  in the Australian state of  Victoria .
 
 
 

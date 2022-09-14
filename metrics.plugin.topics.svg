@@ -20,6 +20,7 @@
                             <div class="label" title="Go is a programming language built to resemble a simplified version of the C programming language.">go</div>
                             <div class="label" title="Compilers are software that translate higher-level programming languages to lower-level languages (e.g. machine code).">compiler</div>
                             <div class="label" title="An emulator is any hardware or software that allows one computer to behave like another.">emulator</div>
+                            <div class="label" title="Scala is an object-oriented programming language.">scala</div>
                         </div>
                     </section>
                 </div>

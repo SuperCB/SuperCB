@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Spiny-cheeked_Honeyeater_3434_-_Patchewollock_Conservation_Reserve.jpg/600px-Spiny-cheeked_Honeyeater_3434_-_Patchewollock_Conservation_Reserve.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/POL-A1a-Bilet_Skarbowy-5_Zlotych_%281794_First_Issue%29.jpg/243px-POL-A1a-Bilet_Skarbowy-5_Zlotych_%281794_First_Issue%29.jpg" />
 </div>
 
->The  spiny-cheeked honeyeater  ( Acanthagenys rufogularis ) is a species of bird in the family Meliphagidae, the  honeyeaters , and the only species in the  monotypic  genus  Acanthagenys . It is large for a honeyeater, ranging from 22 to 27 centimetres (8.7 to 10.6 in) in length and weighing around 52 grams (1.8 oz). A common species throughout most of Australia, the birds are sociable and aggressive, and often observed  foraging  in large flocks. This spiny-cheeked honeyeater was photographed near  Patchewollock  in the Australian state of  Victoria .
+>5 złotych
 
 
 

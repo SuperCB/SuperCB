@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Northern_Gannet_with_nest_material.jpg/675px-Northern_Gannet_with_nest_material.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CodexMendoza01.jpg/525px-CodexMendoza01.jpg" />
 </div>
 
->The  northern gannet  ( Morus bassanus ) is a  seabird , the largest species of the  gannet  family,  Sulidae . It is native to the coasts of the Atlantic Ocean, breeding in Western Europe and northeastern North America.  
+>The  Codex Mendoza  is an  Aztec codex  believed to have been created around the year 1541. It contains a history of both the Aztec rulers and their conquests as well as a description of the daily life of pre-conquest  Aztec society . The codex is written in the  Nahuatl  language utilizing traditional  Aztec pictograms  with a translation and explanation of the text provided in Spanish. It is named after  Don   Antonio de Mendoza , the  viceroy  of  New Spain , and a leading patron of native artists.
 
 
 

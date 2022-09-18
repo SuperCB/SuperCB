@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CodexMendoza01.jpg/525px-CodexMendoza01.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/IPA-euler-manners-features.svg/525px-IPA-euler-manners-features.svg.png" />
 </div>
 
->The  Codex Mendoza  is an  Aztec codex  believed to have been created around the year 1541. It contains a history of both the Aztec rulers and their conquests as well as a description of the daily life of pre-conquest  Aztec society . The codex is written in the  Nahuatl  language utilizing traditional  Aztec pictograms  with a translation and explanation of the text provided in Spanish. It is named after  Don   Antonio de Mendoza , the  viceroy  of  New Spain , and a leading patron of native artists.
+>In  linguistics , a  distinctive feature  is the most basic unit of  phonological  structure that distinguishes one  speech sound  from another within a language. They are grouped into categories according to the natural classes of segments they describe: major class features,  laryngeal  features,  manner  features, and  place  features. These feature categories are in turn further specified on the basis of the  phonetic  properties of the  segments  in question. This  Euler diagram  illustrates a typical classification of speech sounds, represented in the  International Phonetic Alphabet , with the relationship between  manners of articulation  and related categories, including distinctive features.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/IPA-euler-manners-features.svg/525px-IPA-euler-manners-features.svg.png" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Trimeresurus_popeiorum%2C_Pope%27s_pit_viper_-_Doi_Phu_Kha_National_Park_%2846846412805%29.jpg/525px-Trimeresurus_popeiorum%2C_Pope%27s_pit_viper_-_Doi_Phu_Kha_National_Park_%2846846412805%29.jpg" />
 </div>
 
->In  linguistics , a  distinctive feature  is the most basic unit of  phonological  structure that distinguishes one  speech sound  from another within a language. They are grouped into categories according to the natural classes of segments they describe: major class features,  laryngeal  features,  manner  features, and  place  features. These feature categories are in turn further specified on the basis of the  phonetic  properties of the  segments  in question. This  Euler diagram  illustrates a typical classification of speech sounds, represented in the  International Phonetic Alphabet , with the relationship between  manners of articulation  and related categories, including distinctive features.
+>Trimeresurus popeiorum  is a  species  of  venomous   pit viper  in the  family   Viperidae . The species is native to northern and northeastern parts of India, Southeast Asia, and parts of Indonesia.  Common names  include Pope's pit viper, Pope's tree viper, and Pope's bamboo pitviper.  Trimeresurus popeiorum   preys  upon  frogs ,  lizards ,  birds , and  rodents  (especially  rats  and  squirrels ).
 
 
 

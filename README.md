@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Trimeresurus_popeiorum%2C_Pope%27s_pit_viper_-_Doi_Phu_Kha_National_Park_%2846846412805%29.jpg/525px-Trimeresurus_popeiorum%2C_Pope%27s_pit_viper_-_Doi_Phu_Kha_National_Park_%2846846412805%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hrh_Princess_Elizabeth_in_the_Auxiliary_Territorial_Service%2C_April_1945_TR2832.jpg/750px-Hrh_Princess_Elizabeth_in_the_Auxiliary_Territorial_Service%2C_April_1945_TR2832.jpg" />
 </div>
 
->Trimeresurus popeiorum  is a  species  of  venomous   pit viper  in the  family   Viperidae . The species is native to northern and northeastern parts of India, Southeast Asia, and parts of Indonesia.  Common names  include Pope's pit viper, Pope's tree viper, and Pope's bamboo pitviper.  Trimeresurus popeiorum   preys  upon  frogs ,  lizards ,  birds , and  rodents  (especially  rats  and  squirrels ).
+>Women took on many different roles during World War II , including as combatants or workers  on the home front . In the United Kingdom, as before in World War I, previously forbidden job opportunities opened up for women, including in factories to create weapons that were used on the battlefield. The roles of women shifting from domestic to masculine and dangerous jobs in the workforce made for important changes in workplace structure and society.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hrh_Princess_Elizabeth_in_the_Auxiliary_Territorial_Service%2C_April_1945_TR2832.jpg/750px-Hrh_Princess_Elizabeth_in_the_Auxiliary_Territorial_Service%2C_April_1945_TR2832.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lunch_atop_a_Skyscraper_-_Charles_Clyde_Ebbets.jpg/600px-Lunch_atop_a_Skyscraper_-_Charles_Clyde_Ebbets.jpg" />
 </div>
 
->Women took on many different roles during World War II , including as combatants or workers  on the home front . In the United Kingdom, as before in World War I, previously forbidden job opportunities opened up for women, including in factories to create weapons that were used on the battlefield. The roles of women shifting from domestic to masculine and dangerous jobs in the workforce made for important changes in workplace structure and society.
+>Lunch atop a Skyscraper  is a black-and-white photograph taken on September 20, 1932, of eleven ironworkers sitting on a steel beam 850 feet (260 m) above the ground on the sixty-ninth floor of the  RCA Building  (30 Rockefeller Plaza), then nearing completion, at  Rockefeller Center  in  Manhattan , New York City. It was arranged as a  publicity stunt , part of a campaign promoting the skyscraper. The photograph was first published in October 1932, during the  construction of Rockefeller Center .
 
 
 

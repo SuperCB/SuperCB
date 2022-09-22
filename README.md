@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lunch_atop_a_Skyscraper_-_Charles_Clyde_Ebbets.jpg/600px-Lunch_atop_a_Skyscraper_-_Charles_Clyde_Ebbets.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pantala_flavescens_%28globe_skimmer%29_in_flight%2C_side_view.jpg/675px-Pantala_flavescens_%28globe_skimmer%29_in_flight%2C_side_view.jpg" />
 </div>
 
->Lunch atop a Skyscraper  is a black-and-white photograph taken on September 20, 1932, of eleven ironworkers sitting on a steel beam 850 feet (260 m) above the ground on the sixty-ninth floor of the  RCA Building  (30 Rockefeller Plaza), then nearing completion, at  Rockefeller Center  in  Manhattan , New York City. It was arranged as a  publicity stunt , part of a campaign promoting the skyscraper. The photograph was first published in October 1932, during the  construction of Rockefeller Center .
+>Pantala flavescens , also known as the globe skimmer, globe wanderer or wandering glider, is a wide-ranging  dragonfly  of the family  Libellulidae .  It is considered to be the most widespread dragonfly with a good population on every continent except Antarctica, although it is rare in Europe. Globe skimmers make an annual multigenerational journey of some 18,000 km (about 11,200 miles); to complete the migration, individual globe skimmers fly more than 6,000 km (3,730 miles)—one of the farthest known migrations of all insect species.
 
 
 

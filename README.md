@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pantala_flavescens_%28globe_skimmer%29_in_flight%2C_side_view.jpg/675px-Pantala_flavescens_%28globe_skimmer%29_in_flight%2C_side_view.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lichfield_Cathedral_Choir_2%2C_Staffordshire%2C_UK_-_Diliff.jpg/675px-Lichfield_Cathedral_Choir_2%2C_Staffordshire%2C_UK_-_Diliff.jpg" />
 </div>
 
->Pantala flavescens , also known as the globe skimmer, globe wanderer or wandering glider, is a wide-ranging  dragonfly  of the family  Libellulidae .  It is considered to be the most widespread dragonfly with a good population on every continent except Antarctica, although it is rare in Europe. Globe skimmers make an annual multigenerational journey of some 18,000 km (about 11,200 miles); to complete the migration, individual globe skimmers fly more than 6,000 km (3,730 miles)—one of the farthest known migrations of all insect species.
+>Lichfield Cathedral , in  Lichfield , Staffordshire, is the only medieval  English cathedral with three spires . The cathedral suffered severe damage during the  English Civil War , during which all of the stained glass was destroyed. In spite of this, the windows of the  Lady Chapel  contain some of the finest medieval  Flemish  painted glass in existence. Dating from the 1530s, it came from  Herkenrode Abbey  in Belgium in 1801, having been purchased by  Sir Brooke Boothby  when that abbey was dissolved during the  Napoleonic Wars . It was sold on to the cathedral for the same price. There are also some fine windows by Betton and Evans (1819), and many fine late-19th-century windows, particularly those by  Charles Eamer Kempe . This photograph of the cathedral's interior depicts the  choir , facing east.
 
 
 

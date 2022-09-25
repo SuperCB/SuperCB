@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lichfield_Cathedral_Choir_2%2C_Staffordshire%2C_UK_-_Diliff.jpg/675px-Lichfield_Cathedral_Choir_2%2C_Staffordshire%2C_UK_-_Diliff.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Brown-headed_Honeyeater_-_Patchewollock.jpg/600px-Brown-headed_Honeyeater_-_Patchewollock.jpg" />
 </div>
 
->Lichfield Cathedral , in  Lichfield , Staffordshire, is the only medieval  English cathedral with three spires . The cathedral suffered severe damage during the  English Civil War , during which all of the stained glass was destroyed. In spite of this, the windows of the  Lady Chapel  contain some of the finest medieval  Flemish  painted glass in existence. Dating from the 1530s, it came from  Herkenrode Abbey  in Belgium in 1801, having been purchased by  Sir Brooke Boothby  when that abbey was dissolved during the  Napoleonic Wars . It was sold on to the cathedral for the same price. There are also some fine windows by Betton and Evans (1819), and many fine late-19th-century windows, particularly those by  Charles Eamer Kempe . This photograph of the cathedral's interior depicts the  choir , facing east.
+>The  brown-headed honeyeater  ( Melithreptus brevirostris ) is a species of  passerine  bird in the family Meliphagidae, the  honeyeaters .  Endemic  to Australia, its natural  habitats  are temperate forests and Mediterranean-type shrubby vegetation. Insects form the bulk of its diet, and like its close relatives, the  black-chinned  and  strong-billed honeyeaters , it forages by probing in the bark of tree trunks and branches. This brown-headed honeyeater was photographed perching on a branch in  Patchewollock , Victoria.
 
 
 

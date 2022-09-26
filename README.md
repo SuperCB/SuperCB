@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Brown-headed_Honeyeater_-_Patchewollock.jpg/600px-Brown-headed_Honeyeater_-_Patchewollock.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Annex_-_Stewart%2C_James_%28Call_Northside_777%29_01.jpg/450px-Annex_-_Stewart%2C_James_%28Call_Northside_777%29_01.jpg" />
 </div>
 
->The  brown-headed honeyeater  ( Melithreptus brevirostris ) is a species of  passerine  bird in the family Meliphagidae, the  honeyeaters .  Endemic  to Australia, its natural  habitats  are temperate forests and Mediterranean-type shrubby vegetation. Insects form the bulk of its diet, and like its close relatives, the  black-chinned  and  strong-billed honeyeaters , it forages by probing in the bark of tree trunks and branches. This brown-headed honeyeater was photographed perching on a branch in  Patchewollock , Victoria.
+>James Stewart  (1908–1997) was an American actor and military pilot. Known for his distinctive  drawl  and everyman screen persona, Stewart's film career spanned eighty films from 1935 to 1991. With the strong morality he portrayed both on and off screen, he epitomized the "American ideal" in the mid–20th century. This publicity photograph of Stewart was taken for the 1948 film  Call Northside 777 .
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Annex_-_Stewart%2C_James_%28Call_Northside_777%29_01.jpg/450px-Annex_-_Stewart%2C_James_%28Call_Northside_777%29_01.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fire_dartfish_%28Nemateleotris_magnifica%29_%2843372442502%29.jpg/600px-Fire_dartfish_%28Nemateleotris_magnifica%29_%2843372442502%29.jpg" />
 </div>
 
->James Stewart  (1908–1997) was an American actor and military pilot. Known for his distinctive  drawl  and everyman screen persona, Stewart's film career spanned eighty films from 1935 to 1991. With the strong morality he portrayed both on and off screen, he epitomized the "American ideal" in the mid–20th century. This publicity photograph of Stewart was taken for the 1948 film  Call Northside 777 .
+>Nemateleotris magnifica , known by common names including the fire goby, the magnificent fire fish, the fire dartfish, or the red fire goby, is a  species  of  dartfish  native to the Indian and Pacific Oceans, from the eastern coast of Africa to the  Hawaiian Islands  and from the  Austral Islands  north to the  Ryukyu Islands . It inhabits  coral reefs , where it can be found at depths of 6 to 70 metres (20 to 230 ft). It is usually found just above the bottom, facing into the current, where it awaits its prey of small invertebrates. This  N. magnifica  fish was photographed near the island of  Morotai  in the Indonesian  Maluku Islands .
 
 
 

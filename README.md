@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fire_dartfish_%28Nemateleotris_magnifica%29_%2843372442502%29.jpg/600px-Fire_dartfish_%28Nemateleotris_magnifica%29_%2843372442502%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Double-crested_cormorant_at_Sutro_Baths-6460.jpg/675px-Double-crested_cormorant_at_Sutro_Baths-6460.jpg" />
 </div>
 
->Nemateleotris magnifica , known by common names including the fire goby, the magnificent fire fish, the fire dartfish, or the red fire goby, is a  species  of  dartfish  native to the Indian and Pacific Oceans, from the eastern coast of Africa to the  Hawaiian Islands  and from the  Austral Islands  north to the  Ryukyu Islands . It inhabits  coral reefs , where it can be found at depths of 6 to 70 metres (20 to 230 ft). It is usually found just above the bottom, facing into the current, where it awaits its prey of small invertebrates. This  N. magnifica  fish was photographed near the island of  Morotai  in the Indonesian  Maluku Islands .
+>The  double-crested cormorant  ( Nannopterum auritum ) is a member of the  cormorant  family of  water birds . Its habitat is near rivers and lakes as well as in coastal areas, and is widely distributed across North America, from the  Aleutian Islands  in  Alaska  down to  Florida  and Mexico. Measuring 70 to 90 cm (28 to 35 in) in length, it is an all-black bird which gains a small double crest of black and white feathers in breeding season. It has a bare patch of orange-yellow facial skin. Five subspecies are recognized. It mainly eats fish and hunts by swimming and diving. Its feathers, like those of all cormorants, are not waterproof and it must spend time drying them out after spending time in the water. Once threatened by the use of  DDT , its numbers have increased markedly in recent years. This juvenile double-crested cormorant, of the subspecies  N. a. albociliatum  (the Farallon cormorant), was photographed at the  Sutro Baths  in  San Francisco , California.
 
 
 

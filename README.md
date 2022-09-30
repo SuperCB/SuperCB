@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/US-NBN-IL-Lebanon-2057-Orig-1-400-C.jpg/310px-US-NBN-IL-Lebanon-2057-Orig-1-400-C.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aleksander_Gierymski_-_Jewish_woman_selling_oranges_-_Google_Art_Project.jpg/525px-Aleksander_Gierymski_-_Jewish_woman_selling_oranges_-_Google_Art_Project.jpg" />
 </div>
 
->$1 (original): First National Bank,  Lebanon, Indiana 
+>Jewess with Oranges  is an oil-on-canvas painting by the Polish artist  Aleksander Gierymski , completed in 1881 and purchased in 1928 by the  National Museum  in Warsaw. During the  World War II looting of Poland , the painting was stolen by German forces, and the Polish authorities sought its whereabouts and its return after the war. On 26 November 2010, the painting appeared in an antique market in  Buxtehude , Germany. The Polish  Ministry of Culture and National Heritage  began negotiations to bring the painting back to Poland. The talks were successful, and on 15 July 2011 the painting was returned to the National Museum, with compensation paid by the  PZU Foundation  to the German owner.
 
 
 

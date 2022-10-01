@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aleksander_Gierymski_-_Jewish_woman_selling_oranges_-_Google_Art_Project.jpg/525px-Aleksander_Gierymski_-_Jewish_woman_selling_oranges_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ignace_Gaston_Pardies-Plate_6.jpg/750px-Ignace_Gaston_Pardies-Plate_6.jpg" />
 </div>
 
->Jewess with Oranges  is an oil-on-canvas painting by the Polish artist  Aleksander Gierymski , completed in 1881 and purchased in 1928 by the  National Museum  in Warsaw. During the  World War II looting of Poland , the painting was stolen by German forces, and the Polish authorities sought its whereabouts and its return after the war. On 26 November 2010, the painting appeared in an antique market in  Buxtehude , Germany. The Polish  Ministry of Culture and National Heritage  began negotiations to bring the painting back to Poland. The talks were successful, and on 15 July 2011 the painting was returned to the National Museum, with compensation paid by the  PZU Foundation  to the German owner.
+>Ignace-Gaston Pardies  (1636–1673) was a French Catholic priest and scientist. His  celestial atlas , entitled  Globi coelestis in tabulas planas redacti descriptio , comprised six charts of the night sky and was first published in 1674. The atlas uses a  gnomonic projection  so that the plates make up a cube of the  celestial sphere . The  constellation  figures are drawn from  Uranometria , but were carefully reworked and adapted to a broader view of the sky. This is the sixth plate from a 1693 edition of Pardies's atlas, featuring constellations from the  southern sky  including  Pavo ,  Indus  and  Apus . An index of constellations is provided in the left and right margins, in Latin and French, respectively.
 
 
 

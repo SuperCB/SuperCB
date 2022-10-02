@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ignace_Gaston_Pardies-Plate_6.jpg/750px-Ignace_Gaston_Pardies-Plate_6.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Episkopi_01-2017_img06_Kourion.jpg/675px-Episkopi_01-2017_img06_Kourion.jpg" />
 </div>
 
->Ignace-Gaston Pardies  (1636–1673) was a French Catholic priest and scientist. His  celestial atlas , entitled  Globi coelestis in tabulas planas redacti descriptio , comprised six charts of the night sky and was first published in 1674. The atlas uses a  gnomonic projection  so that the plates make up a cube of the  celestial sphere . The  constellation  figures are drawn from  Uranometria , but were carefully reworked and adapted to a broader view of the sky. This is the sixth plate from a 1693 edition of Pardies's atlas, featuring constellations from the  southern sky  including  Pavo ,  Indus  and  Apus . An index of constellations is provided in the left and right margins, in Latin and French, respectively.
+>Kourion  is an ancient city-state on the southwestern coast of the island of Cyprus, located near modern  Limassol , that existed from antiquity until the Middle Ages. Built in the 12th century BC by  Mycenaeans  who took part in the  Trojan War , Kourion was later controlled by the Greeks, Romans, and Byzantines. The settlement was placed on a 70-metre-high (230 ft) cliff to ensure the safety of its citizens. The modern archaeological site is managed by the  Department of Antiquities  of Cyprus and includes the ruins of the stadium and the sanctuary of  Apollo Hylates . This photograph depicts the ruins of Kourion's  agora , a central public space in the city-state.
 
 
 

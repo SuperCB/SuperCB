@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Episkopi_01-2017_img06_Kourion.jpg/675px-Episkopi_01-2017_img06_Kourion.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Common_kingfisher_%28Alcedo_atthis_ispida%29_female.jpg/600px-Common_kingfisher_%28Alcedo_atthis_ispida%29_female.jpg" />
 </div>
 
->Kourion  is an ancient city-state on the southwestern coast of the island of Cyprus, located near modern  Limassol , that existed from antiquity until the Middle Ages. Built in the 12th century BC by  Mycenaeans  who took part in the  Trojan War , Kourion was later controlled by the Greeks, Romans, and Byzantines. The settlement was placed on a 70-metre-high (230 ft) cliff to ensure the safety of its citizens. The modern archaeological site is managed by the  Department of Antiquities  of Cyprus and includes the ruins of the stadium and the sanctuary of  Apollo Hylates . This photograph depicts the ruins of Kourion's  agora , a central public space in the city-state.
+>The  common kingfisher  ( Alcedo atthis ), also known as the Eurasian kingfisher or the river kingfisher, is a small species of  kingfisher  with seven subspecies recognized within its wide distribution across Eurasia and northern Africa. It is resident in much of its range, but  migrates  from areas where rivers freeze in winter. Like all kingfishers, the common kingfisher is highly territorial; since it must eat around 60 per cent of its body weight each day, it is essential to have control of a suitable stretch of river. It is solitary for most of the year, roosting alone in heavy cover. If another kingfisher enters its territory, both birds display from perches, and fights may occur, in which a bird will grab the other's beak and try to hold it underwater. Pairs form in the autumn but each bird retains a separate territory, generally at least 1 km (0.6 mi) long but up to 3.5 km (2.2 mi), and territories are not merged until the spring. This female common kingfisher, of the subspecies  A. a. ispida , was photographed near  Kecskemét  in Hungary.
 
 
 

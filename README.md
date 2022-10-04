@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Common_kingfisher_%28Alcedo_atthis_ispida%29_female.jpg/600px-Common_kingfisher_%28Alcedo_atthis_ispida%29_female.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Poster_for_Jules_Massenet%27s_La_Navarraise_with_Emma_Calv%C3%A9_in_the_r%C3%B4le_of_Anita.jpg/525px-Poster_for_Jules_Massenet%27s_La_Navarraise_with_Emma_Calv%C3%A9_in_the_r%C3%B4le_of_Anita.jpg" />
 </div>
 
->The  common kingfisher  ( Alcedo atthis ), also known as the Eurasian kingfisher or the river kingfisher, is a small species of  kingfisher  with seven subspecies recognized within its wide distribution across Eurasia and northern Africa. It is resident in much of its range, but  migrates  from areas where rivers freeze in winter. Like all kingfishers, the common kingfisher is highly territorial; since it must eat around 60 per cent of its body weight each day, it is essential to have control of a suitable stretch of river. It is solitary for most of the year, roosting alone in heavy cover. If another kingfisher enters its territory, both birds display from perches, and fights may occur, in which a bird will grab the other's beak and try to hold it underwater. Pairs form in the autumn but each bird retains a separate territory, generally at least 1 km (0.6 mi) long but up to 3.5 km (2.2 mi), and territories are not merged until the spring. This female common kingfisher, of the subspecies  A. a. ispida , was photographed near  Kecskemét  in Hungary.
+>La Navarraise  is an  opera  in two acts by  Jules Massenet  to a French  libretto  by  Jules Claretie  and  Henri Caïn , based on Claretie's short story  La cigarette  (1890).
 
 
 

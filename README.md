@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Trimeresurus_gumprechti%2C_Gumprecht%E2%80%99s_pit_viper_%28female%29_-_Phu_Suan_Sai_National_Park_%2846711073485%29.jpg/600px-Trimeresurus_gumprechti%2C_Gumprecht%E2%80%99s_pit_viper_%28female%29_-_Phu_Suan_Sai_National_Park_%2846711073485%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Serge_Gainsbourg_par_Claude_Truong-Ngoc_1981.jpg/675px-Serge_Gainsbourg_par_Claude_Truong-Ngoc_1981.jpg" />
 </div>
 
->Trimeresurus gumprechti , commonly known as Gumprecht's green pit viper, is a  species  of venomous  pit viper  in the family  Viperidae .  Endemic  to Asia, it is found in parts of China, Laos, Myanmar, Thailand, and Vietnam, and is strikingly bright green in color. This female  T. gumprechti  snake was photographed in Phu Suan Sai National Park in northern Thailand.
+>Serge Gainsbourg  (1928–1991) was a French musician, singer-songwriter, actor, author and filmmaker. Regarded as one of the most important figures in  French pop music , he was renowned for often provocative and scandalous releases that caused uproar in France, dividing its public opinion, as well as his diverse artistic output, which ranged from his early work in  jazz ,  chanson , and  yé-yé  to later efforts in  rock ,  zouk ,  funk ,  reggae , and  electronica . He is often regarded as one of the world's most influential popular musicians. His lyrical works incorporated  wordplay , with humorous, bizarre, provocative, sexual, satirical or subversive overtones. Gainsbourg's music has reached legendary stature in France, and he has become one of the country's best-loved public figures. He has also gained a cult following all over the world with chart success in the United Kingdom and Belgium with " Je t'aime... moi non plus " and " Bonnie and Clyde ", respectively. This photo of Gainsbourg was taken in 1981.
 
 
 

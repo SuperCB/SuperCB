@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Serge_Gainsbourg_par_Claude_Truong-Ngoc_1981.jpg/675px-Serge_Gainsbourg_par_Claude_Truong-Ngoc_1981.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Segovia_-_Alc%C3%A1zar_de_Segovia_22_2017-10-24.jpg/675px-Segovia_-_Alc%C3%A1zar_de_Segovia_22_2017-10-24.jpg" />
 </div>
 
->Serge Gainsbourg  (1928–1991) was a French musician, singer-songwriter, actor, author and filmmaker. Regarded as one of the most important figures in  French pop music , he was renowned for often provocative and scandalous releases that caused uproar in France, dividing its public opinion, as well as his diverse artistic output, which ranged from his early work in  jazz ,  chanson , and  yé-yé  to later efforts in  rock ,  zouk ,  funk ,  reggae , and  electronica . He is often regarded as one of the world's most influential popular musicians. His lyrical works incorporated  wordplay , with humorous, bizarre, provocative, sexual, satirical or subversive overtones. Gainsbourg's music has reached legendary stature in France, and he has become one of the country's best-loved public figures. He has also gained a cult following all over the world with chart success in the United Kingdom and Belgium with " Je t'aime... moi non plus " and " Bonnie and Clyde ", respectively. This photo of Gainsbourg was taken in 1981.
+>The  Alcázar of Segovia  is a medieval castle located in the city of  Segovia  in  Castile and León , Spain. Rising out on a rocky crag above the confluence of two rivers near the mountains of  Guadarrama , it is one of the most distinctive castle-palaces in Spain by virtue of its shape, resembling the  bow  of a ship. The  alcázar  was originally built in the 11th or 12th century by the  Almoravid dynasty  as a fortress, but has since served as a royal palace where twenty-two kings reigned, a state prison, a royal artillery college, and a military academy. The castle overlooks a valley with the  Eresma River  and is a symbol of the old city of Segovia. It was declared a UNESCO  World Heritage Site  in 1985. Today, the alcázar is used as a museum and a military archives building since its declaration as a national archive by royal decree in 1998.
 
 
 

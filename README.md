@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Segovia_-_Alc%C3%A1zar_de_Segovia_22_2017-10-24.jpg/675px-Segovia_-_Alc%C3%A1zar_de_Segovia_22_2017-10-24.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rosy-faced_lovebird_%28Agapornis_roseicollis_roseicollis%29.jpg/450px-Rosy-faced_lovebird_%28Agapornis_roseicollis_roseicollis%29.jpg" />
 </div>
 
->The  Alcázar of Segovia  is a medieval castle located in the city of  Segovia  in  Castile and León , Spain. Rising out on a rocky crag above the confluence of two rivers near the mountains of  Guadarrama , it is one of the most distinctive castle-palaces in Spain by virtue of its shape, resembling the  bow  of a ship. The  alcázar  was originally built in the 11th or 12th century by the  Almoravid dynasty  as a fortress, but has since served as a royal palace where twenty-two kings reigned, a state prison, a royal artillery college, and a military academy. The castle overlooks a valley with the  Eresma River  and is a symbol of the old city of Segovia. It was declared a UNESCO  World Heritage Site  in 1985. Today, the alcázar is used as a museum and a military archives building since its declaration as a national archive by royal decree in 1998.
+>The  rosy-faced lovebird  ( Agapornis roseicollis ), also known as the rosy-collared or peach-faced lovebird, is a species of  lovebird  native to arid regions in southwestern Africa such as the  Namib . A loud and constant chirper, they are very social and often congregate in small groups in the wild. They eat throughout the day and take frequent baths. Coloration can vary widely among populations, and plumage is identical in males and females. Lovebirds are renowned for their sleep position in which they sit side-by-side and turn their faces in towards each other. Females are well noted to tear raw materials into long strips, "twisty-tie" them onto their backs, and fly substantial distances back to make a nest. These photographs of a rosy-faced lovebird of the subspecies  A. r. roseicollis , seen from the front (top) and the back (bottom), were taken in  Erongo Region , Namibia.
 
 
 

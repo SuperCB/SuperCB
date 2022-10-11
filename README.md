@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rosy-faced_lovebird_%28Agapornis_roseicollis_roseicollis%29.jpg/450px-Rosy-faced_lovebird_%28Agapornis_roseicollis_roseicollis%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Chemerinsky_during_Hyatt_III_sketch.jpg/675px-Chemerinsky_during_Hyatt_III_sketch.jpg" />
 </div>
 
->The  rosy-faced lovebird  ( Agapornis roseicollis ), also known as the rosy-collared or peach-faced lovebird, is a species of  lovebird  native to arid regions in southwestern Africa such as the  Namib . A loud and constant chirper, they are very social and often congregate in small groups in the wild. They eat throughout the day and take frequent baths. Coloration can vary widely among populations, and plumage is identical in males and females. Lovebirds are renowned for their sleep position in which they sit side-by-side and turn their faces in towards each other. Females are well noted to tear raw materials into long strips, "twisty-tie" them onto their backs, and fly substantial distances back to make a nest. These photographs of a rosy-faced lovebird of the subspecies  A. r. roseicollis , seen from the front (top) and the back (bottom), were taken in  Erongo Region , Namibia.
+>Franchise Tax Board of California v. Hyatt  was a 2019  United States Supreme Court  case that determined that, unless they consent, states have  sovereign immunity  from private  lawsuits  filed against them in the courts of another state.  The  5–4  decision overturned  precedent  set in the 1979 Supreme Court case  Nevada v. Hall . This was the litigants' third time presenting their case to the Supreme Court, which had previously ruled on the issue  initially in 2003  and  subsequently in 2016 . This  courtroom sketch  by the American sketch artist  Arthur Lien  depicts  Erwin Chemerinsky  presenting oral arguments for the respondent in the 2019 case, with the Supreme Court justices  Elena Kagan  and  Brett Kavanaugh  looking on in the background.
 
 
 

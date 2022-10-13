@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Chemerinsky_during_Hyatt_III_sketch.jpg/675px-Chemerinsky_during_Hyatt_III_sketch.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Eva_Le_Gallienne_%28mnwp.275003%2C_cropped_restoration%29.jpg/525px-Eva_Le_Gallienne_%28mnwp.275003%2C_cropped_restoration%29.jpg" />
 </div>
 
->Franchise Tax Board of California v. Hyatt  was a 2019  United States Supreme Court  case that determined that, unless they consent, states have  sovereign immunity  from private  lawsuits  filed against them in the courts of another state.  The  5–4  decision overturned  precedent  set in the 1979 Supreme Court case  Nevada v. Hall . This was the litigants' third time presenting their case to the Supreme Court, which had previously ruled on the issue  initially in 2003  and  subsequently in 2016 . This  courtroom sketch  by the American sketch artist  Arthur Lien  depicts  Erwin Chemerinsky  presenting oral arguments for the respondent in the 2019 case, with the Supreme Court justices  Elena Kagan  and  Brett Kavanaugh  looking on in the background.
+>Eva Le Gallienne  (1899–1991) was a British-born American stage actress, producer, director, translator, and author. A  Broadway  star by age 21, Le Gallienne gave up her Broadway appearances to devote herself to founding the  Civic Repertory Theatre , in which she was both director, producer, and lead actress. Noted for her boldness and idealism, she became a pioneering figure in the American  repertory movement , which enabled today's  off-Broadway . A versatile and eloquent actress herself (playing roles ranging from  Peter Pan  to  Hamlet ), Le Gallienne also became a respected stage director, coach, producer and manager.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Eva_Le_Gallienne_%28mnwp.275003%2C_cropped_restoration%29.jpg/525px-Eva_Le_Gallienne_%28mnwp.275003%2C_cropped_restoration%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Komodo_dragons_%28Varanus_komodoensis%29_fighting.jpg/750px-Komodo_dragons_%28Varanus_komodoensis%29_fighting.jpg" />
 </div>
 
->Eva Le Gallienne  (1899–1991) was a British-born American stage actress, producer, director, translator, and author. A  Broadway  star by age 21, Le Gallienne gave up her Broadway appearances to devote herself to founding the  Civic Repertory Theatre , in which she was both director, producer, and lead actress. Noted for her boldness and idealism, she became a pioneering figure in the American  repertory movement , which enabled today's  off-Broadway . A versatile and eloquent actress herself (playing roles ranging from  Peter Pan  to  Hamlet ), Le Gallienne also became a respected stage director, coach, producer and manager.
+>The  Komodo dragon  ( Varanus komodoensis ), also known as the Komodo monitor, is a species of  monitor lizard  in the family  Varanidae  that is  endemic  to the Indonesian islands of  Komodo ,  Rinca ,  Flores , and  Gili Motang . It is the  largest extant species of lizard , growing to a maximum length of 3 metres (10 ft), and weighing up to approximately 70 kilograms (150 lb). The Komodo dragon prefers hot and dry places, and typically lives in dry, open  grassland ,  savanna , and  tropical forest  at low elevations. As an  ectotherm , it is most active in the day, although it exhibits some  nocturnal  activity. Komodo dragons are solitary, coming together only to breed and eat. They are capable of running rapidly in brief sprints up to 20 km/h (12 mph), diving up to 4.5 metres (15 ft), and climbing trees proficiently when young through use of their strong claws. To catch out-of-reach prey, it may stand on its hind legs and use its tail as a support. As it matures, its claws are used primarily as weapons, as its great size makes climbing impractical. This photograph of two Komodo dragons fighting was taken on the island of Rinca, within  Komodo National Park .
 
 
 

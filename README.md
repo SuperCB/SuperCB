@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Purple_roller_%28Coracias_naevius_mosambicus%29.jpg/450px-Purple_roller_%28Coracias_naevius_mosambicus%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Gobierno_de_Azerbaiy%C3%A1n%2C_Baku%2C_Azerbaiy%C3%A1n%2C_2016-09-26%2C_DD_27.jpg/825px-Gobierno_de_Azerbaiy%C3%A1n%2C_Baku%2C_Azerbaiy%C3%A1n%2C_2016-09-26%2C_DD_27.jpg" />
 </div>
 
->The  purple roller  ( Coracias naevius ), also known as the rufous-crowned roller, is a medium-sized species of bird in the family  Coraciidae  widespread in sub-Saharan Africa. Compared with other  rollers  its colours are rather dull and its voice rather harsh and grating. Its preferred habitat is dry  thornveld , where it spends long periods perched at the top of thorn trees or poles, watching for food items such as insects, spiders, scorpions and small lizards on the ground. It rocks to-and-fro about its longitudinal axis during display flights, calling raucously all the while; starting from above the treetops it plummets towards the ground in rolling flight. The species is territorial, and during the breeding season it will drive off other rollers, small hawks, and crows. This purple roller, of the subspecies  C. n. mosambicus , was photographed in  Etosha National Park , Namibia.
+>Government House  is a government building in the city of  Baku , housing various state ministries of Azerbaijan. It was constructed between 1936 and 1952 as the Baku Soviet Palace, to house the administration of the  Azerbaijan Soviet Socialist Republic . Designed by  Lev Rudnev  in the  Baroque  style, it is located on the shore of the  Caspian Sea .
 
 
 

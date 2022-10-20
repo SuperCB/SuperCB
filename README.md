@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Gobierno_de_Azerbaiy%C3%A1n%2C_Baku%2C_Azerbaiy%C3%A1n%2C_2016-09-26%2C_DD_27.jpg/825px-Gobierno_de_Azerbaiy%C3%A1n%2C_Baku%2C_Azerbaiy%C3%A1n%2C_2016-09-26%2C_DD_27.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Red-billed_gull%2C_Red_Zone%2C_Christchurch%2C_New_Zealand.jpg/525px-Red-billed_gull%2C_Red_Zone%2C_Christchurch%2C_New_Zealand.jpg" />
 </div>
 
->Government House  is a government building in the city of  Baku , housing various state ministries of Azerbaijan. It was constructed between 1936 and 1952 as the Baku Soviet Palace, to house the administration of the  Azerbaijan Soviet Socialist Republic . Designed by  Lev Rudnev  in the  Baroque  style, it is located on the shore of the  Caspian Sea .
+>The  red-billed gull  ( Chroicocephalus novaehollandiae scopulinus ), also known as the tarāpung, is a member of the gull family,  Laridae .  Endemic  to New Zealand, it is found throughout the country and on outlying islands including the  Chatham Islands  and the  New Zealand Subantarctic Islands . Formerly considered a separate species, it is now usually treated as a  subspecies  of the  silver gull . It regularly feeds on small fish, shellfish and worms, and sometimes berries, lizards and insects; it scavenges among urban waste in coastal towns. This red-billed gull was photographed in  Christchurch .
 
 
 

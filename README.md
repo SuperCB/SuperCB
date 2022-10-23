@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Rose_Robin_1_-_Woodford.jpg/675px-Rose_Robin_1_-_Woodford.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/525px-Synthetic_Production_of_Penicillin_TR1468.jpg" />
 </div>
 
->The  rose robin  ( Petroica rosea ) is a small species of  passerine  bird native to Australia. It tends to feed in the tops of trees, with insects and spiders forming the bulk of its diet, most being caught while it is in flight. Unlike other robins, it does not return to the same branch while foraging. Its prey consists of a variety of spiders and insects, including caterpillars, wasps, bugs such as cicadas and cinch bugs, beetles, weevils, flies and ants. This rose robin was photographed in the  Blue Mountains National Park , near  Woodford, New South Wales .
+>Alexander Fleming  (1881–1955) was a Scottish  physician  and  microbiologist , best known for discovering the world's first broadly effective  antibiotic  substance, which he named  penicillin . His discovery in 1928 of what was later named  benzylpenicillin  (or penicillin G) from the mould  Penicillium rubens  is described as the "single greatest victory ever achieved over disease." For this discovery, he shared the  Nobel Prize in Physiology or Medicine  in 1945 with  Howard Florey  and  Ernst Chain .
 
 
 

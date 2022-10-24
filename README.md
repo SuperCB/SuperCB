@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/525px-Synthetic_Production_of_Penicillin_TR1468.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lichfield_Cathedral_Nave_Columns%2C_Staffordshire%2C_UK_-_Diliff.jpg/525px-Lichfield_Cathedral_Nave_Columns%2C_Staffordshire%2C_UK_-_Diliff.jpg" />
 </div>
 
->Alexander Fleming  (1881–1955) was a Scottish  physician  and  microbiologist , best known for discovering the world's first broadly effective  antibiotic  substance, which he named  penicillin . His discovery in 1928 of what was later named  benzylpenicillin  (or penicillin G) from the mould  Penicillium rubens  is described as the "single greatest victory ever achieved over disease." For this discovery, he shared the  Nobel Prize in Physiology or Medicine  in 1945 with  Howard Florey  and  Ernst Chain .
+>Lichfield Cathedral , in  Lichfield , Staffordshire, is the only medieval  English cathedral with three spires . The cathedral suffered severe damage during the  English Civil War  in which all of the stained glass was destroyed. In spite of this, the windows of the  Lady Chapel  contain some of the finest medieval  Flemish  painted glass in existence. Dating from the 1530s, it came from  Herkenrode Abbey  in Belgium, in 1801, having been purchased by  Sir Brooke Boothby  when that abbey was dissolved during the  Napoleonic Wars . It was sold on to the cathedral for the same price. There are also some fine windows by Betton and Evans (1819), and many fine late-19th-century windows, particularly those by  Charles Eamer Kempe . This photograph depicts part of cathedral's  nave , depicting the column structure on the wall.
 
 
 

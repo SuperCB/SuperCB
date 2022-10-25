@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lichfield_Cathedral_Nave_Columns%2C_Staffordshire%2C_UK_-_Diliff.jpg/525px-Lichfield_Cathedral_Nave_Columns%2C_Staffordshire%2C_UK_-_Diliff.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sociable_weaver_%28Philetairus_socius%29.jpg/525px-Sociable_weaver_%28Philetairus_socius%29.jpg" />
 </div>
 
->Lichfield Cathedral , in  Lichfield , Staffordshire, is the only medieval  English cathedral with three spires . The cathedral suffered severe damage during the  English Civil War  in which all of the stained glass was destroyed. In spite of this, the windows of the  Lady Chapel  contain some of the finest medieval  Flemish  painted glass in existence. Dating from the 1530s, it came from  Herkenrode Abbey  in Belgium, in 1801, having been purchased by  Sir Brooke Boothby  when that abbey was dissolved during the  Napoleonic Wars . It was sold on to the cathedral for the same price. There are also some fine windows by Betton and Evans (1819), and many fine late-19th-century windows, particularly those by  Charles Eamer Kempe . This photograph depicts part of cathedral's  nave , depicting the column structure on the wall.
+>The  sociable weaver  ( Philetairus socius ) is a species of bird in the weaver family,  Ploceidae ,  endemic  to southern Africa. It is the only species in the  monotypic  genus  Philetairus . The bird is found in South Africa, Namibia, and Botswana, with its range centred within the South African province of  Northern Cape . They build large compound community nests, which are amongst the largest built by any avian species and capable of housing more than a hundred pairs of birds. This sociable weaver was photographed perching on a branch in  Tswalu Kalahari Reserve , South Africa.
 
 
 

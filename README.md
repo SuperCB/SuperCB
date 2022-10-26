@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sociable_weaver_%28Philetairus_socius%29.jpg/525px-Sociable_weaver_%28Philetairus_socius%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Old_Royal_Naval_College_2017-08-06.jpg/1536px-Old_Royal_Naval_College_2017-08-06.jpg" />
 </div>
 
->The  sociable weaver  ( Philetairus socius ) is a species of bird in the weaver family,  Ploceidae ,  endemic  to southern Africa. It is the only species in the  monotypic  genus  Philetairus . The bird is found in South Africa, Namibia, and Botswana, with its range centred within the South African province of  Northern Cape . They build large compound community nests, which are amongst the largest built by any avian species and capable of housing more than a hundred pairs of birds. This sociable weaver was photographed perching on a branch in  Tswalu Kalahari Reserve , South Africa.
+>The  Old Royal Naval College  is the architectural centrepiece of Maritime Greenwich, a  World Heritage Site  in  Greenwich , London, described by the  United Nations Educational, Scientific and Cultural Organization  as the "finest and most dramatically sited architectural and landscape ensemble in the British Isles". The buildings were originally constructed to serve as the  Royal Hospital for Seamen at Greenwich , now generally known as Greenwich Hospital, which was chartered by  King William III  and  Queen Mary II  on 25 October 1694, designed by  Christopher Wren , and built between 1696 and 1712. The hospital closed in 1869. Between 1873 and 1998 it housed the  Royal Naval College, Greenwich . This panoramic photograph depicts the two buildings of the Old Royal Naval College viewed from across the  River Thames , with the  Queen's House  visible in the background in between.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Old_Royal_Naval_College_2017-08-06.jpg/1536px-Old_Royal_Naval_College_2017-08-06.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Arthur_Kornberg_%2830828410210%29_-_restoration1.jpg/525px-Arthur_Kornberg_%2830828410210%29_-_restoration1.jpg" />
 </div>
 
->The  Old Royal Naval College  is the architectural centrepiece of Maritime Greenwich, a  World Heritage Site  in  Greenwich , London, described by the  United Nations Educational, Scientific and Cultural Organization  as the "finest and most dramatically sited architectural and landscape ensemble in the British Isles". The buildings were originally constructed to serve as the  Royal Hospital for Seamen at Greenwich , now generally known as Greenwich Hospital, which was chartered by  King William III  and  Queen Mary II  on 25 October 1694, designed by  Christopher Wren , and built between 1696 and 1712. The hospital closed in 1869. Between 1873 and 1998 it housed the  Royal Naval College, Greenwich . This panoramic photograph depicts the two buildings of the Old Royal Naval College viewed from across the  River Thames , with the  Queen's House  visible in the background in between.
+>Arthur Kornberg  (March 3, 1918 – October 26, 2007) was an American  biochemist  who won the  Nobel Prize in Physiology or Medicine  1959 for his discovery of "the mechanisms in the  biological synthesis  of  deoxyribonucleic acid  (DNA)" together with Spanish biochemist and physician  Severo Ochoa  of  New York University .
 
 
 

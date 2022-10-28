@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Arthur_Kornberg_%2830828410210%29_-_restoration1.jpg/525px-Arthur_Kornberg_%2830828410210%29_-_restoration1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Buff-breasted_Paradise-Kingfisher_-_Julatten.jpg/525px-Buff-breasted_Paradise-Kingfisher_-_Julatten.jpg" />
 </div>
 
->Arthur Kornberg  (March 3, 1918 – October 26, 2007) was an American  biochemist  who won the  Nobel Prize in Physiology or Medicine  1959 for his discovery of "the mechanisms in the  biological synthesis  of  deoxyribonucleic acid  (DNA)" together with Spanish biochemist and physician  Severo Ochoa  of  New York University .
+>The  buff-breasted paradise kingfisher  ( Tanysiptera sylvia ) is a bird in the  tree kingfisher  subfamily. It migrates in November from New Guinea to its breeding grounds in the rainforest of North  Queensland , Australia. Despite its bright colours, the buff-breasted paradise kingfisher is often difficult to see in the rainforest and is best located by its distinctive calls.
 
 
 

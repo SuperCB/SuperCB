@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Buff-breasted_Paradise-Kingfisher_-_Julatten.jpg/525px-Buff-breasted_Paradise-Kingfisher_-_Julatten.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/US-%241-LT-1880-Fr-29.jpg/2px-US-%241-LT-1880-Fr-29.jpg" />
 </div>
 
->The  buff-breasted paradise kingfisher  ( Tanysiptera sylvia ) is a bird in the  tree kingfisher  subfamily. It migrates in November from New Guinea to its breeding grounds in the rainforest of North  Queensland , Australia. Despite its bright colours, the buff-breasted paradise kingfisher is often difficult to see in the rainforest and is best located by its distinctive calls.
+>$1:  George Washington 
 
 
 

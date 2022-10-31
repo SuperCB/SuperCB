@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Plexippus_petersi_%28jumping_spider%29_on_a_human_finger_at_golden_hour.jpg/750px-Plexippus_petersi_%28jumping_spider%29_on_a_human_finger_at_golden_hour.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Trimeresurus_albolabris%2C_White-lipped_pit_viper_%28female%29_-_Kaeng_Krachan_National_Park_%2827493423545%29.jpg/675px-Trimeresurus_albolabris%2C_White-lipped_pit_viper_%28female%29_-_Kaeng_Krachan_National_Park_%2827493423545%29.jpg" />
 </div>
 
->Plexippus petersi  is a species of  jumping spider  native to Asia and has been introduced to Africa and the  Pacific Islands . The male is between 6 and 10 millimetres (0.24 and 0.39 in) in length, and the female around 10 millimetres (0.39 in).  Plexippus petersi  is a house spider, living indoors, and is noted for the skilful way it hunts and catches mosquitoes, flies and other invertebrates. It has also been found living in crops in the Philippines, in one instance in a rice field infested with the armyworm  Spodoptera mauritia , and in another, in a corn field attacked by the northern armyworm  Mythimna separata . This  focus-stacked  photograph depicts a  P. petersi  spider, approximately 7 millimetres (0.28 in) in length, on a human finger.
+>Trimeresurus albolabris , the  white-lipped pit viper  or  white-lipped tree viper , is a  venomous   pit viper   species  endemic to  Southeast Asia . Its meals consist of birds, small frogs, and small  mammals . This snake does not strike and release its prey; like many arboreal snakes, it strikes and holds on to the prey item until the prey dies.
 
 
 

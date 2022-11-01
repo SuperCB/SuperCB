@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Trimeresurus_albolabris%2C_White-lipped_pit_viper_%28female%29_-_Kaeng_Krachan_National_Park_%2827493423545%29.jpg/675px-Trimeresurus_albolabris%2C_White-lipped_pit_viper_%28female%29_-_Kaeng_Krachan_National_Park_%2827493423545%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Santa_Maria_del_Popolo_September_2015-3.jpg/525px-Santa_Maria_del_Popolo_September_2015-3.jpg" />
 </div>
 
->Trimeresurus albolabris , the  white-lipped pit viper  or  white-lipped tree viper , is a  venomous   pit viper   species  endemic to  Southeast Asia . Its meals consist of birds, small frogs, and small  mammals . This snake does not strike and release its prey; like many arboreal snakes, it strikes and holds on to the prey item until the prey dies.
+>Tomb of the architect  Giovanni Battista Gisleni  (1600–1672) in the church of  Santa Maria del Popolo , Rome. The figure of a skeleton was sculpted by the architect before his death. The carved text reads  Neque hic vivus  (not visible in this image) and  Neque illic mortuus  (Latin: "Neither living here — nor dead there"). Text in the two  tondi  (circles) reads  In nidulo meo moriar  ("In my nest I die" i.e. in Rome) and  Ut phoenix multiplicabo dies  ("As a  phoenix  I multiply my days").
 
 
 

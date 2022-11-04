@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Erizo_de_mar_viol%C3%A1ceo_%28Sphaerechinus_granularis%29%2C_Madeira%2C_Portugal%2C_2019-05-31%2C_DD_40.jpg/750px-Erizo_de_mar_viol%C3%A1ceo_%28Sphaerechinus_granularis%29%2C_Madeira%2C_Portugal%2C_2019-05-31%2C_DD_40.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pudong_Shanghai_November_2017_panorama.jpg/825px-Pudong_Shanghai_November_2017_panorama.jpg" />
 </div>
 
->Sphaerechinus granularis  is a  species  of  sea urchin  in the family  Toxopneustidae , commonly known as the violet sea urchin. Its range includes the Mediterranean Sea and the eastern Atlantic Ocean, from the  Channel Islands  south to Cape Verde and the  Gulf of Guinea . It favours sheltered locations and lives on rocks covered  with  seaweed  or gravelly  substrates . It is usually found in the  neritic zone  down to about thirty metres (100 ft) but occasionally down to a hundred metres (330 ft) in more exposed locations. It is also found in meadows of the  seagrass   Posidonia oceanica . It grazes on  algae , especially encrusting  coralline algae , seagrass blades and their  epiphytic  organisms and  detritus . This  S. granularis  sea urchin was photographed off the coast of  Madeira .
+>Shanghai  is one of the four  direct-administered municipalities  of the  People's Republic of China . The city is located on the southern estuary of the  Yangtze  River, with the  Huangpu River  flowing through it. With a population of 24.89 million as of 2021, Shanghai is the  most populous urban area in China  and among the  most populous cities proper  in the world. It is the only  city in East Asia with a GDP  greater than its corresponding capital. As of 2018, the Greater Shanghai metropolitan area, which includes  Suzhou ,  Wuxi ,  Nantong ,  Ningbo ,  Jiaxing ,  Zhoushan , and  Huzhou , was estimated to produce a  gross metropolitan product  ( nominal ) of nearly 9.1 trillion  RMB  ($1.33 trillion). Shanghai is divided into 16  county-level   districts , including the  Pudong  district pictured here.
 
 
 

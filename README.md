@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pudong_Shanghai_November_2017_panorama.jpg/825px-Pudong_Shanghai_November_2017_panorama.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Georges_Rochegrosse_-_Henry_F%C3%A9vrier_-_Henri_Cain_and_Louis_Payen_after_Victorien_Sardou_-_Gismonda.jpg/525px-Georges_Rochegrosse_-_Henry_F%C3%A9vrier_-_Henri_Cain_and_Louis_Payen_after_Victorien_Sardou_-_Gismonda.jpg" />
 </div>
 
->Shanghai  is one of the four  direct-administered municipalities  of the  People's Republic of China . The city is located on the southern estuary of the  Yangtze  River, with the  Huangpu River  flowing through it. With a population of 24.89 million as of 2021, Shanghai is the  most populous urban area in China  and among the  most populous cities proper  in the world. It is the only  city in East Asia with a GDP  greater than its corresponding capital. As of 2018, the Greater Shanghai metropolitan area, which includes  Suzhou ,  Wuxi ,  Nantong ,  Ningbo ,  Jiaxing ,  Zhoushan , and  Huzhou , was estimated to produce a  gross metropolitan product  ( nominal ) of nearly 9.1 trillion  RMB  ($1.33 trillion). Shanghai is divided into 16  county-level   districts , including the  Pudong  district pictured here.
+>Gismonda  is a 1919 French-language  grand opera  by  Henry Février  to a libretto by  Henri Caïn  and  Louis Payen  based on the 1894 play  Gismonda  by  Victorien Sardou . The planned premiere in Paris was halted by the outbreak of World War I, but the composer was given leave from the French army to premiere the opera with  Mary Garden  in the title role at the  Chicago Opera  on 14 January 1919.  Gismonda  opened in Paris at the  Opéra-Comique  on 15 October, for which occasion this poster was designed by  Georges Rochegrosse .
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Georges_Rochegrosse_-_Henry_F%C3%A9vrier_-_Henri_Cain_and_Louis_Payen_after_Victorien_Sardou_-_Gismonda.jpg/525px-Georges_Rochegrosse_-_Henry_F%C3%A9vrier_-_Henri_Cain_and_Louis_Payen_after_Victorien_Sardou_-_Gismonda.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bombing_of_Concordia_Vega_oil_refinery_in_Ploe%C8%99ti_by_USAAF_B-24s%2C_31_May_1944_%E2%80%94_restored.jpg/675px-Bombing_of_Concordia_Vega_oil_refinery_in_Ploe%C8%99ti_by_USAAF_B-24s%2C_31_May_1944_%E2%80%94_restored.jpg" />
 </div>
 
->Gismonda  is a 1919 French-language  grand opera  by  Henry Février  to a libretto by  Henri Caïn  and  Louis Payen  based on the 1894 play  Gismonda  by  Victorien Sardou . The planned premiere in Paris was halted by the outbreak of World War I, but the composer was given leave from the French army to premiere the opera with  Mary Garden  in the title role at the  Chicago Opera  on 14 January 1919.  Gismonda  opened in Paris at the  Opéra-Comique  on 15 October, for which occasion this poster was designed by  Georges Rochegrosse .
+>Photograph of  Consolidated B-24 Liberators  just after bombing the Concordia Vega oil refinery in  Ploiești , Romania on 31 May 1944 during World War II.
 
 
 

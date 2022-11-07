@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bombing_of_Concordia_Vega_oil_refinery_in_Ploe%C8%99ti_by_USAAF_B-24s%2C_31_May_1944_%E2%80%94_restored.jpg/675px-Bombing_of_Concordia_Vega_oil_refinery_in_Ploe%C8%99ti_by_USAAF_B-24s%2C_31_May_1944_%E2%80%94_restored.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Meyerbeer_-_Les_Huguenots_-_D%C3%A9cor_Acte_II.jpg/750px-Meyerbeer_-_Les_Huguenots_-_D%C3%A9cor_Acte_II.jpg" />
 </div>
 
->Photograph of  Consolidated B-24 Liberators  just after bombing the Concordia Vega oil refinery in  Ploiești , Romania on 31 May 1944 during World War II.
+>Les Huguenots  is an  opera  by the German composer  Giacomo Meyerbeer , based on the  French Wars of Religion  and with a French-language  libretto  by  Eugène Scribe  and  Émile Deschamps . One of the most popular and spectacular examples of  grand opera , it premiered in Paris on 29 February 1836. The plot moves from day to night as the massacre of the  Huguenots  approaches. Act 1 is set in the daytime, in the hedonistic surroundings of a chateau belonging to a pleasure-loving Catholic noble. Act 2 is set in sparkling sunshine in the beautiful countryside. Act 3, with near riots between Catholic and Protestant factions, happens as dusk falls. Act 4, with the plotting to massacre the Protestants, occurs at night, and Act 5, with the  St. Bartholomew's Day massacre  itself, occurs in the darkness of the early hours of the morning. This  lithograph  depicts the  set design  for Act 2 of the opera's premiere performance, depicting the gardens of the  Château de Chenonceau  in west central France.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Meyerbeer_-_Les_Huguenots_-_D%C3%A9cor_Acte_II.jpg/750px-Meyerbeer_-_Les_Huguenots_-_D%C3%A9cor_Acte_II.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jeannette_Rankin%2C_Bain_News_Service%2C_facing_front.jpg/525px-Jeannette_Rankin%2C_Bain_News_Service%2C_facing_front.jpg" />
 </div>
 
->Les Huguenots  is an  opera  by the German composer  Giacomo Meyerbeer , based on the  French Wars of Religion  and with a French-language  libretto  by  Eugène Scribe  and  Émile Deschamps . One of the most popular and spectacular examples of  grand opera , it premiered in Paris on 29 February 1836. The plot moves from day to night as the massacre of the  Huguenots  approaches. Act 1 is set in the daytime, in the hedonistic surroundings of a chateau belonging to a pleasure-loving Catholic noble. Act 2 is set in sparkling sunshine in the beautiful countryside. Act 3, with near riots between Catholic and Protestant factions, happens as dusk falls. Act 4, with the plotting to massacre the Protestants, occurs at night, and Act 5, with the  St. Bartholomew's Day massacre  itself, occurs in the darkness of the early hours of the morning. This  lithograph  depicts the  set design  for Act 2 of the opera's premiere performance, depicting the gardens of the  Château de Chenonceau  in west central France.
+>Jeannette Rankin  (1880–1973) was an American politician and advocate for  women's rights , and the first woman to hold federal office in the United States. She was elected to the  House of Representatives  as a  Republican  from  Montana  in 1916 and again in 1940, and remains the only woman ever elected to Congress from the state. This photograph of Rankin was taken in 1917, shortly before she began her term as a member of Congress.
 
 
 

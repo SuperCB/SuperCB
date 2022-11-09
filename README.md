@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jeannette_Rankin%2C_Bain_News_Service%2C_facing_front.jpg/525px-Jeannette_Rankin%2C_Bain_News_Service%2C_facing_front.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Great_Isaiah_Scroll_MS_A_%281QIsa%29_-_Google_Art_Project.jpg/7950px-The_Great_Isaiah_Scroll_MS_A_%281QIsa%29_-_Google_Art_Project.jpg" />
 </div>
 
->Jeannette Rankin  (1880–1973) was an American politician and advocate for  women's rights , and the first woman to hold federal office in the United States. She was elected to the  House of Representatives  as a  Republican  from  Montana  in 1916 and again in 1940, and remains the only woman ever elected to Congress from the state. This photograph of Rankin was taken in 1917, shortly before she began her term as a member of Congress.
+>The  Isaiah Scroll , designated 1QIsa a  and also known as the Great Isaiah Scroll, is one of the seven  Dead Sea Scrolls  that were discovered by  Bedouin  shepherds in 1946 from the  Qumran Caves  in the  Judaean Desert , near the  Dead Sea . The scroll is written in  Hebrew  and contains the entire  Book of Isaiah  from beginning to end, apart from a few small damaged portions. It is the oldest complete copy of the Book of Isaiah, being approximately one thousand years older than the oldest Hebrew manuscripts known before the scrolls' discovery. 1QIsa a  is the only scroll from the Qumran Caves to be preserved almost in its entirety.
 
 
 

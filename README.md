@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Lawson_Wood_-_Parliamentary_Recruiting_Committee_-_Your_King_%26_Country_Need_You.jpg/525px-Lawson_Wood_-_Parliamentary_Recruiting_Committee_-_Your_King_%26_Country_Need_You.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mizrah_-_Israel_Dov_Rosenbaum.jpg/525px-Mizrah_-_Israel_Dov_Rosenbaum.jpg" />
 </div>
 
->Recruitment to the British Army during World War I  was carried out initially by seeking volunteers: 100,000 were called up in early August, and within two months, almost half a million men had enlisted. This 1914 recruitment poster by the Parliamentary Recruitment Committee shows a Scottish soldier in Belgium, in response to German chancellor  Theobald von Bethmann Hollweg  having described the  Treaty of London  (which protected Belgium's independence and neutrality) as a "scrap of paper" when  Germany invaded Belgium  in August 1914.
+>An example of a  mizrah   papercut  art which serves a dual purpose: as a  mizrah  (decoration for the eastern wall, marking the direction of prayer), and as a  shiviti , an edifying text which reminded the worshipper of the importance of prayer.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mizrah_-_Israel_Dov_Rosenbaum.jpg/525px-Mizrah_-_Israel_Dov_Rosenbaum.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xylotrupes_socrates_%28Siamese_rhinoceros_beetle%29.jpg/675px-Xylotrupes_socrates_%28Siamese_rhinoceros_beetle%29.jpg" />
 </div>
 
->An example of a  mizrah   papercut  art which serves a dual purpose: as a  mizrah  (decoration for the eastern wall, marking the direction of prayer), and as a  shiviti , an edifying text which reminded the worshipper of the importance of prayer.
+>Xylotrupes socrates , the Siamese rhinoceros beetle or fighting beetle, is a species of large  scarab beetle  belonging to the subfamily  Dynastinae . It is particularly known for its role in  insect fighting  in Thailand, where they are captured and trained by their owners to become stronger and more aggressive, with the beetle that lifts its opponent up by its horns winning. An insect may also win if its opponent crawls away, falls or is overturned. This photograph of a male  X. socrates  beetle on a banana leaf was  focus-stacked  from 23 images.
 
 
 

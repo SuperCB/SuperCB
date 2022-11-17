@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Stift_Wilhering_Kirche_Innenraum_01.jpg/525px-Stift_Wilhering_Kirche_Innenraum_01.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Albert_Pierre-Ren%C3%A9_Maignan_-_Jules_Massenet_-_Ariane.jpg/525px-Albert_Pierre-Ren%C3%A9_Maignan_-_Jules_Massenet_-_Ariane.jpg" />
 </div>
 
->Wilhering Abbey  is a  Cistercian  monastery in  Wilhering  in  Upper Austria , about 8 km (5 mi) from the city of  Linz . The buildings, re-constructed in the 18th century, are known for their spectacular  Rococo  decoration. According to the German art historian  Cornelius Gurlitt , "the abbey church of Wilhering is the most brilliant achievement of the Rococo style in the German-speaking world". This photograph depicts the interior of the church, looking towards the  high altar , featuring the intricate ceiling  frescoes  and  stucco  work.
+>Ariane  is an opera in five acts by  Jules Massenet  to a French-language  libretto  by  Catulle Mendès . Based on the tale of  Ariadne  in Greek mythology, it was first performed at the  Palais Garnier  in Paris on 31 October 1906, with  Lucienne Bréval  in the title role. One critic noted  Ariane  to be one of the most " Wagnerian " of Massenet's operas. This poster was designed in 1906 by the French painter  Albert Maignan  to advertise the opera's premiere.
 
 
 

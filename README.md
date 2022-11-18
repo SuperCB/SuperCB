@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Albert_Pierre-Ren%C3%A9_Maignan_-_Jules_Massenet_-_Ariane.jpg/525px-Albert_Pierre-Ren%C3%A9_Maignan_-_Jules_Massenet_-_Ariane.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nina_Simone_1965_-_restoration1.jpg/525px-Nina_Simone_1965_-_restoration1.jpg" />
 </div>
 
->Ariane  is an opera in five acts by  Jules Massenet  to a French-language  libretto  by  Catulle Mendès . Based on the tale of  Ariadne  in Greek mythology, it was first performed at the  Palais Garnier  in Paris on 31 October 1906, with  Lucienne Bréval  in the title role. One critic noted  Ariane  to be one of the most " Wagnerian " of Massenet's operas. This poster was designed in 1906 by the French painter  Albert Maignan  to advertise the opera's premiere.
+>Nina Simone  (February 21, 1933 – April 21, 2003) was an American singer, songwriter, pianist and  civil rights activist . Her music spanned styles including  classical ,  jazz ,  blues ,  folk ,  R&B ,  gospel  and  pop . 
 
 
 

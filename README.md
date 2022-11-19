@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nina_Simone_1965_-_restoration1.jpg/525px-Nina_Simone_1965_-_restoration1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cuevas_de_H%C3%A9rcules%2C_Cabo_Espartel%2C_Marruecos%2C_2015-12-11%2C_DD_22-24_HDR.JPG/750px-Cuevas_de_H%C3%A9rcules%2C_Cabo_Espartel%2C_Marruecos%2C_2015-12-11%2C_DD_22-24_HDR.JPG" />
 </div>
 
->Nina Simone  (February 21, 1933 – April 21, 2003) was an American singer, songwriter, pianist and  civil rights activist . Her music spanned styles including  classical ,  jazz ,  blues ,  folk ,  R&B ,  gospel  and  pop . 
+>The  Caves of Hercules  is an archaeological cave complex located in  Cape Spartel , Morocco. Situated 14 kilometres (9 mi) west of  Tangier , the popular tourist attraction is adjacent to the summer palace of the  king of Morocco . The cave itself is partly natural and partly man-made. The man-made portion was used by  Berbers  to cut stone wheels from the walls to make  millstones , resulting in the ridges visible on the walls in this photograph of the cave's interior.
 
 
 

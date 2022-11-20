@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cuevas_de_H%C3%A9rcules%2C_Cabo_Espartel%2C_Marruecos%2C_2015-12-11%2C_DD_22-24_HDR.JPG/750px-Cuevas_de_H%C3%A9rcules%2C_Cabo_Espartel%2C_Marruecos%2C_2015-12-11%2C_DD_22-24_HDR.JPG" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Eurasian_coot_%28Fulica_atra%29_juvenile.jpg/675px-Eurasian_coot_%28Fulica_atra%29_juvenile.jpg" />
 </div>
 
->The  Caves of Hercules  is an archaeological cave complex located in  Cape Spartel , Morocco. Situated 14 kilometres (9 mi) west of  Tangier , the popular tourist attraction is adjacent to the summer palace of the  king of Morocco . The cave itself is partly natural and partly man-made. The man-made portion was used by  Berbers  to cut stone wheels from the walls to make  millstones , resulting in the ridges visible on the walls in this photograph of the cave's interior.
+>The  Eurasian coot  ( Fulica atra ), also known as the common coot, or Australian coot, is a species of bird in the family  Rallidae . It is found in Europe, Asia, Australia, New Zealand and parts of North Africa.  The Eurasian coot is much less secretive than most of the rail family and can be seen swimming on open water or walking across waterside grasslands. It is an aggressive species, and strongly territorial during the breeding season, with both parents involved in territorial defence. This juvenile Eurasian coot was photographed in  Marais Audomarois , a biosphere reserve in  Saint-Omer-Capelle , France.
 
 
 

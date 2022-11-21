@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Eurasian_coot_%28Fulica_atra%29_juvenile.jpg/675px-Eurasian_coot_%28Fulica_atra%29_juvenile.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Yawning_Infant%2C_August_2018.jpg/600px-Yawning_Infant%2C_August_2018.jpg" />
 </div>
 
->The  Eurasian coot  ( Fulica atra ), also known as the common coot, or Australian coot, is a species of bird in the family  Rallidae . It is found in Europe, Asia, Australia, New Zealand and parts of North Africa.  The Eurasian coot is much less secretive than most of the rail family and can be seen swimming on open water or walking across waterside grasslands. It is an aggressive species, and strongly territorial during the breeding season, with both parents involved in territorial defence. This juvenile Eurasian coot was photographed in  Marais Audomarois , a biosphere reserve in  Saint-Omer-Capelle , France.
+>A  yawn  is a  reflex  consisting of the simultaneous  inhalation  of air and the  stretching  of the eardrums, followed by an exhalation of breath. Many animal species, including birds and fish, experience yawning. The study of yawning is called chasmology. Yawning (oscitation) most often occurs in adults immediately before and after sleep, during tedious activities and as a result of its contagious quality. This photograph depicts a newborn girl yawning; research data strongly suggest that neither contagious nor story-induced yawning is reliable in children below the age of six years.
 
 
 

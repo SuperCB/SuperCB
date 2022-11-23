@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hortus_Haren_18-05-2019._%28actm.%29_03.jpg/675px-Hortus_Haren_18-05-2019._%28actm.%29_03.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Autor_nieznany%2C_%C5%9Bw._Anna_-_fragment_postaci._Malowid%C5%82o_%C5%9Bcienne.jpg/600px-Autor_nieznany%2C_%C5%9Bw._Anna_-_fragment_postaci._Malowid%C5%82o_%C5%9Bcienne.jpg" />
 </div>
 
->Laetiporus sulphureus  is a  species  of  bracket fungus  (fungi that grow on trees) found in Europe and North America. Due to its taste,  Laetiporus sulphureus  has been called the "chicken polypore" and "chicken-of-the-woods". Many people also think that the mushroom tastes like crab or lobster leading to the nickname "lobster-of-the-woods". The authors of  Mushrooms in Color  said that the mushroom tastes good  sauteed  in butter or prepared in a cream sauce served on toast or rice.
+>Saint Anne  is a  Makurian  wall painting estimated to have been painted between the 8th and 9th centuries, painted  a secco  with  tempera  on plaster. The anonymous work, depicting  Saint Anne , the mother of  Mary , was found at  Faras Cathedral  in  Lower Nubia , located in the north of present-day Sudan. The painting was discovered by a Polish archaeological team during  a campaign undertaken in the 1960s  under the patronage of the  United Nations Educational, Scientific and Cultural Organization  (UNESCO) in  Faras , before the site was flooded by the creation of  Lake Nasser . Since 1964, the painting has been in the  Faras Gallery  at the  National Museum  in Warsaw.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Autor_nieznany%2C_%C5%9Bw._Anna_-_fragment_postaci._Malowid%C5%82o_%C5%9Bcienne.jpg/600px-Autor_nieznany%2C_%C5%9Bw._Anna_-_fragment_postaci._Malowid%C5%82o_%C5%9Bcienne.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cephalanthus_occidentalis_occidentalis1.jpg/675px-Cephalanthus_occidentalis_occidentalis1.jpg" />
 </div>
 
->Saint Anne  is a  Makurian  wall painting estimated to have been painted between the 8th and 9th centuries, painted  a secco  with  tempera  on plaster. The anonymous work, depicting  Saint Anne , the mother of  Mary , was found at  Faras Cathedral  in  Lower Nubia , located in the north of present-day Sudan. The painting was discovered by a Polish archaeological team during  a campaign undertaken in the 1960s  under the patronage of the  United Nations Educational, Scientific and Cultural Organization  (UNESCO) in  Faras , before the site was flooded by the creation of  Lake Nasser . Since 1964, the painting has been in the  Faras Gallery  at the  National Museum  in Warsaw.
+>Cephalanthus occidentalis  is a species of  flowering plant  in the family  Rubiaceae . It is a deciduous shrub or small tree that averages 1 to 3 m (3.3 to 9.8 ft) in height, but can reach 6 m (20 ft). The flowers are arranged in a dense spherical  inflorescence  2 to 3.5 cm (0.79 to 1.38 in) in diameter on a short  peduncle . Each flower has a fused white to pale yellow four-lobed  corolla  forming a long slender tube connecting to the  sepals . The  stigma  protrudes slightly from the corolla. The fruit is a spherical cluster of  achenes  (nutlets). This  C. occidentalis  plant, of the  occidentalis   variety , was photographed flowering in  Point Pelee National Park  in Ontario, Canada.
 
 
 

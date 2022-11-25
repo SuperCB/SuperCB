@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cephalanthus_occidentalis_occidentalis1.jpg/675px-Cephalanthus_occidentalis_occidentalis1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg/525px-Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg" />
 </div>
 
->Cephalanthus occidentalis  is a species of  flowering plant  in the family  Rubiaceae . It is a deciduous shrub or small tree that averages 1 to 3 m (3.3 to 9.8 ft) in height, but can reach 6 m (20 ft). The flowers are arranged in a dense spherical  inflorescence  2 to 3.5 cm (0.79 to 1.38 in) in diameter on a short  peduncle . Each flower has a fused white to pale yellow four-lobed  corolla  forming a long slender tube connecting to the  sepals . The  stigma  protrudes slightly from the corolla. The fruit is a spherical cluster of  achenes  (nutlets). This  C. occidentalis  plant, of the  occidentalis   variety , was photographed flowering in  Point Pelee National Park  in Ontario, Canada.
+>The  turkey  is a large bird in the  genus   Meleagris , native to North America. There are two extant turkey species: the  wild turkey  ( M. gallopavo ) of eastern and central North America and the  ocellated turkey  ( M. ocellata ) of the  Yucatán Peninsula  in Mexico.  This photograph, taken at Deer Island Preserve in  Novato, California , depicts a male  Rio Grande wild turkey  ( M. g. intermedia ) strutting – the courtship display, in which the snood (the erectile, fleshy protuberance on the forehead) engorges with blood, becomes redder and elongates, hanging well below the beak.
 
 
 

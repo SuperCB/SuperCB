@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg/525px-Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mademoiselle_Maupin_de_l%27Op%C3%A9ra_%28Julie_d%27Aubigny%29.jpg/450px-Mademoiselle_Maupin_de_l%27Op%C3%A9ra_%28Julie_d%27Aubigny%29.jpg" />
 </div>
 
->The  turkey  is a large bird in the  genus   Meleagris , native to North America. There are two extant turkey species: the  wild turkey  ( M. gallopavo ) of eastern and central North America and the  ocellated turkey  ( M. ocellata ) of the  Yucatán Peninsula  in Mexico.  This photograph, taken at Deer Island Preserve in  Novato, California , depicts a male  Rio Grande wild turkey  ( M. g. intermedia ) strutting – the courtship display, in which the snood (the erectile, fleshy protuberance on the forehead) engorges with blood, becomes redder and elongates, hanging well below the beak.
+>Julie d'Aubigny  (1673–1707), better known as Mademoiselle Maupin or La Maupin, was a 17th-century French  opera  singer. Her life inspired numerous fictional and semi-fictional portrayals.  Théophile Gautier  loosely based the title character, Madeleine de Maupin, of his novel  Mademoiselle de Maupin  (1835) on her.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/The_Mahasattva_of_Truc_Lam_leaves_the_Mountain_%E7%AB%B9%E6%9E%97%E5%A4%A7%E5%A3%AB%E5%87%BA%E5%B1%B1%E5%9C%96.jpg/5250px-The_Mahasattva_of_Truc_Lam_leaves_the_Mountain_%E7%AB%B9%E6%9E%97%E5%A4%A7%E5%A3%AB%E5%87%BA%E5%B1%B1%E5%9C%96.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SUD-S102a-Siege_of_Khartoum-5_Piastres_%281884%29.jpg/2px-SUD-S102a-Siege_of_Khartoum-5_Piastres_%281884%29.jpg" />
 </div>
 
->Trần Nhân Tông  (1258–1308) was the third monarch of the  Trần dynasty , reigning over  Đại Việt  from 1278. During the second and third  Mongol invasions of Đại Việt  between 1284 and 1288, Nhân Tông and his father the retired emperor  Trần Thánh Tông  achieved a decisive victory against the  Yuan dynasty . Nhân Tông ruled until his abdication in 1293, when he passed the throne on to his son  Trần Anh Tông . This is a  handscroll  depicting Nhân Tông, which is now in the collection of the  Liaoning Provincial Museum  in  Shenyang , China.
+>5 piastres (hand-signed)
 
 
 

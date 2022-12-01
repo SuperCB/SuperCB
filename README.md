@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Louisa_May_Alcott%2C_c._1870_-_Warren%27s_Portraits%2C_Boston.jpg/450px-Louisa_May_Alcott%2C_c._1870_-_Warren%27s_Portraits%2C_Boston.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/GER-COL-S-1451-Prussia-Siege_of_Kolberg-2_groschen-1807.jpg/323px-GER-COL-S-1451-Prussia-Siege_of_Kolberg-2_groschen-1807.jpg" />
 </div>
 
->Louisa May Alcott  (November 29, 1832 – March 6, 1888) was an American novelist, short story writer, and poet best known as the author of the novel  Little Women  (1868) and its sequels  Little Men  (1871) and  Jo's Boys  (1886). Raised in New England by her  transcendentalist  parents,  Abigail May  and  Amos Bronson Alcott , she grew up among many well-known intellectuals of the day, such as  Ralph Waldo Emerson ,  Nathaniel Hawthorne ,  Henry David Thoreau , and  Henry Wadsworth Longfellow .
+>2 groschen
 
 
 

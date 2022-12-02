@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/GER-COL-S-1451-Prussia-Siege_of_Kolberg-2_groschen-1807.jpg/323px-GER-COL-S-1451-Prussia-Siege_of_Kolberg-2_groschen-1807.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg/675px-Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg" />
 </div>
 
->2 groschen
+>The  red-bellied piranha  ( Pygocentrus nattereri ), also known as the red piranha, is a  species  of  piranha  native to South America, found in the  Amazon ,  Paraguay ,  Paraná  and  Essequibo  basins, as well as the coastal rivers of northeastern Brazil. They are omnivorous foragers and feed on insects, worms, crustaceans, and fish. Red-bellied piranhas often travel in  shoals  as a predatory defense but rarely exhibit group hunting behavior. Acoustic communication is common and is sometimes exhibited along with aggressive behaviors. They are also often kept as an  aquarium  species. This fish was photographed at  Karlsruhe Zoo  in Germany.
 
 
 

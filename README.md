@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg/675px-Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/New_Mexico_territory_coat_of_arms_%28illustrated%2C_1876%29.jpg/525px-New_Mexico_territory_coat_of_arms_%28illustrated%2C_1876%29.jpg" />
 </div>
 
->The  red-bellied piranha  ( Pygocentrus nattereri ), also known as the red piranha, is a  species  of  piranha  native to South America, found in the  Amazon ,  Paraguay ,  Paraná  and  Essequibo  basins, as well as the coastal rivers of northeastern Brazil. They are omnivorous foragers and feed on insects, worms, crustaceans, and fish. Red-bellied piranhas often travel in  shoals  as a predatory defense but rarely exhibit group hunting behavior. Acoustic communication is common and is sometimes exhibited along with aggressive behaviors. They are also often kept as an  aquarium  species. This fish was photographed at  Karlsruhe Zoo  in Germany.
+>The  New Mexico Territory  was an  organized incorporated territory of the United States  from September 9, 1850, until January 6, 1912.  This illustration, created by Henry Mitchell for  State Arms of the Union , published by  Louis Prang  in 1876, depicts the territory's coat of arms, adopted by legislation in 1887: "The coat of arms of the territory of New Mexico shall be the Mexican Eagle grasping a serpent in its beak, the cactus in its talons, shielded by the American eagle with outspread wings, and grasping arrows in its talons." The year 1850, representing the territory's organization, appears in  Roman numerals  under the eagles, and below the shield is the Latin motto  Crescit eundo  ('It grows as it goes').
 
 
 

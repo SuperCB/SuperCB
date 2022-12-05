@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/New_Mexico_territory_coat_of_arms_%28illustrated%2C_1876%29.jpg/525px-New_Mexico_territory_coat_of_arms_%28illustrated%2C_1876%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hazel_MacKaye_and_dog_by_Harris_%26_Ewing.jpg/450px-Hazel_MacKaye_and_dog_by_Harris_%26_Ewing.jpg" />
 </div>
 
->The  New Mexico Territory  was an  organized incorporated territory of the United States  from September 9, 1850, until January 6, 1912.  This illustration, created by Henry Mitchell for  State Arms of the Union , published by  Louis Prang  in 1876, depicts the territory's coat of arms, adopted by legislation in 1887: "The coat of arms of the territory of New Mexico shall be the Mexican Eagle grasping a serpent in its beak, the cactus in its talons, shielded by the American eagle with outspread wings, and grasping arrows in its talons." The year 1850, representing the territory's organization, appears in  Roman numerals  under the eagles, and below the shield is the Latin motto  Crescit eundo  ('It grows as it goes').
+>Hazel MacKaye  (1880–1944) was an American theater professional and suffragist. She is best known for helping present a series of pageants in support of  women's suffrage . The organizers of the  Woman Suffrage Procession , planned for March 3, 1913 (just prior to  President Woodrow Wilson's inauguration ), in Washington, D.C., asked MacKaye to create a pageant for the event. Titled  Allegory  and produced by  Glenna Smith Tinnin , it was presented on the steps of the  Treasury Building  as the culmination of the event. The pageant was praised as "one of the most impressively beautiful spectacles ever staged in this country" in  The New York Times . This photograph of MacKaye holding a dog was taken in 1915 by the photographic studio  Harris & Ewing .
 
 
 

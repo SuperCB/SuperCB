@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hazel_MacKaye_and_dog_by_Harris_%26_Ewing.jpg/450px-Hazel_MacKaye_and_dog_by_Harris_%26_Ewing.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/William_Utermohlen_-_1967_self_portrait_mixed_media_on_paper.jpg/450px-William_Utermohlen_-_1967_self_portrait_mixed_media_on_paper.jpg" />
 </div>
 
->Hazel MacKaye  (1880–1944) was an American theater professional and suffragist. She is best known for helping present a series of pageants in support of  women's suffrage . The organizers of the  Woman Suffrage Procession , planned for March 3, 1913 (just prior to  President Woodrow Wilson's inauguration ), in Washington, D.C., asked MacKaye to create a pageant for the event. Titled  Allegory  and produced by  Glenna Smith Tinnin , it was presented on the steps of the  Treasury Building  as the culmination of the event. The pageant was praised as "one of the most impressively beautiful spectacles ever staged in this country" in  The New York Times . This photograph of MacKaye holding a dog was taken in 1915 by the photographic studio  Harris & Ewing .
+>William Utermohlen  (December 5, 1933 – March 21, 2007) was an American  figurative artist  who became known posthumously for his  self-portraits  created after his diagnosis of  Alzheimer's disease . He had developed progressive  memory loss  beginning about four years before his diagnosis in 1995. During that time, he began a series of self-portraits influenced in part by the figurative painter  Francis Bacon  and cinematographers from the movement of  German Expressionism . Utermohlen created this self-portrait with  mixed media  on paper in 1967.
 
 
 

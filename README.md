@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Marabou_stork_%28Leptoptilos_crumenifer%29_head.jpg/750px-Marabou_stork_%28Leptoptilos_crumenifer%29_head.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/LET_L-410NG_OK-NGA_ILA_Berlin_2016_09.jpg/750px-LET_L-410NG_OK-NGA_ILA_Berlin_2016_09.jpg" />
 </div>
 
->The  marabou stork  ( Leptoptilos crumenifer ) is a large species of  wading bird  in the stork family,  Ciconiidae . Breeding in sub-Saharan Africa, it eats mainly  carrion , scraps and  faeces , but will opportunistically eat almost any animal matter it can swallow. It occasionally eats other birds including  Quelea  nestlings,  pigeons and doves ,  pelican  and  cormorant  chicks, and even  flamingos . During the breeding season, adults scale back on carrion and take mostly small, live prey since nestlings need this kind of food to survive. Common prey at this time may consist of fish, frogs, insects, eggs, small mammals and reptiles such as crocodile hatchlings and eggs. Though known to eat putrid and seemingly inedible foods, these storks may sometimes wash food in water to remove soil. Increasingly, marabous have become dependent on human garbage and hundreds of the birds can be found around African dumps or waiting for a handout in urban areas. Those eating garbage have been seen to devour virtually anything that they can swallow, including shoes and pieces of metal, and those conditioned to eating from human sources have been known to lash out when refused food. This marabou stork was photographed in  Queen Elizabeth National Park  in southwestern Uganda.
+>Let Kunovice , operating as  Let, n.p. , is a Czech (before December 1993  Czechoslovak ) civil aircraft manufacturer. Its most successful design has been the  L-410 Turbolet , of which more than 1,300 units have been built (an upgraded version, the  L-410 NG , is pictured here). Its head office is in  Kunovice ,  Uherské Hradiště District . Let was owned by the Russian company  UGMK  from 2008 to 2022, when it was acquired by Czech-based  Omnipol Group .
 
 
 

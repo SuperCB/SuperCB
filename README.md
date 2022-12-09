@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/LET_L-410NG_OK-NGA_ILA_Berlin_2016_09.jpg/750px-LET_L-410NG_OK-NGA_ILA_Berlin_2016_09.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Atelier_Nadar_-_Fly_scene_from_Offenbach%27s_Orph%C3%A9e_aux_enfers_with_Jeanne_Granier_as_Eurydice_and_Eug%C3%A8ne_Vauthier_as_Jupiter%2C_1887_revival%2C_wide-angle_shot.jpg/750px-Atelier_Nadar_-_Fly_scene_from_Offenbach%27s_Orph%C3%A9e_aux_enfers_with_Jeanne_Granier_as_Eurydice_and_Eug%C3%A8ne_Vauthier_as_Jupiter%2C_1887_revival%2C_wide-angle_shot.jpg" />
 </div>
 
->Let Kunovice , operating as  Let, n.p. , is a Czech (before December 1993  Czechoslovak ) civil aircraft manufacturer. Its most successful design has been the  L-410 Turbolet , of which more than 1,300 units have been built (an upgraded version, the  L-410 NG , is pictured here). Its head office is in  Kunovice ,  Uherské Hradiště District . Let was owned by the Russian company  UGMK  from 2008 to 2022, when it was acquired by Czech-based  Omnipol Group .
+>Orpheus in the Underworld  is a  comic opera  composed by  Jacques Offenbach  with a French-language  libretto  by  Hector Crémieux  and  Ludovic Halévy . It was first performed as a two-act  opéra bouffon  at the  Théâtre des Bouffes-Parisiens , Paris, in 1858, and was extensively revised and expanded in a four-act  opéra féerie  version, presented at the  Théâtre de la Gaîté  in 1874. The plot is a lampoon of the myth of  Orpheus and Eurydice  in Greek mythology. In this version,  Orpheus  is not the son of  Apollo  but a rustic violin teacher. He is glad to be rid of his wife  Eurydice  when she is abducted by  Pluto , the god of the underworld. Orpheus has to be bullied by Public Opinion into trying to rescue Eurydice. The reprehensible conduct of the  gods of Olympus  in the opera was widely seen as a veiled satire of the court and government of French emperor  Napoleon III . This photograph depicts  Jeanne Granier  as Eurydice and Eugène Vauthier as  Jupiter  in the form of a fly as part of the 1887 Paris revival of  Orpheus in the Underworld .
 
 
 

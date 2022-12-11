@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/William_Bouguereau_-_Dante_and_Virgile_-_Google_Art_Project.jpg/450px-William_Bouguereau_-_Dante_and_Virgile_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lilac-breasted_roller_%28Coracias_caudatus_caudatus%29_Botswana.jpg/675px-Lilac-breasted_roller_%28Coracias_caudatus_caudatus%29_Botswana.jpg" />
 </div>
 
->The  Divine Comedy  is an Italian  narrative poem  by  Dante Alighieri , begun around 1308 and completed in around 1321, shortly before the author's death. The poem's imaginative vision of the  afterlife  is representative of the  medieval worldview  as it existed in the  Western Church  by the 14th century. It helped establish the  Tuscan dialect , in which it is written, as the standardized  Italian language . It is divided into three parts:  Inferno ,  Purgatorio  and  Paradiso . The subject of the narrative is the state of the soul after death and presents an image of divine justice meted out as due punishment or reward. In the poem, Dante travels through  Hell ,  Purgatory  and  Heaven , and is accompanied by three guides: the Roman poet  Virgil  (who accompanies him for all of Hell and most of Purgatory), Dante's muse  Beatrice  (at the end of Purgatory and for most of Heaven) and  Saint Bernard of Clairvaux  (who guides him in the final  cantos  of Heaven).
+>The  lilac-breasted roller  ( Coracias caudatus ) is a species of bird in the roller family,  Coraciidae . It is widely distributed in  sub-Saharan Africa , and is a  vagrant  to the southern  Arabian Peninsula . It prefers open woodland and savanna, and it is for the most part absent from treeless places. Usually found alone or in pairs, it perches at the tops of trees, poles or other high vantage points from where it can spot insects, amphibians, crabs and small birds moving about on the ground. Nesting takes place in a natural hole in a tree where a clutch of two to four eggs are laid, and incubated by both parents, who are extremely aggressive in defence of their nest, taking on raptors and other birds. This lilac-breasted roller, of the subspecies  C. c. caudatus , was photographed perching on a branch in  Chobe National Park , Botswana.
 
 
 

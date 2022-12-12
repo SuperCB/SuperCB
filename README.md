@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lilac-breasted_roller_%28Coracias_caudatus_caudatus%29_Botswana.jpg/675px-Lilac-breasted_roller_%28Coracias_caudatus_caudatus%29_Botswana.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mossy_leaf-tailed_gecko_%28Uroplatus_sikorae%29_Montagne_d%E2%80%99Ambre_2.jpg/525px-Mossy_leaf-tailed_gecko_%28Uroplatus_sikorae%29_Montagne_d%E2%80%99Ambre_2.jpg" />
 </div>
 
->The  lilac-breasted roller  ( Coracias caudatus ) is a species of bird in the roller family,  Coraciidae . It is widely distributed in  sub-Saharan Africa , and is a  vagrant  to the southern  Arabian Peninsula . It prefers open woodland and savanna, and it is for the most part absent from treeless places. Usually found alone or in pairs, it perches at the tops of trees, poles or other high vantage points from where it can spot insects, amphibians, crabs and small birds moving about on the ground. Nesting takes place in a natural hole in a tree where a clutch of two to four eggs are laid, and incubated by both parents, who are extremely aggressive in defence of their nest, taking on raptors and other birds. This lilac-breasted roller, of the subspecies  C. c. caudatus , was photographed perching on a branch in  Chobe National Park , Botswana.
+>In  ecology ,  crypsis  is the ability of an animal or a plant to avoid observation or detection by other animals. It may be a  predation strategy  or an  anti-predator adaptation . Methods include  camouflage ,  nocturnality , subterranean lifestyle and  mimicry . Crypsis can involve visual, olfactory (with  pheromones ), or auditory concealment. When it is visual, the term  cryptic coloration , effectively a synonym for animal camouflage, is sometimes used, but  many different methods  are employed by animals or plants. These photographs, captured in  Montagne d'Ambre National Park , Madagascar, depict a  mossy leaf-tailed gecko  ( Uroplatus sikorae ) exhibiting crypsis by camouflaging itself on a branch (above), and revealing itself from its camouflage (below).
 
 
 

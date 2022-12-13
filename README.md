@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mossy_leaf-tailed_gecko_%28Uroplatus_sikorae%29_Montagne_d%E2%80%99Ambre_2.jpg/525px-Mossy_leaf-tailed_gecko_%28Uroplatus_sikorae%29_Montagne_d%E2%80%99Ambre_2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Elizabeth_Glendower_Evans_%28cropped%29.jpg/450px-Elizabeth_Glendower_Evans_%28cropped%29.jpg" />
 </div>
 
->In  ecology ,  crypsis  is the ability of an animal or a plant to avoid observation or detection by other animals. It may be a  predation strategy  or an  anti-predator adaptation . Methods include  camouflage ,  nocturnality , subterranean lifestyle and  mimicry . Crypsis can involve visual, olfactory (with  pheromones ), or auditory concealment. When it is visual, the term  cryptic coloration , effectively a synonym for animal camouflage, is sometimes used, but  many different methods  are employed by animals or plants. These photographs, captured in  Montagne d'Ambre National Park , Madagascar, depict a  mossy leaf-tailed gecko  ( Uroplatus sikorae ) exhibiting crypsis by camouflaging itself on a branch (above), and revealing itself from its camouflage (below).
+>Elizabeth Glendower Evans  (February 28, 1856 – December 12, 1937) was an American social reformer and  suffragist . She pursued social reform, serving in a variety of positions, including as a delegate to the  International Congress of Women at the Hague  in 1915, the first national organizer of the  Woman's Peace Party , and a national director of the  American Civil Liberties Union . This photograph, from the library of  The Washington Times , depicts Evans wearing a large feathered hat. The image was published in an issue of  The Suffragist  in 1914.
 
 
 

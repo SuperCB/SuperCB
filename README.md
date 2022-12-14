@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Elizabeth_Glendower_Evans_%28cropped%29.jpg/450px-Elizabeth_Glendower_Evans_%28cropped%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ksiaz_-_zamek_01.jpg/675px-Ksiaz_-_zamek_01.jpg" />
 </div>
 
->Elizabeth Glendower Evans  (February 28, 1856 – December 12, 1937) was an American social reformer and  suffragist . She pursued social reform, serving in a variety of positions, including as a delegate to the  International Congress of Women at the Hague  in 1915, the first national organizer of the  Woman's Peace Party , and a national director of the  American Civil Liberties Union . This photograph, from the library of  The Washington Times , depicts Evans wearing a large feathered hat. The image was published in an issue of  The Suffragist  in 1914.
+>Project Riese  was the code name for an unfinished construction project undertaken by  Nazi Germany  between 1943 and 1945. It consisted of seven underground structures in the  Owl Mountains  and  Książ Castle  – pictured here in 2014 – in  Lower Silesia  (now part of Poland). The purpose of the project remains uncertain because of a lack of documentation. Some sources suggest that all the structures were part of the  Führer Headquarters ; according to others, it was a combination of headquarters and arms industry, but comparison to similar facilities can indicate that only the castle was adapted as a headquarters or official residence, and the tunnels in the Owl Mountains were planned as a network of underground factories.
 
 
 

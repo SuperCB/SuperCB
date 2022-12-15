@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ksiaz_-_zamek_01.jpg/675px-Ksiaz_-_zamek_01.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pittsburgh_skyline_panorama_at_night.jpg/1508px-Pittsburgh_skyline_panorama_at_night.jpg" />
 </div>
 
->Project Riese  was the code name for an unfinished construction project undertaken by  Nazi Germany  between 1943 and 1945. It consisted of seven underground structures in the  Owl Mountains  and  Książ Castle  – pictured here in 2014 – in  Lower Silesia  (now part of Poland). The purpose of the project remains uncertain because of a lack of documentation. Some sources suggest that all the structures were part of the  Führer Headquarters ; according to others, it was a combination of headquarters and arms industry, but comparison to similar facilities can indicate that only the castle was adapted as a headquarters or official residence, and the tunnels in the Owl Mountains were planned as a network of underground factories.
+>Pittsburgh  is a city in the southwest of the US state of  Pennsylvania , located at the confluence of the  Allegheny  and  Monongahela  rivers, which combine to form the  Ohio River . It had a population of 302,971 as of the 2020 census, and is the anchor of the  Pittsburgh metropolitan area , the second-largest in the state with a population of 2.37 million. Pittsburgh is known as the "Steel City", as a result of its more than 300 steel-related businesses and also the "City of Bridges", for its 446 bridges. Named in 1758 in honor of British statesman  William Pitt , the city developed as a vital link of the Atlantic coast and Midwest, as the mineral-rich Allegheny Mountains led to the region being contested by the French and British empires, Virginians, Whiskey Rebels, and Civil War raiders. This picture shows a skyline panorama of Pittsburgh at night, taken from  Mount Washington .
 
 
 

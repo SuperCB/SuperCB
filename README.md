@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pittsburgh_skyline_panorama_at_night.jpg/1508px-Pittsburgh_skyline_panorama_at_night.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Beulah_Ream_Allen_receiving_the_Medal_of_Freedom_%281945%29.jpg/525px-Beulah_Ream_Allen_receiving_the_Medal_of_Freedom_%281945%29.jpg" />
 </div>
 
->Pittsburgh  is a city in the southwest of the US state of  Pennsylvania , located at the confluence of the  Allegheny  and  Monongahela  rivers, which combine to form the  Ohio River . It had a population of 302,971 as of the 2020 census, and is the anchor of the  Pittsburgh metropolitan area , the second-largest in the state with a population of 2.37 million. Pittsburgh is known as the "Steel City", as a result of its more than 300 steel-related businesses and also the "City of Bridges", for its 446 bridges. Named in 1758 in honor of British statesman  William Pitt , the city developed as a vital link of the Atlantic coast and Midwest, as the mineral-rich Allegheny Mountains led to the region being contested by the French and British empires, Virginians, Whiskey Rebels, and Civil War raiders. This picture shows a skyline panorama of Pittsburgh at night, taken from  Mount Washington .
+>Beulah Ream Allen  (January 26, 1897 – March 17, 1989) was an American nurse and physician. During World War II, she volunteered as a civilian surgeon for the  United States Army  and was stationed in  Baguio , where she was responsible for the care of nearly 30 soldiers, while the rest of the Army retreated to the  Bataan Peninsula . Taken prisoner in 1941, she was held in three  internment  camps before being liberated. Returning to the United States, she resumed her practice in the  San Francisco Bay Area . In 1960, she moved her practice to  Provo, Utah , where she served as the  dean  of the  Brigham Young University College of Nursing  until 1964. Allen retired in 1979 and in that year married and relocated to  Mesa, Arizona , where she lived until her death in 1989. This photograph shows Allen being awarded the  Medal of Freedom  in 1946 for her service.
 
 
 

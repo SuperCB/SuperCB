@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Beulah_Ream_Allen_receiving_the_Medal_of_Freedom_%281945%29.jpg/525px-Beulah_Ream_Allen_receiving_the_Medal_of_Freedom_%281945%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Staring_Down_Hurricane_Florence.jpg/750px-Staring_Down_Hurricane_Florence.jpg" />
 </div>
 
->Beulah Ream Allen  (January 26, 1897 – March 17, 1989) was an American nurse and physician. During World War II, she volunteered as a civilian surgeon for the  United States Army  and was stationed in  Baguio , where she was responsible for the care of nearly 30 soldiers, while the rest of the Army retreated to the  Bataan Peninsula . Taken prisoner in 1941, she was held in three  internment  camps before being liberated. Returning to the United States, she resumed her practice in the  San Francisco Bay Area . In 1960, she moved her practice to  Provo, Utah , where she served as the  dean  of the  Brigham Young University College of Nursing  until 1964. Allen retired in 1979 and in that year married and relocated to  Mesa, Arizona , where she lived until her death in 1989. This photograph shows Allen being awarded the  Medal of Freedom  in 1946 for her service.
+>The  eye  is a region of mostly calm weather at the center of a  tropical cyclone . It is roughly circular, and is typically 30 to 65 kilometers (19 to 40 miles) in diameter. The eye is surrounded by the eyewall, a ring of towering  thunderstorms  where the most severe weather and highest winds of the storm occur. In strong tropical cyclones, the eye is characterized by light winds and clear skies, surrounded on all sides by a towering, symmetric eyewall, while in weaker storms, it is less well defined and may be covered by a  central dense overcast . Weaker or disorganized storms may also feature an eyewall that does not completely encircle the eye or have an eye that features heavy rain. In all storms, however, the eye is the location of the storm's minimum  barometric pressure ; this can be as much as 15 percent lower than the pressure outside the storm. This photograph, taken by the German astronaut  Alexander Gerst  from the  International Space Station  in September 2018, shows the well-defined eye of  Hurricane Florence  in the Atlantic Ocean.
 
 
 

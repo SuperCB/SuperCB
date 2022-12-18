@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Staring_Down_Hurricane_Florence.jpg/750px-Staring_Down_Hurricane_Florence.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Buddy_Hield.jpg/525px-Buddy_Hield.jpg" />
 </div>
 
->The  eye  is a region of mostly calm weather at the center of a  tropical cyclone . It is roughly circular, and is typically 30 to 65 kilometers (19 to 40 miles) in diameter. The eye is surrounded by the eyewall, a ring of towering  thunderstorms  where the most severe weather and highest winds of the storm occur. In strong tropical cyclones, the eye is characterized by light winds and clear skies, surrounded on all sides by a towering, symmetric eyewall, while in weaker storms, it is less well defined and may be covered by a  central dense overcast . Weaker or disorganized storms may also feature an eyewall that does not completely encircle the eye or have an eye that features heavy rain. In all storms, however, the eye is the location of the storm's minimum  barometric pressure ; this can be as much as 15 percent lower than the pressure outside the storm. This photograph, taken by the German astronaut  Alexander Gerst  from the  International Space Station  in September 2018, shows the well-defined eye of  Hurricane Florence  in the Atlantic Ocean.
+>Buddy Hield  (born December 17, 1992) is a Bahamian  basketball  player who currently plays for the  Indiana Pacers  in the  National Basketball Association . Recruited to play  college basketball  for the  Oklahoma Sooners , Hield went on to win the  John R. Wooden Award  in his senior year as the best college basketball player for the 2015–16 season, in which he averaged 25 points, 5.7 rebounds and two assists per game. He was selected by the  New Orleans Pelicans  in the  2016 NBA draft  as the sixth overall pick, before moving to the  Sacramento Kings  in early 2017 following a trade. After five years in Sacramento, he joined the Pacers in 2022 in another trade deal. This photograph, taken in January 2016, shows Hield playing for the Oklahoma Sooners against the  Texas Tech Red Raiders  at the  Lloyd Noble Center  in  Norman, Oklahoma .
 
 
 

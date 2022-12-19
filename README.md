@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Buddy_Hield.jpg/525px-Buddy_Hield.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Underwater_slope_in_Gullmarn_fjord_2.jpg/600px-Underwater_slope_in_Gullmarn_fjord_2.jpg" />
 </div>
 
->Buddy Hield  (born December 17, 1992) is a Bahamian  basketball  player who currently plays for the  Indiana Pacers  in the  National Basketball Association . Recruited to play  college basketball  for the  Oklahoma Sooners , Hield went on to win the  John R. Wooden Award  in his senior year as the best college basketball player for the 2015–16 season, in which he averaged 25 points, 5.7 rebounds and two assists per game. He was selected by the  New Orleans Pelicans  in the  2016 NBA draft  as the sixth overall pick, before moving to the  Sacramento Kings  in early 2017 following a trade. After five years in Sacramento, he joined the Pacers in 2022 in another trade deal. This photograph, taken in January 2016, shows Hield playing for the Oklahoma Sooners against the  Texas Tech Red Raiders  at the  Lloyd Noble Center  in  Norman, Oklahoma .
+>Chorda filum , commonly known as dead man's rope and sea lace, among other names, is a species of  brown algae  in the genus  Chorda . It is widespread in the temperate waters of the northern hemisphere, along the coasts of the northern Atlantic and Pacific Oceans. It typically has long, unbranched and hollow rope-like brown fronds about 5 millimetres (0.20 in) in diameter which can reach to lengths of 8 metres (26 ft). The  holdfast  is disc-shaped and it is found in sheltered marine and bodies of water at depths of 5 metres (16 ft). This photograph depicts long strands of  C. filum  on an underwater slope in  Gullmarn , a  fjord  in Sweden.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pauline_Gracia_Beery_Mack_%281891-1974%29_%285493947511%29_-_Restoration.jpg/450px-Pauline_Gracia_Beery_Mack_%281891-1974%29_%285493947511%29_-_Restoration.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Midvinterblot_%28Carl_Larsson%29_-_Nationalmuseum_-_edited.jpg/900px-Midvinterblot_%28Carl_Larsson%29_-_Nationalmuseum_-_edited.jpg" />
 </div>
 
->Pauline Gracia Beery Mack  (December 19, 1891 – October 22, 1974) was an American chemist,  home economist , and college administrator. Her research in calcium, nutrition, radiation, and bone density began during the 1930s, and culminated in work for  NASA  when she was in her seventies. This photograph of Mack, from the archives of the  Smithsonian Institution , was probably taken in the early 1940s.
+>Midvinterblot  is an oil-on-canvas painting by the Swedish painter  Carl Larsson , created in 1915 for the hall of the central staircase in the  Nationalmuseum  in  Stockholm . It has been called Sweden's most controversial painting. The work depicts a legend from  Norse mythology  in which the Swedish king  Domalde  is killed in a sacrifice ( blót ) to avert famine. After a long debate, the painting was rejected by the museum, but the controversy resurfaced in the late 20th century, and the painting finally was placed where Larsson had intended.
 
 
 

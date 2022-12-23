@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Midvinterblot_%28Carl_Larsson%29_-_Nationalmuseum_-_edited.jpg/900px-Midvinterblot_%28Carl_Larsson%29_-_Nationalmuseum_-_edited.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Giacomo_Puccini_%281924%29_-_Archivio_Storico_Ricordi_FOTO003293_-_Restoration.jpg/525px-Giacomo_Puccini_%281924%29_-_Archivio_Storico_Ricordi_FOTO003293_-_Restoration.jpg" />
 </div>
 
->Midvinterblot  is an oil-on-canvas painting by the Swedish painter  Carl Larsson , created in 1915 for the hall of the central staircase in the  Nationalmuseum  in  Stockholm . It has been called Sweden's most controversial painting. The work depicts a legend from  Norse mythology  in which the Swedish king  Domalde  is killed in a sacrifice ( blót ) to avert famine. After a long debate, the painting was rejected by the museum, but the controversy resurfaced in the late 20th century, and the painting finally was placed where Larsson had intended.
+>Giacomo Puccini  (1858 – 1924) was an Italian  composer  known primarily for  his operas . Regarded as the greatest and most successful proponent of  Italian opera  after  Giuseppe Verdi , he was descended from a long line of composers, stemming from the late- Baroque  era. Though his early work was firmly rooted in traditional late-19th-century  Romantic  Italian opera he later developed his work in the realistic  verismo  style, of which he became one of the leading exponents.
 
 
 

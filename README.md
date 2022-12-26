@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Three_Brothers_jewel_Basel.jpg/525px-Three_Brothers_jewel_Basel.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rose_O%27Neill_-_When_We_All_Believe_%28Santa_Claus_and_children_illustration_from_the_1903_December_2_issue_of_Puck%29.jpg/825px-Rose_O%27Neill_-_When_We_All_Believe_%28Santa_Claus_and_children_illustration_from_the_1903_December_2_issue_of_Puck%29.jpg" />
 </div>
 
->The  Three Brothers  was a piece of jewellery created in the late 14th century that consisted of three rectangular red  spinels  arranged around a central  diamond . It was known for having been owned by a number of important historical figures. After its commission by  John the Fearless ,  Duke of Burgundy , the Three Brothers was part of the  Burgundian  crown jewels for almost 100 years before passing into the possession of the German banker  Jakob Fugger . The jewel was eventually sold to  King Edward VI  and became part of the  Crown Jewels of England  from 1551 to 1643. It was worn prominently by  Queen Elizabeth I  and  King James I . In the early 1640s,  Henrietta Maria , the wife of  King Charles I , attempted to sell the jewel to raise funds for the  English Civil War , but it is unclear if she succeeded. Its whereabouts after 1645 remain unknown. This miniature painting of the Three Brothers, drawn at a scale of 1:1, was commissioned by the city of  Basel  to serve as an inventory but also as an advertisement to potential buyers around 1500.
+>Rose O'Neill  (1874–1944) was an American  cartoonist , illustrator, artist, and writer. Raised in rural  Nebraska , she exhibited an interest in the arts at an early age, and sought a career as an illustrator in New York City. Her Kewpie cartoons, which made their debut in a 1909 issue of  Ladies' Home Journal , were later manufactured as  bisque ,   composition  and  celluloid  dolls. This  chromolithograph  by O'Neill, titled "When We All Believe", depicts many children gathered around  Santa Claus  and his bag of toys, and was published in the December 2, 1903, issue of  Puck .
 
 
 

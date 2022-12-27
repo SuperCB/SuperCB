@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rose_O%27Neill_-_When_We_All_Believe_%28Santa_Claus_and_children_illustration_from_the_1903_December_2_issue_of_Puck%29.jpg/825px-Rose_O%27Neill_-_When_We_All_Believe_%28Santa_Claus_and_children_illustration_from_the_1903_December_2_issue_of_Puck%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Andinoacara_rivulatus_-_Karlsruhe_Zoo_01_edit1.jpg/750px-Andinoacara_rivulatus_-_Karlsruhe_Zoo_01_edit1.jpg" />
 </div>
 
->Rose O'Neill  (1874–1944) was an American  cartoonist , illustrator, artist, and writer. Raised in rural  Nebraska , she exhibited an interest in the arts at an early age, and sought a career as an illustrator in New York City. Her Kewpie cartoons, which made their debut in a 1909 issue of  Ladies' Home Journal , were later manufactured as  bisque ,   composition  and  celluloid  dolls. This  chromolithograph  by O'Neill, titled "When We All Believe", depicts many children gathered around  Santa Claus  and his bag of toys, and was published in the December 2, 1903, issue of  Puck .
+>The  green terror  ( Andinoacara rivulatus ) is a colorful species of  freshwater fish  in the  cichlid  family, Cichlidae. The fish originates from the Pacific side of South America from the  Tumbes River  in Peru to the  Esmeraldas River  in Ecuador. It is  polymorphic  and can have white or gold-orange edging to the tail and  dorsal fins . As its name implies, late juvenile-phase and adult-phase specimens can be very aggressive. This green terror was photographed at  Karlsruhe Zoo  in Germany.
 
 
 

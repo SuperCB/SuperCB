@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Andinoacara_rivulatus_-_Karlsruhe_Zoo_01_edit1.jpg/750px-Andinoacara_rivulatus_-_Karlsruhe_Zoo_01_edit1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/US-%241-LT-1862-Fr-16c.jpg/304px-US-%241-LT-1862-Fr-16c.jpg" />
 </div>
 
->The  green terror  ( Andinoacara rivulatus ) is a colorful species of  freshwater fish  in the  cichlid  family, Cichlidae. The fish originates from the Pacific side of South America from the  Tumbes River  in Peru to the  Esmeraldas River  in Ecuador. It is  polymorphic  and can have white or gold-orange edging to the tail and  dorsal fins . As its name implies, late juvenile-phase and adult-phase specimens can be very aggressive. This green terror was photographed at  Karlsruhe Zoo  in Germany.
+>$1:  Salmon P. Chase 
 
 
 

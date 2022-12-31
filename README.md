@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Emu_1_-_Tidbinbilla.jpg/600px-Emu_1_-_Tidbinbilla.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Entrance_Hall_of_Mr_Chas._Green%27s_house%2C_Savannah_Ga%2C_now_occupied_as_Head_Quarters_by_Gen_Sherman.jpg/600px-Entrance_Hall_of_Mr_Chas._Green%27s_house%2C_Savannah_Ga%2C_now_occupied_as_Head_Quarters_by_Gen_Sherman.jpg" />
 </div>
 
->The  emu  ( Dromaius novaehollandiae ) is the second-tallest living bird after its  ratite  relative the  ostrich . It is  endemic  to Australia, where it is the largest native bird and the only  extant  member of the genus  Dromaius . The emu's range covers most of mainland Australia, but the  Tasmanian ,  Kangaroo Island  and  King Island subspecies  became extinct after the  European settlement of Australia  in 1788. Emus are soft-feathered, brown,  flightless birds  with long necks and legs, and can reach up to 1.9 metres (6.2 ft) in height. Emus can travel great distances, and when necessary can sprint at 48 kilometres per hour (30 mph); they forage for a variety of plants and insects, but have been known to go for weeks without eating. They drink infrequently, but take in copious amounts of water when the opportunity arises. This emu was photographed in the  Tidbinbilla Nature Reserve  in the  Australian Capital Territory .
+>The  Green–Meldrim House  is a historic house at 14 West Macon Street, on the northwest corner of  Madison Square , in  Savannah, Georgia . Built in 1853, it was designated a  National Historic Landmark  in 1976. The house is owned by the adjacent  St. John's Church , which offers tours and uses it as a meeting and reception space. This 1864 sketch by  William Waud  depicts the entrance hall of the Green–Meldrim House, which was then in use by General  William Tecumseh Sherman  as his headquarters during the  American Civil War . Waud's illustration was adapted into an  engraving  for the January 21, 1865, issue of  Harper's Weekly .
 
 
 

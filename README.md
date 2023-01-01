@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Entrance_Hall_of_Mr_Chas._Green%27s_house%2C_Savannah_Ga%2C_now_occupied_as_Head_Quarters_by_Gen_Sherman.jpg/600px-Entrance_Hall_of_Mr_Chas._Green%27s_house%2C_Savannah_Ga%2C_now_occupied_as_Head_Quarters_by_Gen_Sherman.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Survey_of_Palestine_1942-1958_1-100%2C000_sheet_index_georef.png/375px-Survey_of_Palestine_1942-1958_1-100%2C000_sheet_index_georef.png" />
 </div>
 
->The  Green–Meldrim House  is a historic house at 14 West Macon Street, on the northwest corner of  Madison Square , in  Savannah, Georgia . Built in 1853, it was designated a  National Historic Landmark  in 1976. The house is owned by the adjacent  St. John's Church , which offers tours and uses it as a meeting and reception space. This 1864 sketch by  William Waud  depicts the entrance hall of the Green–Meldrim House, which was then in use by General  William Tecumseh Sherman  as his headquarters during the  American Civil War . Waud's illustration was adapted into an  engraving  for the January 21, 1865, issue of  Harper's Weekly .
+>The  Survey of Palestine  was the government department responsible for the  survey and mapping of Palestine  during the period of British  Mandatory Palestine . The survey department was established in 1920 in  Jaffa , and moved to the outskirts of  Tel Aviv  in 1931. It established the  Palestine grid . In early 1948, the British mandate appointed a temporary director general of the Survey Department for the impending Jewish state; this became the  Survey of Israel . The maps produced by the survey have been widely used in "Palestinian refugee cartography" by scholars documenting the  1948 Palestinian exodus , notably in  Salman Abu Sitta 's  Atlas of Palestine  and  Walid Khalidi 's  All That Remains . This composite map of the  region of Palestine  was assembled from twenty-four separate 1:100,000 sheets published by the Survey for Palestine and its successor, the Survey of Israel, between 1942 and 1958.
 
 
 

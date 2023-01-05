@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lucretia_Mott%2C_signed_photo%2C_by_F._Gutekunst.jpg/525px-Lucretia_Mott%2C_signed_photo%2C_by_F._Gutekunst.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/2017.08.06.-04-Kirschgartshaeuser_Schlaege_Mannheim--Weidenjungfer-Maennchen.jpg/525px-2017.08.06.-04-Kirschgartshaeuser_Schlaege_Mannheim--Weidenjungfer-Maennchen.jpg" />
 </div>
 
->Lucretia Mott  (January 3, 1793 – November 11, 1880) was an  American Quaker ,  abolitionist ,  women's rights  activist, and  social reformer . This autographed photograph of Mott was taken by the  Philadelphia -based photographer  Frederick Gutekunst  around the 1870s, and is in the collection of the  National Woman's Party . The image was twice published in issues of  The Suffragist  in 1920.
+>Chalcolestes viridis , also known as the willow emerald damselfly and the western willow spreadwing, is a species of  damselfly  in the family  Lestidae . Featuring a metallic green body, it has an elongated abdomen and pale brown spots on its wings and resides in areas of still water with overhanging trees. This photograph of a male  C. viridis  damselfly perching on a twig was taken in  Mannheim , Germany, in 2017.
 
 
 

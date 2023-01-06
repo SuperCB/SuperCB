@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/2017.08.06.-04-Kirschgartshaeuser_Schlaege_Mannheim--Weidenjungfer-Maennchen.jpg/525px-2017.08.06.-04-Kirschgartshaeuser_Schlaege_Mannheim--Weidenjungfer-Maennchen.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%27Hip%2C_Hip%2C_Hurrah%21_Artist_Festival_at_Skagen%27%2C_by_Peder_Severin_Kr%C3%B8yer_%281888%29_Demisted_with_DXO_PhotoLab_Clearview%3B_cropped_away_black_border_edge.jpg/750px-%27Hip%2C_Hip%2C_Hurrah%21_Artist_Festival_at_Skagen%27%2C_by_Peder_Severin_Kr%C3%B8yer_%281888%29_Demisted_with_DXO_PhotoLab_Clearview%3B_cropped_away_black_border_edge.jpg" />
 </div>
 
->Chalcolestes viridis , also known as the willow emerald damselfly and the western willow spreadwing, is a species of  damselfly  in the family  Lestidae . Featuring a metallic green body, it has an elongated abdomen and pale brown spots on its wings and resides in areas of still water with overhanging trees. This photograph of a male  C. viridis  damselfly perching on a twig was taken in  Mannheim , Germany, in 2017.
+>Hip, Hip, Hurrah!  is an oil-on-canvas painting from 1888 by the Danish painter  Peder Severin Krøyer . The work shows various members of the  Skagen Painters , a group of Danish, Norwegian and Swedish artists who formed a loose community in Skagen, at the northern tip of  Jutland , in the 1880s and early 1890s. Krøyer began the painting in 1884 after a party at  Michael Ancher 's house, with the composition inspired by photographs taken at the celebration by the German artist  Fritz Stoltenberg , although the individuals featured are not all the same. A dispute arose between Krøyer and Ancher the following day when the former returned uninvited to continue work on the piece, and although they reconciled Krøyer was not permitted to use Ancher's garden as the setting. The Swedish art collector  Pontus Fürstenberg  bought the painting before it was completed, and it was displayed at  Charlottenborg  in 1888. He later donated the work to the  Gothenburg Museum of Art , where it has hung since.
 
 
 

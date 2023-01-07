@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%27Hip%2C_Hip%2C_Hurrah%21_Artist_Festival_at_Skagen%27%2C_by_Peder_Severin_Kr%C3%B8yer_%281888%29_Demisted_with_DXO_PhotoLab_Clearview%3B_cropped_away_black_border_edge.jpg/750px-%27Hip%2C_Hip%2C_Hurrah%21_Artist_Festival_at_Skagen%27%2C_by_Peder_Severin_Kr%C3%B8yer_%281888%29_Demisted_with_DXO_PhotoLab_Clearview%3B_cropped_away_black_border_edge.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Line_scan_photo_of_nine_car_BART_C1_train_in_2017.jpg/9000px-Line_scan_photo_of_nine_car_BART_C1_train_in_2017.jpg" />
 </div>
 
->Hip, Hip, Hurrah!  is an oil-on-canvas painting from 1888 by the Danish painter  Peder Severin Krøyer . The work shows various members of the  Skagen Painters , a group of Danish, Norwegian and Swedish artists who formed a loose community in Skagen, at the northern tip of  Jutland , in the 1880s and early 1890s. Krøyer began the painting in 1884 after a party at  Michael Ancher 's house, with the composition inspired by photographs taken at the celebration by the German artist  Fritz Stoltenberg , although the individuals featured are not all the same. A dispute arose between Krøyer and Ancher the following day when the former returned uninvited to continue work on the piece, and although they reconciled Krøyer was not permitted to use Ancher's garden as the setting. The Swedish art collector  Pontus Fürstenberg  bought the painting before it was completed, and it was displayed at  Charlottenborg  in 1888. He later donated the work to the  Gothenburg Museum of Art , where it has hung since.
+>Bay Area Rapid Transit  is a  rapid transit  system serving the  San Francisco Bay Area  in California. It serves  fifty stations along six routes  on 131 miles (211 kilometers) of rapid transit lines, including  a spur line  to  Antioch  that uses  diesel multiple unit  trains, and an  automated guideway transit  line to  Oakland International Airport . The system had 26,026,800 passengers in 2021. This photograph, captured by a  line-scan camera  using  strip photography , shows the length of a nine-car Bay Area Rapid Transit train comprising  four C1 cars and five B2 cars .
 
 
 

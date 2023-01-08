@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Line_scan_photo_of_nine_car_BART_C1_train_in_2017.jpg/9000px-Line_scan_photo_of_nine_car_BART_C1_train_in_2017.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Harris_%26_Ewing_-_Helena_Hill_Weed.jpg/450px-Harris_%26_Ewing_-_Helena_Hill_Weed.jpg" />
 </div>
 
->Bay Area Rapid Transit  is a  rapid transit  system serving the  San Francisco Bay Area  in California. It serves  fifty stations along six routes  on 131 miles (211 kilometers) of rapid transit lines, including  a spur line  to  Antioch  that uses  diesel multiple unit  trains, and an  automated guideway transit  line to  Oakland International Airport . The system had 26,026,800 passengers in 2021. This photograph, captured by a  line-scan camera  using  strip photography , shows the length of a nine-car Bay Area Rapid Transit train comprising  four C1 cars and five B2 cars .
+>Helena Hill Weed  (1875–1958) was an American  suffragist , and a member of the  National Woman's Party . The daughter of Connecticut congressman  Ebenezer Hill , she studied geology at  Vassar College  and the  Montana School of Mines  before joining the suffragist movement. In 1917, she became one of the first women to be arrested for picketing the  White House , having carried a banner stating "Governments derive their just powers from the consent of the governed". She served three days in prison for this, and was apprehended again in January 1918 for applauding in court, for which she served a day in jail. In August of that year she was arrested for participating in the pro-suffrage Lafayette Square meeting at which her sister  Elsie Hill  spoke, for which Helena served fifteen days.
 
 
 

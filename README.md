@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Harris_%26_Ewing_-_Helena_Hill_Weed.jpg/450px-Harris_%26_Ewing_-_Helena_Hill_Weed.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Elephant_Trunk.png/600px-Elephant_Trunk.png" />
 </div>
 
->Helena Hill Weed  (1875–1958) was an American  suffragist , and a member of the  National Woman's Party . The daughter of Connecticut congressman  Ebenezer Hill , she studied geology at  Vassar College  and the  Montana School of Mines  before joining the suffragist movement. In 1917, she became one of the first women to be arrested for picketing the  White House , having carried a banner stating "Governments derive their just powers from the consent of the governed". She served three days in prison for this, and was apprehended again in January 1918 for applauding in court, for which she served a day in jail. In August of that year she was arrested for participating in the pro-suffrage Lafayette Square meeting at which her sister  Elsie Hill  spoke, for which Helena served fifteen days.
+>The  Elephant's Trunk Nebula  is a concentration of  interstellar  gas and dust within the much larger ionized gas region IC 1396 located in the constellation  Cepheus  about 2,400  light-years  away from Earth. The combined action of the light from the massive star ionizing and compressing the rim of the cloud, and the wind from the young stars shifting gas from the center outward led to very high compression in the  nebula . This pressure has triggered the current generation of protostars. This photograph of the Elephant's Trunk Nebula was taken with a 127 mm (5.0 in)  refracting telescope .
 
 
 

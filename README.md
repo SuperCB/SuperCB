@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Elephant_Trunk.png/600px-Elephant_Trunk.png" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Campo_flicker_%28Colaptes_campestris%29_female.JPG/450px-Campo_flicker_%28Colaptes_campestris%29_female.JPG" />
 </div>
 
->The  Elephant's Trunk Nebula  is a concentration of  interstellar  gas and dust within the much larger ionized gas region IC 1396 located in the constellation  Cepheus  about 2,400  light-years  away from Earth. The combined action of the light from the massive star ionizing and compressing the rim of the cloud, and the wind from the young stars shifting gas from the center outward led to very high compression in the  nebula . This pressure has triggered the current generation of protostars. This photograph of the Elephant's Trunk Nebula was taken with a 127 mm (5.0 in)  refracting telescope .
+>Woodpeckers  are a group of birds in the family Picidae, which also includes the  piculets ,  wrynecks , and  sapsuckers . Members of this family are found worldwide, except for Australasia, Madagascar, Antarctica and some oceanic islands. Most species live in forests or woodland habitats, although a few species are known that live in treeless areas, such as rocky hillsides and deserts, and the  Gila woodpecker  specialises in exploiting cacti. This photograph shows a female  campo flicker  ( Colaptes campestris ), a woodpecker species native to South America, in the  Pantanal , Brazil.
 
 
 

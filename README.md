@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Campo_flicker_%28Colaptes_campestris%29_female.JPG/450px-Campo_flicker_%28Colaptes_campestris%29_female.JPG" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%22Capt._Della_H._Raney%2C_Army_Nurse_Corps%2C_who_now_heads_the_nursing_staff_at_the_station_hospital_at_Camp_Beale%2C_CA_-_NARA_-_535942.jpg/600px-%22Capt._Della_H._Raney%2C_Army_Nurse_Corps%2C_who_now_heads_the_nursing_staff_at_the_station_hospital_at_Camp_Beale%2C_CA_-_NARA_-_535942.jpg" />
 </div>
 
->Woodpeckers  are a group of birds in the family Picidae, which also includes the  piculets ,  wrynecks , and  sapsuckers . Members of this family are found worldwide, except for Australasia, Madagascar, Antarctica and some oceanic islands. Most species live in forests or woodland habitats, although a few species are known that live in treeless areas, such as rocky hillsides and deserts, and the  Gila woodpecker  specialises in exploiting cacti. This photograph shows a female  campo flicker  ( Colaptes campestris ), a woodpecker species native to South America, in the  Pantanal , Brazil.
+>Della H. Raney  (January 10, 1912 – October 23, 1987) was an American  nurse . Raney was the first  African American  nurse to report for duty in  World War II , and the first to be appointed chief nurse. In 1944, she became the first black nurse affiliated with the  Army Air Corps  promoted to captain, and was later promoted to major in 1946. Raney retired from the Army in 1978. This photograph of Raney seated behind her desk was taken in 1945; at the time, she headed the nursing staff at the station hospital at  Camp Beale  in California.
 
 
 

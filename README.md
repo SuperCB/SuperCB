@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%22Capt._Della_H._Raney%2C_Army_Nurse_Corps%2C_who_now_heads_the_nursing_staff_at_the_station_hospital_at_Camp_Beale%2C_CA_-_NARA_-_535942.jpg/600px-%22Capt._Della_H._Raney%2C_Army_Nurse_Corps%2C_who_now_heads_the_nursing_staff_at_the_station_hospital_at_Camp_Beale%2C_CA_-_NARA_-_535942.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blue_Marble_2002.png/1125px-Blue_Marble_2002.png" />
 </div>
 
->Della H. Raney  (January 10, 1912 – October 23, 1987) was an American  nurse . Raney was the first  African American  nurse to report for duty in  World War II , and the first to be appointed chief nurse. In 1944, she became the first black nurse affiliated with the  Army Air Corps  promoted to captain, and was later promoted to major in 1946. Raney retired from the Army in 1978. This photograph of Raney seated behind her desk was taken in 1945; at the time, she headed the nursing staff at the station hospital at  Camp Beale  in California.
+>The  plate carrée projection  is a  map projection  in which the horizontal coordinate is the  longitude  and the vertical coordinate is the  latitude . The name derives from the French for "flat square". The plate carrée is a special case of the equirectangular projection, which has been in use since the earliest days of spherical  cartography : the Roman mathematician  Ptolemy  attributed its invention to  Marinus of Tyre , in around AD 100. This composite satellite image, titled "Blue Marble", was produced by  NASA  and shows Earth's land surface, shallow water and shaded topography.
 
 
 

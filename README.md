@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blue_Marble_2002.png/1125px-Blue_Marble_2002.png" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Parque_estatal_Chugach%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_94.jpg/900px-Parque_estatal_Chugach%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_94.jpg" />
 </div>
 
->The  plate carrée projection  is a  map projection  in which the horizontal coordinate is the  longitude  and the vertical coordinate is the  latitude . The name derives from the French for "flat square". The plate carrée is a special case of the equirectangular projection, which has been in use since the earliest days of spherical  cartography : the Roman mathematician  Ptolemy  attributed its invention to  Marinus of Tyre , in around AD 100. This composite satellite image, titled "Blue Marble", was produced by  NASA  and shows Earth's land surface, shallow water and shaded topography.
+>Chugach State Park  is a  state park  covering a hilly region immediately east of  Anchorage , in the south-central area of the US state of  Alaska . At 495,204 acres (2,004 square kilometers) in area, it is the third-largest state park in the country, and rises to an elevation of 8,005 feet (2,440 meters) at  Bashful Peak , its tallest point.
 
 
 

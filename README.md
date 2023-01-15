@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Parque_estatal_Chugach%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_94.jpg/900px-Parque_estatal_Chugach%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_94.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaleva_Church_4.jpg/600px-Kaleva_Church_4.jpg" />
 </div>
 
->Chugach State Park  is a  state park  covering a hilly region immediately east of  Anchorage , in the south-central area of the US state of  Alaska . At 495,204 acres (2,004 square kilometers) in area, it is the third-largest state park in the country, and rises to an elevation of 8,005 feet (2,440 meters) at  Bashful Peak , its tallest point.
+>Kaleva Church  is a church of the  Evangelical Lutheran Church of Finland  in the district of  Liisankallio  in  Tampere , Finland. Designed by  Reima and Raili Pietilä , the building was constructed between 1964 and 1966. It was constructed using  slip forming , with seventeen narrow 35-metre-high (115 ft) hollow concrete U-shapes and full height windows between them. The walls were cast in twelve days. The floor plan of the church resembles a fish,  an ancient symbol of Christianity .
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaleva_Church_4.jpg/600px-Kaleva_Church_4.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif/600px-Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif" />
 </div>
 
->Kaleva Church  is a church of the  Evangelical Lutheran Church of Finland  in the district of  Liisankallio  in  Tampere , Finland. Designed by  Reima and Raili Pietilä , the building was constructed between 1964 and 1966. It was constructed using  slip forming , with seventeen narrow 35-metre-high (115 ft) hollow concrete U-shapes and full height windows between them. The walls were cast in twelve days. The floor plan of the church resembles a fish,  an ancient symbol of Christianity .
+>The  2021–22 Hunga Tonga–Hunga Haʻapai eruption and tsunami  was a volcanic event caused by  Hunga Tonga–Hunga Haʻapai , a  submarine volcano  in the Tongan archipelago in the southern Pacific Ocean. Beginning in December 2021, the eruption reached a large and powerful climax on 15 January 2022. Described by scientists as a "magma hammer", the volcano produced a series of four underwater thrusts at the height of the eruption, displaced 10 cubic kilometres (2.4 cu mi) of rock, ash and sediment, and generated the largest atmospheric explosion recorded by modern instrumentation. The eruption caused  tsunamis  along the Pacific rim. This animation, depicting the initial  ash plume  and shockwave produced by Hunga Tonga–Hunga Haʻapai on 15 January 2022, was created by the  Japan Meteorological Agency  from sixteen photographs taken at ten-minute intervals by the Japanese weather satellite  Himawari 8 .
 
 
 

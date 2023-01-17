@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif/600px-Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Macracantha_arcuata_-_Curved_Spiny_Spider_%288550192839%29_by_Rushen_edit.jpg/525px-Macracantha_arcuata_-_Curved_Spiny_Spider_%288550192839%29_by_Rushen_edit.jpg" />
 </div>
 
->The  2021–22 Hunga Tonga–Hunga Haʻapai eruption and tsunami  was a volcanic event caused by  Hunga Tonga–Hunga Haʻapai , a  submarine volcano  in the Tongan archipelago in the southern Pacific Ocean. Beginning in December 2021, the eruption reached a large and powerful climax on 15 January 2022. Described by scientists as a "magma hammer", the volcano produced a series of four underwater thrusts at the height of the eruption, displaced 10 cubic kilometres (2.4 cu mi) of rock, ash and sediment, and generated the largest atmospheric explosion recorded by modern instrumentation. The eruption caused  tsunamis  along the Pacific rim. This animation, depicting the initial  ash plume  and shockwave produced by Hunga Tonga–Hunga Haʻapai on 15 January 2022, was created by the  Japan Meteorological Agency  from sixteen photographs taken at ten-minute intervals by the Japanese weather satellite  Himawari 8 .
+>Macracantha  is a  genus  of  orb-weaver spider  containing the species  M. arcuata .  M. arcuata  is found in India and China and through Southeast Asia to Indonesia. The females of this genus have tough, shell-like abdomens armed with three pairs of spines. The middle spines project upward and outward, curving in toward each other along their length, and have a length of 20 to 26 millimetres (0.79 to 1.02 in), whereas the abdominal width is only 8 to 9 millimetres (0.31 to 0.35 in). The female's front and rear spines are short and roughly equal in length. The male of the species measures only 1.5 millimetres (0.059 in), with stout, conical spines. This photograph shows a female  M. arcuata  spider in  Kaeng Krachan National Park , Thailand.
 
 
 

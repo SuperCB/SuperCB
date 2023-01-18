@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Macracantha_arcuata_-_Curved_Spiny_Spider_%288550192839%29_by_Rushen_edit.jpg/525px-Macracantha_arcuata_-_Curved_Spiny_Spider_%288550192839%29_by_Rushen_edit.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanayi_Kunhiraman_Image.jpg/600px-Kanayi_Kunhiraman_Image.jpg" />
 </div>
 
->Macracantha  is a  genus  of  orb-weaver spider  containing the species  M. arcuata .  M. arcuata  is found in India and China and through Southeast Asia to Indonesia. The females of this genus have tough, shell-like abdomens armed with three pairs of spines. The middle spines project upward and outward, curving in toward each other along their length, and have a length of 20 to 26 millimetres (0.79 to 1.02 in), whereas the abdominal width is only 8 to 9 millimetres (0.31 to 0.35 in). The female's front and rear spines are short and roughly equal in length. The male of the species measures only 1.5 millimetres (0.059 in), with stout, conical spines. This photograph shows a female  M. arcuata  spider in  Kaeng Krachan National Park , Thailand.
+>Kanayi Kunhiraman  (born 1937) is an Indian sculptor. Born in the state of  Kerala , he studied sculpture at the  Government College of Fine Arts  in  Chennai , and was taught by  K. C. S. Paniker . After a stint teaching at the  Ethiraj College for Women , Kunhiraman moved to England for a three-year course at the  Slade School of Fine Art . On his return to Kerala, he undertook a number of assignments and in 1976 became head of the sculpture department at  College of Fine Arts Trivandrum . He went on to become the college's principal, remaining until 1978 when he became the chair of the  Kerala Lalithakala Akademi . This portrait photograph of Kunhiraman was taken in 2019.
 
 
 

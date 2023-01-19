@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanayi_Kunhiraman_Image.jpg/600px-Kanayi_Kunhiraman_Image.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Eureka_Inn%2C_Entrance_Hall.jpg/525px-Eureka_Inn%2C_Entrance_Hall.jpg" />
 </div>
 
->Kanayi Kunhiraman  (born 1937) is an Indian sculptor. Born in the state of  Kerala , he studied sculpture at the  Government College of Fine Arts  in  Chennai , and was taught by  K. C. S. Paniker . After a stint teaching at the  Ethiraj College for Women , Kunhiraman moved to England for a three-year course at the  Slade School of Fine Art . On his return to Kerala, he undertook a number of assignments and in 1976 became head of the sculpture department at  College of Fine Arts Trivandrum . He went on to become the college's principal, remaining until 1978 when he became the chair of the  Kerala Lalithakala Akademi . This portrait photograph of Kunhiraman was taken in 2019.
+>The  Eureka Inn  is a hotel in  Eureka, California , built in the Elizabethan  Tudor Revival  architectural style. Opened in 1922, it was purchased in 1960 by Helen Barnum, the matriarch of a successful timber family in the county, before being sold to John Biord after Barnum's death in 1993. In 2004, the inn was closed after tax defaults by its owner, reopening in 2010 after the businessman Libo Zhu purchased and refurbished it. In February 1982, the structure was listed on the  National Register of Historic Places . This photograph shows the Eureka Inn's entrance hall as seen in 2020.
 
 
 

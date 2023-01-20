@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Eureka_Inn%2C_Entrance_Hall.jpg/525px-Eureka_Inn%2C_Entrance_Hall.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg/450px-Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg" />
 </div>
 
->The  Eureka Inn  is a hotel in  Eureka, California , built in the Elizabethan  Tudor Revival  architectural style. Opened in 1922, it was purchased in 1960 by Helen Barnum, the matriarch of a successful timber family in the county, before being sold to John Biord after Barnum's death in 1993. In 2004, the inn was closed after tax defaults by its owner, reopening in 2010 after the businessman Libo Zhu purchased and refurbished it. In February 1982, the structure was listed on the  National Register of Historic Places . This photograph shows the Eureka Inn's entrance hall as seen in 2020.
+>The  Lady with an Ermine  is a  portrait painting  widely attributed to the  Italian Renaissance  artist  Leonardo da Vinci . Dated to around 1489 to 1491, the work is  painted in oils  on a panel of  walnut wood . Its subject is  Cecilia Gallerani , a mistress of  Ludovico Sforza ,  Duke of Milan ; Leonardo was painter to the Sforza court in  Milan  at the time of its execution. It is the second of only four surviving portraits of women painted by Leonardo, the others being  Ginevra de' Benci ,  La Belle Ferronnière , and the  Mona Lisa . The painting now hangs in the  Czartoryski Museum  in  Kraków , Poland.
 
 
 

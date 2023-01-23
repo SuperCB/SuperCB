@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CH.SZ.Stoos_Fronalpstock_Sequence_Rescue-Helicopter_REGA_16K_16x9-R.jpg/900px-CH.SZ.Stoos_Fronalpstock_Sequence_Rescue-Helicopter_REGA_16K_16x9-R.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Along_the_River_During_the_Qingming_Festival_%28Qing_Court_Version%29.jpg/11250px-Along_the_River_During_the_Qingming_Festival_%28Qing_Court_Version%29.jpg" />
 </div>
 
->Rega  is a private, non-profit  air rescue service  that provides emergency medical assistance in Switzerland and Liechtenstein. It was established in 1952 by Rudolf Bucher, who believed the Swiss rescue organization needed a specialized air sub-section. This image is a  sequence photograph , stitched from 207 separate frames, of Rega's rescue helicopter  Da Vinci  in operation in  Stoos , Switzerland.
+>Along the River During the Qingming Festival  is a 12th-century painting attributed to  Zhang Zeduan . The original painting captures the daily life of people from the  Song dynasty  at the capital, present-day  Kaifeng . This picture shows a 1736 remake of the painting executed by five artists from the Painting Academy and active at the Qing court.
 
 
 

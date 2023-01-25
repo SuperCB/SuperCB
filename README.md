@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Along_the_River_During_the_Qingming_Festival_%28Qing_Court_Version%29.jpg/11250px-Along_the_River_During_the_Qingming_Festival_%28Qing_Court_Version%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sharon_Tate_Valley_of_the_Dolls_1967_-_Restoration.jpg/450px-Sharon_Tate_Valley_of_the_Dolls_1967_-_Restoration.jpg" />
 </div>
 
->Along the River During the Qingming Festival  is a 12th-century painting attributed to  Zhang Zeduan . The original painting captures the daily life of people from the  Song dynasty  at the capital, present-day  Kaifeng . This picture shows a 1736 remake of the painting executed by five artists from the Painting Academy and active at the Qing court.
+>Sharon Tate  (January 24, 1943 – August 9, 1969) was an American actress and model. During the 1960s, she appeared in advertisements, small television roles and as an extra in films, before appearing in her first major role as Jennifer North in the 1967 film  Valley of the Dolls , which earned her a  Golden Globe Award  nomination. That year, she also performed in the film  The Fearless Vampire Killers , directed by her future husband  Roman Polanski . On August 9, 1969,  Tate and four others were murdered  by cult members of the  Manson Family  in the home she shared with Polanski. She was eight and a half months pregnant at the time of her death. Her last completed film,  12+1 , was released posthumously in 1969. This publicity photograph of Tate was released by  20th Century Fox  for  Valley of the Dolls .
 
 
 

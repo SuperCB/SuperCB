@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sharon_Tate_Valley_of_the_Dolls_1967_-_Restoration.jpg/450px-Sharon_Tate_Valley_of_the_Dolls_1967_-_Restoration.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Edinburgh_Castle_from_Grass_Market.jpg/750px-Edinburgh_Castle_from_Grass_Market.jpg" />
 </div>
 
->Sharon Tate  (January 24, 1943 – August 9, 1969) was an American actress and model. During the 1960s, she appeared in advertisements, small television roles and as an extra in films, before appearing in her first major role as Jennifer North in the 1967 film  Valley of the Dolls , which earned her a  Golden Globe Award  nomination. That year, she also performed in the film  The Fearless Vampire Killers , directed by her future husband  Roman Polanski . On August 9, 1969,  Tate and four others were murdered  by cult members of the  Manson Family  in the home she shared with Polanski. She was eight and a half months pregnant at the time of her death. Her last completed film,  12+1 , was released posthumously in 1969. This publicity photograph of Tate was released by  20th Century Fox  for  Valley of the Dolls .
+>Edinburgh Castle  is a castle in  Edinburgh , Scotland. It stands on  Castle Rock , which has been occupied by humans since at least the  Iron Age . Serving as a royal residence for the  Kingdom of Scotland  from the 12th century or earlier until 1633, Edinburgh Castle was involved in many historical conflicts from the  Wars of Scottish Independence  in the 14th century to the  Jacobite rising of 1745 . Few of the present buildings pre-date the Lang Siege of the 16th century when the medieval defences were largely destroyed by artillery bombardment. The most notable exceptions are  St Margaret's Chapel  (which dates from the early 12th century and is regarded as the oldest building in Edinburgh), the Royal Palace, and the early-16th-century Great Hall. The castle also houses the Scottish  regalia , known as the  Honours of Scotland , and is the site of the  Scottish National War Memorial  and the  National War Museum .  Some of the castle buildings house  regimental museums  that contribute to its presentation as a tourist attraction. This image shows a view of Edinburgh Castle from the nearby  Grassmarket , taken by the Scottish photographer  George Washington Wilson  between 1865 and 1885.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Edinburgh_Castle_from_Grass_Market.jpg/750px-Edinburgh_Castle_from_Grass_Market.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Little_bee-eater_%28Merops_pusillus_argutus%29_Namibia.jpg/525px-Little_bee-eater_%28Merops_pusillus_argutus%29_Namibia.jpg" />
 </div>
 
->Edinburgh Castle  is a castle in  Edinburgh , Scotland. It stands on  Castle Rock , which has been occupied by humans since at least the  Iron Age . Serving as a royal residence for the  Kingdom of Scotland  from the 12th century or earlier until 1633, Edinburgh Castle was involved in many historical conflicts from the  Wars of Scottish Independence  in the 14th century to the  Jacobite rising of 1745 . Few of the present buildings pre-date the Lang Siege of the 16th century when the medieval defences were largely destroyed by artillery bombardment. The most notable exceptions are  St Margaret's Chapel  (which dates from the early 12th century and is regarded as the oldest building in Edinburgh), the Royal Palace, and the early-16th-century Great Hall. The castle also houses the Scottish  regalia , known as the  Honours of Scotland , and is the site of the  Scottish National War Memorial  and the  National War Museum .  Some of the castle buildings house  regimental museums  that contribute to its presentation as a tourist attraction. This image shows a view of Edinburgh Castle from the nearby  Grassmarket , taken by the Scottish photographer  George Washington Wilson  between 1865 and 1885.
+>The  little bee-eater  ( Merops pusillus ) is a species of bird in the  bee-eater  family, Meropidae, found in  sub-Saharan Africa . The bird has green upper parts with a yellow throat, black  gorget , and rich brown upper breast fading to buffish ochre on the belly, while the beak and legs are black. This little bee-eater of the  subspecies   M. p. argutus  was photographed by the  Linyanti River  in  Nkasa Rupara National Park , Namibia.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gustav_Klimt_-_Hope%2C_II_-_Google_Art_Project.jpg/600px-Gustav_Klimt_-_Hope%2C_II_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PHI-102b-Japanese_Government_%28Philippines%29-1_Centavo_%281942%29.jpg/2px-PHI-102b-Japanese_Government_%28Philippines%29-1_Centavo_%281942%29.jpg" />
 </div>
 
->Hope II  is a oil-on-canvas painting with added gold and platinum by the Austrian  symbolist  artist  Gustav Klimt , created in 1907–1908. It depicts a pregnant woman with closed eyes, with a human skull representing death appearing from behind her stomach – perhaps a sign of the dangers of  labour . At the foot of the painting, three other women bow their heads, as if praying or mourning. The square painting measures 110.5 centimetres (43.5 in) on each side, and is now in the collection of the  Museum of Modern Art  in New York.
+>1 centavo
 
 
 

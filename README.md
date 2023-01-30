@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PHI-102b-Japanese_Government_%28Philippines%29-1_Centavo_%281942%29.jpg/2px-PHI-102b-Japanese_Government_%28Philippines%29-1_Centavo_%281942%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lawrence_Joseph_Hogan_%28restoration%29.jpg/375px-Lawrence_Joseph_Hogan_%28restoration%29.jpg" />
 </div>
 
->1 centavo
+>Lawrence Hogan  (1928–2017) was an American politician who served as a  Republican  US Congressman, representing the  5th congressional district  of  Maryland  from 1969 to 1975. In 1974, he was the only Republican Representative to vote to recommend all three House  articles of impeachment  against President  Richard Nixon . He was also the father of  Larry Hogan , the 62nd  governor of Maryland .
 
 
 

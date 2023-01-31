@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lawrence_Joseph_Hogan_%28restoration%29.jpg/375px-Lawrence_Joseph_Hogan_%28restoration%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_ciliate_Frontonia_sp.jpg/525px-The_ciliate_Frontonia_sp.jpg" />
 </div>
 
->Lawrence Hogan  (1928–2017) was an American politician who served as a  Republican  US Congressman, representing the  5th congressional district  of  Maryland  from 1969 to 1975. In 1974, he was the only Republican Representative to vote to recommend all three House  articles of impeachment  against President  Richard Nixon . He was also the father of  Larry Hogan , the 62nd  governor of Maryland .
+>Frontonia  is a genus of free-living unicellular  ciliate protists , belonging to the order  Peniculida .  As Peniculids, the  Frontonia  are closely related to members of the genus  Paramecium .   However, whereas  Paramecia  are mainly  bacterivores ,  Frontonia  are capable of ingesting large prey such as diatoms, filamentous algae, testate amoebas, and even, in some circumstances, members of their own species.
 
 
 

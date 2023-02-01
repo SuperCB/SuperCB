@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_ciliate_Frontonia_sp.jpg/525px-The_ciliate_Frontonia_sp.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Pabda_Jhaal_-_Home-_Kolkata_-_West_Bengal.jpg/600px-Pabda_Jhaal_-_Home-_Kolkata_-_West_Bengal.jpg" />
 </div>
 
->Frontonia  is a genus of free-living unicellular  ciliate protists , belonging to the order  Peniculida .  As Peniculids, the  Frontonia  are closely related to members of the genus  Paramecium .   However, whereas  Paramecia  are mainly  bacterivores ,  Frontonia  are capable of ingesting large prey such as diatoms, filamentous algae, testate amoebas, and even, in some circumstances, members of their own species.
+>Bengali cuisine  is the culinary style of  Bengal , a region encompassing Bangladesh and the Indian states of  West Bengal  and  Tripura , as well as the  Barak Valley  in  Assam . The cuisine is known for its varied use of flavours including  mustard oil , as well as its desserts. There is a strong emphasis on rice as a staple, with fish traditionally the most common protein. Freshwater fish are preferred to seafish, although  barramundi , known as  bhetki , is also common. Although less popular than fish, Bengalis have eaten a variety of meats since pre-colonial times, ranging from pigs and deer to hedgehogs and turtles. In more recent times, lentils have begun to form a significant part of the diet. This photograph shows a serving of  pabda jhaal , a type of Bengali fish curry.
 
 
 

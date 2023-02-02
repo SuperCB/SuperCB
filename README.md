@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Pabda_Jhaal_-_Home-_Kolkata_-_West_Bengal.jpg/600px-Pabda_Jhaal_-_Home-_Kolkata_-_West_Bengal.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Advertisement_for_the_music_score_of_La_Boh%C3%A8me%2C_1895.jpg/525px-Advertisement_for_the_music_score_of_La_Boh%C3%A8me%2C_1895.jpg" />
 </div>
 
->Bengali cuisine  is the culinary style of  Bengal , a region encompassing Bangladesh and the Indian states of  West Bengal  and  Tripura , as well as the  Barak Valley  in  Assam . The cuisine is known for its varied use of flavours including  mustard oil , as well as its desserts. There is a strong emphasis on rice as a staple, with fish traditionally the most common protein. Freshwater fish are preferred to seafish, although  barramundi , known as  bhetki , is also common. Although less popular than fish, Bengalis have eaten a variety of meats since pre-colonial times, ranging from pigs and deer to hedgehogs and turtles. In more recent times, lentils have begun to form a significant part of the diet. This photograph shows a serving of  pabda jhaal , a type of Bengali fish curry.
+>La bohème  is an  opera  in four acts composed by  Giacomo Puccini  between 1893 and 1895 to an Italian  libretto  by  Luigi Illica  and  Giuseppe Giacosa , based on  Scènes de la vie de bohème  (1851) by  Henri Murger . The opera, which had its world premiere on 1 February 1896 in  Turin , is set in  Paris  around 1830 and shows the  Bohemian lifestyle  of the poor seamstress Mimì and her artist friends, including Rodolfo, Marcello and Musetta. This 1895 poster was produced by  Adolfo Hohenstein  for the publishing house  G. Ricordi & C.  to advertise the musical score of  La bohème , and depicts Mimì and Rodolfo at the end of the opera's third act. Knowing that Mimì is dying and Rodolfo is too poor to help her, but too much in love to separate, they agree to remain together until the spring, when the world is coming to life again and no one feels truly alone. Meanwhile, Marcello and Musetta quarrel about Musetta's flirtatiousness in counterpoint to the other pair's reconciliation.
 
 
 

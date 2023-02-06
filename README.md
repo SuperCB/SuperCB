@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_geologic_map_of_the_Moon_at_1-2.5M_scale.png/1350px-The_geologic_map_of_the_Moon_at_1-2.5M_scale.png" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/African_Grey_Hornbill_%28Lophoceros_nasutus_epirhinus%29_female.jpg/525px-African_Grey_Hornbill_%28Lophoceros_nasutus_epirhinus%29_female.jpg" />
 </div>
 
->The  geology of the Moon  is quite different from that of the Earth. The Moon  lacks a true atmosphere , and the absence of oxygen and water eliminates erosion due to weather. Instead, the surface is eroded much more slowly through bombardment of the lunar surface by  micrometeorites . It lacks any known form of  plate tectonics ,  has a lower gravitational acceleration , and cooled faster after  its formation  because of its small size. In addition to impacts, the  geomorphology  of the lunar surface has been shaped by  volcanism , which is now thought to have ended less than 50 million years ago. The Moon is a  differentiated  body, with a  crust ,  mantle , and  core . This global  geologic map  of the Moon was published by Chinese  planetary geologists  in 2022 at a  scale  of 1 to 2.5 million at full resolution. Colours are used to indicate different  stratigraphic units  corresponding to various periods of the  lunar geologic timescale , with structural features and  Moon landing  sites also marked. The main map uses the  Mollweide projection . Two insets are provided for the northern and southern polar areas, as well as two smaller maps illustrating the  lithology  and  tectonic  units of the lunar surface.
+>The  African grey hornbill  ( Lophoceros nasutus ) is a bird of the  hornbill  family, which is widespread in much of  sub-Saharan Africa  and the south-west of the  Arabian Peninsula . This female of the subspecies  L. n. epirhinus  was photographed in Namibia's  Etosha National Park .
 
 
 

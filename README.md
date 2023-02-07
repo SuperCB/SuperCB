@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/African_Grey_Hornbill_%28Lophoceros_nasutus_epirhinus%29_female.jpg/525px-African_Grey_Hornbill_%28Lophoceros_nasutus_epirhinus%29_female.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jan_Matejko%2C_Sta%C5%84czyk.jpg/570px-Jan_Matejko%2C_Sta%C5%84czyk.jpg" />
 </div>
 
->The  African grey hornbill  ( Lophoceros nasutus ) is a bird of the  hornbill  family, which is widespread in much of  sub-Saharan Africa  and the south-west of the  Arabian Peninsula . This female of the subspecies  L. n. epirhinus  was photographed in Namibia's  Etosha National Park .
+>Stańczyk  is an  oil-on-canvas painting  by  Jan Matejko , finished in 1862. It depicts  Stańczyk , the court jester when Poland was at the height of its political, economic and cultural power during the era of the  Renaissance in Poland , during the reign of King  Sigismund I the Old  in the 16th century. The painting contrasts the solemn jester, who sits alone in a dark room and is the focus of the painting, and the lively royal ball going on in the background. Stańczyk's appearance is gloomy and deep in thought. The painting was acquired by the  Warsaw National Museum  in 1924. During World War II it  was looted by the Nazis  and subsequently by the  Soviet Union , but was returned to Poland around 1956.
 
 
 

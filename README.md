@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jan_Matejko%2C_Sta%C5%84czyk.jpg/570px-Jan_Matejko%2C_Sta%C5%84czyk.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Agence_Rol_-_23-10-11%2C_Toulon%2C_cuirass%C3%A9_Suffren.jpg/750px-Agence_Rol_-_23-10-11%2C_Toulon%2C_cuirass%C3%A9_Suffren.jpg" />
 </div>
 
->Stańczyk  is an  oil-on-canvas painting  by  Jan Matejko , finished in 1862. It depicts  Stańczyk , the court jester when Poland was at the height of its political, economic and cultural power during the era of the  Renaissance in Poland , during the reign of King  Sigismund I the Old  in the 16th century. The painting contrasts the solemn jester, who sits alone in a dark room and is the focus of the painting, and the lively royal ball going on in the background. Stańczyk's appearance is gloomy and deep in thought. The painting was acquired by the  Warsaw National Museum  in 1924. During World War II it  was looted by the Nazis  and subsequently by the  Soviet Union , but was returned to Poland around 1956.
+>Suffren  was a  predreadnought battleship  built for the  French Navy  and completed in 1902. The ship was assigned to the  Mediterranean Squadron  for most of her career and often served as a  flagship . She twice collided with French ships and twice had  propeller shafts  break before the start of World War I in 1914.  Suffren  was assigned to the  naval operations off the Dardanelles , participating in a series of attacks on  Ottoman  fortifications. She was moderately damaged on 18 March 1915 and was sent to  Toulon  for repairs. She returned to provide gunfire support for the  Allied  forces during the  Gallipoli campaign .  Suffren  provided covering fire as the Allies withdrew from the peninsula and accidentally sank one of the evacuation ships. She was then assigned to the squadron tasked to prevent  Greek  interference with Allied operations on the  Salonica Front . While en route to  Lorient  for a  refit ,  Suffren  was  torpedoed  off  Lisbon  by a German submarine on 26 November 1916 and sunk with all hands. This photograph shows  Suffren  off  Toulon  in October 1911.
 
 
 

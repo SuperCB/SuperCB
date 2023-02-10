@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Himalayan_salt_%28coarse%29.jpg/600px-Himalayan_salt_%28coarse%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Henties_bay.jpg/750px-Henties_bay.jpg" />
 </div>
 
->Himalayan salt  is rock salt ( halite ) mined from the  Salt Range  mountains in the Pakistani region of  Punjab . The salt is principally  sodium chloride  but has trace presence of  calcium ,  iron ,  zinc ,  chromium ,  magnesium , and  sulfate , minerals which give some  veins  of the salt a pink or reddish color. Himalayan salt is often used as a substitute for common  table salt , sometimes being promoted as a healthier alternative, although there is no scientific evidence to support this. It has also been used as a material for serving dishes,  baking stones , and  griddles . This image of coarse white and pink grains of Himalayan salt, up to 5 millimetres (0.20 in) in diameter, was  focus-stacked  from 23 individual photographs.
+>Henties Bay  is a coastal town in the  Erongo Region  of western Namibia. It is a holiday and retirement settlement, with  angling  a popular activity, and also serves as a gateway to the  seal  colony of  Cape Cross , which lies 46 kilometres (29 miles) to the north of the town. The town is named after Major Hendrik "Henty" Stefanus van der Merwe, who found the location in 1929 while looking for water, noting the abundance of fish, and was one of the first to promote the town as a tourist resort. This aerial view of Henties Bay was taken in 2018, with the South Atlantic Ocean in the background.
 
 
 

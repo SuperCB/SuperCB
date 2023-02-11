@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Henties_bay.jpg/750px-Henties_bay.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/An%C3%A9mona_de_mar_%28Heteractis_crispa%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-29%2C_DD_43.jpg/525px-An%C3%A9mona_de_mar_%28Heteractis_crispa%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-29%2C_DD_43.jpg" />
 </div>
 
->Henties Bay  is a coastal town in the  Erongo Region  of western Namibia. It is a holiday and retirement settlement, with  angling  a popular activity, and also serves as a gateway to the  seal  colony of  Cape Cross , which lies 46 kilometres (29 miles) to the north of the town. The town is named after Major Hendrik "Henty" Stefanus van der Merwe, who found the location in 1929 while looking for water, noting the abundance of fish, and was one of the first to promote the town as a tourist resort. This aerial view of Henties Bay was taken in 2018, with the South Atlantic Ocean in the background.
+>The  sebae anemone  ( Heteractis crispa ) is a species of  sea anemone  belonging to the family  Stichodactylidae . It is widespread throughout the tropical and subtropical waters of the  Indo-Pacific , from the eastern coasts of Africa and the  Red Sea  to  Polynesia , and from south Japan to Australia and  New Caledonia . It prefers hard-base  substrates  slightly covered with sand but it can also cling to branching  corals  from the surface to a depth of 40 metres (130 ft). This sebae anemone was photographed in  Ras Muhammad National Park , Egypt. A tiny  Red Sea clownfish  can be seen among the anemone's  tentacles  in the centre of the image.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/An%C3%A9mona_de_mar_%28Heteractis_crispa%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-29%2C_DD_43.jpg/525px-An%C3%A9mona_de_mar_%28Heteractis_crispa%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-29%2C_DD_43.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BA%D0%BE%D0%BB%D0%B5%D0%B3%D1%96%D1%83%D0%BC%D1%83_%D0%9A%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5%D1%86%D1%8C_DSC7894.jpg/750px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BA%D0%BE%D0%BB%D0%B5%D0%B3%D1%96%D1%83%D0%BC%D1%83_%D0%9A%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5%D1%86%D1%8C_DSC7894.jpg" />
 </div>
 
->The  sebae anemone  ( Heteractis crispa ) is a species of  sea anemone  belonging to the family  Stichodactylidae . It is widespread throughout the tropical and subtropical waters of the  Indo-Pacific , from the eastern coasts of Africa and the  Red Sea  to  Polynesia , and from south Japan to Australia and  New Caledonia . It prefers hard-base  substrates  slightly covered with sand but it can also cling to branching  corals  from the surface to a depth of 40 metres (130 ft). This sebae anemone was photographed in  Ras Muhammad National Park , Egypt. A tiny  Red Sea clownfish  can be seen among the anemone's  tentacles  in the centre of the image.
+>Kremenets  is a city in the  Ternopil Oblast  of  western Ukraine . It is the administrative center of the  Kremenets Raion , and lies to the north-east of  Pochayiv Monastery . The city is situated in the historic region of  Volhynia  and features the 12th-century  Kremenets Castle . During the  Mongol invasion of Kievan Rus'  in 1240 and 1241, Kremenets was one of few cities that  Batu Khan  failed to capture. This photograph depicts the former buildings of the  Krzemieniec Lyceum , as seen from Castle Hill.
 
 
 

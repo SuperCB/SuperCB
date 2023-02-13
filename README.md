@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BA%D0%BE%D0%BB%D0%B5%D0%B3%D1%96%D1%83%D0%BC%D1%83_%D0%9A%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5%D1%86%D1%8C_DSC7894.jpg/750px-%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BA%D0%BE%D0%BB%D0%B5%D0%B3%D1%96%D1%83%D0%BC%D1%83_%D0%9A%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5%D1%86%D1%8C_DSC7894.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Henry_Highland_Garnet_by_James_U._Stead.jpg/525px-Henry_Highland_Garnet_by_James_U._Stead.jpg" />
 </div>
 
->Kremenets  is a city in the  Ternopil Oblast  of  western Ukraine . It is the administrative center of the  Kremenets Raion , and lies to the north-east of  Pochayiv Monastery . The city is situated in the historic region of  Volhynia  and features the 12th-century  Kremenets Castle . During the  Mongol invasion of Kievan Rus'  in 1240 and 1241, Kremenets was one of few cities that  Batu Khan  failed to capture. This photograph depicts the former buildings of the  Krzemieniec Lyceum , as seen from Castle Hill.
+>Henry Highland Garnet  (1815–1882) was an American  abolitionist , minister, educator and orator. Having escaped as a child  from slavery in Maryland with his family, he grew up in New York City. He was educated at the  African Free School  and other institutions, and went on to join the  American Anti-Slavery Society , delivering abolitionist speeches such as the 1843 "Call to Rebellion". On February 12, 1865, Garnet delivered a sermon in the  U.S. House of Representatives  while it was not in session, becoming the first African American to speak in that chamber. This photograph is an  albumen silver print  of Garnet, taken in around 1881.
 
 
 

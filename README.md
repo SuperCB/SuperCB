@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Henry_Highland_Garnet_by_James_U._Stead.jpg/525px-Henry_Highland_Garnet_by_James_U._Stead.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/071R01.jpg/600px-071R01.jpg" />
 </div>
 
->Henry Highland Garnet  (1815–1882) was an American  abolitionist , minister, educator and orator. Having escaped as a child  from slavery in Maryland with his family, he grew up in New York City. He was educated at the  African Free School  and other institutions, and went on to join the  American Anti-Slavery Society , delivering abolitionist speeches such as the 1843 "Call to Rebellion". On February 12, 1865, Garnet delivered a sermon in the  U.S. House of Representatives  while it was not in session, becoming the first African American to speak in that chamber. This photograph is an  albumen silver print  of Garnet, taken in around 1881.
+>Wire bonding  is the method of making interconnections between an  integrated circuit  or other  semiconductor device  and its  packaging  during  semiconductor device fabrication . This  macro photograph  depicts an integrated circuit that functions as an  intermediate-frequency amplifier  and  demodulator  in a  transceiver , with gold wire  ball-bonded  on a silicon  die .
 
 
 

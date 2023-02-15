@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/071R01.jpg/600px-071R01.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Giambattista_Tiepolo_-_The_Banquet_of_Cleopatra_-_Google_Art_Project.jpg/750px-Giambattista_Tiepolo_-_The_Banquet_of_Cleopatra_-_Google_Art_Project.jpg" />
 </div>
 
->Wire bonding  is the method of making interconnections between an  integrated circuit  or other  semiconductor device  and its  packaging  during  semiconductor device fabrication . This  macro photograph  depicts an integrated circuit that functions as an  intermediate-frequency amplifier  and  demodulator  in a  transceiver , with gold wire  ball-bonded  on a silicon  die .
+>The Banquet of Cleopatra  is an oil-on-canvas painting by  Giovanni Battista Tiepolo , completed in 1744 and now in the  National Gallery of Victoria  in  Melbourne , Australia. This is the first of three large paintings of the subject by Tiepolo. In addition to these, the much smaller oil studies or  modelli  for each of the larger paintings survive. The subject of the painting is a supposed historical episode described by both  Pliny 's  Natural History  and  Plutarch 's  Lives , in which  Cleopatra  takes an expensive pearl and dissolves it in her wine prior to imbibing the drink.
 
 
 

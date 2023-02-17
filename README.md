@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/We_Can_Do_It%21_NARA_535413_-_Restoration_2.jpg/525px-We_Can_Do_It%21_NARA_535413_-_Restoration_2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Vernon_E._Jordan_working_on_a_voter_education_project.jpg/600px-Vernon_E._Jordan_working_on_a_voter_education_project.jpg" />
 </div>
 
->" We Can Do It! " is an American Second World War poster produced by J. Howard Miller in 1943 for  Westinghouse Electric  as an inspirational image to boost female worker morale. It depicts a woman in a blue work shirt and a red-and-white polka-dot bandana flexing her right biceps while looking out at the viewer, with the title "We Can Do It!" in a speech bubble at the top of the poster. No more than 1,800 copies were printed. It was not initially seen beyond several Westinghouse factories in  East Pittsburgh, Pennsylvania , and the midwestern U.S., where it was scheduled to be displayed for two five-day work weeks starting Monday, February 15, 1943. The poster was little seen during the war, but was rediscovered in the early 1980s and widely reproduced in many forms, often also called " Rosie the Riveter " after the iconic figure of a strong female war production worker. The image was used to promote feminism and other political issues beginning in the 1980s.
+>Vernon Jordan  (1935–2021) was an American business executive and civil rights attorney. After growing up in the  racially segregated society of the Southern United States , Jordan graduated from  DePauw University  in  Indiana  as the only black student in a class of 400. He went on to work for various organizations involved in the  civil rights movement , first as a lawyer and then as an activist, before becoming a political advisor to President  Bill Clinton  in the 1990s. This photograph shows Jordan working on a voter education program in 1967, seated at a desk with a typewriter at the offices of the  Southern Regional Council  in Atlanta.
 
 
 

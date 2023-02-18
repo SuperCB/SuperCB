@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Vernon_E._Jordan_working_on_a_voter_education_project.jpg/600px-Vernon_E._Jordan_working_on_a_voter_education_project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Beautiful_demoiselle_%28Calopteryx_virgo%29_male_3.jpg/600px-Beautiful_demoiselle_%28Calopteryx_virgo%29_male_3.jpg" />
 </div>
 
->Vernon Jordan  (1935–2021) was an American business executive and civil rights attorney. After growing up in the  racially segregated society of the Southern United States , Jordan graduated from  DePauw University  in  Indiana  as the only black student in a class of 400. He went on to work for various organizations involved in the  civil rights movement , first as a lawyer and then as an activist, before becoming a political advisor to President  Bill Clinton  in the 1990s. This photograph shows Jordan working on a voter education program in 1967, seated at a desk with a typewriter at the offices of the  Southern Regional Council  in Atlanta.
+>The  beautiful demoiselle  ( Calopteryx virgo ) is a European  damselfly  belonging to the family  Calopterygidae . It is found across most of Europe as well as parts of the North African Mediterranean coast and the Arctic polar sea. The insect's body length is around 49 to 54 millimetres (1.9 to 2.1 in), with hindwings of 31 to 37 millimetres (1.2 to 1.5 in). It has small hemispherical eyes located laterally on the head, two pairs of wings similar in shape and a slender abdomen. The species presents an evident  sexual dimorphism  in colour pattern. This male beautiful demoiselle was photographed in  Hampshire , England, in 2016.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Beautiful_demoiselle_%28Calopteryx_virgo%29_male_3.jpg/600px-Beautiful_demoiselle_%28Calopteryx_virgo%29_male_3.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stopi%C4%87a_Pe%C4%87ina2.jpg/750px-Stopi%C4%87a_Pe%C4%87ina2.jpg" />
 </div>
 
->The  beautiful demoiselle  ( Calopteryx virgo ) is a European  damselfly  belonging to the family  Calopterygidae . It is found across most of Europe as well as parts of the North African Mediterranean coast and the Arctic polar sea. The insect's body length is around 49 to 54 millimetres (1.9 to 2.1 in), with hindwings of 31 to 37 millimetres (1.2 to 1.5 in). It has small hemispherical eyes located laterally on the head, two pairs of wings similar in shape and a slender abdomen. The species presents an evident  sexual dimorphism  in colour pattern. This male beautiful demoiselle was photographed in  Hampshire , England, in 2016.
+>The  Stopića Cave  is a  limestone  cave near  Sirogojno , on the slopes of Mount  Zlatibor  in western Serbia. It has been protected by the state as a  natural monument . It is located in the village of  Rožanstvo , 19 kilometres (12 mi) from the town of  Zlatibor . This photograph shows cascading  tufa  "bathtubs" filled with water within the cave.
 
 
 

@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stopi%C4%87a_Pe%C4%87ina2.jpg/750px-Stopi%C4%87a_Pe%C4%87ina2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Human_karyotype_with_bands_and_sub-bands.png/600px-Human_karyotype_with_bands_and_sub-bands.png" />
 </div>
 
->The  Stopića Cave  is a  limestone  cave near  Sirogojno , on the slopes of Mount  Zlatibor  in western Serbia. It has been protected by the state as a  natural monument . It is located in the village of  Rožanstvo , 19 kilometres (12 mi) from the town of  Zlatibor . This photograph shows cascading  tufa  "bathtubs" filled with water within the cave.
+>The  human genome  is the complete set of  nucleic acid sequences  for  humans , encoded as  DNA  within the 23  chromosome  pairs in  cell nuclei  and in small DNA molecules found within  mitochondria . This includes both protein-coding DNA sequences and various types of  DNA that does not encode proteins . This schematic representation of the human diploid  karyotype  shows the organization of the human genome into chromosomes, as well as annotated  bands  and sub-bands as seen on  G banding . The diagram shows both the female (XX) and male (XY) versions of the 23rd chromosome pair. Chromosomal changes during the  cell cycle  are displayed at the top center. The  human mitochondrial genome  is shown to scale at the bottom left.
 
 
 

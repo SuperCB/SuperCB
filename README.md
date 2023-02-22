@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Human_karyotype_with_bands_and_sub-bands.png/600px-Human_karyotype_with_bands_and_sub-bands.png" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Pierre-Luc-Charles_Cic%C3%A9ri_-_Eug%C3%A8ne_Cic%C3%A9ri_-_Philippe_Benoist_-_Adolphe_Jean_Baptiste_Bayot_-_D%C3%A9corations_de_th%C3%A9%C3%A2tre%2C_Robert_le_diable%2C_3e_act.jpg/525px-Pierre-Luc-Charles_Cic%C3%A9ri_-_Eug%C3%A8ne_Cic%C3%A9ri_-_Philippe_Benoist_-_Adolphe_Jean_Baptiste_Bayot_-_D%C3%A9corations_de_th%C3%A9%C3%A2tre%2C_Robert_le_diable%2C_3e_act.jpg" />
 </div>
 
->The  human genome  is the complete set of  nucleic acid sequences  for  humans , encoded as  DNA  within the 23  chromosome  pairs in  cell nuclei  and in small DNA molecules found within  mitochondria . This includes both protein-coding DNA sequences and various types of  DNA that does not encode proteins . This schematic representation of the human diploid  karyotype  shows the organization of the human genome into chromosomes, as well as annotated  bands  and sub-bands as seen on  G banding . The diagram shows both the female (XX) and male (XY) versions of the 23rd chromosome pair. Chromosomal changes during the  cell cycle  are displayed at the top center. The  human mitochondrial genome  is shown to scale at the bottom left.
+>Robert le diable  is an  opera  in five acts composed by  Giacomo Meyerbeer  between 1827 and 1831, to a  libretto  written by  Eugène Scribe  and  Germain Delavigne . Superficially based on the medieval legend of  Robert the Devil , it is regarded as one of the first French  grand operas . This illustration depicts the set design by  Pierre-Luc-Charles Cicéri  of the opera's third act, known as the  Ballet of the Nuns .
 
 
 

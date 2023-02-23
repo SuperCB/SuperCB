@@ -15,10 +15,10 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Pierre-Luc-Charles_Cic%C3%A9ri_-_Eug%C3%A8ne_Cic%C3%A9ri_-_Philippe_Benoist_-_Adolphe_Jean_Baptiste_Bayot_-_D%C3%A9corations_de_th%C3%A9%C3%A2tre%2C_Robert_le_diable%2C_3e_act.jpg/525px-Pierre-Luc-Charles_Cic%C3%A9ri_-_Eug%C3%A8ne_Cic%C3%A9ri_-_Philippe_Benoist_-_Adolphe_Jean_Baptiste_Bayot_-_D%C3%A9corations_de_th%C3%A9%C3%A2tre%2C_Robert_le_diable%2C_3e_act.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/United_States_President_Barack_Obama_bends_down_to_allow_the_son_of_a_White_House_staff_member_to_touch_his_head.jpg/600px-United_States_President_Barack_Obama_bends_down_to_allow_the_son_of_a_White_House_staff_member_to_touch_his_head.jpg" />
 </div>
 
->Robert le diable  is an  opera  in five acts composed by  Giacomo Meyerbeer  between 1827 and 1831, to a  libretto  written by  Eugène Scribe  and  Germain Delavigne . Superficially based on the medieval legend of  Robert the Devil , it is regarded as one of the first French  grand operas . This illustration depicts the set design by  Pierre-Luc-Charles Cicéri  of the opera's third act, known as the  Ballet of the Nuns .
+>Hair Like Mine  is a 2009 photograph by  Pete Souza , the  chief official White House photographer , showing Jacob Philadelphia, the five-year-old son of a  United States National Security Council  staff member, touching the head of President  Barack Obama  in the  Oval Office . The moment arose after Philadelphia had asked the president: "I want to know if your hair is like mine." The photograph was called "iconic" by  Time , and was later described by First Lady  Michelle Obama  as symbolizing progress in the African-American  struggle for civil rights .
 
 
 

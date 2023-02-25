@@ -26,16 +26,6 @@ README = """
 
 >{wiki_content}
 
-
-<div align="center">
-  <img height="300px" src="base_metrics.svg" />
-  <img  src="metrics.plugin.calendar.full.svg" />
-</div>
-
-
-<div align="center">
-  <img  src="plugin_metrics.svg" /> 
-</div>
 """
 
 print("download image...")

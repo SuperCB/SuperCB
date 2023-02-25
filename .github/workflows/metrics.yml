@@ -13,15 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-     
-      - name: Labels
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 12
+    
       # base metrics
       - name: base_metrics
         uses: lowlighter/metrics@latest
@@ -50,12 +42,7 @@ jobs:
           base: ""
           config_timezone: Asia/Shanghai
           
-          # 🏆 Achievements 我的成就
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          
+
   
           
           
@@ -65,24 +52,9 @@ jobs:
           plugin_stargazers: yes
 
           
-          # 💡 Coding habits (编码习惯)
-          plugin_habits: yes
-          plugin_habits_from: 200                                   # Use 200 events to compute habits
-          plugin_habits_days: 14                                    # Keep only events from last 14 days
-          plugin_habits_facts: yes                                  # Display facts section
-          plugin_habits_charts: yes                                 # Display charts section
-          plugin_habits_trim: yes                                   # Trim unused hours on daily chart
+
           
-#           # 🧑‍🤝‍🧑 People plugin 关注与被关注
-#           plugin_people: yes
-#           plugin_people_types: followers, following                 # Display followers and "thanks" sections
-#           plugin_people_limit: 150                                   # Limit to 28 entries per section
-#           plugin_people_size: 36                                    # Size in pixels of displayed avatars
-#           plugin_people_identicons: no                              # Use avatars (do not use identicons)
-#           plugin_people_thanks: octocat                             # Users that will be displayed in "thanks" section
-#           plugin_people_sponsors_custom: octocat                    # Users that will be displayed additionally in "sponsors" section
-#           plugin_people_shuffle: yes                                # Shuffle for varied output
-          
+
 
          
          # 🌟 Recently starred repositories

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Francisco_de_Goya_-_Escena_de_Inquisici%C3%B3n_-_Google_Art_Project.jpg/750px-Francisco_de_Goya_-_Escena_de_Inquisici%C3%B3n_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oxyura_australis_male_2_-_Penrith.jpg/675px-Oxyura_australis_male_2_-_Penrith.jpg" />
 </div>
 
->The Inquisition Tribunal  is a 46-by-73-centimetre (18 by 29 in) oil-on-panel painting produced by the Spanish artist  Francisco Goya  between 1812 and 1819. It depicts an  auto-da-fé  by a tribunal of the  Spanish Inquisition  taking place inside a church. The officials in the scene are predominantly  monks , with only a single secular judge present, while the four accused are wearing tall, pointed corozas or  capirotes  (white pointed hats) on their heads and clad in  sanbenitos  describing their offences. The painting is now in the collection of the  Real Academia de Bellas Artes de San Fernando  in Madrid.
+>The  blue-billed duck  ( Oxyura australis ) is a small Australian  stiff-tailed duck , with both the male and female growing to a length of 40 centimetres (16 in). The male has a slate-blue bill which changes to bright-blue during the breeding season, which gives the duck its common name. The male has deep chestnut  plumage  during breeding season, reverting to a dark grey. The female retains black plumage with brown tips all year round. The duck is  endemic  to Australia's  temperate  regions, inhabiting natural inland  wetlands  and also artificial wetlands, such as sewage ponds, in large numbers. It can be difficult to observe due to its  cryptic  nature during its breeding season through autumn and winter. The male duck exhibits a complex mating ritual. The species is  omnivorous , with a preference for small aquatic  invertebrates . This male blue-billed duck was photographed near  Penrith, New South Wales , in 2020.
 
 

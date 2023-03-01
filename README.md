@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oxyura_australis_male_2_-_Penrith.jpg/675px-Oxyura_australis_male_2_-_Penrith.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/525px-Katherine_Johnson_1983.jpg" />
 </div>
 
->The  blue-billed duck  ( Oxyura australis ) is a small Australian  stiff-tailed duck , with both the male and female growing to a length of 40 centimetres (16 in). The male has a slate-blue bill which changes to bright-blue during the breeding season, which gives the duck its common name. The male has deep chestnut  plumage  during breeding season, reverting to a dark grey. The female retains black plumage with brown tips all year round. The duck is  endemic  to Australia's  temperate  regions, inhabiting natural inland  wetlands  and also artificial wetlands, such as sewage ponds, in large numbers. It can be difficult to observe due to its  cryptic  nature during its breeding season through autumn and winter. The male duck exhibits a complex mating ritual. The species is  omnivorous , with a preference for small aquatic  invertebrates . This male blue-billed duck was photographed near  Penrith, New South Wales , in 2020.
+>Katherine Johnson  (1918–2020) was an African-American mathematician whose calculations of  orbital mechanics  as a  NASA  employee were critical to the success of U.S.  crewed spaceflights . During her 33-year career at NASA and its predecessor, the  National Advisory Committee for Aeronautics , she earned a reputation for mastering complex manual calculations and helped the space agency pioneer the use of computers to perform tasks. She worked with the  Apollo program , calculating rendezvous paths for  the lunar lander  and  command module  on its flights to the Moon. Johnson's calculations were essential to the beginning of the  Space Shuttle program  and she also worked on plans for a mission to Mars. In 2015, President  Barack Obama  awarded her the  Presidential Medal of Freedom , as a pioneering example of African-American women in  STEM . She was portrayed by  Taraji P. Henson  as a lead character in the 2016 film  Hidden Figures . This NASA photographic portrait of Johnson was taken in 1983.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/525px-Katherine_Johnson_1983.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lyttelton_Harbour_%28Whakaraup%C5%8D%29_from_Mt_Ada%2C_Canterbury%2C_New_Zealand.jpg/1350px-Lyttelton_Harbour_%28Whakaraup%C5%8D%29_from_Mt_Ada%2C_Canterbury%2C_New_Zealand.jpg" />
 </div>
 
->Katherine Johnson  (1918–2020) was an African-American mathematician whose calculations of  orbital mechanics  as a  NASA  employee were critical to the success of U.S.  crewed spaceflights . During her 33-year career at NASA and its predecessor, the  National Advisory Committee for Aeronautics , she earned a reputation for mastering complex manual calculations and helped the space agency pioneer the use of computers to perform tasks. She worked with the  Apollo program , calculating rendezvous paths for  the lunar lander  and  command module  on its flights to the Moon. Johnson's calculations were essential to the beginning of the  Space Shuttle program  and she also worked on plans for a mission to Mars. In 2015, President  Barack Obama  awarded her the  Presidential Medal of Freedom , as a pioneering example of African-American women in  STEM . She was portrayed by  Taraji P. Henson  as a lead character in the 2016 film  Hidden Figures . This NASA photographic portrait of Johnson was taken in 1983.
+>The  Port Hills  are a range of hills in the  Canterbury Region  of New Zealand, so named because they lie between the city of  Christchurch  and its port at  Lyttelton . The hills are an eroded remnant of the  Lyttelton volcano , which erupted millions of years ago. Starting at  Godley Head , the range runs approximately east–west along the northern side of  Lyttelton Harbour  and thence to the south, terminating near Gebbies Pass above the head of the harbour. It includes a number of summits between 300 and 500 metres (980 and 1,640 feet) above sea level. This photograph shows a panoramic view of the Port Hills from Mount Ada, looking towards Lyttelton Harbour in the distance.
 
 

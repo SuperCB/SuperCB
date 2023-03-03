@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lyttelton_Harbour_%28Whakaraup%C5%8D%29_from_Mt_Ada%2C_Canterbury%2C_New_Zealand.jpg/1350px-Lyttelton_Harbour_%28Whakaraup%C5%8D%29_from_Mt_Ada%2C_Canterbury%2C_New_Zealand.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Romanesco_broccoli_%28Brassica_oleracea%29.jpg/525px-Romanesco_broccoli_%28Brassica_oleracea%29.jpg" />
 </div>
 
->The  Port Hills  are a range of hills in the  Canterbury Region  of New Zealand, so named because they lie between the city of  Christchurch  and its port at  Lyttelton . The hills are an eroded remnant of the  Lyttelton volcano , which erupted millions of years ago. Starting at  Godley Head , the range runs approximately east–west along the northern side of  Lyttelton Harbour  and thence to the south, terminating near Gebbies Pass above the head of the harbour. It includes a number of summits between 300 and 500 metres (980 and 1,640 feet) above sea level. This photograph shows a panoramic view of the Port Hills from Mount Ada, looking towards Lyttelton Harbour in the distance.
+>Romanesco broccoli  is an edible flower bud of the species  Brassica oleracea . It is  chartreuse  in color, and has a form naturally approximating a  fractal . When compared to a traditional  cauliflower , it has a firmer texture and nutty flavor.
 
 

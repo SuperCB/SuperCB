@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Romanesco_broccoli_%28Brassica_oleracea%29.jpg/525px-Romanesco_broccoli_%28Brassica_oleracea%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Official_Program_Woman_Suffrage_Procession_-_March_3%2C_1913.jpg/600px-Official_Program_Woman_Suffrage_Procession_-_March_3%2C_1913.jpg" />
 </div>
 
->Romanesco broccoli  is an edible flower bud of the species  Brassica oleracea . It is  chartreuse  in color, and has a form naturally approximating a  fractal . When compared to a traditional  cauliflower , it has a firmer texture and nutty flavor.
+>The  Woman Suffrage Procession  was a suffragist parade held in  Washington, D.C. , on March 3, 1913, the day before  Woodrow Wilson's first presidential inauguration . It was organized by  Alice Paul  for the  National American Woman Suffrage Association . Thousands of suffragists marched down  Pennsylvania Avenue  "in a spirit of protest against the present political organization of society, from which women are excluded". The march and the attention it attracted were important in advancing  women's suffrage  in the United States. This image shows the front cover of the official program of the Woman Suffrage Procession, illustrated by Benjamin Moran Dale. It depicts an elaborately dressed woman blowing a trumpet with a "Votes for Women" banner while riding on horseback in front of the  United States Capitol .
 
 

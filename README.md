@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg/600px-Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mohawkite.jpg/600px-Mohawkite.jpg" />
 </div>
 
->Isambard Kingdom Brunel  (1806–1859) was an English  civil  and  mechanical engineer . The son of French engineer  Marc Isambard Brunel , he worked under his father as an assistant engineer on the  Thames Tunnel  project for several years until he was seriously injured in a flooding incident. During his recuperation he began a design for a bridge in Bristol, which would later be completed as the  Clifton Suspension Bridge . In 1833, Brunel was appointed chief engineer of the  Great Western Railway , overseeing development of the main line from  London  to  Bristol  which was completed in 1841. Brunel's other achievements included the design of the first  transatlantic  steamship and dockyards. This 1857 photograph, titled  Isambard Kingdom Brunel Standing Before the Launching Chains of the Great Eastern , was taken by  Robert Howlett . It depicts Brunel standing before a drum of chain used during the launching of  SS  Great Eastern  at  Millwall  in London; he carries a cigar case, and his boots and trousers are muddy.
+>Mohawkite  is a rare rock consisting of mixtures of the elements  arsenic ,  silver ,  nickel  and  copper , and the mineral  skutterudite , with the chemical formula Cu 3 As up to Cu 6 As, and the most desirable material was usually found in white  quartz  matrix. Named after the  Mohawk Mine  in the  Keweenaw Peninsula  of the U.S. state of  Michigan , where it was originally found, mohawkite has a hardness on the  Mohs scale  of 3.0 to 3.5 and a metallic luster. The rock's color ranges from brassy yellow to metallic gray, with some specimens having a blue or greenish surface tarnish. This nugget of mohawkite measures about 50 mm × 40 mm × 28 mm (2.0 in × 1.6 in × 1.1 in).
 
 

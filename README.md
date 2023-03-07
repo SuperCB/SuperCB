@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mohawkite.jpg/600px-Mohawkite.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Blue_tiger_%28Tirumala_limniace_exoticus%29_male_underside.jpg/525px-Blue_tiger_%28Tirumala_limniace_exoticus%29_male_underside.jpg" />
 </div>
 
->Mohawkite  is a rare rock consisting of mixtures of the elements  arsenic ,  silver ,  nickel  and  copper , and the mineral  skutterudite , with the chemical formula Cu 3 As up to Cu 6 As, and the most desirable material was usually found in white  quartz  matrix. Named after the  Mohawk Mine  in the  Keweenaw Peninsula  of the U.S. state of  Michigan , where it was originally found, mohawkite has a hardness on the  Mohs scale  of 3.0 to 3.5 and a metallic luster. The rock's color ranges from brassy yellow to metallic gray, with some specimens having a blue or greenish surface tarnish. This nugget of mohawkite measures about 50 mm × 40 mm × 28 mm (2.0 in × 1.6 in × 1.1 in).
+>Tirumala limniace , also known as the blue tiger, is a butterfly found in South Asia, and Southeast Asia, which belongs to the brush-footed butterfly family,  Nymphalidae . It is a large butterfly with a wingspan of 90 to 100 millimeters, with the males being smaller than the females. The upper side of the wing is dark brown to black and patterned with bluish-white, semi-transparent spots and lines. This male blue tiger, of the subspecies  T. l. exoticus , was photographed in  Kumarakom , in the Indian state of  Kerala .
 
 

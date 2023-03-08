@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Blue_tiger_%28Tirumala_limniace_exoticus%29_male_underside.jpg/525px-Blue_tiger_%28Tirumala_limniace_exoticus%29_male_underside.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wally_%28soprano%29%2C_figurino_di_Adolf_Hohenstein_per_La_Wally_%281892%29_-_Archivio_Storico_Ricordi_ICON004639_-_Restoration.jpg/525px-Wally_%28soprano%29%2C_figurino_di_Adolf_Hohenstein_per_La_Wally_%281892%29_-_Archivio_Storico_Ricordi_ICON004639_-_Restoration.jpg" />
 </div>
 
->Tirumala limniace , also known as the blue tiger, is a butterfly found in South Asia, and Southeast Asia, which belongs to the brush-footed butterfly family,  Nymphalidae . It is a large butterfly with a wingspan of 90 to 100 millimeters, with the males being smaller than the females. The upper side of the wing is dark brown to black and patterned with bluish-white, semi-transparent spots and lines. This male blue tiger, of the subspecies  T. l. exoticus , was photographed in  Kumarakom , in the Indian state of  Kerala .
+>La Wally  is an  opera  in four acts by composer  Alfredo Catalani , to a  libretto  by  Luigi Illica , first performed at  La Scala , Milan, in 1892. The story is set in the Austrian  Tyrol  where the heroine Wally is in love with Giuseppe Hagenbach. However, her father, Stromminger, wants her to marry Vincenzo Gellner. The opera concludes with Hagenbach and Wally pledging their love for each other, but being killed by an avalanche.  La Wally  was Catalani's last opera. This 1892 illustration by  Adolfo Hohenstein  depicts the Act I costume design for the title character Wally.
 
 

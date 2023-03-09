@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wally_%28soprano%29%2C_figurino_di_Adolf_Hohenstein_per_La_Wally_%281892%29_-_Archivio_Storico_Ricordi_ICON004639_-_Restoration.jpg/525px-Wally_%28soprano%29%2C_figurino_di_Adolf_Hohenstein_per_La_Wally_%281892%29_-_Archivio_Storico_Ricordi_ICON004639_-_Restoration.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hayden_Bridge.jpg/600px-Hayden_Bridge.jpg" />
 </div>
 
->La Wally  is an  opera  in four acts by composer  Alfredo Catalani , to a  libretto  by  Luigi Illica , first performed at  La Scala , Milan, in 1892. The story is set in the Austrian  Tyrol  where the heroine Wally is in love with Giuseppe Hagenbach. However, her father, Stromminger, wants her to marry Vincenzo Gellner. The opera concludes with Hagenbach and Wally pledging their love for each other, but being killed by an avalanche.  La Wally  was Catalani's last opera. This 1892 illustration by  Adolfo Hohenstein  depicts the Act I costume design for the title character Wally.
+>The  Hayden Bridge  is a wrought-iron  truss bridge  that was manufactured by the  Phoenixville Bridge Works  in the U.S. state of  Pennsylvania . It was built in 1882 and was initially located near  Corinne, Utah , crossing the  Bear River  as part of the  first transcontinental railroad . In 1901, the bridge was moved more than 1,000 miles (1,600 km) and reassembled at its present location, crossing the  McKenzie River  in  Springfield, Oregon , where it served as part of the Marcola line for the distribution of  lumber . It later closed down due to the closure of the area's lumbermills, until it was converted into a pedestrian bridge in 2019. It is the oldest intact bridge in the state of  Oregon . This photograph of the Hayden Bridge was taken as part of a 1990 Historic American Engineering Record survey.
 
 

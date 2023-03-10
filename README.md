@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hayden_Bridge.jpg/600px-Hayden_Bridge.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Marie_Stopes_in_her_laboratory%2C_1904_-_Restoration.jpg/675px-Marie_Stopes_in_her_laboratory%2C_1904_-_Restoration.jpg" />
 </div>
 
->The  Hayden Bridge  is a wrought-iron  truss bridge  that was manufactured by the  Phoenixville Bridge Works  in the U.S. state of  Pennsylvania . It was built in 1882 and was initially located near  Corinne, Utah , crossing the  Bear River  as part of the  first transcontinental railroad . In 1901, the bridge was moved more than 1,000 miles (1,600 km) and reassembled at its present location, crossing the  McKenzie River  in  Springfield, Oregon , where it served as part of the Marcola line for the distribution of  lumber . It later closed down due to the closure of the area's lumbermills, until it was converted into a pedestrian bridge in 2019. It is the oldest intact bridge in the state of  Oregon . This photograph of the Hayden Bridge was taken as part of a 1990 Historic American Engineering Record survey.
+>Marie Stopes  (1880–1958) was a British author,  palaeobotanist , and campaigner for  eugenics  and  women's rights . After obtaining a doctorate from the  University of Munich , Stopes was appointed to the faculty of the  Victoria University of Manchester , becoming its first female academic. She went on to make significant contributions to plant palaeontology and coal classification, assisting the British government with her coal expertise during World War I. From 1913, Stopes began writing on issues of marriage, parenthood and women's reproductive rights. With her second husband,  Humphrey Verdon Roe , she founded the first  birth control  clinic in Britain. Her sex manual  Married Love  (1918) was controversial and influential, and brought the subject of birth control into wide public discourse. She was also a believer in eugenics, being described in her biography by  June Rose  as "an elitist, an idealist, interested in creating a society in which only the best and beautiful should survive". This 1904 photograph shows Stopes at work in her laboratory in Manchester.
 
 

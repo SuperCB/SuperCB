@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Marie_Stopes_in_her_laboratory%2C_1904_-_Restoration.jpg/675px-Marie_Stopes_in_her_laboratory%2C_1904_-_Restoration.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tongariro02.jpg/1800px-Tongariro02.jpg" />
 </div>
 
->Marie Stopes  (1880–1958) was a British author,  palaeobotanist , and campaigner for  eugenics  and  women's rights . After obtaining a doctorate from the  University of Munich , Stopes was appointed to the faculty of the  Victoria University of Manchester , becoming its first female academic. She went on to make significant contributions to plant palaeontology and coal classification, assisting the British government with her coal expertise during World War I. From 1913, Stopes began writing on issues of marriage, parenthood and women's reproductive rights. With her second husband,  Humphrey Verdon Roe , she founded the first  birth control  clinic in Britain. Her sex manual  Married Love  (1918) was controversial and influential, and brought the subject of birth control into wide public discourse. She was also a believer in eugenics, being described in her biography by  June Rose  as "an elitist, an idealist, interested in creating a society in which only the best and beautiful should survive". This 1904 photograph shows Stopes at work in her laboratory in Manchester.
+>Mount Ngauruhoe  is a volcanic cone in New Zealand. It is the youngest vent in the  Tongariro  stratovolcano complex on the  Central Plateau  of the  North Island , and first erupted about 2,500 years ago. Ngauruhoe was New Zealand's most active volcano in the 20th century, with 45 eruptions, the most recent in 1977. This panoramic photograph, taken from Mount Tongariro, shows Mount Ngauruhoe and its surroundings, with  Mount Ruapehu  in the background.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tongariro02.jpg/1800px-Tongariro02.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Parked_boats_at_Anjarle_Creek.jpg/600px-Parked_boats_at_Anjarle_Creek.jpg" />
 </div>
 
->Mount Ngauruhoe  is a volcanic cone in New Zealand. It is the youngest vent in the  Tongariro  stratovolcano complex on the  Central Plateau  of the  North Island , and first erupted about 2,500 years ago. Ngauruhoe was New Zealand's most active volcano in the 20th century, with 45 eruptions, the most recent in 1977. This panoramic photograph, taken from Mount Tongariro, shows Mount Ngauruhoe and its surroundings, with  Mount Ruapehu  in the background.
+>A  fishing vessel  is a boat or ship used to catch fish in the sea, lakes and rivers. This picture shows a group of fishing boats lashed together in a  tidal creek  near the village of  Anjarle  in  Maharashtra , India.
 
 

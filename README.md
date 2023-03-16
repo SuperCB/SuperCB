@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Delicious_apples.jpg/600px-Golden_Delicious_apples.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruth_Bader_Ginsburg_2016_portrait.jpg/525px-Ruth_Bader_Ginsburg_2016_portrait.jpg" />
 </div>
 
->Golden Delicious  is a  cultivar  of  apple . The cultivar arose from a  chance seedling , possibly a hybrid of  Grimes Golden  and  Golden Reinette . The original tree was found on the family farm of J. M. Mullins in  Clay County, West Virginia , and was locally known as Mullins' Yellow Seedling. Mullins sold the tree and propagation rights to  Stark Brothers Nurseries and Orchards  for $5000, which first marketed it as a companion of their  Red Delicious  in 1914 (although the two cultivars are not closely related). Golden Delicious is one of the most popular apple cultivars in the United States, popular for eating as well as in  salads ,  apple sauces , and  apple pies . This photograph of one whole and one halved Golden Delicious apple was  focus-stacked  from six images.
+>Ruth Bader Ginsburg  (March 15, 1933 – September 18, 2020) was an American lawyer and jurist who served as an  associate justice of the Supreme Court of the United States  from 1993 until her death in 2020. She was nominated to the  Supreme Court  by President  Bill Clinton  to replace retiring justice  Byron White , and at the time was generally viewed as a moderate consensus-builder. She eventually became part of the liberal  wing of the Supreme Court  as the Court shifted to the right over time. Ginsburg was the first Jewish woman and the second woman to serve on the Supreme Court, after  Sandra Day O'Connor . During her tenure, Ginsburg wrote notable majority opinions, including  United States v. Virginia  (1996),  Olmstead v. L.C.  (1999),  Friends of the Earth, Inc. v. Laidlaw Environmental Services, Inc.  (2000), and  City of Sherrill v. Oneida Indian Nation of New York  (2005). This official photographic portrait of Ginsburg was taken by Supreme Court photographer Steve Petteway in 2016.
 
 

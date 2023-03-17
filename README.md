@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruth_Bader_Ginsburg_2016_portrait.jpg/525px-Ruth_Bader_Ginsburg_2016_portrait.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Labyrinth_spider_%28Agelena_labyrinthica%29_female_in_web_funnel.jpg/525px-Labyrinth_spider_%28Agelena_labyrinthica%29_female_in_web_funnel.jpg" />
 </div>
 
->Ruth Bader Ginsburg  (March 15, 1933 – September 18, 2020) was an American lawyer and jurist who served as an  associate justice of the Supreme Court of the United States  from 1993 until her death in 2020. She was nominated to the  Supreme Court  by President  Bill Clinton  to replace retiring justice  Byron White , and at the time was generally viewed as a moderate consensus-builder. She eventually became part of the liberal  wing of the Supreme Court  as the Court shifted to the right over time. Ginsburg was the first Jewish woman and the second woman to serve on the Supreme Court, after  Sandra Day O'Connor . During her tenure, Ginsburg wrote notable majority opinions, including  United States v. Virginia  (1996),  Olmstead v. L.C.  (1999),  Friends of the Earth, Inc. v. Laidlaw Environmental Services, Inc.  (2000), and  City of Sherrill v. Oneida Indian Nation of New York  (2005). This official photographic portrait of Ginsburg was taken by Supreme Court photographer Steve Petteway in 2016.
+>Agelena labyrinthica  is a species of spider in the family  Agelenidae . It builds a flat-plate surface web connected to a funnel-shaped retreat similar to a  labyrinth , typically between low-lying grass and vegetation. These webs can be at ground level, or up to 1.5 metres (5 ft) from the ground. The species is fairly common in Europe, and is typically concentrated in areas near forests and low-lying vegetation, as well as in dry grassland. This female  A. labyrinthica  spider was photographed in a funnel web in Blankaart Nature Reserve near  Diksmuide , Belgium. She has lost one leg, which is trapped in the web.
 
 

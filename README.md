@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Saung-Gauk.jpg/600px-Saung-Gauk.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Margaret_Harwood.jpg/450px-Margaret_Harwood.jpg" />
 </div>
 
->The  saung , also known as the  saung-gauk  or the Burmese harp, is an arched  harp  used in traditional  Burmese music . It is regarded as the national musical instrument of Myanmar. It was possibly introduced as early as 500 AD from southeastern India, based on archaeological evidence of Burmese temple reliefs that depict a long-necked harp similar to depictions found in  Bengal . The earliest evidence of the  saung  itself is at the  Bawbawgyi Pagoda  near present-day  Prome . At that site, there is a mid-600s sculptured relief depicting the arched harp with about five strings, appearing with musicians and a dancer. It has survived continuously since that time, and has been mentioned in many texts, pictorial representations and  Bagan  temples.  Burmese chronicles  describe harps in ceremonial ensembles at medieval Pagan, and female harpists who performed for royals. This 19th-century  saung  is in the collection of the  Metropolitan Museum of Art  in New York City.
+>Margaret Harwood  (March 19, 1885 – February 6, 1979) was an American  astronomer  who specialized in  photometry , which involved measuring variation in the light of  stars  and  asteroids . In 1916, at 30 years old, Harwood was named director of  Maria Mitchell Observatory , and worked there until her retirement in 1957. In 1917, she discovered the asteroid  886 Washingtonia  four days before its formal recognition, but was advised not to report it because it would have been inappropriate for a woman to do so. In 1923, she became the first woman to gain access to the  Mount Wilson Observatory , and in 1924 was the first woman allowed to use  the observatory's 60-inch telescope , the largest in the world at the time. In 1960, an asteroid discovered at  Palomar  was named in her honor as  7040 Harwood . This photograph of Harwood is in the archives of the  Smithsonian Institution .
 
 

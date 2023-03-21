@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Margaret_Harwood.jpg/450px-Margaret_Harwood.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Blue-throated_macaw_in_flight.jpg/750px-Blue-throated_macaw_in_flight.jpg" />
 </div>
 
->Margaret Harwood  (March 19, 1885 – February 6, 1979) was an American  astronomer  who specialized in  photometry , which involved measuring variation in the light of  stars  and  asteroids . In 1916, at 30 years old, Harwood was named director of  Maria Mitchell Observatory , and worked there until her retirement in 1957. In 1917, she discovered the asteroid  886 Washingtonia  four days before its formal recognition, but was advised not to report it because it would have been inappropriate for a woman to do so. In 1923, she became the first woman to gain access to the  Mount Wilson Observatory , and in 1924 was the first woman allowed to use  the observatory's 60-inch telescope , the largest in the world at the time. In 1960, an asteroid discovered at  Palomar  was named in her honor as  7040 Harwood . This photograph of Harwood is in the archives of the  Smithsonian Institution .
+>The  blue-throated macaw  ( Ara glaucogularis ) is a species of  macaw   that is  endemic  to a small area of north-central Bolivia, known as the  Llanos de Moxos . Recent population and range estimates suggest that about 350 to 400 individuals remain in the wild. Its demise was brought on by nesting competition, avian predation, and a small native range, exacerbated by indigenous hunting and capture for the pet trade. Although plentiful in captivity, it is  critically endangered  in the wild and protected by trading prohibitions. In 2014, the species was designated a  natural patrimony  of Bolivia. This blue-throated macaw in flight was photographed at  Loro Parque , on the Spanish island of  Tenerife  in the  Canary Islands .
 
 

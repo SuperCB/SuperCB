@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Blue-throated_macaw_in_flight.jpg/750px-Blue-throated_macaw_in_flight.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fourier2_-_restoration1.jpg/450px-Fourier2_-_restoration1.jpg" />
 </div>
 
->The  blue-throated macaw  ( Ara glaucogularis ) is a species of  macaw   that is  endemic  to a small area of north-central Bolivia, known as the  Llanos de Moxos . Recent population and range estimates suggest that about 350 to 400 individuals remain in the wild. Its demise was brought on by nesting competition, avian predation, and a small native range, exacerbated by indigenous hunting and capture for the pet trade. Although plentiful in captivity, it is  critically endangered  in the wild and protected by trading prohibitions. In 2014, the species was designated a  natural patrimony  of Bolivia. This blue-throated macaw in flight was photographed at  Loro Parque , on the Spanish island of  Tenerife  in the  Canary Islands .
+>Joseph Fourier  (21 March 1768 – 16 May 1830) was a French  mathematician  and  physicist  born in  Auxerre  and best known for initiating the investigation of  Fourier series , which eventually developed into  Fourier analysis  and  harmonic analysis , and their applications to problems of  heat transfer  and  vibration . The  Fourier transform  and  Fourier's law of conduction  are also named after him. He is also generally credited with the discovery of the  greenhouse effect . This  engraving  of Fourier was drawn by  Julien-Léopold Boilly , a French artist noted for his album of  lithographs  titled  Iconographie de l'Institut Royal de France  (1820–1821) and his booklet  Album de 73 portraits-charge aquarellés des membres de l'Institut  (1820), containing watercolor  caricatures  of seventy-three members of the  Institut de France .
 
 

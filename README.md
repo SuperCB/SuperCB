@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fourier2_-_restoration1.jpg/450px-Fourier2_-_restoration1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/525px-Pomelo_fruit.jpg" />
 </div>
 
->Joseph Fourier  (21 March 1768 – 16 May 1830) was a French  mathematician  and  physicist  born in  Auxerre  and best known for initiating the investigation of  Fourier series , which eventually developed into  Fourier analysis  and  harmonic analysis , and their applications to problems of  heat transfer  and  vibration . The  Fourier transform  and  Fourier's law of conduction  are also named after him. He is also generally credited with the discovery of the  greenhouse effect . This  engraving  of Fourier was drawn by  Julien-Léopold Boilly , a French artist noted for his album of  lithographs  titled  Iconographie de l'Institut Royal de France  (1820–1821) and his booklet  Album de 73 portraits-charge aquarellés des membres de l'Institut  (1820), containing watercolor  caricatures  of seventy-three members of the  Institut de France .
+>The  pomelo  ( Citrus maxima ) is the largest  citrus fruit  from the family  Rutaceae  and the principal  ancestor  of the  grapefruit . It is a natural, non-hybrid citrus fruit, native to  Southeast Asia . Growing on a tree 5–15 meters (16–50 feet) in height, the fruit is 15–25 cm (6–10 in) in diameter with a usual weight of 1–2 kilograms (2–4 pounds) and has a thicker  rind  than a grapefruit. It is divided into 11 to 18 segments and its flesh tastes like a mild grapefruit, with little of its common bitterness. The fruit generally contains few, relatively large seeds, but some varieties have numerous seeds.
 
 

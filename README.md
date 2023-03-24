@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/525px-Pomelo_fruit.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PK_Hyderabad_asv2020-02_img24_Tomb_of_Mian_Ghulam_Kalhoro.jpg/525px-PK_Hyderabad_asv2020-02_img24_Tomb_of_Mian_Ghulam_Kalhoro.jpg" />
 </div>
 
->The  pomelo  ( Citrus maxima ) is the largest  citrus fruit  from the family  Rutaceae  and the principal  ancestor  of the  grapefruit . It is a natural, non-hybrid citrus fruit, native to  Southeast Asia . Growing on a tree 5–15 meters (16–50 feet) in height, the fruit is 15–25 cm (6–10 in) in diameter with a usual weight of 1–2 kilograms (2–4 pounds) and has a thicker  rind  than a grapefruit. It is divided into 11 to 18 segments and its flesh tastes like a mild grapefruit, with little of its common bitterness. The fruit generally contains few, relatively large seeds, but some varieties have numerous seeds.
+>The  Tomb of Mian Ghulam Kalhoro  is a religious shrine situated in  Hyderabad , Pakistan, and the oldest building in the city. It is the burial place of  Mian Ghulam Shah Kalhoro , who died in 1772 and is believed to be the founder of Hyderabad, and the second-most important figure in the province of  Sindh  after  Shah Abdul Latif Bhittai . The domed shrine is built inside a rectangular fort, and its interior is decorated with gildings, arc-shaped windows, and tiles. This exterior view of the tomb was photographed in 2020.
 
 

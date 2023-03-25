@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PK_Hyderabad_asv2020-02_img24_Tomb_of_Mian_Ghulam_Kalhoro.jpg/525px-PK_Hyderabad_asv2020-02_img24_Tomb_of_Mian_Ghulam_Kalhoro.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gerty_Theresa_Radnitz_Cori_%281896-1957%29_and_Carl_Ferdinand_Cori_-_restoration1.jpg/525px-Gerty_Theresa_Radnitz_Cori_%281896-1957%29_and_Carl_Ferdinand_Cori_-_restoration1.jpg" />
 </div>
 
->The  Tomb of Mian Ghulam Kalhoro  is a religious shrine situated in  Hyderabad , Pakistan, and the oldest building in the city. It is the burial place of  Mian Ghulam Shah Kalhoro , who died in 1772 and is believed to be the founder of Hyderabad, and the second-most important figure in the province of  Sindh  after  Shah Abdul Latif Bhittai . The domed shrine is built inside a rectangular fort, and its interior is decorated with gildings, arc-shaped windows, and tiles. This exterior view of the tomb was photographed in 2020.
+>Gerty Cori  (1896–1957) was a Czech-American biochemist. She was the third woman to win a  Nobel Prize  in science, and the first woman to be awarded the  Nobel Prize in Physiology or Medicine , for her significant role in the "discovery of the course of the catalytic conversion of  glycogen ". Born in  Prague , Cori grew up at a time when women were marginalized in science and allowed few educational opportunities, but she nonetheless gained admittance to medical school. With her husband  Carl Ferdinand Cori  and the Argentine physiologist  Bernardo Houssay , she received the Nobel Prize in 1947. This photograph from the  Smithsonian Institution Archives , taken in the same year, shows Cori and her husband working in their laboratory.
 
 

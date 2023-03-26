@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gerty_Theresa_Radnitz_Cori_%281896-1957%29_and_Carl_Ferdinand_Cori_-_restoration1.jpg/525px-Gerty_Theresa_Radnitz_Cori_%281896-1957%29_and_Carl_Ferdinand_Cori_-_restoration1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Annunciation_-_Jan_van_Eyck_-_1434_-_NG_Wash_DC.jpg/300px-Annunciation_-_Jan_van_Eyck_-_1434_-_NG_Wash_DC.jpg" />
 </div>
 
->Gerty Cori  (1896–1957) was a Czech-American biochemist. She was the third woman to win a  Nobel Prize  in science, and the first woman to be awarded the  Nobel Prize in Physiology or Medicine , for her significant role in the "discovery of the course of the catalytic conversion of  glycogen ". Born in  Prague , Cori grew up at a time when women were marginalized in science and allowed few educational opportunities, but she nonetheless gained admittance to medical school. With her husband  Carl Ferdinand Cori  and the Argentine physiologist  Bernardo Houssay , she received the Nobel Prize in 1947. This photograph from the  Smithsonian Institution Archives , taken in the same year, shows Cori and her husband working in their laboratory.
+>The  Annunciation  is an  oil painting  by the  Early Netherlandish  master  Jan van Eyck , painted around 1434–1436. Originally on  panel , the work was  transferred to canvas  in the 19th century. It is thought to have been the left (inner) wing of a  triptych , although there have been no sightings of the other wings since before 1817. The painting depicts the biblical scene of the  Annunciation , in which the  Archangel Gabriel  announces to the  Virgin Mary  that she will bear the son of God. The inscription shows his words:  AVE  GRA  PLENA  ('Hail, full of grace'). She modestly draws back and responds,  ECCE ANCILLA  DNI  ('Behold the handmaiden of the Lord'); these words appear upside down. The  Annunciation  is now in the collection of the  National Gallery of Art  in Washington, D.C.
 
 

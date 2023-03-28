@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Aerial_view_of_Somapura_Mahavihara.jpg/750px-Aerial_view_of_Somapura_Mahavihara.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alice_Neilsen%27s_production_of_Victor_Herbert%27s_The_Fortune_Teller.jpg/675px-Alice_Neilsen%27s_production_of_Victor_Herbert%27s_The_Fortune_Teller.jpg" />
 </div>
 
->Somapura Mahavihara  is a Buddhist  vihara  (monastery) at Paharpur in  Badalgachhi , Bangladesh. Built during the reign of the second  Pala  king Dharmapala (circa 781 to 821), it was one of five great  Mahaviharas  of the period. It is considered one of the most important archaeological sites in the country and was designated a UNESCO  World Heritage Site  in 1985. This aerial photograph, depicting the structure of the central shrine of Somapura Mahavihara, was taken in 2021.
+>The Fortune Teller  is an  operetta  in three acts composed by  Victor Herbert , with a  libretto  by  Harry B. Smith . After a brief tryout in Toronto, it premiered on  Broadway  on September 26, 1898, at  Wallack's Theatre  and ran for 40 performances. The star  Alice Nielsen  and many of the original company traveled to London, where the piece opened at the  Shaftesbury Theatre  on April 9, 1901, running for 88 performances. This 1905 poster for  The Fortune Teller , depicting eight members of the women's drum corps, was presumably produced for a touring or repertoire production by Nielsen's company.
 
 

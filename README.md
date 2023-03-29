@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alice_Neilsen%27s_production_of_Victor_Herbert%27s_The_Fortune_Teller.jpg/675px-Alice_Neilsen%27s_production_of_Victor_Herbert%27s_The_Fortune_Teller.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Amilcare_Ponchielli_%28before_1886%29_-_Archivio_Storico_Ricordi_FOTO000794_-_Restoration.jpg/450px-Amilcare_Ponchielli_%28before_1886%29_-_Archivio_Storico_Ricordi_FOTO000794_-_Restoration.jpg" />
 </div>
 
->The Fortune Teller  is an  operetta  in three acts composed by  Victor Herbert , with a  libretto  by  Harry B. Smith . After a brief tryout in Toronto, it premiered on  Broadway  on September 26, 1898, at  Wallack's Theatre  and ran for 40 performances. The star  Alice Nielsen  and many of the original company traveled to London, where the piece opened at the  Shaftesbury Theatre  on April 9, 1901, running for 88 performances. This 1905 poster for  The Fortune Teller , depicting eight members of the women's drum corps, was presumably produced for a touring or repertoire production by Nielsen's company.
+>Amilcare Ponchielli  (1834–1886) was an Italian composer. Born in Paderno Fasolaro (now  Paderno Ponchielli ) near  Cremona , then  Kingdom of Lombardy–Venetia , Ponchielli won a scholarship at the age of nine to study music at the  Milan Conservatory , writing his first  symphony  by the time he was ten years old. He is best known for his  operas , most notably  La Gioconda , the third and most successful version of which debuted at  La Scala  in  Milan  on 28 March 1880. The  Dance of the Hours  from that opera is widely known thanks in part to its use in  Walt Disney 's  Fantasia  in 1940 and in  Allan Sherman 's novelty song " Hello Muddah, Hello Fadduh ". In 1881, Ponchielli was appointed the  maestro di cappella  of  Bergamo Cathedral  and a professor of composition at the Milan Conservatory, where his pupils included  Giacomo Puccini ,  Pietro Mascagni ,  Emilio Pizzi , and  Giovanni Tebaldini . He was married to the soprano  Teresina Brambilla  and died at the age of 51 in Milan. This formal photographic portrait of Ponchielli was taken in Milan and is in the archives of the music publisher  Casa Ricordi .
 
 

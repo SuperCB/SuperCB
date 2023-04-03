@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Richard_Gerstl_-_Selbstbildnis%2C_lachend_-_4035_-_%C3%96sterreichische_Galerie_Belvedere.jpg/525px-Richard_Gerstl_-_Selbstbildnis%2C_lachend_-_4035_-_%C3%96sterreichische_Galerie_Belvedere.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Palm_Cockatoo_0A2A7769.jpg/600px-Palm_Cockatoo_0A2A7769.jpg" />
 </div>
 
->Richard Gerstl  (1883–1908) was an Austrian painter and draughtsman known for his expressive and psychologically insightful portraits, his lack of critical acclaim during his lifetime, and his affair with the composer  Arnold Schoenberg 's wife. At the  Academy of Fine Arts Vienna , Gerstl studied under the notoriously opinionated and difficult  Christian Griepenkerl . He began to reject the style of the  Vienna Secession  and what he felt was "pretentious" art. For the summers of 1900 and 1901, Gerstl studied under the guidance of  Simon Hollósy  in  Nagybánya . Inspired by the more liberal leanings of  Heinrich Lefler , Gerstl once again attempted formal education. His refusal to participate in a procession in honor of Emperor  Franz Joseph I of Austria  further ostracized him and led to his departure; he felt that taking part in such an event was "unworthy of an artist". Gerstl painted this oil-on-canvas laughing  self-portrait  in an  Expressionist  style in the year of his death by suicide. The painting is now housed in the  Österreichische Galerie Belvedere  in Vienna.
+>The  palm cockatoo  ( Probosciger aterrimus ) is a bird in the family Cacatuidae native to  New Guinea , the  Aru Islands , and  Cape York Peninsula  in  Queensland . It has a very large black beak and prominent red cheek patches. This individual was photographed near  Lockhart River  in Queensland.
 
 

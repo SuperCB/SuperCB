@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Palm_Cockatoo_0A2A7769.jpg/600px-Palm_Cockatoo_0A2A7769.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/SL_Galle_Fort_asv2020-01_img24.jpg/525px-SL_Galle_Fort_asv2020-01_img24.jpg" />
 </div>
 
->The  palm cockatoo  ( Probosciger aterrimus ) is a bird in the family Cacatuidae native to  New Guinea , the  Aru Islands , and  Cape York Peninsula  in  Queensland . It has a very large black beak and prominent red cheek patches. This individual was photographed near  Lockhart River  in Queensland.
+>The  Galle Lighthouse  is an onshore  lighthouse  in  Galle , Sri Lanka. The oldest light station in the country, it is operated and maintained by the  Sri Lanka Ports Authority . The first lighthouse in the area was built by the British in 1848 using cast-iron plates, but was destroyed by fire in 1936. The current 26.5-metre-high (87 ft) concrete lighthouse was built in 1939, around 100 metres (300 ft) from the original. This photograph of the Galle Lighthouse was taken in January 2020.
 
 

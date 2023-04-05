@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/SL_Galle_Fort_asv2020-01_img24.jpg/525px-SL_Galle_Fort_asv2020-01_img24.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/F-15EX_Eagle_II.jpg/600px-F-15EX_Eagle_II.jpg" />
 </div>
 
->The  Galle Lighthouse  is an onshore  lighthouse  in  Galle , Sri Lanka. The oldest light station in the country, it is operated and maintained by the  Sri Lanka Ports Authority . The first lighthouse in the area was built by the British in 1848 using cast-iron plates, but was destroyed by fire in 1936. The current 26.5-metre-high (87 ft) concrete lighthouse was built in 1939, around 100 metres (300 ft) from the original. This photograph of the Galle Lighthouse was taken in January 2020.
+>The  Boeing  F-15EX  Eagle II  is an American  multirole  all-weather  strike fighter  manufactured by  Boeing Defense, Space & Security . Derived from the  McDonnell Douglas  F-15  Eagle  and first conceived in 2018, the  F-15EX  is not expected to survive against modern air defenses by 2028, but has the capability to perform homeland and airbase defense, enforce  no-fly zones  against limited air defenses, and deploy  standoff munitions . The aircraft made its maiden flight in February 2021, and as of 2023 has a total planned fleet size of up to 104. This  F-15EX , from the  United States Air Force 's  40th Flight Test Squadron , was photographed flying over northern California during an  aerial-refueling  operation in May 2021.
 
 

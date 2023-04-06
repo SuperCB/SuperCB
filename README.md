@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/F-15EX_Eagle_II.jpg/600px-F-15EX_Eagle_II.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Campanula_cervicaria_-_Keila.jpg/450px-Campanula_cervicaria_-_Keila.jpg" />
 </div>
 
->The  Boeing  F-15EX  Eagle II  is an American  multirole  all-weather  strike fighter  manufactured by  Boeing Defense, Space & Security . Derived from the  McDonnell Douglas  F-15  Eagle  and first conceived in 2018, the  F-15EX  is not expected to survive against modern air defenses by 2028, but has the capability to perform homeland and airbase defense, enforce  no-fly zones  against limited air defenses, and deploy  standoff munitions . The aircraft made its maiden flight in February 2021, and as of 2023 has a total planned fleet size of up to 104. This  F-15EX , from the  United States Air Force 's  40th Flight Test Squadron , was photographed flying over northern California during an  aerial-refueling  operation in May 2021.
+>Campanula cervicaria , also known as the bristly bellflower, is a species of flowering plant in the bellflower family, Campanulaceae. Native to  Scandinavia  and  central Europe ,  C. cervicaria  has also become naturalised in parts of the U.S. state of  Minnesota . Its natural habitat is woodland edges, hillside meadows, dry meadows and banks, and it also flourishes where soil has been disturbed, for example after slash-and-burn or forest clearance. The plant has a hairy stem, with light blue flowers about 1 to 2 centimetres (0.4 to 0.8 in) long and grouped together. This  C. cervicaria  flower was photographed in  Keila , Estonia.
 
 

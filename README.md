@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Landscape_Arch_Utah.jpg/825px-Landscape_Arch_Utah.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hendrick_ter_Brugghen_The_Crucifixion_with_the_Virgin_and_Saint_John.jpg/450px-Hendrick_ter_Brugghen_The_Crucifixion_with_the_Virgin_and_Saint_John.jpg" />
 </div>
 
->Landscape Arch  is a  natural rock arch  in  Arches National Park  in the U.S. state of  Utah . With a length of 290.1 feet (88.4 m), it is the longest natural arch in the park and the United States, and the fifth-longest in the world. Landscape Arch was named by Frank Beckwith, who explored the area in the winter of 1933–34 as the leader of a scientific expedition.
+>The  Crucifixion with the Virgin and St John  is an oil painting by the Dutch artist  Hendrick ter Brugghen , probably painted around 1625 as an  altarpiece  for a Catholic  clandestine church  likely located in  Utrecht  in the  Calvinist  Dutch  United Provinces . The scene is taken from the account of the  crucifixion of Jesus  in the  Gospel of John , and depicts Jesus being mourned by his mother  Mary  and  John the Apostle . At the base of the cross are bones, traditionally identified as those of  Adam . The scene is set in an atmosphere of deep dusk with stars visible in the background. The painting was not known until it was discovered in a bombed-out church in  South Hackney , London, in 1956. Initially unrecognized, it was identified before an appearance at  Sotheby's  later that year. It was acquired by the  Metropolitan Museum of Art  in New York, where it now hangs.
 
 

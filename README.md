@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hendrick_ter_Brugghen_The_Crucifixion_with_the_Virgin_and_Saint_John.jpg/450px-Hendrick_ter_Brugghen_The_Crucifixion_with_the_Virgin_and_Saint_John.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/CRS-8_%2826239020092%29.jpg/750px-CRS-8_%2826239020092%29.jpg" />
 </div>
 
->The  Crucifixion with the Virgin and St John  is an oil painting by the Dutch artist  Hendrick ter Brugghen , probably painted around 1625 as an  altarpiece  for a Catholic  clandestine church  likely located in  Utrecht  in the  Calvinist  Dutch  United Provinces . The scene is taken from the account of the  crucifixion of Jesus  in the  Gospel of John , and depicts Jesus being mourned by his mother  Mary  and  John the Apostle . At the base of the cross are bones, traditionally identified as those of  Adam . The scene is set in an atmosphere of deep dusk with stars visible in the background. The painting was not known until it was discovered in a bombed-out church in  South Hackney , London, in 1956. Initially unrecognized, it was identified before an appearance at  Sotheby's  later that year. It was acquired by the  Metropolitan Museum of Art  in New York, where it now hangs.
+>SpaceX  CRS-8  was a  Commercial Resupply Services  mission to the  International Space Station  that launched on April 8, 2016, at 20:43 UTC. It was  the twenty-third flight  of a  Falcon 9  rocket, the tenth flight of a  Dragon  cargo spacecraft, and the eighth operational mission contracted to  SpaceX  by  NASA  under the Commercial Resupply Services program. After boosting the payload on its  orbital trajectory , the rocket's first stage re-entered the denser layers of the atmosphere and landed vertically on the ocean landing platform  Of Course I Still Love You  nine minutes after liftoff (as pictured in this photograph), thus achieving a long-sought-after milestone in the  SpaceX reusable launch system development program .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/CRS-8_%2826239020092%29.jpg/750px-CRS-8_%2826239020092%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Church_of_the_Redeemer%2C_Toronto%2C_Canada.jpg/600px-Church_of_the_Redeemer%2C_Toronto%2C_Canada.jpg" />
 </div>
 
->SpaceX  CRS-8  was a  Commercial Resupply Services  mission to the  International Space Station  that launched on April 8, 2016, at 20:43 UTC. It was  the twenty-third flight  of a  Falcon 9  rocket, the tenth flight of a  Dragon  cargo spacecraft, and the eighth operational mission contracted to  SpaceX  by  NASA  under the Commercial Resupply Services program. After boosting the payload on its  orbital trajectory , the rocket's first stage re-entered the denser layers of the atmosphere and landed vertically on the ocean landing platform  Of Course I Still Love You  nine minutes after liftoff (as pictured in this photograph), thus achieving a long-sought-after milestone in the  SpaceX reusable launch system development program .
+>The  Church of the Redeemer  is a church of the  Anglican Church of Canada  in  Toronto , Canada, located at the intersection of  Bloor Street  and  Avenue Road . Dedicated to  Christ the Redeemer , the church was founded in 1871, when the area was still on the fringe of the city. The  Gothic Revival  building opened in 1879. The 20th-century high-rise buildings behind the church in this photograph are 21 Avenue Road (blue-gray, 1971) and 150 Bloor Street West (yellow-brown, 1981).
 
 

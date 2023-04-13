@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Eug%C3%A8ne_Grasset_-_A_La_Place_Clichy.jpg/450px-Eug%C3%A8ne_Grasset_-_A_La_Place_Clichy.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gusano_de_fuego_%28Hermodice_carunculata%29%2C_Madeira%2C_Portugal%2C_2019-05-31%2C_DD_45.jpg/600px-Gusano_de_fuego_%28Hermodice_carunculata%29%2C_Madeira%2C_Portugal%2C_2019-05-31%2C_DD_45.jpg" />
 </div>
 
->An  Oriental rug  is a heavy textile made for a variety of utilitarian and symbolic purposes and originating from a region known as the Rug Belt, which stretches from Morocco across North Africa, the Middle East, and into Central Asia and northern India. The rugs can be  pile-woven  or flat-woven without pile, using various materials such as silk, wool, cotton, jute and animal hair. The origin of the Oriental rug is unknown, although it is likely to have developed from earlier floor coverings made of felt. This French poster, titled "A La Place Clichy" and produced around 1891 to advertise Oriental rugs, features a  lithograph  by the Swiss artist  Eugène Grasset .
+>Hermodice carunculata , the bearded fireworm, is a type of marine  bristleworm  belonging to the  Amphinomidae  family, native to the tropical Atlantic Ocean and the Mediterranean Sea. They are usually 15 centimetres (6 inches) in average length, but can reach up to 30 centimetres (12 inches). This bearded fireworm was photographed in the  Garajau Marine Nature Reserve  in  Madeira , Portugal.
 
 

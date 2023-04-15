@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg/750px-Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/C2022_E3_%28ZTF%29-_Alessandro_Bianconi.png/750px-C2022_E3_%28ZTF%29-_Alessandro_Bianconi.png" />
 </div>
 
->Spiti  is a high-altitude  cold desert  in the  Western Himalayas  in India.  "Spiti" means "the middle land", between  Tibet  and India. The region is above the  tree line , with only shrubs and a few scattered stunted trees. In the upper valley, the braided Spiti River flows in narrow channels in a very wide river bed, as seen in this photograph, taken just above  Kaza , the largest town in Spiti. In the lower valley, the river meanders through gorges 10 to 130 metres (33 to 427 ft) deep that it has cut in the  sedimentary  deposits. The Moravian geologist  Ferdinand Stoliczka  discovered a major geological formation near the village of  Mud  in the 1860s, and identified a number of layers or successions. The people of Spiti follow  Tibetan Buddhism , and their culture is similar to those of neighbouring Tibet and Ladakh. The region is known for adventure tourism, trekking and mountaineering.
+>C/2022 E3 (ZTF)  is a long-period comet from the  Oort cloud  that was discovered by the  Zwicky Transient Facility  in March 2022. The comet has a bright green glow around its nucleus, due to the effect of sunlight on  diatomic carbon  and  cyanogen . Its  comet nucleus  is estimated to be about 1 kilometre (0.62 mi) in size, rotating every 8.5 to 8.7 hours. Its tails of dust and gas extended for millions of kilometres and, during January 2023, an  anti-tail  was also visible. The comet reached  perihelion  on 12 January 2023, at a distance of 1.11  AU  (166 million km; 103 million mi), and its closest approach to Earth was on 1 February 2023, at a distance of 0.28 AU (42 million km; 26 million mi). The comet reached  magnitude  5 during this approach, and was visible with the  naked eye  under moonless  dark skies . This photograph of C/2022 E3 (ZTF), released by the Italian  National Institute for Astrophysics , was taken on 27 January 2023.
 
 

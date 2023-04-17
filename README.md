@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Leonhard_Euler_-_edit1.jpg/450px-Leonhard_Euler_-_edit1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BASF_Ludwigshafen_panorama_2023-1.jpg/3000px-BASF_Ludwigshafen_panorama_2023-1.jpg" />
 </div>
 
->Leonhard Euler  (15 April 1707 – 18 September 1783) was a Swiss mathematician, physicist, astronomer, geographer, logician and engineer. He founded the studies of  graph theory  and  topology , and made pioneering and influential discoveries in many other branches of mathematics such as  analytic number theory ,  complex analysis  and  infinitesimal calculus . Euler introduced much of modern  mathematical notation  and terminology, including the notion of a  mathematical function . He is also known for his work in  mechanics ,  fluid dynamics ,  optics , astronomy and  music theory . This  pastel -on-paper portrait of Euler was painted by the Swiss painter  Jakob Emanuel Handmann  in 1753, and is now in the collection of the  Kunstmuseum Basel .
+>BASF  is a European multinational chemical company and the  largest chemical producer  in the world. The group comprises subsidiaries and joint ventures in more than 80 countries and operates six integrated production sites and 390 other production sites in Europe, Asia, Australia, the Americas and Africa. This panoramic photograph, taken in January 2023, shows the northern part of BASF's headquarters in  Ludwigshafen , Germany, as seen from the east bank of the  Rhine .
 
 

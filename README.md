@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BASF_Ludwigshafen_panorama_2023-1.jpg/3000px-BASF_Ludwigshafen_panorama_2023-1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/750px-Oranges_-_whole-halved-segment.jpg" />
 </div>
 
->BASF  is a European multinational chemical company and the  largest chemical producer  in the world. The group comprises subsidiaries and joint ventures in more than 80 countries and operates six integrated production sites and 390 other production sites in Europe, Asia, Australia, the Americas and Africa. This panoramic photograph, taken in January 2023, shows the northern part of BASF's headquarters in  Ludwigshafen , Germany, as seen from the east bank of the  Rhine .
+>The  orange  is a  fruit  of various  citrus  species in the family  Rutaceae , primarily the cultivar  Citrus  ×  sinensis , also known as the sweet orange to distinguish it from  C.  ×  aurantium , the bitter orange. The sweet orange is a  hybrid  between the  pomelo  ( C. maxima ) and the  mandarin  ( C. reticulata ), with the pomelo being the  chloroplast  genome and maternal line. The orange originated in a region encompassing  south China ,  northeast India , and Myanmar, and the earliest mention of the sweet orange found in  Chinese literature  dates from 314 BC. The sweet orange reproduces asexually ( apomixis  through  nucellar embryony ); varieties of sweet orange arise through mutations. The  whole genome has been sequenced . This photograph, depicting a whole orange, a halved orange, and a peeled orange segment, was  focus-stacked  from eleven images.
 
 

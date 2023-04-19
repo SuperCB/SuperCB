@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/750px-Oranges_-_whole-halved-segment.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/2020-09-16_165855_Soviet_submarine_B-515.jpg/900px-2020-09-16_165855_Soviet_submarine_B-515.jpg" />
 </div>
 
->The  orange  is a  fruit  of various  citrus  species in the family  Rutaceae , primarily the cultivar  Citrus  ×  sinensis , also known as the sweet orange to distinguish it from  C.  ×  aurantium , the bitter orange. The sweet orange is a  hybrid  between the  pomelo  ( C. maxima ) and the  mandarin  ( C. reticulata ), with the pomelo being the  chloroplast  genome and maternal line. The orange originated in a region encompassing  south China ,  northeast India , and Myanmar, and the earliest mention of the sweet orange found in  Chinese literature  dates from 314 BC. The sweet orange reproduces asexually ( apomixis  through  nucellar embryony ); varieties of sweet orange arise through mutations. The  whole genome has been sequenced . This photograph, depicting a whole orange, a halved orange, and a peeled orange segment, was  focus-stacked  from eleven images.
+>B-515 , sometimes known as  U-434  after her  pennant number , is a  Tango-class submarine  that served in the  Soviet Navy  and later the  Russian Navy . Built in 1976 in  Nizhny Novgorod , the submarine remained in active service until 2001. She was used for hunting, espionage, and patrol purposes, operated by a 78-man crew. Now docked in  Hamburg , Germany, she is open to the public as a  museum ship . This 2020 photograph shows a panorama of  B-515 's  interior.
 
 

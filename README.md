@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/2020-09-16_165855_Soviet_submarine_B-515.jpg/900px-2020-09-16_165855_Soviet_submarine_B-515.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Balkan_fritillary_%28Boloria_graeca_balcanica%29_underside_Bulgaria.jpg/600px-Balkan_fritillary_%28Boloria_graeca_balcanica%29_underside_Bulgaria.jpg" />
 </div>
 
->B-515 , sometimes known as  U-434  after her  pennant number , is a  Tango-class submarine  that served in the  Soviet Navy  and later the  Russian Navy . Built in 1976 in  Nizhny Novgorod , the submarine remained in active service until 2001. She was used for hunting, espionage, and patrol purposes, operated by a 78-man crew. Now docked in  Hamburg , Germany, she is open to the public as a  museum ship . This 2020 photograph shows a panorama of  B-515 's  interior.
+>The  Balkan fritillary  ( Boloria graeca ) is a butterfly in the family  Nymphalidae . It is found in the southern central  Alps  and the mid- to high-altitude  Balkans . This Balkan fritillary of the subspecies  B. g. balcanica  was photographed in Yastrebets, in the  Rila Mountains  of Bulgaria, in 2017.
 
 

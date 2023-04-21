@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Balkan_fritillary_%28Boloria_graeca_balcanica%29_underside_Bulgaria.jpg/600px-Balkan_fritillary_%28Boloria_graeca_balcanica%29_underside_Bulgaria.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rooftop_farm_at_the_Essex_%2865787p%29.jpg/450px-Rooftop_farm_at_the_Essex_%2865787p%29.jpg" />
 </div>
 
->The  Balkan fritillary  ( Boloria graeca ) is a butterfly in the family  Nymphalidae . It is found in the southern central  Alps  and the mid- to high-altitude  Balkans . This Balkan fritillary of the subspecies  B. g. balcanica  was photographed in Yastrebets, in the  Rila Mountains  of Bulgaria, in 2017.
+>Urban agriculture , urban farming, or urban gardening is the practice of  cultivating , processing, and distributing food in or around  urban areas . Urban agriculture can reflect varying levels of economic and social development. It may be a social movement for sustainable communities, where organic growers, " foodies ", and " locavores " form social networks founded on a shared ethos of nature and community holism. For others,  food security ,  nutrition , and income generation are key motivations for the practice. In both scenarios, more direct access to fresh vegetables, fruits, and meat products through urban agriculture can improve food security and  food safety . Ths photograph depicts urban agriculture in the form of a  roof garden  at  Essex Crossing  in  Manhattan , New York City. Among the plants grown are tomatoes, chili peppers, lettuce, herbs, carrots and beetroots.
 
 

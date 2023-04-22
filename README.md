@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rooftop_farm_at_the_Essex_%2865787p%29.jpg/450px-Rooftop_farm_at_the_Essex_%2865787p%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nicosia_01-2017_img20_View_from_Shacolas_Tower.jpg/600px-Nicosia_01-2017_img20_View_from_Shacolas_Tower.jpg" />
 </div>
 
->Urban agriculture , urban farming, or urban gardening is the practice of  cultivating , processing, and distributing food in or around  urban areas . Urban agriculture can reflect varying levels of economic and social development. It may be a social movement for sustainable communities, where organic growers, " foodies ", and " locavores " form social networks founded on a shared ethos of nature and community holism. For others,  food security ,  nutrition , and income generation are key motivations for the practice. In both scenarios, more direct access to fresh vegetables, fruits, and meat products through urban agriculture can improve food security and  food safety . Ths photograph depicts urban agriculture in the form of a  roof garden  at  Essex Crossing  in  Manhattan , New York City. Among the plants grown are tomatoes, chili peppers, lettuce, herbs, carrots and beetroots.
+>Selimiye Mosque  is a mosque in  North Nicosia  in the de facto state of  Northern Cyprus , and the principal Islamic place of worship on the island of Cyprus. It was constructed as a Christian church known as the Cathedral of Saint Sophia, which was built on the site of an earlier  Byzantine  church, and was consecrated in 1326. It was converted to a mosque in 1570, following the 50-day  siege of Nicosia , when the area became part of the  Ottoman Empire . A pair of  minarets  and other Islamic features were added at that time.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nicosia_01-2017_img20_View_from_Shacolas_Tower.jpg/600px-Nicosia_01-2017_img20_View_from_Shacolas_Tower.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%E7%A5%9E%E9%BE%8D%E8%98%AD%E4%BA%AD%E5%BA%8F%E5%85%A8.JPG/7500px-%E7%A5%9E%E9%BE%8D%E8%98%AD%E4%BA%AD%E5%BA%8F%E5%85%A8.JPG" />
 </div>
 
->Selimiye Mosque  is a mosque in  North Nicosia  in the de facto state of  Northern Cyprus , and the principal Islamic place of worship on the island of Cyprus. It was constructed as a Christian church known as the Cathedral of Saint Sophia, which was built on the site of an earlier  Byzantine  church, and was consecrated in 1326. It was converted to a mosque in 1570, following the 50-day  siege of Nicosia , when the area became part of the  Ottoman Empire . A pair of  minarets  and other Islamic features were added at that time.
+>The  Orchid Pavilion Gathering , also known as the Lanting Gathering, was a cultural and poetic event held in China in 353, during the  Jin dynasty  of the  Six Dynasties  era. During the  Spring Purification Festival , forty-two literati met at the Orchid Pavilion ( Lanting ) on  Mount Kuaiji , near present-day  Shaoxing  in  Zhejiang . This 7th-century scroll, now at the  Palace Museum  in Beijing, is considered to be the best of the surviving copies of the  Lantingji Xu , written by  Wang Xizhi  as a preface to the collection of poems produced at the Orchid Pavilion Gathering. Copies of the work were made throughout Chinese history. The text reads, in part: "Reading past compositions, I can recognize the same melancholy from the ancients. I can only lament before their words without being able to verbalize my feelings. [...] The future generations will look upon us, just like we look upon our past. How sad! Hence, we record the people presented here today and their works; Even though time and circumstances will be different, the feelings expressed will remain unchanged."
 
 

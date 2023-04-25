@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Weimar%2C_Herzogin_Anna_Amalia_Bibliothek%2C_2019-09_CN-03.jpg/750px-Weimar%2C_Herzogin_Anna_Amalia_Bibliothek%2C_2019-09_CN-03.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg/450px-Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg" />
 </div>
 
->The  Duchess Anna Amalia Library  in  Weimar , Germany, houses a major collection of  German literature  and historical documents. In 1991, the tricentennial of its opening to the public, the Ducal Library was renamed for  Duchess Anna Amalia of Brunswick-Wolfenbüttel . Today, the library is a public research library for literature and art history and contains over 1,000,000 items, 150,000 of which are available for open use and borrowing. The main focus of the collection is German literature from the Classical and the late Romantic eras. The library was inscribed on  UNESCO 's list of  World Heritage Sites  as part of the  Classical Weimar  site because of its testimony to the global cultural importance of Weimar in the late 18th and early 19th centuries, during the  Weimar Classicism  movement.
+>The  crested honey buzzard  ( Pernis ptilorhynchus ), also known as the Oriental honey buzzard, is a  bird of prey  in the family  Accipitridae . Its size ranges from 57 to 60 centimetres (22 to 24 in). The name is derived from its diet, which consists mainly of the larvae of bees and wasps, extracted from honeycombs. It has several adaptations for this diet, including an elongated head for foraging on underground nests and a groove in the tongue for feeding on honey. A mass of short, dense feathers on the head and neck protect against stinging attacks by social wasps. The crested honey buzzard is a year-round resident in Southeast Asia and the Indian subcontinent. Some birds migrate to Siberia and Japan during the summer for breeding. This crested honey buzzard was photographed in  Mudumalai National Park , India.
 
 

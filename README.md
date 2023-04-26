@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg/450px-Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sir_Chandra_Shumsher_Jang_Bahadur_Rana_%28restoration%29.jpg/450px-Sir_Chandra_Shumsher_Jang_Bahadur_Rana_%28restoration%29.jpg" />
 </div>
 
->The  crested honey buzzard  ( Pernis ptilorhynchus ), also known as the Oriental honey buzzard, is a  bird of prey  in the family  Accipitridae . Its size ranges from 57 to 60 centimetres (22 to 24 in). The name is derived from its diet, which consists mainly of the larvae of bees and wasps, extracted from honeycombs. It has several adaptations for this diet, including an elongated head for foraging on underground nests and a groove in the tongue for feeding on honey. A mass of short, dense feathers on the head and neck protect against stinging attacks by social wasps. The crested honey buzzard is a year-round resident in Southeast Asia and the Indian subcontinent. Some birds migrate to Siberia and Japan during the summer for breeding. This crested honey buzzard was photographed in  Mudumalai National Park , India.
+>Chandra Shumsher Jung Bahadur Rana  (1863–1929) was a member of the  Rana dynasty  who served as  Prime Minister of Nepal  from 1901 until his death. He came to power after successfully deposing his liberal and reformist brother  Dev Shumsher . Although generally perceived as despotic and conservative, he is credited with reforms including the abolition of slavery and the  Nepal–Britain Treaty of 1923 , which recognized Nepal as an independent nation and an ally of Britain. This photograph of Chandra Shumsher, wearing the robes of the  Order of the Star of India , was taken in 1908 during a visit to Europe.
 
 

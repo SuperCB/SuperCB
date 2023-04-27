@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sir_Chandra_Shumsher_Jang_Bahadur_Rana_%28restoration%29.jpg/450px-Sir_Chandra_Shumsher_Jang_Bahadur_Rana_%28restoration%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Azurite_-_New_Nevada_Lode%2C_La_Sal%2C_Utah%2C_USA.jpg/600px-Azurite_-_New_Nevada_Lode%2C_La_Sal%2C_Utah%2C_USA.jpg" />
 </div>
 
->Chandra Shumsher Jung Bahadur Rana  (1863–1929) was a member of the  Rana dynasty  who served as  Prime Minister of Nepal  from 1901 until his death. He came to power after successfully deposing his liberal and reformist brother  Dev Shumsher . Although generally perceived as despotic and conservative, he is credited with reforms including the abolition of slavery and the  Nepal–Britain Treaty of 1923 , which recognized Nepal as an independent nation and an ally of Britain. This photograph of Chandra Shumsher, wearing the robes of the  Order of the Star of India , was taken in 1908 during a visit to Europe.
+>Azurite  is a soft, deep-blue mineral produced by the  weathering  of  copper -ore deposits. It is a basic  carbonate  with the chemical formula Cu 3 (CO 3 ) 2 (OH) 2 , and has been known since ancient times, being mentioned in  Pliny the Elder 's  Natural History  under the Greek name  kuanos  and the Latin name  caeruleum . These azurite crystals, covering a 4.0 cm × 3.0 cm × 2.0 cm (1.57 in × 1.18 in × 0.79 in)  matrix  with a little  malachite , was found in a  lode  in  La Sal, Utah . This photograph was  focus-stacked  from 55 separate images.
 
 

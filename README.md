@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Azurite_-_New_Nevada_Lode%2C_La_Sal%2C_Utah%2C_USA.jpg/600px-Azurite_-_New_Nevada_Lode%2C_La_Sal%2C_Utah%2C_USA.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/MatheranPanoramaPointDrySeasonCrop.jpg/900px-MatheranPanoramaPointDrySeasonCrop.jpg" />
 </div>
 
->Azurite  is a soft, deep-blue mineral produced by the  weathering  of  copper -ore deposits. It is a basic  carbonate  with the chemical formula Cu 3 (CO 3 ) 2 (OH) 2 , and has been known since ancient times, being mentioned in  Pliny the Elder 's  Natural History  under the Greek name  kuanos  and the Latin name  caeruleum . These azurite crystals, covering a 4.0 cm × 3.0 cm × 2.0 cm (1.57 in × 1.18 in × 0.79 in)  matrix  with a little  malachite , was found in a  lode  in  La Sal, Utah . This photograph was  focus-stacked  from 55 separate images.
+>The  monsoon of South Asia  is one of the world's  monsoons , affecting the  Indian subcontinent . Because of its effect on agriculture, on flora and fauna, and on the climates of nations including Bangladesh, Bhutan, India, Nepal, Pakistan and Sri Lanka, the monsoon is one of the most anticipated, tracked and studied weather phenomena in the region. The southwest monsoon generally starts on the western coast of India at the beginning of June, and runs through to the beginning of October. Its cause is only partly understood and it is notoriously difficult to predict, with several theories proposed to explain its origin and process. These two panoramic photographs, taken three months apart in 2010 from the same location, show a view of the  Western Ghats  in  Maharashtra , India, during the dry season in late May  (top)  and during the peak of the South Asian monsoon in late August  (bottom) .
 
 

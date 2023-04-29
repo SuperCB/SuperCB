@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/MatheranPanoramaPointDrySeasonCrop.jpg/900px-MatheranPanoramaPointDrySeasonCrop.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Gabrielle_Ray_%28c._1910%29_-_Archivio_Storico_Ricordi_FOTO002691_-_Restoration.jpg/450px-Gabrielle_Ray_%28c._1910%29_-_Archivio_Storico_Ricordi_FOTO002691_-_Restoration.jpg" />
 </div>
 
->The  monsoon of South Asia  is one of the world's  monsoons , affecting the  Indian subcontinent . Because of its effect on agriculture, on flora and fauna, and on the climates of nations including Bangladesh, Bhutan, India, Nepal, Pakistan and Sri Lanka, the monsoon is one of the most anticipated, tracked and studied weather phenomena in the region. The southwest monsoon generally starts on the western coast of India at the beginning of June, and runs through to the beginning of October. Its cause is only partly understood and it is notoriously difficult to predict, with several theories proposed to explain its origin and process. These two panoramic photographs, taken three months apart in 2010 from the same location, show a view of the  Western Ghats  in  Maharashtra , India, during the dry season in late May  (top)  and during the peak of the South Asian monsoon in late August  (bottom) .
+>Gabrielle Ray  (28 April 1883 – 21 May 1973) was an English stage actress, dancer and singer, best known for her roles in  Edwardian musical comedies . She was considered one of the most beautiful actresses on the London stage and became one of the most photographed women in the world. In the first decade of the 20th century, she had a good career in musical theatre. After an unsuccessful marriage, Ray returned to the stage, but she never recovered the fame that she had enjoyed. She later struggled with depression and spent her last 37 years in a mental hospital. This photograph of Ray was taken around 1910.
 
 

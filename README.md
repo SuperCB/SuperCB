@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Gabrielle_Ray_%28c._1910%29_-_Archivio_Storico_Ricordi_FOTO002691_-_Restoration.jpg/450px-Gabrielle_Ray_%28c._1910%29_-_Archivio_Storico_Ricordi_FOTO002691_-_Restoration.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Chalkhill_blue_butterflies_%28Polyommatus_coridon%29_mating_1.jpg/600px-Chalkhill_blue_butterflies_%28Polyommatus_coridon%29_mating_1.jpg" />
 </div>
 
->Gabrielle Ray  (28 April 1883 – 21 May 1973) was an English stage actress, dancer and singer, best known for her roles in  Edwardian musical comedies . She was considered one of the most beautiful actresses on the London stage and became one of the most photographed women in the world. In the first decade of the 20th century, she had a good career in musical theatre. After an unsuccessful marriage, Ray returned to the stage, but she never recovered the fame that she had enjoyed. She later struggled with depression and spent her last 37 years in a mental hospital. This photograph of Ray was taken around 1910.
+>The  chalkhill blue  ( Lysandra coridon ) is a species of  butterfly  in the family  Lycaenidae . It is a small butterfly that can be found throughout the  Palearctic realm , where it occurs primarily in grasslands rich in  chalk . Males are a pale blue colour, while females are dark brown; both have chequered fringes around their wings. This mating pair of chalkhill blues was photographed at  Aston Rowant National Nature Reserve  in  Oxfordshire , England. The species breeds and produces a new generation only once per year.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Chalkhill_blue_butterflies_%28Polyommatus_coridon%29_mating_1.jpg/600px-Chalkhill_blue_butterflies_%28Polyommatus_coridon%29_mating_1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Street_Musicians_at_the_Door_-_Jacob_Octhtervelt_%28edit%29.jpg/525px-Street_Musicians_at_the_Door_-_Jacob_Octhtervelt_%28edit%29.jpg" />
 </div>
 
->The  chalkhill blue  ( Lysandra coridon ) is a species of  butterfly  in the family  Lycaenidae . It is a small butterfly that can be found throughout the  Palearctic realm , where it occurs primarily in grasslands rich in  chalk . Males are a pale blue colour, while females are dark brown; both have chequered fringes around their wings. This mating pair of chalkhill blues was photographed at  Aston Rowant National Nature Reserve  in  Oxfordshire , England. The species breeds and produces a new generation only once per year.
+>Street Musicians at the Door  is an  oil-on-canvas painting  by the  Dutch Golden Age  artist  Jacob Ochtervelt , painted in  Rotterdam  in 1665. It depicts a mother, child and maid from a wealthy family interacting with two musicians at the door of their house. The musicians are playing a  violin  and a  hurdy-gurdy . It is an example of an "entrance hall painting", a genre pioneered by Ochtervelt. The work is now in the collection of the  Saint Louis Art Museum  in  St. Louis , Missouri.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Street_Musicians_at_the_Door_-_Jacob_Octhtervelt_%28edit%29.jpg/525px-Street_Musicians_at_the_Door_-_Jacob_Octhtervelt_%28edit%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Divje_Babe_flute_%28Late_Pleistocene_flute%29.jpg/525px-Divje_Babe_flute_%28Late_Pleistocene_flute%29.jpg" />
 </div>
 
->Street Musicians at the Door  is an  oil-on-canvas painting  by the  Dutch Golden Age  artist  Jacob Ochtervelt , painted in  Rotterdam  in 1665. It depicts a mother, child and maid from a wealthy family interacting with two musicians at the door of their house. The musicians are playing a  violin  and a  hurdy-gurdy . It is an example of an "entrance hall painting", a genre pioneered by Ochtervelt. The work is now in the collection of the  Saint Louis Art Museum  in  St. Louis , Missouri.
+>The  Divje Babe flute , also sometimes called the tidldibab or Neanderthal flute, is the  femur  of a  cave bear , which is pierced by spaced holes similar to those found on a  flute . The object was unearthed at  Divje Babe I , a cave site near  Cerkno  in northwestern Slovenia in 1995, during systematic archaeological excavations in the area. It is possible that it was made by  Neanderthals  as a form of  musical instrument , although this theory is debated by scientists: some argue that the holes in the bone were artificially made by Neanderthals, while others say they were made by  carnivores . If confirmed as a musical instrument, it would be the oldest-known  Paleolithic flute  and musical instrument. The object is now in the collection of the  National Museum of Slovenia  in  Ljubljana .
 
 

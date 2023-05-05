@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Petasites_hybridus_inflorescence_-_Keila.jpg/450px-Petasites_hybridus_inflorescence_-_Keila.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Darcha_Padum_Road_Below_Shinku_La_Lahaul_Oct22_A7C_03533.jpg/600px-Darcha_Padum_Road_Below_Shinku_La_Lahaul_Oct22_A7C_03533.jpg" />
 </div>
 
->Petasites hybridus , the butterbur, is a species of herbaceous perennial  flowering plant  in the family  Asteraceae  native to Europe and northern Asia. Although used over centuries in  traditional medicine  to treat various disorders and sometimes sold as a  dietary supplement , it has no approved medical uses. Concerns about the potential toxic effects of  pyrrolizidine alkaloids  limit its use in human and animal studies. This  P. hybridus   inflorescence  was photographed in a forest near  Keila  in northwestern Estonia.
+>Shingo La  is a high-altitude  mountain pass  in the  Himalayas  in northern India, connecting the  Lahaul  region of  Himachal Pradesh  with the  Zanskar  region of  Ladakh . The pass is located at an altitude of about 5,000 metres (16,000 ft) and becomes snowbound in the winter months. This photograph, taken in October 2022, depicts the  Nimmu–Padum–Darcha road  winding through the pass.
 
 

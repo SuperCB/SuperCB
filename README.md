@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Darcha_Padum_Road_Below_Shinku_La_Lahaul_Oct22_A7C_03533.jpg/600px-Darcha_Padum_Road_Below_Shinku_La_Lahaul_Oct22_A7C_03533.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PIA19664-MarsInSightLander-Assembly-20150430.jpg/900px-PIA19664-MarsInSightLander-Assembly-20150430.jpg" />
 </div>
 
->Shingo La  is a high-altitude  mountain pass  in the  Himalayas  in northern India, connecting the  Lahaul  region of  Himachal Pradesh  with the  Zanskar  region of  Ladakh . The pass is located at an altitude of about 5,000 metres (16,000 ft) and becomes snowbound in the winter months. This photograph, taken in October 2022, depicts the  Nimmu–Padum–Darcha road  winding through the pass.
+>The  InSight  mission was a robotic  lander . It was manufactured by  Lockheed Martin Space , was managed by NASA's  Jet Propulsion Laboratory  (JPL), and two of its three scientific instruments were built by European agencies. The mission launched on 5 May 2018 aboard an  Atlas V -401  launch vehicle  and successfully landed at  Elysium Planitia  on Mars on 26 November 2018.
 
 

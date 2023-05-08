@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dudley_Hardy_-_Poster_for_His_Majesty.jpg/450px-Dudley_Hardy_-_Poster_for_His_Majesty.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg/750px-Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg" />
 </div>
 
->His Majesty  is an 1897  comic opera  with dialogue by  F. C. Burnand , lyrics by  R. C. Lehmann , additional lyrics by  Adrian Ross , and music by  Alexander Mackenzie . The work premiered at the  Savoy Theatre  in London on 20 February 1897, running for only 61 performances until 24 April, despite a strong cast including  George Grossmith ,  Ilka Pálmay ,  Scott Russell ,  Fred Billington ,  Florence Perry  and  Walter Passmore .  The  D'Oyly Carte Opera Company  then toured the opera throughout 1897 alongside more familiar  Gilbert and Sullivan  works. This poster for  His Majesty  was designed by  Dudley Hardy  to advertise the original D'Oyly Carte production, or the tour immediately following.
+>The  scarlet macaw  ( Ara macao ) is a large  parrot , a member of a large group of Neotropical parrots called  macaws . Its range extends from south-eastern Mexico to Peru, Ecuador, Colombia, Bolivia, Venezuela and Brazil in lowlands of up to 1,000 m (3,300 ft), the Caribbean island of  Trinidad , as well as the Pacific island of  Coiba .
 
 

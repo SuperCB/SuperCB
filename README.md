@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg/750px-Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SL_Anuradhapura_asv2020-01_img31_Abhayagiriya_Stupa.jpg/525px-SL_Anuradhapura_asv2020-01_img31_Abhayagiriya_Stupa.jpg" />
 </div>
 
->The  scarlet macaw  ( Ara macao ) is a large  parrot , a member of a large group of Neotropical parrots called  macaws . Its range extends from south-eastern Mexico to Peru, Ecuador, Colombia, Bolivia, Venezuela and Brazil in lowlands of up to 1,000 m (3,300 ft), the Caribbean island of  Trinidad , as well as the Pacific island of  Coiba .
+>Abhayagiri Vihāra  was a major monastery site of  Mahayana ,  Theravada  and  Vajrayana  Buddhism located in  Anuradhapura , Sri Lanka. This photograph depicts the monastery's  stupa  as seen in 2020.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pinnularia_major.jpg/525px-Pinnularia_major.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/EHT_Saggitarius_A_black_hole.tif/lossy-page1-525px-EHT_Saggitarius_A_black_hole.tif.jpg" />
 </div>
 
->Pinnularia  is a genus of freshwater  algae  in the class Bacillariophyceae, the  diatoms . An elongated elliptical  unicellular organism , it is usually found in ponds and moist soil. The  cell walls  are composed chiefly of  pectic  substances on a rigid  silica  framework, and are composed of two halves known as  thecae  (or, less formally, valves). This  Pinnularia major  specimen, about 0.3 millimetres (0.012 in) in length, was photographed through a light microscope.
+>Sagittarius A*  is the  supermassive black hole  at the  Galactic Center  of the  Milky Way . It is located near the border of the constellations  Sagittarius  and  Scorpius , about 5.6 degrees south of the  ecliptic , visually close to the  Butterfly Cluster  and  Lambda Scorpii . On May 12, 2022, astronomers released this first image of the  accretion disk  around the  event horizon  of Sagittarius A*, produced in April 2017 by the  Event Horizon Telescope  (EHT), a worldwide network of radio observatories, confirming the object to be a  black hole . This was the second confirmed image of a black hole, after EHT's image of  M87*  released in 2019.
 
 

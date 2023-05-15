@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/EHT_Saggitarius_A_black_hole.tif/lossy-page1-525px-EHT_Saggitarius_A_black_hole.tif.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Seven_Sisters_3.jpg/600px-Seven_Sisters_3.jpg" />
 </div>
 
->Sagittarius A*  is the  supermassive black hole  at the  Galactic Center  of the  Milky Way . It is located near the border of the constellations  Sagittarius  and  Scorpius , about 5.6 degrees south of the  ecliptic , visually close to the  Butterfly Cluster  and  Lambda Scorpii . On May 12, 2022, astronomers released this first image of the  accretion disk  around the  event horizon  of Sagittarius A*, produced in April 2017 by the  Event Horizon Telescope  (EHT), a worldwide network of radio observatories, confirming the object to be a  black hole . This was the second confirmed image of a black hole, after EHT's image of  M87*  released in 2019.
+>The  Belle Tout Lighthouse  is a decommissioned  lighthouse  and British landmark located at  Beachy Head , East Sussex, close to the town of  Eastbourne . The cliffs near Beachy Head saw numerous  shipwrecks  in the 17th and early 18th centuries and a petition to erect a lighthouse started around 1691. Despite this, the lighthouse was not built until 1828, initially as a temporary wooden structure, and then as a permanent  granite  lighthouse which was designed by  Thomas Stevenson  and became operational in 1834. The light was provided by a three-sided rotating array of oil lamps with ten lamps on each side, each lamp mounted within a  parabolic reflector . The Belle Tout lighthouse was decommissioned in 1902, when the replacement  Beachy Head Lighthouse  was built at the bottom of the cliffs. In 1999, the Grade II  listed building  was moved in one piece to prevent it from succumbing to coastal erosion, and since 2010 it has operated as a  bed and breakfast .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Geography_Lesson_or_%22The_Black_Spot%22.jpg/825px-The_Geography_Lesson_or_%22The_Black_Spot%22.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Samantha_Cristoforetti_official_portrait_in_an_EMU_spacesuit.jpg/525px-Samantha_Cristoforetti_official_portrait_in_an_EMU_spacesuit.jpg" />
 </div>
 
->Alsace–Lorraine , now known as Alsace–Moselle, is a historical region located in modern day France. It was created by the  German Empire  in 1871, after it had seized the region from France in the  Franco-Prussian War  with the  Treaty of Frankfurt  and forced France to pay an  indemnity  of five billion francs. Anger in the  French Third Republic  about the loss of the territory was one of the  contributing factors that led to World War I , and the region reverted to France in 1918 as part of the  Treaty of Versailles  and Germany's defeat in the war. This  oil-on-canvas painting , titled  The Geography Lesson  or  The Black Spot , was painted around 1887 by  Albert Bettannier . It depicts a school teacher showing pupils a map of France in which Alsace–Lorraine is coloured black, portraying French resentment of the loss of the region to Germany. The painting is in the collection of the  German Historical Museum  in Berlin.
+>Samantha Cristoforetti  (born 1977) is an Italian  European Space Agency  astronaut, former  Italian Air Force  pilot and engineer. She holds the record for the longest uninterrupted spaceflight by a European astronaut (199 days, 16 hours), and she held the record for the longest single space flight by a woman until this was broken by  Peggy Whitson  in June 2017. She is also the first Italian woman in space. She took command of  ISS Expedition 68  on 28 September 2022. This official photographic portrait of Cristoforetti wearing an  Extravehicular Mobility Unit  spacesuit was taken in 2013.
 
 

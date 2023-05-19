@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Samantha_Cristoforetti_official_portrait_in_an_EMU_spacesuit.jpg/525px-Samantha_Cristoforetti_official_portrait_in_an_EMU_spacesuit.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kumquat_from_Spain.jpg/600px-Kumquat_from_Spain.jpg" />
 </div>
 
->Samantha Cristoforetti  (born 1977) is an Italian  European Space Agency  astronaut, former  Italian Air Force  pilot and engineer. She holds the record for the longest uninterrupted spaceflight by a European astronaut (199 days, 16 hours), and she held the record for the longest single space flight by a woman until this was broken by  Peggy Whitson  in June 2017. She is also the first Italian woman in space. She took command of  ISS Expedition 68  on 28 September 2022. This official photographic portrait of Cristoforetti wearing an  Extravehicular Mobility Unit  spacesuit was taken in 2013.
+>Kumquats  are a group of small fruit-bearing trees in the flowering plant family  Rutaceae . Their  taxonomy  is disputed. They were previously classified as forming the now-historical  genus   Fortunella  or placed within the genus  Citrus ,  sensu lato . Different classifications have alternatively assigned them to anywhere from a single species,  C. japonica , to numerous species representing each cultivar. This photograph, depicting one halved and two whole kumquats, was  focus-stacked  from 22 separate images.
 
 

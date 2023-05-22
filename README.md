@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/S%C3%A1ndor_Vay_-_Restoration.jpg/327px-S%C3%A1ndor_Vay_-_Restoration.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/La_Boh%C3%A9mienne_endormie.jpg/750px-La_Boh%C3%A9mienne_endormie.jpg" />
 </div>
 
->Sándor Vay  (1859–1918) was a Hungarian poet and journalist. Born as a female named Sarolta, Vay was one of the first Hungarian women to complete university studies. Vay then began identifying as a male journalist, both before and after the sensational trial for his marriage to another woman in 1889. The case drew the attention of noted  sexologists  of the period, including  Havelock Ellis  and  Richard von Krafft-Ebing , who used it to explore  female inversion  in the emerging field of  sexology . During his lifetime, he was well respected as an author of historical articles on notable figures and cultural topics related to Hungary. Many of his works have been posthumously republished and are considered an important part of his country's literary heritage.
+>The Sleeping Gypsy  is an 1897 oil-on-canvas by the French  Naïve  artist  Henri Rousseau . It is a fantastical depiction of a lion musing over a sleeping woman on a moonlit night. Rousseau first exhibited the painting at the 13th  Salon des Indépendants , and tried unsuccessfully to sell it to the mayor of his hometown,  Laval . It instead entered the private collection of a Parisian charcoal merchant, where it remained until 1924, when it was discovered by the art critic Louis Vauxcelles. The Paris-based art dealer  Daniel-Henry Kahnweiler  purchased the painting in 1924, although a controversy arose over whether the painting was a forgery. It was acquired by art historian  Alfred H. Barr Jr.  for the  Museum of Modern Art  in New York, where it remains.
 
 

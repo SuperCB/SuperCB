@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/La_Boh%C3%A9mienne_endormie.jpg/750px-La_Boh%C3%A9mienne_endormie.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vista_de_%C3%85lesund_desde_Aksla%2C_Noruega%2C_2019-09-01%2C_DD_16.jpg/750px-Vista_de_%C3%85lesund_desde_Aksla%2C_Noruega%2C_2019-09-01%2C_DD_16.jpg" />
 </div>
 
->The Sleeping Gypsy  is an 1897 oil-on-canvas by the French  Naïve  artist  Henri Rousseau . It is a fantastical depiction of a lion musing over a sleeping woman on a moonlit night. Rousseau first exhibited the painting at the 13th  Salon des Indépendants , and tried unsuccessfully to sell it to the mayor of his hometown,  Laval . It instead entered the private collection of a Parisian charcoal merchant, where it remained until 1924, when it was discovered by the art critic Louis Vauxcelles. The Paris-based art dealer  Daniel-Henry Kahnweiler  purchased the painting in 1924, although a controversy arose over whether the painting was a forgery. It was acquired by art historian  Alfred H. Barr Jr.  for the  Museum of Modern Art  in New York, where it remains.
+>Ålesund  is a town and municipality in  Møre og Romsdal  county, Norway. The centre of the town lies on the islands of  Hessa ,  Aspøya , and  Nørvøya  with newer developments located on the islands of  Oksenøya . According to local legend, Ålesund was founded by Gangerolf ( Rollo ) in the 9th century. In 1848, it was given the status of a town. In 1904, the town was largely destroyed  in a fire  and subsequently rebuilt, with most of the buildings constructed of stone in  Art Nouveau  style. This photograph depicts a view of Ålesund in September 2019 as seen from Aksla, a viewpoint over the town.
 
 

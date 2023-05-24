@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vista_de_%C3%85lesund_desde_Aksla%2C_Noruega%2C_2019-09-01%2C_DD_16.jpg/750px-Vista_de_%C3%85lesund_desde_Aksla%2C_Noruega%2C_2019-09-01%2C_DD_16.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vanadinite_-_ACF_mine%2C_Mibladen%2C_Morocco.jpg/825px-Vanadinite_-_ACF_mine%2C_Mibladen%2C_Morocco.jpg" />
 </div>
 
->Ålesund  is a town and municipality in  Møre og Romsdal  county, Norway. The centre of the town lies on the islands of  Hessa ,  Aspøya , and  Nørvøya  with newer developments located on the islands of  Oksenøya . According to local legend, Ålesund was founded by Gangerolf ( Rollo ) in the 9th century. In 1848, it was given the status of a town. In 1904, the town was largely destroyed  in a fire  and subsequently rebuilt, with most of the buildings constructed of stone in  Art Nouveau  style. This photograph depicts a view of Ålesund in September 2019 as seen from Aksla, a viewpoint over the town.
+>Vanadinite  is a mineral belonging to the  apatite  group of  phosphates . It is one of the main industrial ores of the metal  vanadium  and a minor source of  lead . A dense, brittle mineral, it is usually found in the form of red hexagonal  crystals . It is an uncommon mineral, formed by the oxidation of lead ore deposits such as  galena . First discovered in 1801 in Mexico, vanadinite deposits have since been unearthed in South America, Europe, Africa, and North America. This  cluster  of reddish brown  tabular  vanadinite crystals, measuring 4.0 cm × 2.5 cm × 2.3 cm (1.57 in × 0.98 in × 0.91 in), was found in a mine in  Mibladen , Morocco. The photograph was  focus-stacked  from 212 separate images using software.
 
 

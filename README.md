@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vanadinite_-_ACF_mine%2C_Mibladen%2C_Morocco.jpg/825px-Vanadinite_-_ACF_mine%2C_Mibladen%2C_Morocco.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Justice_K._Sukumaran.jpg/375px-Justice_K._Sukumaran.jpg" />
 </div>
 
->Vanadinite  is a mineral belonging to the  apatite  group of  phosphates . It is one of the main industrial ores of the metal  vanadium  and a minor source of  lead . A dense, brittle mineral, it is usually found in the form of red hexagonal  crystals . It is an uncommon mineral, formed by the oxidation of lead ore deposits such as  galena . First discovered in 1801 in Mexico, vanadinite deposits have since been unearthed in South America, Europe, Africa, and North America. This  cluster  of reddish brown  tabular  vanadinite crystals, measuring 4.0 cm × 2.5 cm × 2.3 cm (1.57 in × 0.98 in × 0.91 in), was found in a mine in  Mibladen , Morocco. The photograph was  focus-stacked  from 212 separate images using software.
+>K. Sukumaran  is an Indian  lawyer  who has served as a  judge  in the  high courts  of  Kerala  and  Mumbai  in India.  He has led several inquiries into  human rights  abuses. He is the author of several books on legal topics. This photograph of Sukumaran was taken in 2020.
 
 

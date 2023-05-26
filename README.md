@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Justice_K._Sukumaran.jpg/375px-Justice_K._Sukumaran.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chichester_Cathedral_Choir%2C_West_Sussex%2C_UK_-_Diliff.jpg/525px-Chichester_Cathedral_Choir%2C_West_Sussex%2C_UK_-_Diliff.jpg" />
 </div>
 
->K. Sukumaran  is an Indian  lawyer  who has served as a  judge  in the  high courts  of  Kerala  and  Mumbai  in India.  He has led several inquiries into  human rights  abuses. He is the author of several books on legal topics. This photograph of Sukumaran was taken in 2020.
+>Chichester Cathedral  is an Anglican church in  Chichester , West Sussex, England. It was founded as a cathedral in 1075, when the seat of the bishop was moved from  Selsey . The cathedral has architecture in both the  Norman  and the  Gothic  styles, with two architectural features that are unique among England's medieval cathedrals—a free-standing medieval  bell tower  (or campanile) and double aisles. The cathedral contains two rare medieval sculptures and many modern art works including tapestries, stained glass and sculpture. This westward view shows the cathedral's  choir , which is separated from the  nave  by a  pulpitum  with three arched openings, called the Arundel Screen.
 
 

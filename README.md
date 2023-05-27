@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chichester_Cathedral_Choir%2C_West_Sussex%2C_UK_-_Diliff.jpg/525px-Chichester_Cathedral_Choir%2C_West_Sussex%2C_UK_-_Diliff.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Thyroid_hormone_synthesis.png/900px-Thyroid_hormone_synthesis.png" />
 </div>
 
->Chichester Cathedral  is an Anglican church in  Chichester , West Sussex, England. It was founded as a cathedral in 1075, when the seat of the bishop was moved from  Selsey . The cathedral has architecture in both the  Norman  and the  Gothic  styles, with two architectural features that are unique among England's medieval cathedrals—a free-standing medieval  bell tower  (or campanile) and double aisles. The cathedral contains two rare medieval sculptures and many modern art works including tapestries, stained glass and sculpture. This westward view shows the cathedral's  choir , which is separated from the  nave  by a  pulpitum  with three arched openings, called the Arundel Screen.
+>Thyroid hormones  are  hormones  produced and released by the  thyroid gland , namely  triiodothyronine  (T 3 ) and thyroxine (T 4 ). They are  tyrosine -based hormones that are primarily responsible for regulation of  metabolism . T 3  and T 4  are partially composed of  iodine , derived from food. A deficiency of iodine leads to decreased production of T 3  and T 4 , enlarges the thyroid tissue and will cause the disease known as  simple goitre . This illustration shows the synthesis of thyroid hormones, as seen on an individual  thyroid follicular cell .
 
 

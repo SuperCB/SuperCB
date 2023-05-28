@@ -16,9 +16,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Thyroid_hormone_synthesis.png/900px-Thyroid_hormone_synthesis.png" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg/825px-Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg" />
 </div>
 
->Thyroid hormones  are  hormones  produced and released by the  thyroid gland , namely  triiodothyronine  (T 3 ) and thyroxine (T 4 ). They are  tyrosine -based hormones that are primarily responsible for regulation of  metabolism . T 3  and T 4  are partially composed of  iodine , derived from food. A deficiency of iodine leads to decreased production of T 3  and T 4 , enlarges the thyroid tissue and will cause the disease known as  simple goitre . This illustration shows the synthesis of thyroid hormones, as seen on an individual  thyroid follicular cell .
+>The  Eurasian brown bear  ( Ursus arctos arctos ) is one of the most common  subspecies  of the brown bear, and is found in much of  Eurasia . It is also called the European brown bear, common brown bear, common bear, and colloquially by many other names. The genetic diversity of present-day brown bears ( Ursus arctos ) has been extensively studied over the years and appears to be geographically structured into five main  clades  based upon analysis of the  mitochondrial DNA . This adult female was photographed near Stari Kot,  Slovenia .
 
 

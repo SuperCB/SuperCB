@@ -16,9 +16,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg/825px-Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Head_of_Bhairava_-_MET_DP307219.jpg/525px-Head_of_Bhairava_-_MET_DP307219.jpg" />
 </div>
 
->The  Eurasian brown bear  ( Ursus arctos arctos ) is one of the most common  subspecies  of the brown bear, and is found in much of  Eurasia . It is also called the European brown bear, common brown bear, common bear, and colloquially by many other names. The genetic diversity of present-day brown bears ( Ursus arctos ) has been extensively studied over the years and appears to be geographically structured into five main  clades  based upon analysis of the  mitochondrial DNA . This adult female was photographed near Stari Kot,  Slovenia .
+>The  Head of Bhairava  is a 16th-century mask from the  Kathmandu Valley  in Nepal. Made of gilt copper with rock crystal and paint during Nepal's  Malla period , it depicts  Bhairava , the destructive and terrifying manifestation of the Hindu god  Shiva . The mask is in the  Metropolitan Museum of Art  in New York.
 
 

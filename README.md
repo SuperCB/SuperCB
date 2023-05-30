@@ -16,9 +16,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Head_of_Bhairava_-_MET_DP307219.jpg/525px-Head_of_Bhairava_-_MET_DP307219.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Everest-3D-Map-Type-EN.jpg/1125px-Everest-3D-Map-Type-EN.jpg" />
 </div>
 
->The  Head of Bhairava  is a 16th-century mask from the  Kathmandu Valley  in Nepal. Made of gilt copper with rock crystal and paint during Nepal's  Malla period , it depicts  Bhairava , the destructive and terrifying manifestation of the Hindu god  Shiva . The mask is in the  Metropolitan Museum of Art  in New York.
+>Mount Everest  is  Earth's highest mountain  above  sea level , located in the  Himalayas  along the  China–Nepal border . Its summit, at 8,848.86 m (29,031.7 ft) elevation, was  first reached on 29 May 1953  by  Tenzing Norgay  and  Edmund Hillary . This map, which uses data from the US  National Snow and Ice Data Center , is a 3D rendering of Mount Everest and its surrounding terrain. Features portrayed on the map include the  Khumbu Icefall , the  South Base Camp  (5,300 m),  Nuptse  (7,861 m) and  Lhotse  (8,516 m).
 
 

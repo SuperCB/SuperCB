@@ -16,9 +16,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rosa_Raisa_%281917%29_-_Archivio_Storico_Ricordi_FOTO002701_-_Restoration.jpg/450px-Rosa_Raisa_%281917%29_-_Archivio_Storico_Ricordi_FOTO002701_-_Restoration.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Valeriana_officinalis_-_Niitv%C3%A4lja.jpg/450px-Valeriana_officinalis_-_Niitv%C3%A4lja.jpg" />
 </div>
 
->Rosa Raisa  (30 May 1893 – 28 September 1963) was a Polish-born and Italian-trained Russian-Jewish dramatic operatic  soprano  who became a naturalized American. She possessed a voice of remarkable power and was the creator of the title role of Puccini's last opera,  Turandot , at  La Scala  in Milan. This photograph of Raisa, which she autographed in 1917, was taken by  Herman Mishkin , a Russian-American photographer who specialized in photographing opera singers.
+>Valerian  ( Valeriana officinalis ) is a  perennial  flowering plant in the family  Caprifoliaceae , native to Europe and Asia. In the summer when the mature plant may have a height of 1.5 metres (5 feet), it bears sweetly scented pink or white flowers that attract many fly species, especially  hoverflies  of the genus  Eristalis . Valerian has been used as a herb in  traditional medicine  since at least the time of ancient Greece and Rome;  Hippocrates  described its properties and  Galen  later prescribed it as a remedy for insomnia. This valerian flower was photographed in  Niitvälja , Estonia, in 2021.
 
 

@@ -16,9 +16,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/WhereRainbowRises.jpg/450px-WhereRainbowRises.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Western_Bowerbird_0A2A0436.jpg/600px-Western_Bowerbird_0A2A0436.jpg" />
 </div>
 
->A  rainbow  is an  optical phenomenon  that can occur under certain  meteorological  conditions. It is caused by  refraction ,  internal reflection  and  dispersion  of light in water droplets resulting in a continuous  spectrum  of light appearing in the sky. The rainbow takes the form of a multicoloured circular  arc . Although a rainbow spans a continuous spectrum of colours, it is traditionally assigned a discrete sequence, with  red ,  orange ,  yellow ,  green ,  blue ,  indigo , and  violet  as the most common list. The rainbow inspired the  rainbow flag , a symbol of  LGBT pride  and  Pride Month . This portion of a rainbow, appearing to rise from a lakeside forest, was photographed in 2005 in  Jasper National Park  in  Alberta , Canada.
+>The  western bowerbird  ( Chlamydera guttata ) is a species of bird in the family  Ptilonorhynchidae . The species is  endemic  to Australia, where it has a  disjunct distribution , occurring in both  Central Australia  and the  Pilbara  region of  Western Australia . It is 24 to 28 centimetres (9.4 to 11.0 in) in length with a mass of 120 to 150 grams (4.2 to 5.3 oz). The  plumage  is brown with reddish or buff spots over the throat, chest, neck, back head and wings, with a pink erectile  crest  on the nape. Its tail is brown, with the undersides buff. Males and females are similar in appearance, except that the tail of the female is slightly longer and it is more spotted on the throat than the male. This western bowerbird was photographed near  Alice Springs  in the Northern Territory in 2022.
 
 

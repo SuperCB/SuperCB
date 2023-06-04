@@ -16,9 +16,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Western_Bowerbird_0A2A0436.jpg/600px-Western_Bowerbird_0A2A0436.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hubble_NGC6530.jpg/600px-Hubble_NGC6530.jpg" />
 </div>
 
->The  western bowerbird  ( Chlamydera guttata ) is a species of bird in the family  Ptilonorhynchidae . The species is  endemic  to Australia, where it has a  disjunct distribution , occurring in both  Central Australia  and the  Pilbara  region of  Western Australia . It is 24 to 28 centimetres (9.4 to 11.0 in) in length with a mass of 120 to 150 grams (4.2 to 5.3 oz). The  plumage  is brown with reddish or buff spots over the throat, chest, neck, back head and wings, with a pink erectile  crest  on the nape. Its tail is brown, with the undersides buff. Males and females are similar in appearance, except that the tail of the female is slightly longer and it is more spotted on the throat than the male. This western bowerbird was photographed near  Alice Springs  in the Northern Territory in 2022.
+>NGC 6530  is a young  open cluster  of stars lying around 4,350  light years  from Earth in the constellation  Sagittarius . The cluster is set within the larger  Lagoon Nebula , a large interstellar cloud of gas and dust. This photograph of a portion of NGC 6530 was taken by  NASA 's  Hubble Space Telescope  released in 2022, with the Lagoon Nebula giving the image its smoky appearance.
 
 

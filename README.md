@@ -16,9 +16,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hubble_NGC6530.jpg/600px-Hubble_NGC6530.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kee_monastery_Spiti_Valley_%28edited%29.jpg/825px-Kee_monastery_Spiti_Valley_%28edited%29.jpg" />
 </div>
 
->NGC 6530  is a young  open cluster  of stars lying around 4,350  light years  from Earth in the constellation  Sagittarius . The cluster is set within the larger  Lagoon Nebula , a large interstellar cloud of gas and dust. This photograph of a portion of NGC 6530 was taken by  NASA 's  Hubble Space Telescope  released in 2022, with the Lagoon Nebula giving the image its smoky appearance.
+>Key Monastery  is a monastery belonging to the  Gelugpa  school of  Tibetan Buddhism , located at an elevation of 4,166 m (13,668 ft) on a hill rising above the  Spiti  valley in the northern Indian state of  Himachal Pradesh . Said to have been founded in the 11th century, it is the largest monastery in Spiti, housing hundreds of  monks . This view shows the monastery in winter, overlooking the snow-covered Spiti river valley with the Himalayas in the background.
 
 

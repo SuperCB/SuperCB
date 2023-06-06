@@ -16,9 +16,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kee_monastery_Spiti_Valley_%28edited%29.jpg/825px-Kee_monastery_Spiti_Valley_%28edited%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Clara_McAdow.jpg/525px-Clara_McAdow.jpg" />
 </div>
 
->Key Monastery  is a monastery belonging to the  Gelugpa  school of  Tibetan Buddhism , located at an elevation of 4,166 m (13,668 ft) on a hill rising above the  Spiti  valley in the northern Indian state of  Himachal Pradesh . Said to have been founded in the 11th century, it is the largest monastery in Spiti, housing hundreds of  monks . This view shows the monastery in winter, overlooking the snow-covered Spiti river valley with the Himalayas in the background.
+>Clara McAdow  (1838–1896) was an American women's suffragist and mine owner. Born in  Ohio , she grew up in  Jackson, Michigan , relocating to  Montana  with her first husband, C. E. Tomlinson. When Tomlinson died, she took their savings and invested in real estate in  Billings . Through her real-estate ventures, she met her second husband, Perry McAdow. She purchased from him the Spotted Horse mine, which he had received as payment for a debt. Clara took charge of all aspects of the mine, directing all of its operations and often living on site. McAdow was intensely interested in  the women's suffrage movement , hosting  Carrie Chapman Catt  and  Susan B. Anthony  in her home to promote giving women the vote.
 
 

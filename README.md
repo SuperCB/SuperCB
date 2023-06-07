@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Clara_McAdow.jpg/525px-Clara_McAdow.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Carl_Blechen_-_The_Interior_of_the_Palm_House_on_the_Pfaueninsel_Near_Potsdam_-_1996.388_-_Art_Institute_of_Chicago.jpg/600px-Carl_Blechen_-_The_Interior_of_the_Palm_House_on_the_Pfaueninsel_Near_Potsdam_-_1996.388_-_Art_Institute_of_Chicago.jpg" />
 </div>
 
->Clara McAdow  (1838–1896) was an American women's suffragist and mine owner. Born in  Ohio , she grew up in  Jackson, Michigan , relocating to  Montana  with her first husband, C. E. Tomlinson. When Tomlinson died, she took their savings and invested in real estate in  Billings . Through her real-estate ventures, she met her second husband, Perry McAdow. She purchased from him the Spotted Horse mine, which he had received as payment for a debt. Clara took charge of all aspects of the mine, directing all of its operations and often living on site. McAdow was intensely interested in  the women's suffrage movement , hosting  Carrie Chapman Catt  and  Susan B. Anthony  in her home to promote giving women the vote.
+>The Interior of the Palm House on the Pfaueninsel Near Potsdam  is the title of two oil-on-canvas paintings by  Carl Blechen , completed between 1832 and 1834. Both depict four  odalisques  as they relax in a palm house (which was destroyed by fire in 1880) at the royal retreat of  Pfaueninsel  near Berlin, but have different angles of view and compositions. The works were commissioned by  King Frederick William III of Prussia  and are now in the  Hamburger Kunsthalle  and the  Art Institute of Chicago , with an 1832 color study for the work found in the  Alte Nationalgalerie  in Berlin. This picture shows the Chicago version of the painting, which was gifted by Frederick William to his daughter  Alexandra Feodorovna , the wife of  Emperor Nicholas I of Russia . It remained in the Russian imperial collection until around 1917, became part of a Swiss collection around 1920, and was owned by private collectors prior to its purchase by the Art Institute of Chicago in 1996.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Carl_Blechen_-_The_Interior_of_the_Palm_House_on_the_Pfaueninsel_Near_Potsdam_-_1996.388_-_Art_Institute_of_Chicago.jpg/600px-Carl_Blechen_-_The_Interior_of_the_Palm_House_on_the_Pfaueninsel_Near_Potsdam_-_1996.388_-_Art_Institute_of_Chicago.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tenthredo_scrophulariae_larva_-_Keila.jpg/600px-Tenthredo_scrophulariae_larva_-_Keila.jpg" />
 </div>
 
->The Interior of the Palm House on the Pfaueninsel Near Potsdam  is the title of two oil-on-canvas paintings by  Carl Blechen , completed between 1832 and 1834. Both depict four  odalisques  as they relax in a palm house (which was destroyed by fire in 1880) at the royal retreat of  Pfaueninsel  near Berlin, but have different angles of view and compositions. The works were commissioned by  King Frederick William III of Prussia  and are now in the  Hamburger Kunsthalle  and the  Art Institute of Chicago , with an 1832 color study for the work found in the  Alte Nationalgalerie  in Berlin. This picture shows the Chicago version of the painting, which was gifted by Frederick William to his daughter  Alexandra Feodorovna , the wife of  Emperor Nicholas I of Russia . It remained in the Russian imperial collection until around 1917, became part of a Swiss collection around 1920, and was owned by private collectors prior to its purchase by the Art Institute of Chicago in 1996.
+>Tenthredo scrophulariae , the figwort sawfly, is a species of insect in the family  Tenthredinidae , found across Europe. The  larvae  are relatively large, with a length of 30 millimetres (1.2 in) and having 22 legs. They have a white body with black spots, and feed on  mullein  and  figworts . They feed from August to September and emerge as adults in May the following year. This  T. scrophulariae  larva was photographed near  Keila  in north-western Estonia.
 
 

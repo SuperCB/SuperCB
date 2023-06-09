@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tenthredo_scrophulariae_larva_-_Keila.jpg/600px-Tenthredo_scrophulariae_larva_-_Keila.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/H._M._Brock_-_Gilbert_and_Sullivan_-_D%27Oyly_Carte_Opera_Company_Ruddigore_revival_1921.jpg/900px-H._M._Brock_-_Gilbert_and_Sullivan_-_D%27Oyly_Carte_Opera_Company_Ruddigore_revival_1921.jpg" />
 </div>
 
->Tenthredo scrophulariae , the figwort sawfly, is a species of insect in the family  Tenthredinidae , found across Europe. The  larvae  are relatively large, with a length of 30 millimetres (1.2 in) and having 22 legs. They have a white body with black spots, and feed on  mullein  and  figworts . They feed from August to September and emerge as adults in May the following year. This  T. scrophulariae  larva was photographed near  Keila  in north-western Estonia.
+>Ruddigore  is a  comic opera  in two acts, with music by  Arthur Sullivan  and a libretto by  W. S. Gilbert . It is one of the  Savoy operas  and the tenth of fourteen comic operas written together by  Gilbert and Sullivan , and was first performed by the  D'Oyly Carte Opera Company  at the  Savoy Theatre  in London on 22 January 1887. The first night was not altogether a success, as critics and the audience felt that  Ruddygore  (as it was originally spelled) did not measure up to its predecessor,  The Mikado . However, after it was revived by D'Oyly Carte in 1920, the work was reassessed more positively. This illustration was created by the British illustrator  H. M. Brock  for the 1921 revival of  Ruddigore  at the  Prince's Theatre  in London. Published in the October 29 issue of  The Sphere , it depicts a scene from the opera in which the ghosts of Sir Ruthven Murgatroyd's ancestors step out of their picture frames and accuse him of not having committed a crime every day in accordance with the family curse.
 
 

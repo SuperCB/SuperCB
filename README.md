@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/H._M._Brock_-_Gilbert_and_Sullivan_-_D%27Oyly_Carte_Opera_Company_Ruddigore_revival_1921.jpg/900px-H._M._Brock_-_Gilbert_and_Sullivan_-_D%27Oyly_Carte_Opera_Company_Ruddigore_revival_1921.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/King_Girvan_Yuddhavikram_Shah_%281797-1816%29_%28restoration%29.jpg/525px-King_Girvan_Yuddhavikram_Shah_%281797-1816%29_%28restoration%29.jpg" />
 </div>
 
->Ruddigore  is a  comic opera  in two acts, with music by  Arthur Sullivan  and a libretto by  W. S. Gilbert . It is one of the  Savoy operas  and the tenth of fourteen comic operas written together by  Gilbert and Sullivan , and was first performed by the  D'Oyly Carte Opera Company  at the  Savoy Theatre  in London on 22 January 1887. The first night was not altogether a success, as critics and the audience felt that  Ruddygore  (as it was originally spelled) did not measure up to its predecessor,  The Mikado . However, after it was revived by D'Oyly Carte in 1920, the work was reassessed more positively. This illustration was created by the British illustrator  H. M. Brock  for the 1921 revival of  Ruddigore  at the  Prince's Theatre  in London. Published in the October 29 issue of  The Sphere , it depicts a scene from the opera in which the ghosts of Sir Ruthven Murgatroyd's ancestors step out of their picture frames and accuse him of not having committed a crime every day in accordance with the family curse.
+>Girvan Yuddha Bikram Shah  (1797–1816) was the fourth  king of Nepal , ruling from 1799 to 1816. This drawing of the king was produced by an unknown artist around 1815 with opaque watercolor and gold on paper, and is now in the collection of the  Los Angeles County Museum of Art .
 
 

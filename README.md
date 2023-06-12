@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/King_Girvan_Yuddhavikram_Shah_%281797-1816%29_%28restoration%29.jpg/525px-King_Girvan_Yuddhavikram_Shah_%281797-1816%29_%28restoration%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/US-00010-One_Cent_%281974%29_Aluminum.jpg/825px-US-00010-One_Cent_%281974%29_Aluminum.jpg" />
 </div>
 
->Girvan Yuddha Bikram Shah  (1797–1816) was the fourth  king of Nepal , ruling from 1799 to 1816. This drawing of the king was produced by an unknown artist around 1815 with opaque watercolor and gold on paper, and is now in the collection of the  Los Angeles County Museum of Art .
+>The  1974 aluminum cent  was a  one-cent coin  proposed by the  United States Mint  in 1973. Composed of an  alloy  of  aluminum  and trace metals, it was intended to replace the predominantly  copper – zinc  cent due to the  rising costs of coin production  in the traditional  bronze  alloy. None of the 1,571,167 coins struck were released into circulation. The coin depicted here was donated to the  National Numismatic Collection  at the  Smithsonian Institution 's  National Museum of American History .
 
 

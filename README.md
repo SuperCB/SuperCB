@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg/450px-Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Walnuts_-_whole_and_open_with_halved_kernel.jpg/599px-Walnuts_-_whole_and_open_with_halved_kernel.jpg" />
 </div>
 
->Ernest Rutherford  (1871–1937) was a New Zealand physicist who was a pioneering researcher in both  atomic  and  nuclear physics . In early work, Rutherford discovered the concept of radioactive  half-life , the radioactive element  radon , and differentiated and named  alpha  and  beta radiation . This work formed the basis for a  Nobel Prize in Chemistry , awarded in 1908. With  Thomas Royds , Rutherford developed the theory that alpha radiation is  helium  nuclei, and also theorized that atoms have their charge concentrated in a very small  nucleus , and thereby pioneered the  Rutherford model  of the  atom . He went on to perform the first artificially induced  nuclear reaction  in 1917 in experiments where nitrogen nuclei were bombarded with alpha particles. As a result, he discovered the emission of a subatomic particle which became known as the  proton . Rutherford spent his later years as director of the  Cavendish Laboratory  in Cambridge. The chemical element  rutherfordium  was named after him in 1997. This photograph of Rutherford, published by the  Bain News Service , was most likely taken in the 1920s.
+>Walnuts  are edible seeds taken from trees in the genus  Juglans . The three species most commonly grown for their seeds are  J. regia , originating from Iran, from which the Persian (or English) walnut is harvested;  J. nigra , the black walnut tree, native to eastern North America; and  J. ailantifolia , the Japanese walnut, also known as the heartnut. Numerous walnut  cultivars  have been developed commercially, nearly all of which are hybrids of the English walnut. They are often eaten as a snack, and can also be added to cooked meals, cereals and bread.
 
 

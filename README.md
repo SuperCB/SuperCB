@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CH.ZH.Zurich_Hotel_The-Dolder-Grand_3x2-R_15K.jpg/750px-CH.ZH.Zurich_Hotel_The-Dolder-Grand_3x2-R_15K.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Poster_by_Anna_So%C3%B3s_Kor%C3%A0nyi_for_the_Seventh_Conference_of_the_International_Woman_Suffrage_Alliance.jpg/525px-Poster_by_Anna_So%C3%B3s_Kor%C3%A0nyi_for_the_Seventh_Conference_of_the_International_Woman_Suffrage_Alliance.jpg" />
 </div>
 
->The  Dolder Grand  is a five-star hotel in the Swiss city of  Zürich . It is located on  Adlisberg , a hill some 2 kilometres (1.2 mi) from, and 200 metres (660 ft) above, the city centre. Built in 1899, the hotel is spread out over 40,000 square metres (430,000 sq ft) and offers 173 rooms and suites, two restaurants, a bar, thirteen conference rooms and a 4,000-square-metre (43,000 sq ft) spa. This photograph of the Dolder Grand in the snow was taken in January 2021.
+>The  Seventh Conference of the International Woman Suffrage Alliance  met in  Budapest , Hungary, from 15 to 21 June 1913. As had been the case with all the preceding conferences, the location had been chosen to reflect the status of  women's suffrage : a place where the prospects seemed favorable and liable to influence public sentiment by demonstrating that it was now a global movement. When it had been announced at the  sixth congress  (in  Stockholm ) that the next one would be held in the capital of Hungary, it was felt that the location seemed very remote, and there were concerns that Hungary did not have representative government. In fact, it proved to be one of the largest and most important conventions. Furthermore the delegates stopped en route for mass meetings and public banquets in  Berlin ,  Dresden ,  Prague  and  Vienna , spreading its influence ever further afield. This poster for the conference, designed by Anna Soós Korányi and now in the collection of the  French Union for Women's Suffrage , depicts a woman helping  Atlas  hold up a globe on his shoulders.
 
 

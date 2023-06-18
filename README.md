@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jasper_Francis_Cropsey_by_Napoleon_Sarony.jpg/405px-Jasper_Francis_Cropsey_by_Napoleon_Sarony.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Redhead_in_Central_Park_%2815503%29.jpg/600px-Redhead_in_Central_Park_%2815503%29.jpg" />
 </div>
 
->Jasper Francis Cropsey  (1823–1900) was an American  landscape artist , part of a movement known as the  Hudson River School . Cropsey was trained as an  architect , and worked on Manhattan  brownstones , the since-demolished  14th Street station  for the  IRT Sixth Avenue Line  in Manhattan, and St. Luke's Episcopal Church on  Staten Island . In addition to architecture, Cropsey also studied  watercolor painting  and  figure drawing , exhibiting his work at the  National Academy of Design  from 1844. In 1866, he opened a studio in New York, specializing in autumnal landscape paintings of the northeastern United States, often idealized and with vivid colors. Cropsey co-founded, with ten fellow artists, the  American Society of Painters in Water Colors  in 1866. He is seen here in a circa-1870 photograph by American  lithographer  and photographer  Napoleon Sarony .
+>The  redhead  ( Aythya americana ) is a medium-sized species of diving  duck . The scientific name is derived from the Greek  aithuia , an unidentified seabird mentioned by authors including  Hesychius  and  Aristotle , and Latin  americana , 'of America'. It belongs to the genus  Aythya , together with eleven other described species. The redhead and the  common pochard  form a sister group which together is sister to the  canvasback . This redhead was photographed in  Central Park , New York.
 
 

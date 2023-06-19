@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Redhead_in_Central_Park_%2815503%29.jpg/600px-Redhead_in_Central_Park_%2815503%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/KC-46_refuels_F-35_20190122.jpg/600px-KC-46_refuels_F-35_20190122.jpg" />
 </div>
 
->The  redhead  ( Aythya americana ) is a medium-sized species of diving  duck . The scientific name is derived from the Greek  aithuia , an unidentified seabird mentioned by authors including  Hesychius  and  Aristotle , and Latin  americana , 'of America'. It belongs to the genus  Aythya , together with eleven other described species. The redhead and the  common pochard  form a sister group which together is sister to the  canvasback . This redhead was photographed in  Central Park , New York.
+>The  Boeing  KC-46  Pegasus  is an American military  aerial refueling  and strategic  military transport aircraft  developed by  Boeing  from the  Boeing 767  jet airliner. In February 2011, the tanker was selected by the  United States Air Force  (USAF) as the winner in the  KC-X  tanker competition to replace older  Boeing  KC-135  Stratotankers . The first aircraft was delivered to the USAF in January 2019, and it intends to procure 179 Pegasus aircraft by 2027. In this photograph, a  KC-46A  Pegasus refuels a  Lockheed Martin  F-35  Lightning II  over California.
 
 

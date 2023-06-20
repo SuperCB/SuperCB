@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/KC-46_refuels_F-35_20190122.jpg/600px-KC-46_refuels_F-35_20190122.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tavola_5%2C_bozzetto_di_Gebr%C3%BCder_Br%C3%BCckner_per_Tannh%C3%A4user_%28s.d.%29_-_Archivio_Storico_Ricordi_ICON011721_-_Restoration%2C_crop.jpg/599px-Tavola_5%2C_bozzetto_di_Gebr%C3%BCder_Br%C3%BCckner_per_Tannh%C3%A4user_%28s.d.%29_-_Archivio_Storico_Ricordi_ICON011721_-_Restoration%2C_crop.jpg" />
 </div>
 
->The  Boeing  KC-46  Pegasus  is an American military  aerial refueling  and strategic  military transport aircraft  developed by  Boeing  from the  Boeing 767  jet airliner. In February 2011, the tanker was selected by the  United States Air Force  (USAF) as the winner in the  KC-X  tanker competition to replace older  Boeing  KC-135  Stratotankers . The first aircraft was delivered to the USAF in January 2019, and it intends to procure 179 Pegasus aircraft by 2027. In this photograph, a  KC-46A  Pegasus refuels a  Lockheed Martin  F-35  Lightning II  over California.
+>Tannhäuser  is an 1845  opera  in three acts, with music and text by  Richard Wagner . It is based on two German legends:  Tannhäuser , the mythologized medieval German  Minnesänger  and poet, and the tale of the  Wartburg  song contest. The story centres on the struggle between sacred and profane love, as well as redemption through love, a theme running through most of Wagner's work. This undated set design for Act III of a production of  Tannhäuser  was produced by  Max Brückner  and his brother Gotthold, and printed by Otto Henning AG in  Greiz .
 
 

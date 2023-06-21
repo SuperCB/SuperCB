@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tavola_5%2C_bozzetto_di_Gebr%C3%BCder_Br%C3%BCckner_per_Tannh%C3%A4user_%28s.d.%29_-_Archivio_Storico_Ricordi_ICON011721_-_Restoration%2C_crop.jpg/599px-Tavola_5%2C_bozzetto_di_Gebr%C3%BCder_Br%C3%BCckner_per_Tannh%C3%A4user_%28s.d.%29_-_Archivio_Storico_Ricordi_ICON011721_-_Restoration%2C_crop.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ilan_Ramon%2C_NASA_photo_portrait_in_orange_suit.jpg/450px-Ilan_Ramon%2C_NASA_photo_portrait_in_orange_suit.jpg" />
 </div>
 
->Tannhäuser  is an 1845  opera  in three acts, with music and text by  Richard Wagner . It is based on two German legends:  Tannhäuser , the mythologized medieval German  Minnesänger  and poet, and the tale of the  Wartburg  song contest. The story centres on the struggle between sacred and profane love, as well as redemption through love, a theme running through most of Wagner's work. This undated set design for Act III of a production of  Tannhäuser  was produced by  Max Brückner  and his brother Gotthold, and printed by Otto Henning AG in  Greiz .
+>Ilan Ramon  (June 20, 1954 – February 1, 2003) was an Israeli fighter pilot and later the first Israeli astronaut. Ramon was a  Space Shuttle  payload specialist on  STS-107 , the final mission of  Space Shuttle  Columbia , in which he and the six other crew members were killed when  the spacecraft disintegrated during re-entry . At the age of 48, he was the oldest member of the crew. Ramon is the only foreign recipient of the  Congressional Space Medal of Honor , which he was awarded posthumously by the  United States Congress . This official  NASA  portrait of Ramon, wearing an  Advanced Crew Escape Suit , was taken in 2001.
 
 

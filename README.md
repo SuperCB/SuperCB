@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ilan_Ramon%2C_NASA_photo_portrait_in_orange_suit.jpg/450px-Ilan_Ramon%2C_NASA_photo_portrait_in_orange_suit.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bandits_Roost%2C_59_and_a_half_Mulberry_Street.jpg/525px-Bandits_Roost%2C_59_and_a_half_Mulberry_Street.jpg" />
 </div>
 
->Ilan Ramon  (June 20, 1954 – February 1, 2003) was an Israeli fighter pilot and later the first Israeli astronaut. Ramon was a  Space Shuttle  payload specialist on  STS-107 , the final mission of  Space Shuttle  Columbia , in which he and the six other crew members were killed when  the spacecraft disintegrated during re-entry . At the age of 48, he was the oldest member of the crew. Ramon is the only foreign recipient of the  Congressional Space Medal of Honor , which he was awarded posthumously by the  United States Congress . This official  NASA  portrait of Ramon, wearing an  Advanced Crew Escape Suit , was taken in 2001.
+>Bandits' Roost, 59 1/2 Mulberry Street  is a black-and-white photograph produced by the Danish-American photographer and social reformer  Jacob Riis  in 1888. It is not known whether the photograph was taken by Riis himself, or by one of his assistant photographers, Henry G. Piffard and Richard Hoe Lawrence. It was first published in the photographic book  How the Other Half Lives  in 1889, which aimed to document the social conditions of the poorest people of New York City. The photograph was taken in The Bend, a dangerous and poor alley in  Mulberry Street , New York City, which had a predominantly Italian population at the time, and was known for its high crime rates. Riis's social activism in pursuit of better life conditions for the poorest classes of New York, of which the book where this picture was published was one of the best examples, was one of the factors that led to the demolition of Mulberry End, which was later replaced by a park.
 
 

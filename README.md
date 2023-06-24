@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bandits_Roost%2C_59_and_a_half_Mulberry_Street.jpg/525px-Bandits_Roost%2C_59_and_a_half_Mulberry_Street.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cerussite_-_Nakhlak_mine%2C_Anarak%2C_Esfahan%2C_Iran.jpg/750px-Cerussite_-_Nakhlak_mine%2C_Anarak%2C_Esfahan%2C_Iran.jpg" />
 </div>
 
->Bandits' Roost, 59 1/2 Mulberry Street  is a black-and-white photograph produced by the Danish-American photographer and social reformer  Jacob Riis  in 1888. It is not known whether the photograph was taken by Riis himself, or by one of his assistant photographers, Henry G. Piffard and Richard Hoe Lawrence. It was first published in the photographic book  How the Other Half Lives  in 1889, which aimed to document the social conditions of the poorest people of New York City. The photograph was taken in The Bend, a dangerous and poor alley in  Mulberry Street , New York City, which had a predominantly Italian population at the time, and was known for its high crime rates. Riis's social activism in pursuit of better life conditions for the poorest classes of New York, of which the book where this picture was published was one of the best examples, was one of the factors that led to the demolition of Mulberry End, which was later replaced by a park.
+>Cerussite  is a  mineral  consisting of  lead carbonate  (PbCO 3 ), and is an important  ore  of lead. The name is from the Latin  cerussa ,  white lead .  Cerussa nativa  was mentioned by  Conrad Gessner  in 1565, and in 1832  François Sulpice Beudant  applied the name  céruse  to the mineral, while the present form,  cerussite , is due to  Wilhelm Karl Ritter von Haidinger  in 1845. Miners' names for cerussite in early use were lead-spar and white-lead-ore. In a  hydrate  form known as white lead, the mineral is a key ingredient in  lead paints  and has also been used in cosmetics, but both uses are now discontinued in many places as a result of  lead poisoning . These cerussite crystals, measuring approximately 4.0 cm × 3.0 cm × 2.0 cm (1.57 in × 1.18 in × 0.79 in), were found in a mine in  Madan-e Nakhlak , Iran.
 
 

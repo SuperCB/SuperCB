@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Trouvelot_-_The_great_comet_of_1881_-_edit_1.jpg/345px-Trouvelot_-_The_great_comet_of_1881_-_edit_1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pomegranate_%28opened%29.jpg/750px-Pomegranate_%28opened%29.jpg" />
 </div>
 
->C/1881 K1  (also called the  Great Comet of 1881 ,  Comet Tebbutt ,  1881 III ,  1881b ) is a long-period comet discovered by Australian amateur astronomer  John Tebbutt  on 22 May 1881 at  Windsor, New South Wales . It is called a  great comet  because of its brightness at its last apparition. This drawing of the comet, based on an observation on the morning of 26 June 1881, was made by  Étienne Léopold Trouvelot .
+>The  pomegranate  ( Punica granatum ) is a  fruit -bearing  deciduous   shrub  in the family  Lythraceae , subfamily Punicoideae, that grows between 5 and 10 m (16 and 33 ft) tall. The pomegranate was originally found only throughout the  Mediterranean  region. It was introduced into  Spanish America  in the late 16th century and into California by  Spanish settlers  in 1769.
 
 

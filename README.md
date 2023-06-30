@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Avril_de_Sainte-Croix_-_Restored%2C_cropped.jpg/450px-Avril_de_Sainte-Croix_-_Restored%2C_cropped.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Euthalia_aconthea_%28common_baron%29_caterpillar_in_Si_Phan_Don_Laos.jpg/675px-Euthalia_aconthea_%28common_baron%29_caterpillar_in_Si_Phan_Don_Laos.jpg" />
 </div>
 
->Avril de Sainte-Croix  (1855–1939), also known by the pen name Savioz, was a French author, journalist, feminist and pacifist. For many years she led the French branch of the  International Abolitionist Federation , which sought to abolish state regulation of prostitution and fought trafficking in women. She advised the French government and the  League of Nations  on women's issues. She was vice-president of the  International Council of Women  from 1920 and President of the  National Council of French Women  from 1922 to 1932. This photograph of de Sainte-Croix was taken by French photographer  Henri Manuel  in 1925.
+>Euthalia aconthea , also known as the common baron, is a medium-sized species of  butterfly  in the family  Nymphalidae  native to south and south-east Asia. In 1905,  Charles Thomas Bingham  recorded it to be found throughout peninsular India, except in the desert tracts, and the higher ranges of the Himalayas;  Assam ; Burma;  Tenasserim , extending to the peninsula, and  Sumatra . This  E. aconthea   caterpillar  was photographed on  Don Det , an island in the  Mekong , and part of  Si Phan Don , an archipelago in southern Laos.
 
 

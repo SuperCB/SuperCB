@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Euthalia_aconthea_%28common_baron%29_caterpillar_in_Si_Phan_Don_Laos.jpg/675px-Euthalia_aconthea_%28common_baron%29_caterpillar_in_Si_Phan_Don_Laos.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Al_quartiere_latino%2C_bozzetto_di_Adolf_Hohenstein_per_La_Boh%C3%A8me_%281896%29_-_Archivio_Storico_Ricordi_ICON000086_-_Restoration.jpg/825px-Al_quartiere_latino%2C_bozzetto_di_Adolf_Hohenstein_per_La_Boh%C3%A8me_%281896%29_-_Archivio_Storico_Ricordi_ICON000086_-_Restoration.jpg" />
 </div>
 
->Euthalia aconthea , also known as the common baron, is a medium-sized species of  butterfly  in the family  Nymphalidae  native to south and south-east Asia. In 1905,  Charles Thomas Bingham  recorded it to be found throughout peninsular India, except in the desert tracts, and the higher ranges of the Himalayas;  Assam ; Burma;  Tenasserim , extending to the peninsula, and  Sumatra . This  E. aconthea   caterpillar  was photographed on  Don Det , an island in the  Mekong , and part of  Si Phan Don , an archipelago in southern Laos.
+>La bohème  is a four-act opera composed by  Giacomo Puccini  between 1893 and 1895 to an Italian  libretto  by  Luigi Illica  and  Giuseppe Giacosa , based on  Scènes de la vie de bohème  (1851) by  Henri Murger . The story is set in Paris around 1830 and shows the  Bohemian lifestyle  of a poor seamstress and her artist friends, with romantic entanglements conflicting with the ever-present need of money to survive. In Act II, set in the  Quartier Latin , Musetta, a singer, pushes the bill for the group of friends' extravagant meal onto her elderly patron (who tries and fails to have a romantic date with her), after resparking her tulmultuous relationship with Marcello. This set design for Act II of  La bohème  was created by the German artist  Adolfo Hohenstein  for the world premiere in  Turin  on 1 February 1896. Produced with  India ink  and  tempera  on paper, the illustration is in the archives of the Italian music publishing house  Casa Ricordi .
 
 

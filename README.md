@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Alcoba%C3%A7a_October_2021-1.jpg/825px-Alcoba%C3%A7a_October_2021-1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Chatham_Albatross_0A2A3857.jpg/825px-Chatham_Albatross_0A2A3857.jpg" />
 </div>
 
->The  Alcobaça Monastery  is a Catholic  monastic complex  located in the town of  Alcobaça, Portugal , 120 km north of  Lisbon . It was established in 1153 by the first Portuguese king,  Afonso Henriques , and developed a close association with the Portuguese monarchy throughout its history, leading it to become the richest and most influential monastery in Portugal. By 1300, it had a population of almost 1,000 monks and business interests including farming, fishing and trade. It closed in 1834, amid the  dissolution of the monasteries in Portugal . Due to its artistic, cultural and historical relevance as one of Portugal's oldest  Gothic  buildings, the monastery and its church were included in UNESCO's  World Heritage Site  list in 1989.
+>The  Chatham albatross  ( Thalassarche eremita ) is a medium-sized black-and-white  albatross  which breeds only on  The Pyramid , a large rock stack in the  Chatham Islands , New Zealand. It is sometimes treated as a  subspecies  of the  shy albatross   Thalassarche cauta . It is the smallest of the shy albatross group.
 
 

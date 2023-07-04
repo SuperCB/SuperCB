@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Chatham_Albatross_0A2A3857.jpg/825px-Chatham_Albatross_0A2A3857.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Justice_K._K._Usha.jpg/450px-Justice_K._K._Usha.jpg" />
 </div>
 
->The  Chatham albatross  ( Thalassarche eremita ) is a medium-sized black-and-white  albatross  which breeds only on  The Pyramid , a large rock stack in the  Chatham Islands , New Zealand. It is sometimes treated as a  subspecies  of the  shy albatross   Thalassarche cauta . It is the smallest of the shy albatross group.
+>K. K. Usha  (3 July 1939 – 5 October 2020) was an Indian judge who served as the  chief justice  of the  Kerala High Court  between 2000 and 2001. The first female judge on the court, she advocated for  women's rights  and for the elimination of all forms of discrimination. After retiring from the court, she served as the president of the Excise and Service Tax Appellate Tribunal and then headed an  Indian People's Tribunal  enquiry in 2005 and 2006 into communal violence in  Orissa . The enquiry was disrupted by activists from the  Sangh Parivar . In 2011, she served as a member of an IPT panel on human rights issues in Manipur. This portrait photograph of Usha in court dress was taken in May 2020.
 
 

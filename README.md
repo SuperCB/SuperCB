@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Justice_K._K._Usha.jpg/450px-Justice_K._K._Usha.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Views_of_the_LHC_tunnel_sector_3-4%2C_tirage_2.jpg/750px-Views_of_the_LHC_tunnel_sector_3-4%2C_tirage_2.jpg" />
 </div>
 
->K. K. Usha  (3 July 1939 – 5 October 2020) was an Indian judge who served as the  chief justice  of the  Kerala High Court  between 2000 and 2001. The first female judge on the court, she advocated for  women's rights  and for the elimination of all forms of discrimination. After retiring from the court, she served as the president of the Excise and Service Tax Appellate Tribunal and then headed an  Indian People's Tribunal  enquiry in 2005 and 2006 into communal violence in  Orissa . The enquiry was disrupted by activists from the  Sangh Parivar . In 2011, she served as a member of an IPT panel on human rights issues in Manipur. This portrait photograph of Usha in court dress was taken in May 2020.
+>The  Large Hadron Collider  (LHC) is the world's largest and highest-energy  particle collider . It was built by the  European Organization for Nuclear Research  (CERN) between 1998 and 2008 in collaboration with more than 10,000 scientists and hundreds of universities and laboratories, as well as more than 100 countries. The LHC lies in a tunnel 27 kilometres (17 mi) in circumference and as deep as 175 metres (574 ft) beneath the France–Switzerland border near  Geneva . On 4 July 2012, CERN announced the discovery of the  Higgs boson  at the LHC, after a 40-year search for its existence. This photograph shows the interior of a section of the LHC's tunnel (sector 3–4). The collider's  dipole magnets  are painted in blue to protect them from rust.
 
 

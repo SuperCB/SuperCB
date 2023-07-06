@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Views_of_the_LHC_tunnel_sector_3-4%2C_tirage_2.jpg/750px-Views_of_the_LHC_tunnel_sector_3-4%2C_tirage_2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wulfenite_-_Red_Cloud_mine%2C_La_Paz_Co.%2C_Arizona%2C_USA.jpg/600px-Wulfenite_-_Red_Cloud_mine%2C_La_Paz_Co.%2C_Arizona%2C_USA.jpg" />
 </div>
 
->The  Large Hadron Collider  (LHC) is the world's largest and highest-energy  particle collider . It was built by the  European Organization for Nuclear Research  (CERN) between 1998 and 2008 in collaboration with more than 10,000 scientists and hundreds of universities and laboratories, as well as more than 100 countries. The LHC lies in a tunnel 27 kilometres (17 mi) in circumference and as deep as 175 metres (574 ft) beneath the France–Switzerland border near  Geneva . On 4 July 2012, CERN announced the discovery of the  Higgs boson  at the LHC, after a 40-year search for its existence. This photograph shows the interior of a section of the LHC's tunnel (sector 3–4). The collider's  dipole magnets  are painted in blue to protect them from rust.
+>Wulfenite  is a lead  molybdate  mineral with the  chemical formula  PbMoO 4 . It is most often found as thin tabular crystals with a bright orange-red to yellow-orange color, sometimes brown, although the color can be highly variable. In its yellow form it is sometimes called "yellow lead ore". The mineral was first described in 1845 for an occurrence in  Bad Bleiberg , Austria, and was named after  Franz Xaver von Wulfen , an Austrian mineralogist. This specimen of wulfenite, embedded in a small amount of  matrix , measures 2.2 cm × 1.7 cm × 0.3 cm (0.87 in × 0.67 in × 0.12 in) in size and was extracted from the Red Cloud mine near  Yuma, Arizona .
 
 

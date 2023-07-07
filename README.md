@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wulfenite_-_Red_Cloud_mine%2C_La_Paz_Co.%2C_Arizona%2C_USA.jpg/600px-Wulfenite_-_Red_Cloud_mine%2C_La_Paz_Co.%2C_Arizona%2C_USA.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kowloon_Walled_City_-_1989_Aerial.jpg/750px-Kowloon_Walled_City_-_1989_Aerial.jpg" />
 </div>
 
->Wulfenite  is a lead  molybdate  mineral with the  chemical formula  PbMoO 4 . It is most often found as thin tabular crystals with a bright orange-red to yellow-orange color, sometimes brown, although the color can be highly variable. In its yellow form it is sometimes called "yellow lead ore". The mineral was first described in 1845 for an occurrence in  Bad Bleiberg , Austria, and was named after  Franz Xaver von Wulfen , an Austrian mineralogist. This specimen of wulfenite, embedded in a small amount of  matrix , measures 2.2 cm × 1.7 cm × 0.3 cm (0.87 in × 0.67 in × 0.12 in) in size and was extracted from the Red Cloud mine near  Yuma, Arizona .
+>The  Kowloon Walled City  was a densely populated  enclave  of China within the boundaries of  Kowloon City  in Hong Kong. Built as an Imperial Chinese military fort, the walled city became a  de jure  enclave after the  New Territories  were leased to the United Kingdom in 1898. Its population increased dramatically after the end of the  Japanese occupation of Hong Kong  during  World War II , attracting mostly refugees fleeing the renewed  Chinese Civil War . The walled city was crossed by alleyways, often only 1 to 2 metres (3.3 to 6.6 ft) wide, with poor lighting and drainage. Construction went unregulated, and most of the roughly 350 buildings were built with poor foundations and few or no utilities. The population was estimated at 33,000 in 1987, giving the walled city a density of around 1,255,000 per square kilometre (3,250,000/sq mi), making it the densest location in the world at the time. The walled city was demolished between 1993 and 1994 and the site is now occupied by  Kowloon Walled City Park .
 
 

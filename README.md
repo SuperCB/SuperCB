@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raikoke_Volcano_Erupts_%2848132762546%29.jpg/750px-Raikoke_Volcano_Erupts_%2848132762546%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Equisetum_arvense_fertile_spore-bearing_stem_-_Keila.jpg/435px-Equisetum_arvense_fertile_spore-bearing_stem_-_Keila.jpg" />
 </div>
 
->Raikoke  is an uninhabited  volcanic island  belonging to Russia, one of the  Kuril Islands  located in the  Sea of Okhotsk  (part of the northwest Pacific Ocean), 16 kilometres (9.9 mi) from the island of  Matua . This image of the island's volcano erupting in June 2019 was taken by a crew member of the  Expedition 59  mission.
+>Equisetum arvense , also known as the field horsetail or common horsetail, is a  herbaceous  perennial plant in the  Equisetidae  (horsetails) sub-class, native throughout the  Arctic  and temperate regions of the  Northern Hemisphere . It has separate sterile non-reproductive and fertile spore-bearing stems growing from a perennial underground  rhizomatous  stem system. The fertile stems are produced in early spring and are non- photosynthetic , while the green sterile stems start to grow after the fertile stems have wilted and persist through the summer until the first autumn frosts. This fertile spore-bearing  E. arvense  stem was photographed in  Keila , Estonia.
 
 

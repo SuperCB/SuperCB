@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Equisetum_arvense_fertile_spore-bearing_stem_-_Keila.jpg/435px-Equisetum_arvense_fertile_spore-bearing_stem_-_Keila.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pauline_Kirby_%285493900611%29.jpg/525px-Pauline_Kirby_%285493900611%29.jpg" />
 </div>
 
->Equisetum arvense , also known as the field horsetail or common horsetail, is a  herbaceous  perennial plant in the  Equisetidae  (horsetails) sub-class, native throughout the  Arctic  and temperate regions of the  Northern Hemisphere . It has separate sterile non-reproductive and fertile spore-bearing stems growing from a perennial underground  rhizomatous  stem system. The fertile stems are produced in early spring and are non- photosynthetic , while the green sterile stems start to grow after the fertile stems have wilted and persist through the summer until the first autumn frosts. This fertile spore-bearing  E. arvense  stem was photographed in  Keila , Estonia.
+>Pauline Kirby  (July 9, 1905 – November 10, 1981) was a member of the  United States Army Nurse Corps . She was born in  Greenwood, Mississippi . She held several positions during her 30 years in the United States Army Nurse Corps and the  Army of the United States , and was one of the first two Nurse Corps officers to serve in the temporary grade of  Colonel .
 
 

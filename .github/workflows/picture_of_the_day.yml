@@ -4,30 +4,31 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: { branches: [ "master", "main" ] }
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
-    - uses: actions/setup-python@v1
-      with:
-        python-version: 3.9
-        architecture: 'x64'
-    - name: Create local changes
-      run: |
-        pip install -r requirements.txt
-        python pictoday.py
-    - name: Commit files
-      run: |
-        git config --local user.email "1956699404@qq.com"
-        git config --local user.name "SuperCB"
-        git commit -m "Update today's featured image on $(date +%Y-%m-%d)" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+      - uses: actions/setup-python@v1
+        with:
+          python-version: 3.9
+          architecture: 'x64'
+      - name: Create local changes
+        run: |
+          pip install -r requirements.txt
+          python pictoday.py
+      - name: Commit files
+        run: |
+          git config --local user.email "1956699404@qq.com"
+          git config --local user.name "SuperCB"
+          git add README.md 
+          git commit -m "Update today's featured image on $(date +%Y-%m-%d)" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

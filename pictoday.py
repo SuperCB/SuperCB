@@ -32,7 +32,7 @@ print("download image...")
 content = requests.get(URL).content
 html = lxml.html.fromstring(content)
 presentation_table = html.xpath("//table[@role='presentation']")[0]
-a_tag = presentation_table.xpath(".//a[@class='image']")[0]
+a_tag = presentation_table.xpath(".//a[@class='mw-file-description']")[0]
 relative_link = a_tag.get("href")
 title = a_tag.get("title")
 image_src = a_tag.xpath("./img/@srcset")[0]

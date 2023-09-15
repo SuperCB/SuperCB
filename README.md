@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pauline_Kirby_%285493900611%29.jpg/525px-Pauline_Kirby_%285493900611%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jan_van_Eyck_-_Diptych_-_WGA07587%2C_left_panel.jpg/430px-Jan_van_Eyck_-_Diptych_-_WGA07587%2C_left_panel.jpg" />
 </div>
 
->Pauline Kirby  (July 9, 1905 – November 10, 1981) was a member of the  United States Army Nurse Corps . She was born in  Greenwood, Mississippi . She held several positions during her 30 years in the United States Army Nurse Corps and the  Army of the United States , and was one of the first two Nurse Corps officers to serve in the temporary grade of  Colonel .
+>The  Crucifixion and Last Judgement Diptych  consists of two small painted panels attributed to the  Early Netherlandish  artist  Jan van Eyck , with areas finished by unidentified followers or members of his workshop. The  diptych  is one of the early  Northern Renaissance  oil-on-panel masterpieces, renowned for its unusually complex and highly detailed  iconography , and for the technical skill evident in its completion. It was executed in a miniature format; the panels are just 56.5 cm (22.2 in) high by 19.7 cm (7.8 in) wide. The diptych was probably commissioned for private devotion. The left wing depicts the  Crucifixion , while the right wing portrays scenes associated with the  Last Judgement : a  hellscape  at its base, the resurrected awaiting judgement in the centre-ground, and a representation of  Christ in Majesty  flanked by a  Great Deësis . The diptych is now in the  Metropolitan Museum of Art  in New York City, United States.
 
 

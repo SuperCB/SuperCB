@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Arenes_de_Nimes_Alt_1.jpg/900px-Arenes_de_Nimes_Alt_1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hummingbird_hawk_moth_%28Macroglossum_stellatarum%29_in_flight.jpg/600px-Hummingbird_hawk_moth_%28Macroglossum_stellatarum%29_in_flight.jpg" />
 </div>
 
->The  Arena of Nîmes  is a  Roman amphitheatre  situated in the French city of  Nîmes . Built around 100 CE, shortly after the  Colosseum  in Rome, it is one of the best-preserved Roman amphitheatres in the world. It is also among the twenty largest Roman amphitheatres of the 400 in existence. It is 133 metres long (145 yd) and 101 metres wide (110 yd), with an arena measuring 68 metres by 38 metres (74 yd by 42 yd). The outer facade is 21 metres high (69 ft) with two stories of 60  arcades . This photograph of the exterior of the amphitheatre was taken in 2019.
+>The  hummingbird hawk-moth  ( Macroglossum stellatarum ) is a species of  hawk moth  found across temperate regions of  Eurasia , from Portugal to Japan. Its long  proboscis  (25–28 mm; 0.98–1.10 in) and its hovering behavior, accompanied by an audible humming noise, give it a resemblance to the  hummingbird . Like hummingbirds, it feeds on flowers which have tube-shaped  corollae ; this is an example of  convergent evolution . The hummingbird hawk-moth flies during the day, especially in bright sunshine, but also at dusk, dawn, and even in the rain, which is unusual for even diurnal hawk moths. It engages in free hovering flight, which allows more maneuverability and control than fixed-wing flight, despite high energetic cost. This hummingbird hawk-moth in flight was photographed near Yastrebets in  Rila , a mountain range in Bulgaria.
 
 

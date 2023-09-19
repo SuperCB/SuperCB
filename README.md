@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hummingbird_hawk_moth_%28Macroglossum_stellatarum%29_in_flight.jpg/600px-Hummingbird_hawk_moth_%28Macroglossum_stellatarum%29_in_flight.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Haliotis_kamtschatkana_assimilis_01.JPG/750px-Haliotis_kamtschatkana_assimilis_01.JPG" />
 </div>
 
->The  hummingbird hawk-moth  ( Macroglossum stellatarum ) is a species of  hawk moth  found across temperate regions of  Eurasia , from Portugal to Japan. Its long  proboscis  (25–28 mm; 0.98–1.10 in) and its hovering behavior, accompanied by an audible humming noise, give it a resemblance to the  hummingbird . Like hummingbirds, it feeds on flowers which have tube-shaped  corollae ; this is an example of  convergent evolution . The hummingbird hawk-moth flies during the day, especially in bright sunshine, but also at dusk, dawn, and even in the rain, which is unusual for even diurnal hawk moths. It engages in free hovering flight, which allows more maneuverability and control than fixed-wing flight, despite high energetic cost. This hummingbird hawk-moth in flight was photographed near Yastrebets in  Rila , a mountain range in Bulgaria.
+>Haliotis kamtschatkana , also known as the northern abalone or pinto abalone, is a species of large  sea snail  in the family  Haliotidae , the  abalones . It is found in  kelp beds  and in rocky areas in the northeast Pacific Ocean, from  Salisbury Sound , Alaska, along the coasts of Canada and the United States to  Baja California , Mexico. Its distribution also includes Korea. The pinto abalone has an adult  shell  size of approximately 8 cm (3.1 in) but can occasionally grow as large as 15 cm (5.9 in). The rather thin shell is flattened and ear-shaped. The surface is covered with uneven spiral cords, often almost obsolete, and strongly elevated undulations or lumps. This image shows five views of a  H. kamtschatkana  shell found in Baja California.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Haliotis_kamtschatkana_assimilis_01.JPG/750px-Haliotis_kamtschatkana_assimilis_01.JPG" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mabel_Vernon%2C_c._1917%2C_by_Edmonston%2C_Washington%2C_D.C..jpg/525px-Mabel_Vernon%2C_c._1917%2C_by_Edmonston%2C_Washington%2C_D.C..jpg" />
 </div>
 
->Haliotis kamtschatkana , also known as the northern abalone or pinto abalone, is a species of large  sea snail  in the family  Haliotidae , the  abalones . It is found in  kelp beds  and in rocky areas in the northeast Pacific Ocean, from  Salisbury Sound , Alaska, along the coasts of Canada and the United States to  Baja California , Mexico. Its distribution also includes Korea. The pinto abalone has an adult  shell  size of approximately 8 cm (3.1 in) but can occasionally grow as large as 15 cm (5.9 in). The rather thin shell is flattened and ear-shaped. The surface is covered with uneven spiral cords, often almost obsolete, and strongly elevated undulations or lumps. This image shows five views of a  H. kamtschatkana  shell found in Baja California.
+>Mabel Vernon  (September 19, 1883 – September 2, 1975) was an American  suffragist , pacifist, and a national leader in the  suffrage movement in the United States . A  Quaker  and a member of the  National American Woman Suffrage Association , Vernon was inspired by the methods used by the  Women's Social and Political Union  in the United Kingdom. She was one of the principal members of the  Congressional Union for Woman Suffrage , and helped to organize the  Silent Sentinels ' protests that involved daily picketing of  Woodrow Wilson 's  White House . This photograph of Vernon was taken around 1917, the year in which she was elected the secretary of the  National Woman's Party , and became one of the first six women to be arrested while picketing the White House, under charges of "obstructing the traffic". They were each ordered to pay a $25 fine or spend three days in jail; all of the women insisted they were innocent and refused to pay the fine.
 
 

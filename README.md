@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Victoria_Claflin_Woodhull_by_Mathew_Brady_-_Oval_Portrait.jpg/450px-Victoria_Claflin_Woodhull_by_Mathew_Brady_-_Oval_Portrait.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Aegirine_-_Mt_Malosa%2C_Zomba%2C_Malawi_%28alt%29.jpg/450px-Aegirine_-_Mt_Malosa%2C_Zomba%2C_Malawi_%28alt%29.jpg" />
 </div>
 
->Victoria Woodhull  (September 23, 1838 – June 9, 1927), was an American leader of the  women's suffrage  movement. She ran for  President of the United States  in the  1872 election . An activist for women's rights and labor reforms, Woodhull was also an advocate of " free love ", by which she meant the freedom to marry, divorce and bear children without social restriction or government interference. "They cannot roll back the rising tide of reform," she often said. "The world moves." She twice went from  rags to riches , her first fortune being made on the road as a  magnetic healer  before she joined the  spiritualist  movement in the 1870s. This formal photographic portrait of Woodhull was taken by  Mathew Brady  around 1870.
+>Aegirine  is a member of the clino pyroxene  group of  inosilicate  minerals. It is the sodium endmember of the aegirine– augite  series, and has the chemical formula NaFeSi 2 O 6 , in which the iron is present as the ion Fe 3+ . Aegirine occurs as dark green  monoclinic  prismatic crystals. This photograph depicts aegirine crystals with minor  feldspar  found at Mount Malosa in  Zomba, Malawi .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Aegirine_-_Mt_Malosa%2C_Zomba%2C_Malawi_%28alt%29.jpg/450px-Aegirine_-_Mt_Malosa%2C_Zomba%2C_Malawi_%28alt%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/VR_Sr1_3015_Kuopio_Drawbridge.jpg/600px-VR_Sr1_3015_Kuopio_Drawbridge.jpg" />
 </div>
 
->Aegirine  is a member of the clino pyroxene  group of  inosilicate  minerals. It is the sodium endmember of the aegirine– augite  series, and has the chemical formula NaFeSi 2 O 6 , in which the iron is present as the ion Fe 3+ . Aegirine occurs as dark green  monoclinic  prismatic crystals. This photograph depicts aegirine crystals with minor  feldspar  found at Mount Malosa in  Zomba, Malawi .
+>The  Savonia railway  is a  five-foot-gauge  (1,524 mm) railway in Finland. Beginning at  Kouvola , it connects southern Finland with the eastern regions of  South Savo  and  North Savo  via the cities of  Pieksämäki ,  Kuopio  and  Iisalmi . This photograph depicts a lumber train pulled by a  VR Class Sr1  electric locomotive crossing a  drawbridge  north of  Kuopio .
 
 

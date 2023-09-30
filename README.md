@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Corbusierhaus%2C_Berlin-msu-2021-2276-.jpg/600px-Corbusierhaus%2C_Berlin-msu-2021-2276-.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Giuseppe_Arcimboldo_-_Self_Portrait_-_Google_Art_Project.jpg/450px-Giuseppe_Arcimboldo_-_Self_Portrait_-_Google_Art_Project.jpg" />
 </div>
 
->The  Unité d'Habitation of Berlin  is a 1958 apartment building located in  Berlin , a seminal example of  modernist  architectural design. The brainchild of Swiss-French architect  Le Corbusier , it embodies the principles of his concept of  unité d'habitation , an innovative response to post–World War II urban-housing challenges. This residential edifice is distinguished by its unwavering commitment to  functionalism  and efficiency. It encompasses 530 modular residential units, distributed across seventeen floors. The exterior façade, seen here in 2021, is characterized by the employment of  rough-cast concrete , with colors designed by Le Corbusier together with the painter  Fernand Léger .
+>Giuseppe Arcimboldo  (1526–1593) was an  Italian Renaissance painter  best known for creating imaginative  portrait  heads made entirely of objects such as fruits, vegetables, flowers, fish and books. Born in  Milan , he initially trained as a painter under his father Biagio Arcimboldo before serving as a court painter for the  Habsburg monarchs  in  Vienna  and  Prague . Arcimboldo's oeuvre was largely forgotten after his death, and many of his works were lost. They were not mentioned in the literature of the 17th and 18th centuries, appearing again only in 1885 when the art critic K. Kasati published the monograph  Giuseppe Arcimboldi, Milan Artist , describing his role as a portraitist. This pen-and-watercolour  self-portrait  by Arcimboldo was created in the 1570s and is now in the  National Gallery Prague .
 
 

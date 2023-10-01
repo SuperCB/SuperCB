@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Giuseppe_Arcimboldo_-_Self_Portrait_-_Google_Art_Project.jpg/450px-Giuseppe_Arcimboldo_-_Self_Portrait_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ignace_Gaston_Pardies-Plate_1.jpg/900px-Ignace_Gaston_Pardies-Plate_1.jpg" />
 </div>
 
->Giuseppe Arcimboldo  (1526–1593) was an  Italian Renaissance painter  best known for creating imaginative  portrait  heads made entirely of objects such as fruits, vegetables, flowers, fish and books. Born in  Milan , he initially trained as a painter under his father Biagio Arcimboldo before serving as a court painter for the  Habsburg monarchs  in  Vienna  and  Prague . Arcimboldo's oeuvre was largely forgotten after his death, and many of his works were lost. They were not mentioned in the literature of the 17th and 18th centuries, appearing again only in 1885 when the art critic K. Kasati published the monograph  Giuseppe Arcimboldi, Milan Artist , describing his role as a portraitist. This pen-and-watercolour  self-portrait  by Arcimboldo was created in the 1570s and is now in the  National Gallery Prague .
+>Ignace-Gaston Pardies  (1636–1673) was a French Catholic priest and scientist. His  celestial atlas , entitled  Globi coelestis in tabulas planas redacti descriptio , comprised six charts of the night sky and was first published in 1674. The atlas uses a  gnomonic projection  so that the plates make up a cube of the  celestial sphere . The  constellation  figures are drawn from  Uranometria , but were carefully reworked and adapted to a broader view of the sky. This is the first plate from a 1693 edition of Pardies's atlas, centred on the north  celestial pole  and depicting part of the  northern sky . An index of constellations is provided in the left and right margins, in Latin and French, respectively.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Yellow-bellied_sapsucker_in_CP_%2840484%29.jpg/525px-Yellow-bellied_sapsucker_in_CP_%2840484%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Stargazer_and_Pegasus_F43_in_flight_over_Atlantic_%28KSC-20161212-PH_LAL01_0009%29.jpg/750px-Stargazer_and_Pegasus_F43_in_flight_over_Atlantic_%28KSC-20161212-PH_LAL01_0009%29.jpg" />
 </div>
 
->The  yellow-bellied sapsucker  ( Sphyrapicus varius ) is a medium-sized  woodpecker  which is found across Canada, eastern Alaska and the northeastern United States. These birds winter in the eastern United States, West Indies and Central America. They have also been found as a very rare vagrant in Ireland and Great Britain. The yellow-bellied sapsucker has a length of around 20 centimetres and an average weight of around 50 grams, with a wingspan that ranges from 34 to 40 centimetres. The forehead is coloured bright red in the male (and very occasionally yellow), and a lighter shade of red in the female. This male was photographed in  Central Park , New York City, United States.
+>Stargazer  is a  Lockheed L-1011 TriStar  built in 1974 that was modified in 1994 for use by  Orbital Sciences  (now part of  Northrop Grumman ) as a mother-ship  launch pad  for the  Pegasus  launch vehicle. As of October 2022, 45 rockets (containing nearly 100 satellites) have been launched from it, using the  Pegasus-H  and  Pegasus-XL  configurations. As of 2023,  Stargazer  is the only  L-1011  airframe still airworthy. This photograph shows the aircraft in  Orbital ATK  livery with the Pegasus-XL rocket with eight  Cyclone Global Navigation Satellite System  spacecraft inside.
 
 

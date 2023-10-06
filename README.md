@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Stargazer_and_Pegasus_F43_in_flight_over_Atlantic_%28KSC-20161212-PH_LAL01_0009%29.jpg/750px-Stargazer_and_Pegasus_F43_in_flight_over_Atlantic_%28KSC-20161212-PH_LAL01_0009%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sandy_Shores_of_Moreton_Bay.jpg/825px-Sandy_Shores_of_Moreton_Bay.jpg" />
 </div>
 
->Stargazer  is a  Lockheed L-1011 TriStar  built in 1974 that was modified in 1994 for use by  Orbital Sciences  (now part of  Northrop Grumman ) as a mother-ship  launch pad  for the  Pegasus  launch vehicle. As of October 2022, 45 rockets (containing nearly 100 satellites) have been launched from it, using the  Pegasus-H  and  Pegasus-XL  configurations. As of 2023,  Stargazer  is the only  L-1011  airframe still airworthy. This photograph shows the aircraft in  Orbital ATK  livery with the Pegasus-XL rocket with eight  Cyclone Global Navigation Satellite System  spacecraft inside.
+>Moreton Bay  is located on the eastern coast of Australia 14 kilometres (8.7 mi) from central  Brisbane , in the Australian state of Queensland. It is one of Queensland's most important coastal resources. The waters of Moreton Bay are a popular destination for recreational anglers and are used by commercial operators who provide  seafood  to market.
 
 

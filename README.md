@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sandy_Shores_of_Moreton_Bay.jpg/825px-Sandy_Shores_of_Moreton_Bay.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pink-spotted_hawk_moth_%28Agrius_cingulata%29_male.jpg/525px-Pink-spotted_hawk_moth_%28Agrius_cingulata%29_male.jpg" />
 </div>
 
->Moreton Bay  is located on the eastern coast of Australia 14 kilometres (8.7 mi) from central  Brisbane , in the Australian state of Queensland. It is one of Queensland's most important coastal resources. The waters of Moreton Bay are a popular destination for recreational anglers and are used by commercial operators who provide  seafood  to market.
+>Agrius cingulata , commonly known as the pink-spotted hawkmoth or sweetpotato hornworm, is a  moth  in the family  Sphingidae . The species was first described by  Johan Christian Fabricius  in 1775. It has a wide range throughout the Americas, with adults migrating north to Canada and south to  Patagonia  and the  Falkland Islands . It can also be found in the  Galápagos Islands  and  Hawaii , and has been found in western Europe and West Africa. A  nocturnal  insect,  A. cingulata  feeds on the nectar from deep-throated flowers including  moonflower ,  morning glories  and  petunia . Its  larva  is a large, stout  caterpillar  with a horn, which feeds during the day and the night on  sweet potato ,  Datura , and other plants. This male  A. cingulata  moth was photographed in the Mount Totumas cloud forest in Panama.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Radiated_tortoise_%28Astrochelys_radiata%29_Tsimanampetsotsa.jpg/480px-Radiated_tortoise_%28Astrochelys_radiata%29_Tsimanampetsotsa.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Granville_Stuart_1883_by_L._A._Huffman.jpg/390px-Granville_Stuart_1883_by_L._A._Huffman.jpg" />
 </div>
 
->The  radiated tortoise  ( Astrochelys radiata ) is a species of  tortoise  in the family  Testudinidae . Although it is native to and most abundant in southern Madagascar, it can also be found in the rest of this island, and has been introduced to the islands of Réunion and Mauritius. It is a very long-lived species, with recorded lifespans of up to 188 years. These tortoises are classified as  critically endangered  by the  IUCN , mainly because of the destruction of their habitat and because of poaching.
+>Granville Stuart  (1834–1918) was a pioneer, gold prospector, businessman, civic leader, vigilante, author, cattleman and diplomat who played a prominent role in the early history of  Montana Territory  and the state of  Montana . Widely known as "Mr. Montana", Stuart's life spanned the formative years of Montana from territorial times through the first 30 years of statehood. His journals and writings have provided Montana and western historians unique insights into life in the Northern Rockies during the second half the 19th century.
 
 

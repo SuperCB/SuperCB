@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/A_magnificent_view_of_AG_Carinae.jpg/900px-A_magnificent_view_of_AG_Carinae.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Balantiocheilos_melanopterus_-_Karlsruhe_Zoo_02.jpg/825px-Balantiocheilos_melanopterus_-_Karlsruhe_Zoo_02.jpg" />
 </div>
 
->AG Carinae  is a  luminous blue variable star  in the constellation  Carina . It is one of the  most luminous stars  in the  Milky Way , although its great distance from Earth (20,000  light-years ) and intervening  interstellar dust  mean that the star is not usually visible to the naked eye; its  apparent brightness  varies erratically between magnitude 5.7 and 9.0. Apparently in a transitional phase between a massive  class -O  blue supergiant  and a  Wolf–Rayet star , AG Carinae is highly unstable and suffers from erratic pulsations, occasional larger outbursts, and rare massive eruptions. The star is surrounded by a  nebula  of ejected material at a distance of 0.4 to 1.2  parsecs  (1.3 to 3.9 light-years). The nebula contains around 15  solar masses  of material, all lost from the star around 10,000 years ago. This photograph of AG Carinae and its surrounding nebula was taken by the  Hubble Space Telescope  in 2021, as one of  its anniversary images .
+>The  bala shark  ( Balantiocheilos melanopterus ) is a fish in the family  Cyprinidae , and one of two species in the genus  Balantiocheilos . It is found around the  Malay Peninsula ,  Sumatra , and  Borneo . It has a silver body with black margins on the  dorsal ,  caudal ,  anal , and  pelvic fins . It has big eyes which it uses to find and catch its prey. The bala shark has a maximum length of 35 cm (14 in). Bala sharks are found in midwater depths in large and medium-sized rivers and lakes. They feed on  phytoplankton , but mostly on small  crustaceans ,  rotifers , and  insects  and their  larvae . The bala shark is listed as a  vulnerable species  by the  IUCN Red List , having become rare or extinct in many river basins of its native range. However, large numbers of the species are bred in captivity and exported from Thailand for the  aquarium  trade. This bala shark was photographed at  Karlsruhe Zoo  in Karlsruhe, Germany.
 
 

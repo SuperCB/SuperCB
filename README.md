@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sea_Girt_Lighthouse_October_2020.jpg/825px-Sea_Girt_Lighthouse_October_2020.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zaniskari_Horse_in_Ladakh.jpg/825px-Zaniskari_Horse_in_Ladakh.jpg" />
 </div>
 
->The  Sea Girt Light  is a  lighthouse  marking the inlet leading to the  Wreck Pond  in  Sea Girt , New Jersey, United States. It is located on a stretch of the New Jersey shore between the  Barnegat  and  Navesink  lighthouses. Its site was chosen after a previous proposal for a lighthouse at  Manasquan Inlet  was found infeasible, and it was first lit in December 1896. Protections against sand erosion were added in 1900 and the 1920s, and in 1921, Sea Girt Light was equipped with a radio beacon for use in fog, the first such installation on a shore-based light in the US. At the outset of  World War II , the light was deactivated and the lens removed; the house was remodeled to serve as a dormitory for a Coast Guard observation post. At the end of the war, an aerobeacon was mounted atop the tower, with the original lighthouse being decommissioned. In 1955, a new beacon was erected away from the building on a steel tower on the lawn. The building was sold to the borough of Sea Girt shortly after. It was used for the town library and for meeting space for many years, while the beacon itself remained operational until 1977. The building was taken over by the Sea Girt Lighthouse Citizens Committee in 1980 and was subsequently restored. It now serves as a museum, offering tours.
+>The  Zaniskari , also known as Zanskari, is a  breed  of small mountain horse or  pony  from  Ladakh , a region of  Kashmir  administered by India. It is named after  Zanskar , a valley or region in  Kargil district . It is similar to the  Spiti breed  of  Himachal Pradesh , but is better adapted to work at high altitudes. Like the Spiti, it shows similarities to the  breeds of neighbouring Tibet . The Zaniskari is of medium size, and is often  grey in colour . The breed is considered endangered, as there are only a few hundred alive today, and a conservation programme has been started at  Padum , in the Kargil district of Ladakh. This Zaniskari horse was photographed in central Ladakh.
 
 

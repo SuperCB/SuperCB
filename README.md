@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zaniskari_Horse_in_Ladakh.jpg/825px-Zaniskari_Horse_in_Ladakh.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ignace_Gaston_Pardies-Plate_2.jpg/750px-Ignace_Gaston_Pardies-Plate_2.jpg" />
 </div>
 
->The  Zaniskari , also known as Zanskari, is a  breed  of small mountain horse or  pony  from  Ladakh , a region of  Kashmir  administered by India. It is named after  Zanskar , a valley or region in  Kargil district . It is similar to the  Spiti breed  of  Himachal Pradesh , but is better adapted to work at high altitudes. Like the Spiti, it shows similarities to the  breeds of neighbouring Tibet . The Zaniskari is of medium size, and is often  grey in colour . The breed is considered endangered, as there are only a few hundred alive today, and a conservation programme has been started at  Padum , in the Kargil district of Ladakh. This Zaniskari horse was photographed in central Ladakh.
+>Ignace-Gaston Pardies  (1636–1673) was a French Catholic priest and scientist. His  celestial atlas , entitled  Globi coelestis in tabulas planas redacti descriptio , comprised six charts of the night sky and was first published in 1674. The atlas uses a  gnomonic projection  so that the plates make up a cube of the  celestial sphere . The  constellation  figures are drawn from  Uranometria , but were carefully reworked and adapted to a broader view of the sky. This is the second plate from a 1693 edition of Pardies's atlas, featuring constellations including  Pegasus  and  Andromeda , visible in the  northern sky .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ignace_Gaston_Pardies-Plate_2.jpg/750px-Ignace_Gaston_Pardies-Plate_2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Horn_Antenna-in_Holmdel%2C_New_Jersey_-_restoration1.jpg/600px-Horn_Antenna-in_Holmdel%2C_New_Jersey_-_restoration1.jpg" />
 </div>
 
->Ignace-Gaston Pardies  (1636–1673) was a French Catholic priest and scientist. His  celestial atlas , entitled  Globi coelestis in tabulas planas redacti descriptio , comprised six charts of the night sky and was first published in 1674. The atlas uses a  gnomonic projection  so that the plates make up a cube of the  celestial sphere . The  constellation  figures are drawn from  Uranometria , but were carefully reworked and adapted to a broader view of the sky. This is the second plate from a 1693 edition of Pardies's atlas, featuring constellations including  Pegasus  and  Andromeda , visible in the  northern sky .
+>The  Holmdel Horn Antenna  is a large microwave  horn antenna  that was used as a  satellite communication  antenna and  radio telescope  during the 1960s at  Bell Telephone Laboratories  in  Holmdel Township, New Jersey , United States. It was designated a  National Historic Landmark  in 1988 because of its association with the research work of two  radio astronomers ,  Arno Penzias  and  Robert Wilson , who used it to discover the  cosmic microwave background radiation  (CMBR) that permeates the universe. This helped change the science of cosmology, the study of the history of the universe, from a field for unlimited theoretical speculation into a discipline of direct observation. In 1978, Penzias and Wilson received the  Nobel Prize in Physics  for their discovery.
 
 

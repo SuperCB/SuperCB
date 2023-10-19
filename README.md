@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Horn_Antenna-in_Holmdel%2C_New_Jersey_-_restoration1.jpg/600px-Horn_Antenna-in_Holmdel%2C_New_Jersey_-_restoration1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fausta_Labia%2C_portr%C3%A4tt_-_SMV_-_H5_028_-_Restoration.jpg/450px-Fausta_Labia%2C_portr%C3%A4tt_-_SMV_-_H5_028_-_Restoration.jpg" />
 </div>
 
->The  Holmdel Horn Antenna  is a large microwave  horn antenna  that was used as a  satellite communication  antenna and  radio telescope  during the 1960s at  Bell Telephone Laboratories  in  Holmdel Township, New Jersey , United States. It was designated a  National Historic Landmark  in 1988 because of its association with the research work of two  radio astronomers ,  Arno Penzias  and  Robert Wilson , who used it to discover the  cosmic microwave background radiation  (CMBR) that permeates the universe. This helped change the science of cosmology, the study of the history of the universe, from a field for unlimited theoretical speculation into a discipline of direct observation. In 1978, Penzias and Wilson received the  Nobel Prize in Physics  for their discovery.
+>Fausta Labia  (1870–1935) was an Italian operatic soprano who was active mainly from 1892 to 1908. She made her debut in Naples in April 1892 as Valentine in Meyerbeer's  Les Huguenots . After engagements at the  Royal Swedish Opera  in Stockholm (1893–95) and Lisbon (1896), she returned to Italy where she performed first in Turin, Rome and Bologna. Thereafter notable performances included the title role in Mascagni's  Iris  at  La Fenice  in Venice (1900) and Sieglinde in Wagner's  Die Walküre  at Milan's  La Scala  (1901). This 1893 photograph depicts Labia while she was engaged at the Royal Swedish Opera.
 
 

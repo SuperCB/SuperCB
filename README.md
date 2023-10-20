@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fausta_Labia%2C_portr%C3%A4tt_-_SMV_-_H5_028_-_Restoration.jpg/450px-Fausta_Labia%2C_portr%C3%A4tt_-_SMV_-_H5_028_-_Restoration.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fred_Sullivan_by_Oliver_Sarony.jpg/450px-Fred_Sullivan_by_Oliver_Sarony.jpg" />
 </div>
 
->Fausta Labia  (1870–1935) was an Italian operatic soprano who was active mainly from 1892 to 1908. She made her debut in Naples in April 1892 as Valentine in Meyerbeer's  Les Huguenots . After engagements at the  Royal Swedish Opera  in Stockholm (1893–95) and Lisbon (1896), she returned to Italy where she performed first in Turin, Rome and Bologna. Thereafter notable performances included the title role in Mascagni's  Iris  at  La Fenice  in Venice (1900) and Sieglinde in Wagner's  Die Walküre  at Milan's  La Scala  (1901). This 1893 photograph depicts Labia while she was engaged at the Royal Swedish Opera.
+>Fred Sullivan  (1837–1877) was an English actor and singer. Born into a musical family, he trained as an architectural  draftsman  but abandoned the profession for a stage career. In 1871, he first performed the role of Mr. Cox in a revival of his brother  Arthur Sullivan 's comic opera  Cox and Box , and later that year created the role of Apollo in the first  Gilbert and Sullivan  opera,  Thespis . In 1875, he created his most famous role, the Learned Judge in Gilbert and Sullivan's  Trial by Jury , also playing in the accompanying Offenbach piece,  La Périchole . He earned enthusiastic reviews, and his portrayal of the Judge set the pattern for the subsequent Gilbert and Sullivan comic " patter " roles. He then toured in  Trial  and French  operettas , returning for the London revival of  Trial . Fred Sullivan died at the age of 39, leaving a pregnant widow and seven young children, his brother composing the song " The Lost Chord " at his bedside. This  sepia photograph  of Sullivan was taken by the Canadian photographer Olivier Sarony, probably in the 1870s.
 
 

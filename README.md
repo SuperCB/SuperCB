@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Marc%2C_Franz_-_Blue_Horse_I_-_Google_Art_Project.jpg/435px-Marc%2C_Franz_-_Blue_Horse_I_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Pez_globo_%28Arothron_stellatus%29%2C_Ras_Katy%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_119.jpg/600px-Pez_globo_%28Arothron_stellatus%29%2C_Ras_Katy%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_119.jpg" />
 </div>
 
->Blue Horse I  is an  oil-on-canvas  by  Franz Marc  executed in 1911. The first draft, produced earlier that year, was a pencil drawing which Marc drew in his sketchbook; this was about the size of a postcard and entitled Young Horse in Mountain Landscape, which already shows the composition of the later painting. The painting was part of several exhibitions that Marc and Russian painter  Wassily Kandinsky  presented to the public under the name  Der Blaue Reiter  from late 1911 until 1914.  Blue Horse I  is regarded as one of the painter's most famous paintings and is now part of the collection of the  Städtische Galerie im Lenbachhaus  in Munich, Germany.
+>Arothron stellatus , also known as the stellate pufferfish, starry puffer or starry toadfish, is a  demersal  marine fish belonging to the family  Tetraodontidae , the puffer fishes. It is found in shallow water in the  Indo-Pacific  region. It is a large fish, growing up to 120 centimetres (47 in) in length. Its body is spherical and relatively elongated, with skin that is not covered with scales but is prickly. The fish has no  pelvic fin  and no  lateral line . The  dorsal fin  and the  anal fin  are small, symmetric, and located at the rear end of the body. The head is large with a short snout that has two pairs of nostrils, and the mouth is terminal with four strong teeth. This  A. stellatus  individual was photographed in the  Red Sea  near  Sharm El Sheikh , Egypt.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Pez_globo_%28Arothron_stellatus%29%2C_Ras_Katy%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_119.jpg/600px-Pez_globo_%28Arothron_stellatus%29%2C_Ras_Katy%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_119.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg/900px-Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg" />
 </div>
 
->Arothron stellatus , also known as the stellate pufferfish, starry puffer or starry toadfish, is a  demersal  marine fish belonging to the family  Tetraodontidae , the puffer fishes. It is found in shallow water in the  Indo-Pacific  region. It is a large fish, growing up to 120 centimetres (47 in) in length. Its body is spherical and relatively elongated, with skin that is not covered with scales but is prickly. The fish has no  pelvic fin  and no  lateral line . The  dorsal fin  and the  anal fin  are small, symmetric, and located at the rear end of the body. The head is large with a short snout that has two pairs of nostrils, and the mouth is terminal with four strong teeth. This  A. stellatus  individual was photographed in the  Red Sea  near  Sharm El Sheikh , Egypt.
+>The  Neue Nationalgalerie  is a museum for  modern art  in Berlin, Germany, with its main focus on the 20th century. It is part of the  National Gallery  of the  Berlin State Museums . The museum building and its sculpture gardens were designed by  Ludwig Mies van der Rohe  and opened in 1968, with a modernist design and constructed largely from steel and glass. Neue Nationalgalerie serves as a repository for a notable collection of 20th-century European art. Its holdings include masterpieces by prominent figures such as  Pablo Picasso ,  Wassily Kandinsky ,  Ernst Ludwig Kirchner , and  Joan Miró . The gallery closed in 2015 for renovation works, and reopened in August 2021 with an exhibition of works by American sculptor  Alexander Calder . This photograph is a view of the western and southern façades of the building, with Calder's sculpture  Têtes et Queue  in the foreground.
 
 

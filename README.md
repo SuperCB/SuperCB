@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charon_in_True_Color_-_High-Res.jpg/600px-Charon_in_True_Color_-_High-Res.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Red-tailed_squirrel_%28Sciurus_granatensis_chrysuros%29_male_Caldas.jpg/600px-Red-tailed_squirrel_%28Sciurus_granatensis_chrysuros%29_male_Caldas.jpg" />
 </div>
 
->Charon    is the largest of the  five known natural satellites  of the dwarf planet  Pluto . It has a mean radius of 606 kilometres (377 mi), making it the sixth-largest known  trans-Neptunian object  after Pluto,  Eris ,  Haumea ,  Makemake , and  Gonggong .  With half the radius and one-eighth the mass of Pluto, Charon is a very large moon in comparison to its parent body. Its gravitational influence is such that the  barycenter  of the Plutonian system lies outside Pluto, and the two bodies are  tidally locked  to each other. Charon was discovered in 1978 by  James W. Christy  at the  United States Naval Observatory  (USNO), using photographic plates taken at  USNO Flagstaff Station  in  Arizona . This photograph of Charon in  true color  was taken by the NASA spacecraft  New Horizons , which  flew by  the Plutonian system in 2015.
+>The  red-tailed squirrel  ( Sciurus granatensis ) is a species of  tree squirrel . It is found in Central and South America – including Colombia, Costa Rica, Ecuador, Panama, and Venezuela – and the Caribbean islands of Trinidad and Tobago and  Margarita . It has also been introduced and is invasive in Cuba, but this is a small population found around some parts of the margin of Rio Almendares in Havana that escaped from the Havana Zoo. This is a common squirrel with a stable population and a vast range consisting of different habitats, including human-influenced environments, thus it is not thought to be under threat. This male red-tailed squirrel was photographed in the  Caldas Department  in Colombia.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Red-tailed_squirrel_%28Sciurus_granatensis_chrysuros%29_male_Caldas.jpg/600px-Red-tailed_squirrel_%28Sciurus_granatensis_chrysuros%29_male_Caldas.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Louis_Blanc_by_Carjat_1848.jpg/525px-Louis_Blanc_by_Carjat_1848.jpg" />
 </div>
 
->The  red-tailed squirrel  ( Sciurus granatensis ) is a species of  tree squirrel . It is found in Central and South America – including Colombia, Costa Rica, Ecuador, Panama, and Venezuela – and the Caribbean islands of Trinidad and Tobago and  Margarita . It has also been introduced and is invasive in Cuba, but this is a small population found around some parts of the margin of Rio Almendares in Havana that escaped from the Havana Zoo. This is a common squirrel with a stable population and a vast range consisting of different habitats, including human-influenced environments, thus it is not thought to be under threat. This male red-tailed squirrel was photographed in the  Caldas Department  in Colombia.
+>Louis Blanc  (29 October 1811 – 6 December 1882) was a French politician and historian. He advocated for  socialist  reforms without  revolution  first, and called for the creation of  job guarantees  for the urban poor. Blanc coined the phrase " right to work ", and his political and social ideas greatly contributed to the development of  socialism in France . This photograph of Blanc was taken in 1848 by the French photographer  Étienne Carjat .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Louis_Blanc_by_Carjat_1848.jpg/525px-Louis_Blanc_by_Carjat_1848.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tazieffite_-_Mutnovsky_volcano%2C_Kamchatka%2C_Russia_%28Color_SEM%29.jpg/600px-Tazieffite_-_Mutnovsky_volcano%2C_Kamchatka%2C_Russia_%28Color_SEM%29.jpg" />
 </div>
 
->Louis Blanc  (29 October 1811 – 6 December 1882) was a French politician and historian. He advocated for  socialist  reforms without  revolution  first, and called for the creation of  job guarantees  for the urban poor. Blanc coined the phrase " right to work ", and his political and social ideas greatly contributed to the development of  socialism in France . This photograph of Blanc was taken in 1848 by the French photographer  Étienne Carjat .
+>Fumarole minerals  are minerals that are deposited by  fumarole  exhalations. They form when gases and compounds desublimate or precipitate out of condensates, forming mineral deposits. They are mostly associated with volcanoes (as volcanic sublimate or fumarolic sublimate), following  deposition  from volcanic gas during an eruption or discharge from a volcanic vent or fumarole, but have been encountered on  burning coal deposits  as well. They can be black or multicoloured and are often unstable upon exposure to the atmosphere. This fumarole formation, formed of  acicular  crystals of tazieffite (black), was photographed at  Mutnovsky , a volcano on the  Kamchatka Peninsula  in Russia.
 
 

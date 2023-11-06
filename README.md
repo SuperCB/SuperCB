@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ruth_Handler_in_1961.jpg/600px-Ruth_Handler_in_1961.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Resedafalter_am_Morgen.jpg/600px-Resedafalter_am_Morgen.jpg" />
 </div>
 
->Ruth Handler  (November 4, 1916 – April 27, 2002) was an American businesswoman who created the fashion doll  Barbie  in 1959. With her husband  Elliot Handler , she co-founded the toy manufacturer  Mattel  in 1945 and served as its first president for thirty years. Handler got the idea for Barbie from German  Bild Lilli dolls , which were based on the West German comic strip  Lilli . Handler noticed that her daughter Barbara enjoyed giving toys adult roles; at the time, most children's dolls were infants. Handler designed the new doll with the help of  Jack Ryan  and named the doll "Barbie" after her daughter. She also later designed the doll  Ken , which she named after her son. This photograph taken in 1961 depicts Handler with Barbie and Ken dolls, as well as other Mattel products.
+>Pontia edusa , also known as the eastern Bath white, is a butterfly in the family  Pieridae . It is found from southeastern Europe (southern France, Italy, Corsica, Sardinia) up to central Europe and the Middle East in Iran and Iraq. It is a migrant which can also be encountered in Belgium, Holland, northern Germany and Poland, in the Baltic states and in southern Sweden and Norway. It resides in open grassy or flowery areas, in stony or rocky places and in roadsides, especially where the host plants grow, at an altitude of up to 2,300 metres (7,500 ft). This  P. edusa  butterfly was photographed near the  Elbe  in  Rühstädt , Germany.
 
 

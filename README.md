@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Resedafalter_am_Morgen.jpg/600px-Resedafalter_am_Morgen.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Old_peasant_with_dagger_and_long_smoking_pipe%2C_Mestia%2C_Svanetia%2C_Georgia_%28Republic%29.jpg/600px-Old_peasant_with_dagger_and_long_smoking_pipe%2C_Mestia%2C_Svanetia%2C_Georgia_%28Republic%29.jpg" />
 </div>
 
->Pontia edusa , also known as the eastern Bath white, is a butterfly in the family  Pieridae . It is found from southeastern Europe (southern France, Italy, Corsica, Sardinia) up to central Europe and the Middle East in Iran and Iraq. It is a migrant which can also be encountered in Belgium, Holland, northern Germany and Poland, in the Baltic states and in southern Sweden and Norway. It resides in open grassy or flowery areas, in stony or rocky places and in roadsides, especially where the host plants grow, at an altitude of up to 2,300 metres (7,500 ft). This  P. edusa  butterfly was photographed near the  Elbe  in  Rühstädt , Germany.
+>Georgians  are an ethnic group native to  Georgia  and the  Caucasus , with diaspora communities throughout Russia, Turkey, Greece, Iran, Ukraine, the United States and the European Union. Georgians arose from  Colchian  and  Iberian  civilizations of classical antiquity. In the early 4th century, the  Georgians became one of the first to embrace Christianity  and now the majority of Georgians are  Orthodox Christians . The Georgian nation was formed out of a diverse set of geographic subgroups, each with its characteristic traditions, manners,  dialects  and, in the case of the  Svans  and  Mingrelians , regional languages. The  Georgian language , with its  own unique writing system  and extensive written tradition, which goes back to the 5th century, is the  official language  of Georgia. According to the  State Ministry on Diaspora Issues of Georgia , unofficial statistics say that there are more than five million Georgians across the world. This photograph, taken around 1888 in  Mestia , shows an elderly Svan peasant with a dagger and smoking a long pipe. The image is in the collection of the  Library of Congress  in the United States.
 
 

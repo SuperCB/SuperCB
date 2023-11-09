@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Harpon_Unaaq_MHNT_ETH_AC_198.jpg/900px-Harpon_Unaaq_MHNT_ETH_AC_198.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Field_sparrow_in_CP_%2841484%29_%28cropped%29.jpg/540px-Field_sparrow_in_CP_%2841484%29_%28cropped%29.jpg" />
 </div>
 
->A  harpoon  is a long  spear -like  projectile  used in  fishing ,  whaling ,  sealing , and other  hunting  activities to shoot, kill, and capture large  fish  or  marine mammals  such as  seals ,  sea cows  and  whales . This photograph shows two views of a 19th-century  Inuit  harpoon, known as an  unaaq  in  Inuktitut , from  Labrador  in present-day Canada.
+>The  field sparrow  ( Spizella pusilla ) is a small sparrow in the family  Passerellidae . It is distributed across eastern Canada and the eastern United States, with northern populations migrating southwards to southern United States and north-eastern Mexico in the fall. The bird is about 140 mm long with a mass of about 12.5 g. Its head is grey with a rust-coloured crown, white eye-ring and pink bill. The upper parts are brown streaked with black and buff, the breast is buff, the belly is white and the tail is forked. There are two different colour morphs, one being greyer and the other more rufous. This field sparrow was photographed in  Central Park , New York City.
 
 

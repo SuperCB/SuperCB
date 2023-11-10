@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Field_sparrow_in_CP_%2841484%29_%28cropped%29.jpg/540px-Field_sparrow_in_CP_%2841484%29_%28cropped%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/West_Virginia_state_coat_of_arms_%28illustrated%2C_1876%29.jpg/630px-West_Virginia_state_coat_of_arms_%28illustrated%2C_1876%29.jpg" />
 </div>
 
->The  field sparrow  ( Spizella pusilla ) is a small sparrow in the family  Passerellidae . It is distributed across eastern Canada and the eastern United States, with northern populations migrating southwards to southern United States and north-eastern Mexico in the fall. The bird is about 140 mm long with a mass of about 12.5 g. Its head is grey with a rust-coloured crown, white eye-ring and pink bill. The upper parts are brown streaked with black and buff, the breast is buff, the belly is white and the tail is forked. There are two different colour morphs, one being greyer and the other more rufous. This field sparrow was photographed in  Central Park , New York City.
+>West Virginia  is a  state  in the  Southern  or  Mid-Atlantic  regions of the United States. It is the  10th-smallest state by area  and ranks as the  12th-least populous state , with a population of 1,793,716 residents. The state was formed in 1861, comprising a number of counties which separated from the state of  Virginia  after the latter had  seceded from the United States . West Virginia was admitted to the  Union  in 1863, and was a key  border state  during  the American Civil War . The state is noted for its mountains and rolling hills, its historically significant coal mining and logging industries, and its political and labor history. It is also a popular tourist destination.  Charleston  is the capital and  most populous city  of the state. This 1876 illustration of the  Seal of West Virginia  was produced by Henry Mitchell as part of a series titled  The State Arms of the Union .
 
 

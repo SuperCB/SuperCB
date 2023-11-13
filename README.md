@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cenotaph_sketch_by_Lutyens.jpg/900px-Cenotaph_sketch_by_Lutyens.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/525px-Marie_Curie_c._1920s.jpg" />
 </div>
 
->The Cenotaph  is a war memorial on  Whitehall  in London, England. Designed by  Sir Edwin Lutyens , it was unveiled on 11 November 1920 as the United Kingdom's national memorial to the British and  Commonwealth  dead of the  First World War . It was rededicated in 1946 to also commemorate those who had fallen in the  Second World War , and has since come to represent British casualties from later conflicts. The word  cenotaph  is derived from Greek, meaning 'empty tomb'; the monument symbolises the absence of the dead and is a focal point for public mourning. The original temporary Cenotaph was erected in 1919 for a parade celebrating the end of the First World War; calls for it to be rebuilt in permanent form began almost immediately. The permanent Cenotaph was unveiled by  George V  on 11 November 1920 in a ceremony combined with the repatriation of  the Unknown Warrior . The  National Service of Remembrance  is held annually at the site on  Remembrance Sunday . This sketch by Lutyens of the Cenotaph's front and end elevations was published in  The Illustrated London News  two days after it was unveiled.
+>Marie Curie  (1867–1934) was a Polish and naturalised-French physicist and chemist. Her groundbreaking research on  radioactivity  led to the discovery of two elements,  polonium  and  radium , earning her two  Nobel Prizes — in physics  (1903) and  in chemistry  (1911)—and making her the first person and only woman to achieve such a feat. Her work revolutionised understanding of  atomic  structure and  radiation , laying the foundation for modern  nuclear physics  and  medical radiation  therapy. This photograph of Curie was taken around the 1920s.
 
 

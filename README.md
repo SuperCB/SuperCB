@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/525px-Marie_Curie_c._1920s.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hyochangwon_as_Korea%27s_first_golf_course.jpg/900px-Hyochangwon_as_Korea%27s_first_golf_course.jpg" />
 </div>
 
->Marie Curie  (1867–1934) was a Polish and naturalised-French physicist and chemist. Her groundbreaking research on  radioactivity  led to the discovery of two elements,  polonium  and  radium , earning her two  Nobel Prizes — in physics  (1903) and  in chemistry  (1911)—and making her the first person and only woman to achieve such a feat. Her work revolutionised understanding of  atomic  structure and  radiation , laying the foundation for modern  nuclear physics  and  medical radiation  therapy. This photograph of Curie was taken around the 1920s.
+>In 1921, the  Empire of Japan  turned a Korean royal cemetery into a golf course at what is now  Hyochang Park . The tomb of  Royal Noble Consort Uibin Seong  was left directly on the course; it can be seen in the center of the picture, with a fence erected around it. Two Korean children  dressed in white  can be seen caddying for two golfers. A significant majority of players who used the course were Japanese. After the  liberation of Korea  in 1945, the park was turned into a memorial for  Korean independence activists  who resisted the  Japanese colonization of Korea .
 
 

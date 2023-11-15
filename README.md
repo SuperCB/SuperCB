@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hyochangwon_as_Korea%27s_first_golf_course.jpg/900px-Hyochangwon_as_Korea%27s_first_golf_course.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pied_kingfisher_%28Ceryle_rudis_leucomelanurus%29_male.jpg/525px-Pied_kingfisher_%28Ceryle_rudis_leucomelanurus%29_male.jpg" />
 </div>
 
->In 1921, the  Empire of Japan  turned a Korean royal cemetery into a golf course at what is now  Hyochang Park . The tomb of  Royal Noble Consort Uibin Seong  was left directly on the course; it can be seen in the center of the picture, with a fence erected around it. Two Korean children  dressed in white  can be seen caddying for two golfers. A significant majority of players who used the course were Japanese. After the  liberation of Korea  in 1945, the park was turned into a memorial for  Korean independence activists  who resisted the  Japanese colonization of Korea .
+>The  pied kingfisher  ( Ceryle rudis ) is a species of  water kingfisher  widely distributed across Africa and Asia. Originally described by  Carl Linnaeus  in 1758, it has five recognised subspecies. Its black and white plumage and crest, as well as its habit of hovering over clear lakes and rivers before diving for fish, make it distinctive. Males have a double band across the breast, while females have a single broken breast band. They are usually found in pairs or small family groups. When perched, they often bob their head and flick up their tail. This male pied kingfisher of the subspecies  C. r. leucomelanurus  was photographed by the  Chambal River  in  Uttar Pradesh , India.
 
 

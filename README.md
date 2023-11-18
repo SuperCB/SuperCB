@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Red_Fish_at_Papah%C4%81naumoku%C4%81kea_%28cropped%29.jpg/600px-Red_Fish_at_Papah%C4%81naumoku%C4%81kea_%28cropped%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rani_ki_vav_-_Patan_-_Gujarat_-_Wall_Decorations.jpg/599px-Rani_ki_vav_-_Patan_-_Gujarat_-_Wall_Decorations.jpg" />
 </div>
 
->Sargocentron xantherythrum , commonly known as the Hawaiian squirrelfish or striped squirrelfish, is a member of the  squirrelfish  family that is endemic to the  Hawaiian Islands . Growing to a length of 17 centimeters (6.7 in), the fish has a red coloration with white stripes running along the body, as well as sharp gill spines and rough scales that can cause the fish to be snagged in netting materials. It is a  nocturnal species  that is much more active at night. It inhabits seaward reefs below the surge zone, and is common near caves and ledges, feeding mainly on worms, crustaceans and starfish. It occasionally makes its way into the  aquarium  trade. This school of  S. xantherythrum  was photographed in the  French Frigate Shoals , part of the  Papahānaumokuākea Marine National Monument  in  Hawaii .
+>Rani ki Vav  is a  stepwell  situated in the town of  Patan  in  Gujarat , India. It is located on the banks of the  Saraswati River . Its construction is attributed to Udayamati, the spouse of the 11th-century  Chaulukya  king  Bhima I . Silted over, it was rediscovered in the 1940s and restored in the 1980s by the  Archaeological Survey of India . It has been listed as one of the UNESCO  World Heritage Sites in India  since 2014. One of the largest examples of its kind, this stepwell is designed as an inverted temple highlighting the sanctity of water. It is divided into seven levels of stairs with sculptural panels. These panels have more than five hundred principal sculptures and more than one thousand minor ones that combine religious and symbolic imagery.
 
 

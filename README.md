@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/JFK_limousine.png/600px-JFK_limousine.png" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Argiope_spider_female_adult_on_her_web_ventral_view_black_background_Don_Det_Laos.jpg/450px-Argiope_spider_female_adult_on_her_web_ventral_view_black_background_Don_Det_Laos.jpg" />
 </div>
 
->John F. Kennedy  (May 29, 1917 – November 22, 1963) was an American politician who served as the 35th  president of the United States  from 1961 until  his assassination in 1963 . He was the youngest person to assume the presidency by election and the youngest president at the end of his tenure. Kennedy served at the height of the  Cold War , and the majority of his foreign policy concerned relations with the Soviet Union and Cuba. A  Democrat  from  Massachusetts , Kennedy served in both houses of the  United States Congress  prior to his presidency. This photograph of Kennedy in his  presidential state car  was taken by Walt Cisco of  The Dallas Morning News  minutes before his assassination in  Dallas, Texas , on November 22, 1963.
+>Argiope versicolor  also known as the multi-coloured Saint Andrew's cross spider, is a species of  orb-weaver spider  found mostly in Southeast Asia, from China to Indonesia. Like other members of the genus, females sometimes decorate their web with a zig-zag  stabilimentum  of white  silk , which varies in shape from discoid in juveniles to cruciform in mature females. The stabilimentum may be associated with predator-avoidance behaviours. The female usually sits head down in the centre of the web, with legs held spread-eagle in an "X" shape. The male is smaller and duller than the female, is brown- and cream-coloured, and its web is not decorated by zig-zag white bands. This  A. versicolor  female was photographed on the island of  Don Det  in Laos.
 
 

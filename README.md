@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hyles_gallii_-_Keila1.jpg/450px-Hyles_gallii_-_Keila1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Puffin_%28Fratercula_arctica%29.jpg/495px-Puffin_%28Fratercula_arctica%29.jpg" />
 </div>
 
->Hyles gallii , also known as the bedstraw hawk-moth, is a  moth  of the family  Sphingidae . The species was first  described  by  S. A. von Rottemburg  in 1775 and is found in North America, in Europe to the Arctic Circle, in Central Asia, and in Japan. This image shows a late-stage  H. gallii  caterpillar in  Keila , Estonia. Caterpillars of the species can reach a length of 70 to 80 millimetres (2.8 to 3.1 in), with variable colouring. One type is olive green with cream spots and a reddish-brown head, while another is almost entirely black.
+>The  Atlantic puffin  ( Fratercula arctica ) is a species of  seabird  in the  auk  family and is the only  puffin  native to the  Atlantic Ocean . It has a black crown and back, pale grey cheek patches and white underparts and its broad, boldly marked red and black beak and orange legs contrast with its otherwise sombre plumage. The Atlantic puffin spends the autumn and winter at sea, mainly in the North Atlantic, and returns to land at the start of the breeding season in late spring. Its breeding range includes the coasts of north west Europe, the Arctic fringes and eastern North America. It nests in clifftop  colonies , each pair of birds choosing or digging a burrow in which a single white egg is laid. Incubation takes about six weeks and the chicks are fully  fledged  a similar time later. They then make their way at night to the sea, not returning to land for several years. Colonies are mostly on islands where there are no terrestrial predators, but both adult birds and newly fledged young are at risk of attacks from the air by  gulls  and  skuas . The Atlantic puffin's striking appearance, large colourful bill, waddling gait and appealing behaviour have given rise to nicknames such as "clown of the sea" and "sea parrot". This Atlantic puffin was photographed on the northern coast of  Skomer Island  in Pembrokeshire, Wales.
 
 

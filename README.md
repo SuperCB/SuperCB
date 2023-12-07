@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Red-eyed_dove_%28Streptopelia_semitorquata%29.jpg/450px-Red-eyed_dove_%28Streptopelia_semitorquata%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Anefo_932-2378_Keke_Rosberg%2C_Zandvoort%2C_03-07-1982_-_Restoration.jpg/450px-Anefo_932-2378_Keke_Rosberg%2C_Zandvoort%2C_03-07-1982_-_Restoration.jpg" />
 </div>
 
->Columbidae  is a bird  family  consisting of doves and pigeons. In English, the smaller species tend to be called  doves  and the larger ones  pigeons , but this distinction is not always consistent and scientifically there is no separation between them. Pigeons and doves are distributed everywhere on Earth, except for the driest areas of the Sahara, Antarctica and its surrounding islands, and the high Arctic. The family has adapted to most of the habitats available on the planet. There is a considerable variation in size between species, ranging in length from 15 to 75 cm (6 to 30 in), and in weight from 30 g (1 oz) to above 2 kg (4 lb). Overall, the anatomy of Columbidae is characterized by short legs, short bills with a fleshy beak, and small heads on large, compact bodies. The wings are large, and have eleven primary feathers; they have strong wing muscles and are among the strongest fliers of all birds. They primarily feed on seeds, fruits, and plants. This  red-eyed dove  ( Streptopelia semitorquata ) was photographed on the  Zambezi  in Zimbabwe, near  Kazungula Bridge .
+>Keke Rosberg  (born 6 December 1948) is a Finnish former  racing driver  and the winner of the  1982 Formula One World Championship . He was the first  Formula One driver from Finland  to win the championship. Rosberg began his  Formula One  career in 1978 and he drove for a number of different teams before signing for  Williams  in 1982. After four seasons there, he spent his final season with  McLaren  before retiring in 1986. Rosberg's son  Nico  won the  2016 Formula One World Championship . This photograph, from the archives of the Dutch photograph press agency  Anefo , shows Rosberg at the  1982 Dutch Grand Prix .
 
 

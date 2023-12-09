@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dancing_Jewel_%28Platycypha_caligata%29_teneral_male.jpg/525px-Dancing_Jewel_%28Platycypha_caligata%29_teneral_male.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mulu_Pinnacles.jpg/825px-Mulu_Pinnacles.jpg" />
 </div>
 
->Platycypha caligata , commonly known as the dancing jewel, is a species of  damselfly  in the family  Chlorocyphidae . It is found in eastern, central and southern Africa from Ethiopia to Angola and South Africa.  Its natural habitats include shady parts of subtropical or tropical streams and rivers in forest, woodland, savanna, shrubland, and the shorelines of lakes. Males perform remarkable  territorial  and  courtship displays  which include flashing their brightly coloured legs with flattened tibiae and waving their abdomens. This male dancing jewel, with a length of around 35 mm, was photographed near  Victoria Falls  in Zambia.
+>Mount Api  is a  limestone  mountain located in  Gunung Mulu National Park  in  Sarawak , Malaysia. It is part of the same formation as  Mount Benarat  and Mount Buda. Mount Api is notable for its striking limestone  karst  formations, commonly known as "the pinnacles". The mountain hosts many  caves , with passages linking to the massive  Clearwater Cave system . It features a great diversity of  pitcher plants , with at least eight different species recorded on the mountain. This 2019 photograph shows the karst pinnacles near the peak of Mount Api.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mulu_Pinnacles.jpg/825px-Mulu_Pinnacles.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Swamp_rose-mallow.jpg/600px-Swamp_rose-mallow.jpg" />
 </div>
 
->Mount Api  is a  limestone  mountain located in  Gunung Mulu National Park  in  Sarawak , Malaysia. It is part of the same formation as  Mount Benarat  and Mount Buda. Mount Api is notable for its striking limestone  karst  formations, commonly known as "the pinnacles". The mountain hosts many  caves , with passages linking to the massive  Clearwater Cave system . It features a great diversity of  pitcher plants , with at least eight different species recorded on the mountain. This 2019 photograph shows the karst pinnacles near the peak of Mount Api.
+>Hibiscus moscheutos , commonly known by various names including rose mallow and swamp rose-mallow, is a species of flowering plant in the family  Malvaceae . It is a cold-hardy perennial  wetland  plant that can grow in large colonies. The hirsute leaves are of variable morphology, but are commonly deltoidal in shape with up to three lobes. It is found in wetlands and along the riverine systems of the eastern United States from Texas to the Atlantic states, its territory extending northward to southern  Ontario , Canada. It is a tall plant, with a height of 1.5 to 2.5 meters (4.9 to 8.2 ft) and flowers up to 20 centimeters (7.9 in) across. Petal colors range from pure white through various pinks to red, and most have an eye of deep maroon. These pink  H. moscheutos  flowers were photographed in  Point Pelee National Park  in Ontario.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/First_flight2.jpg/750px-First_flight2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Laguna_Mi%C3%B1iques%2C_Chile%2C_2016-02-08%2C_DD_33-38_PAN.JPG/1200px-Laguna_Mi%C3%B1iques%2C_Chile%2C_2016-02-08%2C_DD_33-38_PAN.JPG" />
 </div>
 
->The  Wright Flyer , also known as the  Kitty Hawk , made the first sustained flight by a manned  heavier-than-air  powered and controlled aircraft – an  airplane  – on December 17, 1903. Invented and flown by the  Wright brothers , it marked the beginning of the  pioneer era of aviation . The  Wright Flyer  is a single-place biplane design with  anhedral  (drooping) wings, front double  elevator  and rear double  rudder . It used a 12-horsepower (9-kilowatt) gasoline engine powering two pusher propellers. Employing " wing warping ", it was relatively unstable and very difficult to fly. The Wright brothers flew it four times in a location south of  Kitty Hawk, North Carolina . The airplane flew 852 feet (260 m) on its fourth and final flight, but was damaged on landing, and minutes later was wrecked when powerful gusts blew it over. The aircraft never flew again but was shipped home and subsequently restored by Orville Wright. It was housed in the  Science Museum  in London from 1928 to 1948, and is now exhibited at the  National Air and Space Museum  in Washington, D.C. This photograph, taken by  John T. Daniels , a local member of the  United States Life-Saving Service , shows the  Wright Flyer  seconds into its first flight in 1903.
+>Laguna Miñiques  is a lake in northern Chile. It lies at the foot of the volcano  Cerro Miscanti , south of  Laguna Miscanti , from which it receives inflow by seepage. The two lakes are separated by a lava flow. Like Miscanti and the nearby  Laguna Lejía , Miñiques is a fault-bound lake and has  brackish waters . A popular tourist destination, it is part of the  Los Flamencos National Reserve , and is home to wildlife including the  cladocerans   Alona pulchella  and  Daphnia , the  copepod   Boeckella poopoensis , and unidentified species of  Cyclopoida . This panoramic photograph of Laguna Miñiques was taken in February 2016.
 
 

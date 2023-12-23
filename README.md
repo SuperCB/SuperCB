@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Leptura_quadrifasciata_female_-_Keila.jpg/450px-Leptura_quadrifasciata_female_-_Keila.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cavalier_soldier_Hals-1624x.jpg/525px-Cavalier_soldier_Hals-1624x.jpg" />
 </div>
 
->Leptura quadrifasciata , the longhorn beetle, is a species of  beetle  in the family  Cerambycidae . It is found throughout the northern and central  Palaearctic  region. The species is distributed in northern and central regions of Europe and Asia. It is particularly common in Scandinavia, Finland and Great Britain, and typically seen during the summer months. The larvae make meandering galleries in various trees, including  oak ,  beech ,  birch ,  willow ,  alder ,  elder  and  spruce  – typically in dead and decaying wood, with a preference for damp areas. Adult beetles are 11 to 20 millimetres (0.43 to 0.79 in) long, black with four more or less continuous transverse yellow bands. In extreme cases the  elytra  may be almost entirely black. The life cycle of the species lasts two or three years. This  L. quadrifasciata  female was photographed on  wild carrot  flowers near  Keila , Estonia.
+>The  Laughing Cavalier  is an  oil-on-canvas  portrait by the Dutch Golden Age painter  Frans Hals , completed in 1624. The title is an invention of the  Victorian  public and press, dating from its exhibition in the opening display at the  Bethnal Green Museum  from 1872 to 1875, just after its arrival in England. The  Laughing Cavalier  was described by art historian  Seymour Slive  as "one of the most brilliant of all Baroque portraits" and has been used in several derivative works, such as the logo of  McEwan's , in which a modified version of the cavalier is depicted enjoying a glass of the beer. The painting is now housed in the  Wallace Collection  in London.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cavalier_soldier_Hals-1624x.jpg/525px-Cavalier_soldier_Hals-1624x.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/African_fish_eagle_%28Haliaeetus_vocifer%29_Ethiopia.jpg/600px-African_fish_eagle_%28Haliaeetus_vocifer%29_Ethiopia.jpg" />
 </div>
 
->The  Laughing Cavalier  is an  oil-on-canvas  portrait by the Dutch Golden Age painter  Frans Hals , completed in 1624. The title is an invention of the  Victorian  public and press, dating from its exhibition in the opening display at the  Bethnal Green Museum  from 1872 to 1875, just after its arrival in England. The  Laughing Cavalier  was described by art historian  Seymour Slive  as "one of the most brilliant of all Baroque portraits" and has been used in several derivative works, such as the logo of  McEwan's , in which a modified version of the cavalier is depicted enjoying a glass of the beer. The painting is now housed in the  Wallace Collection  in London.
+>The  African fish eagle  ( Icthyophaga vocifer ) is a large species of  eagle  found throughout sub-Saharan Africa, wherever large bodies of open water with an abundant food supply occur. It is a  generalist species , requiring only open water with sufficient prey and a good perch, as evidenced by the number of habitat types in which this species may be found. Habitats include grasslands, swamps, marshes, tropical rainforests and  fynbos , as well as freshwater lakes, reservoirs, and rivers. Some are also found close to the coast, both at the mouths of rivers or lagoons and on desert-bordering coastline. The African fish eagle is a large bird, with females having a mass of 3.2 to 3.6 kg (7.1 to 7.9 lb), somewhat larger than the male, at 2.0 to 2.5 kg (4.4 to 5.5 lb). It breeds during the  dry season , when water levels are low and it is believed to be a  monogamous species . It is the  national bird  of Malawi, Namibia, Zambia, and Zimbabwe. This African fish eagle was photographed at  Lake Ziway  in Ethiopia.
 
 

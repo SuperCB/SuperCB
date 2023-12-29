@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sonoma_chipmunk_at_Samuel_P._Taylor_State_Park.jpg/825px-Sonoma_chipmunk_at_Samuel_P._Taylor_State_Park.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%91%D0%B5%D0%BB%D0%BB_%D0%B8_%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5_%D0%AD%D0%B9%D1%80%D1%8B.jpg/825px-%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%91%D0%B5%D0%BB%D0%BB_%D0%B8_%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5_%D0%AD%D0%B9%D1%80%D1%8B.jpg" />
 </div>
 
->The  Sonoma chipmunk  ( Neotamias sonomae ) is a species of  rodent  in the  squirrel  family, Sciuridae. It is endemic to the U.S. state of  California , north of  San Francisco Bay , with most of its range within  Sonoma County  and  Marin County . The species is found in areas of  coniferous  forests such as  sticky laurel  and  ponderosa pine , as well as in  chaparral , particularly  sagebrush plains . Its range includes elevations from sea level to 1800 meters (5,900 ft). The chipmunk typically lives on the ground and makes  burrows , but can also climb and may make nests in trees. Like other members of the  Neotamias  genus, it has two  premolars . This Sonoma chipmunk was photographed in  Samuel P. Taylor State Park  in Marin County, California.
+>Bell Island  is a small island in the  Barents Sea , south-west of the  Franz Josef Land  archipelago in  Arkhangelsk Oblast , Russia. The island was named by the English explorer  Benjamin Leigh Smith  for its bell-shaped mountain which rises steeply from the island's southern coast. The island was the first among the Franz Josef archipelago to be visited by Leigh Smith in an expedition he undertook in 1880. In a second expedition to the islands in 1881, Leigh Smith built the wooden Eira lodge on the north side of the island which he used to winter. The lodge stands to this day. The island was later visited by the  Svyataya Anna  of the ill-fated  Brusilov expedition  in 1914. This view shows Bell Island in 2017 with Eira lodge in the foreground.
 
 

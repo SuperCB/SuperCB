@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Diamond_%28side_view%29.png/600px-Diamond_%28side_view%29.png" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/No-image.svg/600px-No-image.svg.png" />
 </div>
 
->Diamond  is a  solid form of carbon  with its atoms arranged in a  crystal structure  known as  diamond cubic . It is  metastable  at  standard temperature and pressure , converting to the  chemically stable  form  graphite  under those conditions but at a negligible rate. Diamond has the highest  hardness  and  thermal conductivity  of any natural material, properties that are useful in major industrial applications such as cutting and polishing tools. In addition to its industrial uses,  diamond is much sought-after as a gemstone  for use in jewelry. Most natural diamonds were formed between 1 billion and 3.5 billion years ago, at depths between 150 to 250 kilometres (93 to 155 mi) in the  Earth's mantle . They were then carried to the surface more recently in volcanic eruptions and deposited in  igneous rocks  known as  kimberlites  and  lamproites . This photograph shows the  cathodoluminescence  of a round-cut diamond, taken with the use of a  scanning electron microscope . The image has a field of view of 3.45 millimetres (0.136 in).
+>Steamboat Willie  is a 1928 American animated short film directed by  Walt Disney  and  Ub Iwerks . It marks  Mickey Mouse  and  Minnie Mouse 's first appearance in a distributed film. Mickey Mouse was created as a replacement for  Oswald the Lucky Rabbit , created by the Disney studio but owned at the time by  Universal Pictures , and when two silent films featuring Mickey failed to gain a distributor, Walt Disney decided instead to put him in a  sound cartoon  – perhaps inspired by  The Jazz Singer . With music arranged by  Wilfred Jackson  and Bert Lewis,  Steamboat Willie  was one of the first cartoons with synchronized sound. The film received wide critical acclaim upon its release, and it has been preserved in the United States  National Film Registry  for its significance. The film enters the  public domain  under U.S. copyright law today (January 1, 2024), 95 years after its release in 1928.
 
 

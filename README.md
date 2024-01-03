@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/No-image.svg/600px-No-image.svg.png" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Le_Violon_d%27Ingres.png/525px-Le_Violon_d%27Ingres.png" />
 </div>
 
->Steamboat Willie  is a 1928 American animated short film directed by  Walt Disney  and  Ub Iwerks . It marks  Mickey Mouse  and  Minnie Mouse 's first appearance in a distributed film. Mickey Mouse was created as a replacement for  Oswald the Lucky Rabbit , created by the Disney studio but owned at the time by  Universal Pictures , and when two silent films featuring Mickey failed to gain a distributor, Walt Disney decided instead to put him in a  sound cartoon  – perhaps inspired by  The Jazz Singer . With music arranged by  Wilfred Jackson  and Bert Lewis,  Steamboat Willie  was one of the first cartoons with synchronized sound. The film received wide critical acclaim upon its release, and it has been preserved in the United States  National Film Registry  for its significance. The film enters the  public domain  under U.S. copyright law today (January 1, 2024), 95 years after its release in 1928.
+>Le Violon d'Ingres  is a black-and-white photograph taken by the American visual artist  Man Ray  in 1924. One of the best-known works of  Surrealist  photography, it was first published in the Surrealist magazine  Littérature  in June 1924. It shows the French model  Kiki de Montparnasse  from the back, nude to below her waist and wearing a turban. Two  f-holes  are painted on her back to make her body resemble a violin.
 
 

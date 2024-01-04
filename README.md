@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Le_Violon_d%27Ingres.png/525px-Le_Violon_d%27Ingres.png" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Black-faced_Woodswallow_1_-_Sturt_National_Park.jpg/750px-Black-faced_Woodswallow_1_-_Sturt_National_Park.jpg" />
 </div>
 
->Le Violon d'Ingres  is a black-and-white photograph taken by the American visual artist  Man Ray  in 1924. One of the best-known works of  Surrealist  photography, it was first published in the Surrealist magazine  Littérature  in June 1924. It shows the French model  Kiki de Montparnasse  from the back, nude to below her waist and wearing a turban. Two  f-holes  are painted on her back to make her body resemble a violin.
+>The  black-faced woodswallow  ( Artamus cinereus ) is a species of  woodswallow  native to Australia (in which it is found throughout, apart from the eastern margin), New Guinea and the Sunda Islands, including Timor. It is 18 to 19 cm (7.1 to 7.5 in) long and the most widespread species in the family  Artamidae . A mainly sedentary bird, it remains in arid and semi-arid areas even during dry conditions. Although it can be partly nomadic, the species prefers open eucalypt woodlands, scrub, and spinifex in arid and semi-arid conditions. The black-faced woodswallow is mainly  insectivorous , being an aerial feeder that can soar, hover and dive to catch insect prey such as moths. It also often feeds on the ground taking ground insects, or insects caught on the wing to be dismembered. This black-faced woodswallow was photographed in  Sturt National Park  in New South Wales, Australia.
 
 

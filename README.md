@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Black-faced_Woodswallow_1_-_Sturt_National_Park.jpg/750px-Black-faced_Woodswallow_1_-_Sturt_National_Park.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg/525px-Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg" />
 </div>
 
->The  black-faced woodswallow  ( Artamus cinereus ) is a species of  woodswallow  native to Australia (in which it is found throughout, apart from the eastern margin), New Guinea and the Sunda Islands, including Timor. It is 18 to 19 cm (7.1 to 7.5 in) long and the most widespread species in the family  Artamidae . A mainly sedentary bird, it remains in arid and semi-arid areas even during dry conditions. Although it can be partly nomadic, the species prefers open eucalypt woodlands, scrub, and spinifex in arid and semi-arid conditions. The black-faced woodswallow is mainly  insectivorous , being an aerial feeder that can soar, hover and dive to catch insect prey such as moths. It also often feeds on the ground taking ground insects, or insects caught on the wing to be dismembered. This black-faced woodswallow was photographed in  Sturt National Park  in New South Wales, Australia.
+>Daniel Bernoulli  (1700–1782) was a Swiss mathematician and physicist, one of several prominent mathematicians of the  Bernoulli family  from Basel. He is particularly remembered for his applications of mathematics to mechanics, especially  fluid mechanics , and for his pioneering work in  probability  and  statistics . His name is commemorated in  Bernoulli's principle , a particular example of the  conservation of energy , and which describes the mathematics of the mechanism underlying the operation of two important technologies of the 20th century: the  carburetor  and the airplane  wing . This  oil-on-canvas  portrait of Bernoulli, painted by an unknown artist, now hangs in the  Basel Historical Museum .
 
 

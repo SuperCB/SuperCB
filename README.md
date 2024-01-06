@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg/525px-Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Plain_tiger_%28Danaus_chrysippus_chrysippus%29_male_underside.jpg/750px-Plain_tiger_%28Danaus_chrysippus_chrysippus%29_male_underside.jpg" />
 </div>
 
->Daniel Bernoulli  (1700–1782) was a Swiss mathematician and physicist, one of several prominent mathematicians of the  Bernoulli family  from Basel. He is particularly remembered for his applications of mathematics to mechanics, especially  fluid mechanics , and for his pioneering work in  probability  and  statistics . His name is commemorated in  Bernoulli's principle , a particular example of the  conservation of energy , and which describes the mathematics of the mechanism underlying the operation of two important technologies of the 20th century: the  carburetor  and the airplane  wing . This  oil-on-canvas  portrait of Bernoulli, painted by an unknown artist, now hangs in the  Basel Historical Museum .
+>Danaus chrysippus , also known as the plain tiger or the African queen, belongs to the subfamily  Danainae  of the brush-footed butterfly family  Nymphalidae . Its range extends across Africa and the majority of the Asian continent, as well as many South Pacific islands and some populations in Australia. It is found in a wide variety of  habitats , although it is less likely to thrive in  jungle -like conditions and is most often found in drier, wide-open areas.  D. chrysippus  is a medium-sized butterfly with a wingspan of about 7 to 8 centimetres (2.8 to 3.1 in). Its body is black with white spots, while the wings are a brownish orange, the upper side brighter and richer than the underside. It is a  polymorphic  species, so the exact coloring and patterning vary within and between populations. Its primary diet is milkweed plants, of the genus  Asclepias . Because of its  emetic  properties,  D. chrysippus  is  unpalatable  to most predators. As a result, its colouration is widely  mimicked  by other species of butterfly. This photograph shows the underside of a male butterfly of the subspecies  D. c. chrysippus , seen in  Kumarakom , India.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pinot_Grigio-20201027-RM-114053.jpg/525px-Pinot_Grigio-20201027-RM-114053.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Margareta_van_Eyck.jpg/450px-Margareta_van_Eyck.jpg" />
 </div>
 
->Pinot gris , or pinot grigio, is a grape variety of the species  Vitis vinifera  used to make  white wine . Thought to be a  mutant  clone of  pinot noir , it normally has a pinkish-gray hue, accounting for its name, but the colors can vary from blue-gray to pinkish-brown. Pinot gris thrives in cooler climates, with the major growing regions being  Alsace  in France, northeastern Italy and the U.S. state of  Oregon . The wines vary greatly with these regions; for example,  Alsatian  pinot gris wines are medium to full-bodied and tend to be spicy in comparison with others. This photograph of a bunch of pinot gris grapes was  focus-stacked  from twelve separate frames.
+>Portrait of Margaret van Eyck  is a 1439  oil-on-wood painting  by the  Early Netherlandish  artist  Jan van Eyck . A portrait of his wife Margaret, it is one of the two latest of van Eyck's surviving paintings, and one of the earliest European artworks to depict a painter's spouse. It was completed when Margaret was around 34 and hung until the early 18th century in the chapel of the guild of painters in  Bruges  (in present-day Belgium). The work is thought to be a  pendant  or a  diptych  panel, with van Eyck himself occupying the other half in either a now lost self-portrait known from records until 1769, or his  Portrait of a Man . This portrait of Margaret is now in the collection of the  Groeningemuseum  in Bruges.
 
 

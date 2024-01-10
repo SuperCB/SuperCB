@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Margareta_van_Eyck.jpg/450px-Margareta_van_Eyck.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jabiru_%28Jabiru_mycteria%29_2.JPG/600px-Jabiru_%28Jabiru_mycteria%29_2.JPG" />
 </div>
 
->Portrait of Margaret van Eyck  is a 1439  oil-on-wood painting  by the  Early Netherlandish  artist  Jan van Eyck . A portrait of his wife Margaret, it is one of the two latest of van Eyck's surviving paintings, and one of the earliest European artworks to depict a painter's spouse. It was completed when Margaret was around 34 and hung until the early 18th century in the chapel of the guild of painters in  Bruges  (in present-day Belgium). The work is thought to be a  pendant  or a  diptych  panel, with van Eyck himself occupying the other half in either a now lost self-portrait known from records until 1769, or his  Portrait of a Man . This portrait of Margaret is now in the collection of the  Groeningemuseum  in Bruges.
+>The  jabiru  ( Jabiru mycteria ) is a large  stork  found in the Americas from Mexico to Argentina, except west of the  Andes , occasionally also moving into the southern United States. Its name comes from  Tupi–Guarani  and means 'swollen neck'. It is a tall bird, with larger males reaching a height of more than 1.5 metres (4.9 ft). It measures 2.3 to 2.8 metres (7.5 to 9.2 ft) across the wings, and can weigh up to 9 kilograms (20 lb). The  plumage  is mostly white, but the head and upper neck are featherless and black, with a featherless red stretchable patch at the base. This jabiru was photographed in the  Pantanal  area of Brazil.
 
 

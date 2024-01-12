@@ -15,7 +15,7 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/KlimtDieJungfrau.jpg/600px-KlimtDieJungfrau.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/KlimtPanna.jpg/600px-KlimtPanna.jpg" />
 </div>
 
 >The Maiden  is a painting by the Austrian artist  Gustav Klimt , completed in 1913. It depicts six interlaced women, each woman representing a particular stage of life. The painting touches on various topics of human life, such as love, sexuality and regeneration, depicted in a cyclical shape. The virgin's gown with its many spirals of blue and purple metaphorically indicates fertility, continual change and the evolution of the universe.  The Maiden  was one of Klimt's last paintings before he died and is in the collection of the  National Gallery Prague  in the Czech Republic.

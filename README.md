@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/KlimtPanna.jpg/600px-KlimtPanna.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Small_pincertail_%28Onychogomphus_forcipatus%29_male_Bulgaria.jpg/825px-Small_pincertail_%28Onychogomphus_forcipatus%29_male_Bulgaria.jpg" />
 </div>
 
->The Maiden  is a painting by the Austrian artist  Gustav Klimt , completed in 1913. It depicts six interlaced women, each woman representing a particular stage of life. The painting touches on various topics of human life, such as love, sexuality and regeneration, depicted in a cyclical shape. The virgin's gown with its many spirals of blue and purple metaphorically indicates fertility, continual change and the evolution of the universe.  The Maiden  was one of Klimt's last paintings before he died and is in the collection of the  National Gallery Prague  in the Czech Republic.
+>The  dragonfly  is a  flying insect  belonging to the infraorder Anisoptera of the order  Odonata . About 3,000 extant species of true dragonflies are known. Most are  tropical , with fewer species in  temperate regions . Adult dragonflies are characterized by a pair of large, multifaceted,  compound eyes , two pairs of strong, transparent  wings , sometimes with coloured patches, and an elongated body. Many dragonflies have brilliant  iridescent  or metallic colours produced by  structural coloration , making them conspicuous in flight. An adult dragonfly's  compound eyes  have nearly 24,000  ommatidia  each. Dragonflies are  predatory  insects, both in their aquatic  nymphal  stage (also known as "naiads") and as adults. In some species, the nymphal stage lasts up to five years, and the adult stage may be as long as 10 weeks, but most species have an adult lifespan in the order of five weeks or less, and some survive for only a few days. Loss of  wetland  habitat threatens dragonfly populations around the world. This male  Onychogomphus forcipatus  dragonfly was photographed in Kresna Gorge, Bulgaria.
 
 

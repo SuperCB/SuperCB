@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mimachlamys_varia_01.jpg/2px-Mimachlamys_varia_01.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Billy_Bowlegs_%28Holata_Micco%2C_%22Alligator_Chief%22%29.jpg/420px-Billy_Bowlegs_%28Holata_Micco%2C_%22Alligator_Chief%22%29.jpg" />
 </div>
 
->Chlamys varia , also known as the variegated scallop, is a small bivalve mollusc in the  scallop  family, Pectinidae. It occurs in the  North Sea , the  English Channel , the northeastern  Atlantic Ocean  and the  Red Sea , living at depths of up to around 100 m (330 ft) along coastal rocky areas. It typically lives under boulders or among the  holdfasts  of seaweeds. The shell of  Chlamys varia  comes in a range of colours and variegated patterns including white, pink, red, orange, yellow, or purple, and anything in between. Both valves are convex, rounded or oval, and symmetrical except for the ears on either side of the  umbo . The shell does not usually exceed 6 cm (2.4 in) in length. This  C. varia  shell, with left and right valves shown, was found in the  Adriatic Sea  near Italy.
+>Billy Bowlegs  (real name: Holata Micco, meaning  Alligator Chief ) (c. 1810 – 1859) was an important leader of the  Seminoles  in  Florida  during the  Second Seminole War . He was the remaining Seminoles' most prominent chief during the  Third Seminole War , in which he led the Seminoles' last major resistance against the United States government. With the possibilities of military victory dwindling, he finally agreed to relocate with his people to  Indian Territory  (present-day  Oklahoma ) in 1858. As part of the settlement he was paid $6,500 plus $1,000 each for the subchiefs and $100 each for the women and children who went with him. This  lithograph  of Bowlegs was produced by an unknown engraver in around 1865–1870, based on an original work by  Julian Vannerson .
 
 

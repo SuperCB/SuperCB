@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Billy_Bowlegs_%28Holata_Micco%2C_%22Alligator_Chief%22%29.jpg/420px-Billy_Bowlegs_%28Holata_Micco%2C_%22Alligator_Chief%22%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ely_Cathedral_Lady_Chapel%2C_Cambridgeshire%2C_UK_-_Diliff.jpg/599px-Ely_Cathedral_Lady_Chapel%2C_Cambridgeshire%2C_UK_-_Diliff.jpg" />
 </div>
 
->Billy Bowlegs  (real name: Holata Micco, meaning  Alligator Chief ) (c. 1810 – 1859) was an important leader of the  Seminoles  in  Florida  during the  Second Seminole War . He was the remaining Seminoles' most prominent chief during the  Third Seminole War , in which he led the Seminoles' last major resistance against the United States government. With the possibilities of military victory dwindling, he finally agreed to relocate with his people to  Indian Territory  (present-day  Oklahoma ) in 1858. As part of the settlement he was paid $6,500 plus $1,000 each for the subchiefs and $100 each for the women and children who went with him. This  lithograph  of Bowlegs was produced by an unknown engraver in around 1865–1870, based on an original work by  Julian Vannerson .
+>Ely Cathedral  is an  Anglican  cathedral in the city of  Ely  in Cambridgeshire, England. The cathedral can trace its origin to an  abbey  founded in Ely in 672 by St  Æthelthryth  (also called Etheldreda). The earliest parts of the present building date to 1083, and it was granted cathedral status in 1109. Until the  Reformation  the cathedral was dedicated to St Etheldreda and St Peter, at which point it was refounded as the Cathedral Church of the Holy and Undivided Trinity of Ely. It is the cathedral of the  Diocese of Ely  and seat of the  Bishop of Ely . Ely Cathedral was built in a monumental  Romanesque  style, with the  galilee  porch,  lady chapel  and  choir  later rebuilt in an exuberant  Decorated Gothic . Its central octagonal tower and the West Tower give it a prominent position above the surrounding flat landscape. This photograph shows the cathedral's lady chapel.
 
 

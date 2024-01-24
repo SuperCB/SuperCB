@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rose-ringed_parakeet_%28Psittacula_krameri_borealis%29_male_Jaipur_2.jpg/450px-Rose-ringed_parakeet_%28Psittacula_krameri_borealis%29_male_Jaipur_2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Junonia_orithya-Thekkady-2016-12-03-001.jpg/600px-Junonia_orithya-Thekkady-2016-12-03-001.jpg" />
 </div>
 
->The  rose-ringed parakeet  ( Psittacula krameri ) is a medium-sized  parrot  in the family  Psittacidae . It has disjunct native ranges in Africa and the Indian subcontinent, and has been introduced into many other parts of the world, including northern Europe, where feral populations have established themselves in urban areas and are bred for the exotic pet trade. Wild populations have a distinctive green colour, red beak and blue tail with adult males sporting a pink and black neck ring. This male rose-ringed parakeet of the subspecies  P. k. borealis  was photographed in  Jaipur  in Rajasthan, India.
+>Junonia orithya , commonly known as the blue pansy or the blue argus, is a  nymphalid  butterfly with many subspecies occurring from Africa, through southern and south-eastern Asia, and Australia. Both males and females have predominantly velvety black, blue, orange and white colouring, with females being slightly larger than males and with more clearly defined ocelli and markings. This male  J. orithya  butterfly was photographed in  Periyar National Park  in  Kerala , India.
 
 

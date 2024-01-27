@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kardhang_Biling_Bhaga_Dhauladhar_Oct22_A7C_04645.jpg/600px-Kardhang_Biling_Bhaga_Dhauladhar_Oct22_A7C_04645.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kenje_Ogata_1943.jpg/450px-Kenje_Ogata_1943.jpg" />
 </div>
 
->Lahaul and Spiti  is a  district  of the northern Indian state of  Himachal Pradesh . Located in the  Himalayas , it was formed by the merger of the districts of Lahaul and  Spiti  in 1960. At the  2011 census of India , it was the least densely populated district of India. This photograph shows the valley of the  Bhaga River  in Lahaul, with the villages of  Kardang  (left) and Biling (right) visible on opposite sides of the river, near the district headquarters of  Kyelang .
+>Kenje Ogata  (1919–2012) was a  Japanese American  who served in the  United States Army Air Corps  during World War II. Born in  Gary, Indiana , he grew up in  Sterling, Illinois , and went on to earn his pilot's license through the  Civilian Pilot Training Program . Following the bombing of  Pearl Harbor  in 1941, Ogata applied to join the armed forces. Due to his Japanese heritage he was discouraged from joining, but he insisted, telling the recruitment office "I am here to serve". In 1943, Ogata was assigned to the  Fifteenth Air Force  in Italy, training as a ball turret gunner. He rose to the rank of staff sergeant, completed thirty-five missions, and survived two crashes. For his service and injuries sustained in combat, he received the  Air Medal  with three bronze oak leaf clusters and the  Purple Heart . This portrait of Ogata in uniform was taken in 1943.
 
 

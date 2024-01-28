@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kenje_Ogata_1943.jpg/450px-Kenje_Ogata_1943.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Asian_pied_starlings_%28Gracupica_contra%29.jpg/600px-Asian_pied_starlings_%28Gracupica_contra%29.jpg" />
 </div>
 
->Kenje Ogata  (1919–2012) was a  Japanese American  who served in the  United States Army Air Corps  during World War II. Born in  Gary, Indiana , he grew up in  Sterling, Illinois , and went on to earn his pilot's license through the  Civilian Pilot Training Program . Following the bombing of  Pearl Harbor  in 1941, Ogata applied to join the armed forces. Due to his Japanese heritage he was discouraged from joining, but he insisted, telling the recruitment office "I am here to serve". In 1943, Ogata was assigned to the  Fifteenth Air Force  in Italy, training as a ball turret gunner. He rose to the rank of staff sergeant, completed thirty-five missions, and survived two crashes. For his service and injuries sustained in combat, he received the  Air Medal  with three bronze oak leaf clusters and the  Purple Heart . This portrait of Ogata in uniform was taken in 1943.
+>The  Indian pied myna  ( Gracupica contra ) is a species of  starling  found in the Indian subcontinent, with a principal distribution from the  Gangetic plains  extending south to the  Krishna River . This range has increased in recent times, with populations established in Pakistan, western India and also Dubai. The spread has been aided by changes in irrigation and farming patterns and accidental escape of caged birds. The Indian pied myna is found mainly in lowland open areas with scattered trees near water, often near human habitation, but also inhabits areas up to around 700 metres (2,300 ft) in altitude. It has a black-and-white plumage with a yellowish bill and a reddish bill base. This pair of Indian pied mynas was photographed outside the city of  Hapur  in  Uttar Pradesh , India.
 
 

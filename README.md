@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Asian_pied_starlings_%28Gracupica_contra%29.jpg/600px-Asian_pied_starlings_%28Gracupica_contra%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Challenger_flight_51-l_crew.jpg/750px-Challenger_flight_51-l_crew.jpg" />
 </div>
 
->The  Indian pied myna  ( Gracupica contra ) is a species of  starling  found in the Indian subcontinent, with a principal distribution from the  Gangetic plains  extending south to the  Krishna River . This range has increased in recent times, with populations established in Pakistan, western India and also Dubai. The spread has been aided by changes in irrigation and farming patterns and accidental escape of caged birds. The Indian pied myna is found mainly in lowland open areas with scattered trees near water, often near human habitation, but also inhabits areas up to around 700 metres (2,300 ft) in altitude. It has a black-and-white plumage with a yellowish bill and a reddish bill base. This pair of Indian pied mynas was photographed outside the city of  Hapur  in  Uttar Pradesh , India.
+>The  Space Shuttle  Challenger  disaster  was the first fatal accident to an  American spacecraft  in flight. On January 28, 1986, the  Space Shuttle  Challenger  broke apart 73 seconds into the flight of  STS-51-L , the 25th mission of  NASA 's  Space Shuttle program . All seven crew members aboard were killed. The spacecraft disintegrated 46,000 feet (14 km) above the Atlantic Ocean, off the coast of  Cape Canaveral , Florida, at 11:39 am  EST . This official portrait of the  STS-51-L  crew was taken on November 15, 1985. In the back row, from left to right, are  Ellison Onizuka ,  Christa McAuliffe ,  Gregory Jarvis , and  Judith Resnik . In the front row, from left to right, are  Michael J. Smith ,  Dick Scobee , and  Ronald McNair .
 
 

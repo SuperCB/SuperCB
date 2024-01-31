@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Challenger_flight_51-l_crew.jpg/750px-Challenger_flight_51-l_crew.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Redcurrant_%28Ribes_rubrum%29_fruits.jpg/750px-Redcurrant_%28Ribes_rubrum%29_fruits.jpg" />
 </div>
 
->The  Space Shuttle  Challenger  disaster  was the first fatal accident to an  American spacecraft  in flight. On January 28, 1986, the  Space Shuttle  Challenger  broke apart 73 seconds into the flight of  STS-51-L , the 25th mission of  NASA 's  Space Shuttle program . All seven crew members aboard were killed. The spacecraft disintegrated 46,000 feet (14 km) above the Atlantic Ocean, off the coast of  Cape Canaveral , Florida, at 11:39 am  EST . This official portrait of the  STS-51-L  crew was taken on November 15, 1985. In the back row, from left to right, are  Ellison Onizuka ,  Christa McAuliffe ,  Gregory Jarvis , and  Judith Resnik . In the front row, from left to right, are  Michael J. Smith ,  Dick Scobee , and  Ronald McNair .
+>The  redcurrant  ( Ribes rubrum ) is a  deciduous  shrub in the  gooseberry  family, Grossulariaceae, which is native to western Europe. The plant normally grows to a height of up to one metre (3 ft), with its leaves arranged spirally on the stems. The flowers are inconspicuous yellow-green, maturing into bright red translucent edible  berries . An established redcurrant bush can produce 3 to 4 kilograms (7 to 9 lb) of berries from mid- to late summer. The species is widely cultivated, with the berries known for their tart flavor, a characteristic provided by a relatively high content of  organic acids  and mixed  polyphenols . This photograph of a bunch of redcurrant berries was  focus-stacked  from 15 separate images.
 
 

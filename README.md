@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Domergue%27s_leaf_chameleon_%28Brookesia_thieli%29_Andasibe.jpg/599px-Domergue%27s_leaf_chameleon_%28Brookesia_thieli%29_Andasibe.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Daphne_mezereum_flowers_-_Keila.jpg/390px-Daphne_mezereum_flowers_-_Keila.jpg" />
 </div>
 
->Brookesia thieli , commonly known as Domergue's leaf chameleon, is a species of lizard in the  chameleon  family, Chamaeleonidae. The species is  endemic  to eastern Madagascar. It was first  described  in 1969 by Édouard-Raoul Brygoo and  Charles Antoine Domergue . This  B. thieli  lizard was photographed on a leaf in  Andasibe , Madagascar.
+>Daphne mezereum , commonly known as the mezereum, February daphne, spurge laurel or spurge olive, is a species of  daphne  in the  flowering plant  family  Thymelaeaceae , native to most of Europe and western Asia.  D. mezereum  is very toxic because of the compounds  mezerein  and  daphnin  present especially in the berries and twigs. The flowers have a four-lobed pink or light purple (rarely white)  perianth  and are strongly scented. This  D. mezereum  flower was photographed in a forest near  Keila , Estonia.
 
 

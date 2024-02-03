@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Daphne_mezereum_flowers_-_Keila.jpg/390px-Daphne_mezereum_flowers_-_Keila.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Edmonia_Lewis_by_Henry_Rocher.jpg/450px-Edmonia_Lewis_by_Henry_Rocher.jpg" />
 </div>
 
->Daphne mezereum , commonly known as the mezereum, February daphne, spurge laurel or spurge olive, is a species of  daphne  in the  flowering plant  family  Thymelaeaceae , native to most of Europe and western Asia.  D. mezereum  is very toxic because of the compounds  mezerein  and  daphnin  present especially in the berries and twigs. The flowers have a four-lobed pink or light purple (rarely white)  perianth  and are strongly scented. This  D. mezereum  flower was photographed in a forest near  Keila , Estonia.
+>Edmonia Lewis  (1844–1907), also known as "Wildfire", was a sculptor of mixed African-American and Native American heritage. Born free from slavery, Lewis spent her childhood in  Upstate New York  and  New Jersey  before moving to  Boston  in 1864 to pursue her career as a sculptor. After training with marble-bust specialist  Edward Augustus Brackett , Lewis opened her own studio later in 1864. In 1866, she moved to  Rome , Italy, citing "opportunities for art culture" and finding "a social atmosphere where I was not constantly reminded of my color" as reasons for the move. She went on to spend most of her adult career there. Her largest and most significant work was a marble sculpture weighing more than 3,000 pounds (1,400 kg) showing the  death of Cleopatra , which was created for the 1876  Centennial Exposition  in  Philadelphia . This  albumen print  of Lewis was produced in around 1870 by the German-American photographer Henry Rocher.
 
 

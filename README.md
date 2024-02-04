@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Edmonia_Lewis_by_Henry_Rocher.jpg/450px-Edmonia_Lewis_by_Henry_Rocher.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Brown_headed_cowbird_female_in_JBWR_%2825487%29.jpg/600px-Brown_headed_cowbird_female_in_JBWR_%2825487%29.jpg" />
 </div>
 
->Edmonia Lewis  (1844–1907), also known as "Wildfire", was a sculptor of mixed African-American and Native American heritage. Born free from slavery, Lewis spent her childhood in  Upstate New York  and  New Jersey  before moving to  Boston  in 1864 to pursue her career as a sculptor. After training with marble-bust specialist  Edward Augustus Brackett , Lewis opened her own studio later in 1864. In 1866, she moved to  Rome , Italy, citing "opportunities for art culture" and finding "a social atmosphere where I was not constantly reminded of my color" as reasons for the move. She went on to spend most of her adult career there. Her largest and most significant work was a marble sculpture weighing more than 3,000 pounds (1,400 kg) showing the  death of Cleopatra , which was created for the 1876  Centennial Exposition  in  Philadelphia . This  albumen print  of Lewis was produced in around 1870 by the German-American photographer Henry Rocher.
+>The  brown-headed cowbird  ( Molothrus ater ) is a small  cowbird  in the  icterid  family, Icteridae, native to temperate and subtropical North America. It is distinguished from other icterids by its  finch -like head and beak and its smaller size. The adult male is  iridescent  black in color with a brown head, while the adult female is slightly smaller and is dull grey with a pale throat and very fine streaking on the underparts. The brown-headed cowbird is an  obligate brood parasite , laying its eggs in the nests of other small  perching birds  and relying on those birds to raise its young. Its eggs have been documented in the nests of at least 220 host species, including  hummingbirds  and  raptors . This female brown-headed cowbird was photographed in  Jamaica Bay Wildlife Refuge  in New York City.
 
 

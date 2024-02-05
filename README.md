@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Brown_headed_cowbird_female_in_JBWR_%2825487%29.jpg/600px-Brown_headed_cowbird_female_in_JBWR_%2825487%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Volc%C3%A1n_San_Pedro%2C_Chile%2C_2016-02-09%2C_DD_18.JPG/750px-Volc%C3%A1n_San_Pedro%2C_Chile%2C_2016-02-09%2C_DD_18.JPG" />
 </div>
 
->The  brown-headed cowbird  ( Molothrus ater ) is a small  cowbird  in the  icterid  family, Icteridae, native to temperate and subtropical North America. It is distinguished from other icterids by its  finch -like head and beak and its smaller size. The adult male is  iridescent  black in color with a brown head, while the adult female is slightly smaller and is dull grey with a pale throat and very fine streaking on the underparts. The brown-headed cowbird is an  obligate brood parasite , laying its eggs in the nests of other small  perching birds  and relying on those birds to raise its young. Its eggs have been documented in the nests of at least 220 host species, including  hummingbirds  and  raptors . This female brown-headed cowbird was photographed in  Jamaica Bay Wildlife Refuge  in New York City.
+>San Pedro  is a  composite volcano  in northern Chile and one of the tallest active volcanoes in the world. It is part of the  Andean Volcanic Belt  and, like other Andean volcanoes, was formed by the  subduction  of the  Nazca Plate  beneath the  South America Plate . San Pedro is formed of two separate edifices, the Old Cone and the Young Cone, and is adjoined to a neighbouring volcano,  San Pablo . The Old Cone was active over one hundred thousand years ago and was eventually truncated by a giant  landslide  that removed its northwestern side. Within the landslide scar  lava  flows and  pyroclastic flows  constructed the Young Cone as well as the lateral centre La Poruña. Some eruptions have been reported during historical time, and presently the volcano is  fumarolically  active. This photograph shows San Pedro in the foreground, with San Pablo visible behind it to the right.
 
 

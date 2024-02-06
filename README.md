@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Volc%C3%A1n_San_Pedro%2C_Chile%2C_2016-02-09%2C_DD_18.JPG/750px-Volc%C3%A1n_San_Pedro%2C_Chile%2C_2016-02-09%2C_DD_18.JPG" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Banded_demoiselle_damselfly_%28Calopteryx_splendens%29_male_4.jpg/600px-Banded_demoiselle_damselfly_%28Calopteryx_splendens%29_male_4.jpg" />
 </div>
 
->San Pedro  is a  composite volcano  in northern Chile and one of the tallest active volcanoes in the world. It is part of the  Andean Volcanic Belt  and, like other Andean volcanoes, was formed by the  subduction  of the  Nazca Plate  beneath the  South America Plate . San Pedro is formed of two separate edifices, the Old Cone and the Young Cone, and is adjoined to a neighbouring volcano,  San Pablo . The Old Cone was active over one hundred thousand years ago and was eventually truncated by a giant  landslide  that removed its northwestern side. Within the landslide scar  lava  flows and  pyroclastic flows  constructed the Young Cone as well as the lateral centre La Poruña. Some eruptions have been reported during historical time, and presently the volcano is  fumarolically  active. This photograph shows San Pedro in the foreground, with San Pablo visible behind it to the right.
+>The  banded demoiselle  ( Calopteryx splendens ) is a species of  damselfly  in the family  Calopterygidae . It is a  Eurasian  species, occurring from the Atlantic coast eastwards to  Lake Baikal  and northwestern China. Often found along slow-flowing streams and rivers, it is a common species throughout much of its range. This male banded demoiselle was photographed at  Farmoor  in  Oxfordshire , England, near the  River Thames . Males have a dark wing patch that starts at the  nodus  but can reach up to the wing tip in southern races.
 
 

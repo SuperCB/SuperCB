@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Banded_demoiselle_damselfly_%28Calopteryx_splendens%29_male_4.jpg/600px-Banded_demoiselle_damselfly_%28Calopteryx_splendens%29_male_4.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Magna_Lykseth_in_Tristan_och_Isolde_at_Kungliga_Operan_1909_-_SMV_-_GL164.jpg/450px-Magna_Lykseth_in_Tristan_och_Isolde_at_Kungliga_Operan_1909_-_SMV_-_GL164.jpg" />
 </div>
 
->The  banded demoiselle  ( Calopteryx splendens ) is a species of  damselfly  in the family  Calopterygidae . It is a  Eurasian  species, occurring from the Atlantic coast eastwards to  Lake Baikal  and northwestern China. Often found along slow-flowing streams and rivers, it is a common species throughout much of its range. This male banded demoiselle was photographed at  Farmoor  in  Oxfordshire , England, near the  River Thames . Males have a dark wing patch that starts at the  nodus  but can reach up to the wing tip in southern races.
+>Magna Lykseth-Skogman  (6 February 1874 – 13 November 1949) was a Norwegian-born Swedish operatic soprano. After making her debut at the  Royal Swedish Opera  (Kungliga Operan) in 1901 as Santuzza in  Cavalleria rusticana , she was engaged there until 1918 and became the company's  prima donna . Lykseth performed leading roles in a wide range of operas but is remembered in particular for her Wagnerian interpretations, creating Brünnhilde in the Swedish premieres of  Siegfried  and  Götterdämmerung , as well as Isolde in  Tristan und Isolde  in 1909. Considered to be one of the most outstanding Swedish opera singers of her generation, she was awarded the  Litteris et Artibus , a Swedish royal medal for the arts, in 1907 and became a member of the  Royal Swedish Academy of Music  in 1912. This 1909 photograph shows Lykseth in costume as Isolde with the Kungliga Operan.
 
 

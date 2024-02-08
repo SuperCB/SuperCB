@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Magna_Lykseth_in_Tristan_och_Isolde_at_Kungliga_Operan_1909_-_SMV_-_GL164.jpg/450px-Magna_Lykseth_in_Tristan_och_Isolde_at_Kungliga_Operan_1909_-_SMV_-_GL164.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flame_Robin_male_1_-_Jenolan_Caves.jpg/600px-Flame_Robin_male_1_-_Jenolan_Caves.jpg" />
 </div>
 
->Magna Lykseth-Skogman  (6 February 1874 – 13 November 1949) was a Norwegian-born Swedish operatic soprano. After making her debut at the  Royal Swedish Opera  (Kungliga Operan) in 1901 as Santuzza in  Cavalleria rusticana , she was engaged there until 1918 and became the company's  prima donna . Lykseth performed leading roles in a wide range of operas but is remembered in particular for her Wagnerian interpretations, creating Brünnhilde in the Swedish premieres of  Siegfried  and  Götterdämmerung , as well as Isolde in  Tristan und Isolde  in 1909. Considered to be one of the most outstanding Swedish opera singers of her generation, she was awarded the  Litteris et Artibus , a Swedish royal medal for the arts, in 1907 and became a member of the  Royal Swedish Academy of Music  in 1912. This 1909 photograph shows Lykseth in costume as Isolde with the Kungliga Operan.
+>The  flame robin  ( Petroica phoenicea ) is a small  passerine  bird native to  Australia . It is a moderately common resident of the coolest parts of south-eastern Australia, including  Tasmania . It was first described by the French naturalists  Jean René Constant Quoy  and  Joseph Paul Gaimard  in 1830 and, like many brightly coloured  Australasian robins , it is  sexually dimorphic . Measuring 12 to 14 cm (5 to 6 in) long, the flame robin has dark brown eyes and a small thin black bill. The male has a brilliant orange-red chest and throat, and a white patch on the forehead above the bill. Its upper parts are iron-grey with white bars, and its tail black with white tips. The female is a nondescript grey-brown. It mostly breeds in and around the  Great Dividing Range , the Tasmanian highlands and islands in  Bass Strait . With the coming of cooler autumn weather, most birds disperse to lower and warmer areas. This male flame robin was photographed in  Jenolan Caves , New South Wales, Australia.
 
 

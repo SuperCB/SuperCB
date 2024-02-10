@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flame_Robin_male_1_-_Jenolan_Caves.jpg/600px-Flame_Robin_male_1_-_Jenolan_Caves.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/El_Greco_%28Domenikos_Theotokopoulos%29_-_Laoco%C3%B6n_-_Google_Art_Project.jpg/750px-El_Greco_%28Domenikos_Theotokopoulos%29_-_Laoco%C3%B6n_-_Google_Art_Project.jpg" />
 </div>
 
->The  flame robin  ( Petroica phoenicea ) is a small  passerine  bird native to Australia. It is a moderately common resident of the coolest parts of south-eastern Australia, including  Tasmania . It was first described by the French naturalists  Jean René Constant Quoy  and  Joseph Paul Gaimard  in 1830 and, like many brightly coloured  Australasian robins , it is  sexually dimorphic . Measuring 12 to 14 cm (5 to 6 in) long, the flame robin has dark brown eyes and a small thin black bill. The male has a brilliant orange-red chest and throat, and a white patch on the forehead above the bill. Its upper parts are iron-grey with white bars, and its tail black with white tips. The female is a nondescript grey-brown. It mostly breeds in and around the  Great Dividing Range , the Tasmanian highlands and islands in  Bass Strait . With the coming of cooler autumn weather, most birds disperse to lower and warmer areas. This male flame robin was photographed in  Jenolan Caves , New South Wales, Australia.
+>Laocoön  is an  oil painting  created between 1610 and 1614 by  El Greco , a Greek painter of the  Spanish Renaissance . The painting depicts the Greek and Roman mythological story of the deaths of  Laocoön , a Trojan priest of  Poseidon , and his two sons Antiphantes and Thymbraeus. Laocoön and his sons were strangled by sea serpents, a punishment sent by the gods after Laocoön attempted to warn his countrymen about the  Trojan Horse . Although inspired by the recently discovered monumental Hellenistic sculpture  Laocoön and His Sons  in Rome, El Greco's  Laocoön  is a product of  Mannerism , an artistic movement originating in Italy during the 16th century that countered the artistic ideals of the Renaissance. The painting is now in the  National Gallery of Art  in Washington, D.C.
 
 

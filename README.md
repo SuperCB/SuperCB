@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg/525px-001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stellerite_-_Takat%2C_Imilchil%2C_Midelt_Province%2C_Dr%C3%A2a-Tafilalet_Region%2C_Morocco.jpg/600px-Stellerite_-_Takat%2C_Imilchil%2C_Midelt_Province%2C_Dr%C3%A2a-Tafilalet_Region%2C_Morocco.jpg" />
 </div>
 
->Chillon Castle  is an island castle located on  Lake Geneva  to the south of  Veytaux  in Vaud, Switzerland. It is situated at the eastern end of the lake, on the narrow shore between  Montreux  and  Villeneuve , and close to the  Fort de Chillon , which is embedded in the neighbouring hillside. The oldest parts of the castle have not been dated definitively, but the first written record of the castle was in 1005. It was built to control the road from Burgundy to the  Great St Bernard Pass , on the site of an earlier Roman outpost. From the mid 12th century, the castle became the summer home of the  Counts of Savoy , who kept a fleet of ships on Lake Geneva. It was greatly expanded during the 13th century. The castle became a prison in the 16th century, housing among others the Genvois monk  François Bonivard , before reverting to being a residence and then again becoming a prison in 1733. Since the end of the 18th century, the castle has been a tourist attraction.
+>Stellerite  is a rare mineral discovered by and named after  Georg Wilhelm Steller , a German explorer and zoologist. The mineral has the general formula Ca[Al 2 Si 7 O 18 ]·7H 2 O. Like most rare minerals, there are few commercial uses for stellerite other than as part of mineral collections, although it has been studied along with other  zeolites  using a dehydration process, to gauge the potential use of their phases as molecular sieves, sorbents, and catalysts. This stellerite crystal measuring 5.5 cm × 4 cm × 2.5 cm (2.17 in × 1.57 in × 0.98 in) was found in  Imilchil , Morocco.
 
 

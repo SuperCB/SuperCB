@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stellerite_-_Takat%2C_Imilchil%2C_Midelt_Province%2C_Dr%C3%A2a-Tafilalet_Region%2C_Morocco.jpg/600px-Stellerite_-_Takat%2C_Imilchil%2C_Midelt_Province%2C_Dr%C3%A2a-Tafilalet_Region%2C_Morocco.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/An%C3%A9mona_de_mar_com%C3%BAn_%28Anemonia_viridis%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-21%2C_DD_07.jpg/450px-An%C3%A9mona_de_mar_com%C3%BAn_%28Anemonia_viridis%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-21%2C_DD_07.jpg" />
 </div>
 
->Stellerite  is a rare mineral discovered by and named after  Georg Wilhelm Steller , a German explorer and zoologist. The mineral has the general formula Ca[Al 2 Si 7 O 18 ]·7H 2 O. Like most rare minerals, there are few commercial uses for stellerite other than as part of mineral collections, although it has been studied along with other  zeolites  using a dehydration process, to gauge the potential use of their phases as molecular sieves, sorbents, and catalysts. This stellerite crystal measuring 5.5 cm × 4 cm × 2.5 cm (2.17 in × 1.57 in × 0.98 in) was found in  Imilchil , Morocco.
+>The  snakelocks anemone  ( Anemonia viridis ) is a  sea anemone  found in the eastern Atlantic Ocean and the Mediterranean Sea. The latter population is however sometimes considered a separate species, the  Mediterranean snakelocks anemone  ( Anemonia sulcata ). Several species of small animals regularly live in a  symbiotic  or  commensal  relationship with the snakelocks anemone, gaining protection from predators by residing among the venomous tentacles. These include the  incognito goby , the shrimp  Periclimenes aegylios  and the  Leach's spider crab .
 
 

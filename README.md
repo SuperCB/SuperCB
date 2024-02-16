@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gabriel%C3%A9_Castagnola_-_Love_or_Duty.jpg/525px-Gabriel%C3%A9_Castagnola_-_Love_or_Duty.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Leland_Melvin.jpg/525px-Leland_Melvin.jpg" />
 </div>
 
->Chromolithography  is a method of  printmaking  using multiple colours, stemming from the process of  lithography . It became the most successful of several methods of  colour printing  developed by the 19th century. This image is a chromolithograph of  Love or Duty  by  Gabriele Castagnola , printed by Hangard-Mangué of Paris. The blocks on the lower right-hand side show the nineteen colours of ink used. The image depicts, like many of Castagnola's works,  Lucrezia Buti  and  Filippo Lippi . Lippi, a painter, was in 1458 working in the city of  Prato , Italy, where he set about painting a picture for the monastery chapel of Saint Margherita in that city. There he met Lucrezia, a beautiful  novice  of the order. Lippi asked that she  model  for the figure of the  Virgin Mary , or perhaps  Margaret the Virgin . The two began a sexual relationship, and Buti moved into Lippi's home. This relationship resulted in a son,  Filippino Lippi , who became a famous painter, and a daughter, Alessandra.
+>Leland D. Melvin  (born February 15, 1964) is an American engineer and retired  NASA  astronaut. He served on board the  Space Shuttle  Atlantis  as a mission specialist on  STS-122 , and as mission specialist 1 on  STS-129 , logging more than 565 cumulative hours in space. He was named NASA's associate administrator for education in 2010 and retired from the agency in 2014. This official NASA portrait of Melvin wearing an orange  Advanced Crew Escape Suit  was taken in 2009.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Leland_Melvin.jpg/525px-Leland_Melvin.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Violet-backed_starling_%28Cinnyricinclus_leucogaster_verreauxi%29_female.jpg/600px-Violet-backed_starling_%28Cinnyricinclus_leucogaster_verreauxi%29_female.jpg" />
 </div>
 
->Leland D. Melvin  (born February 15, 1964) is an American engineer and retired  NASA  astronaut. He served on board the  Space Shuttle  Atlantis  as a mission specialist on  STS-122 , and as mission specialist 1 on  STS-129 , logging more than 565 cumulative hours in space. He was named NASA's associate administrator for education in 2010 and retired from the agency in 2014. This official NASA portrait of Melvin wearing an orange  Advanced Crew Escape Suit  was taken in 2009.
+>The  violet-backed starling  ( Cinnyricinclus leucogaster ) is a relatively small species of  starling , common in most of sub-Saharan Africa. It is strongly  sexually dimorphic , with the male's iridescent violet plumage contrasting with the heavily streaked brown female. A bird of open woodland, clearings and  gallery forests , it feeds in the treetops, with its diet including fruits, seeds and insects. It nests in tree cavities, with green leaves and dung having been recorded as nesting materials. The female incubates the clutch of two to four eggs, and the male helps rear the young until they fledge about three weeks after hatching. This female violet-backed starling, of the subspecies  C. l. verreauxi , was photographed in  Damaraland , Namibia.
 
 

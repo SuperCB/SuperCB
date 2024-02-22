@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Incense_in_Vietnam.jpg/825px-Incense_in_Vietnam.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mudh_Towering_Range_Pin_Spiti_Himachal_Jun18_D72_7095.jpg/600px-Mudh_Towering_Range_Pin_Spiti_Himachal_Jun18_D72_7095.jpg" />
 </div>
 
->Incense  is an aromatic  biotic material  that releases fragrant smoke when burnt. The term is used for either the material or the aroma. Incense is used for aesthetic reasons, religious  worship ,  aromatherapy ,  meditation , and ceremony. It may also be used as a simple deodorant or  insect repellent . This photograph of a worker manufacturing incense sticks was taken in the village of Quảng Phú Cầu, on the outskirts of  Hanoi , by the Vietnamese photographer  Trần Tuấn Việt . The sticks are set out to dry in bundles after being dipped in the incense solution.
+>Mud  is a small Himalayan village in the cold desert region of  Spiti  in  Himachal Pradesh , India. In 2011, the village had a population of 213. At an altitude of 3,810 metres (12,500 ft) on the Pin River (a tributary of the Spiti River), the village is located at the base of the Parbati range that towers almost vertically 1,600 metres (5,200 ft) above. Mud is notable geologically for the nearby Muth Formation, which consists of white quartz  arenite , which has a thickness of 258 to 300 metres (846 to 984 ft) and is resistant to weathering. This photograph shows the village of Mud with the tall rock strata behind.
 
 

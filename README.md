@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mudh_Towering_Range_Pin_Spiti_Himachal_Jun18_D72_7095.jpg/600px-Mudh_Towering_Range_Pin_Spiti_Himachal_Jun18_D72_7095.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Spotted_dove_%28Spilopelia_chinensis_suratensis%29.jpg/420px-Spotted_dove_%28Spilopelia_chinensis_suratensis%29.jpg" />
 </div>
 
->Mud  is a small Himalayan village in the cold desert region of  Spiti  in  Himachal Pradesh , India. In 2011, the village had a population of 213. At an altitude of 3,810 metres (12,500 ft) on the Pin River (a tributary of the Spiti River), the village is located at the base of the Parbati range that towers almost vertically 1,600 metres (5,200 ft) above. Mud is notable geologically for the nearby Muth Formation, which consists of white quartz  arenite , which has a thickness of 258 to 300 metres (846 to 984 ft) and is resistant to weathering. This photograph shows the village of Mud with the tall rock strata behind.
+>The  spotted dove  ( Spilopelia chinensis ) is a small and somewhat long-tailed bird of the pigeon family,  Columbidae , that is a common resident breeding bird across its native range on the  Indian subcontinent  and in  Southeast Asia . The species has been introduced to many parts of the world and  feral  populations have become established. There are considerable plumage variations across populations within its wide range; for example the populations in India and Sri Lanka are long tailed and buff brown in colour with a white-spotted black collar patch on the back and sides of the neck. This spotted dove was photographed in  Kanha National Park , Madhya Pradesh, India.
 
 

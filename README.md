@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lychee_fruits_and_seed.jpg/600px-Lychee_fruits_and_seed.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pierre-Auguste_Renoir%2C_French_-_The_Grands_Boulevards_-_Google_Art_Project.jpg/600px-Pierre-Auguste_Renoir%2C_French_-_The_Grands_Boulevards_-_Google_Art_Project.jpg" />
 </div>
 
->The  lychee  ( Litchi chinensis ) is a tropical tree in the soapberry family,  Sapindaceae , which is native to South China, Malaysia, and northern Vietnam. It has also been introduced throughout Southeast Asia, South Asia and in parts of Southern Africa. A tall  evergreen  tree, it bears small fleshy sweet  fruits  which feature a dark brown inedible  seed , a layer of translucent white fleshy sweet  aril , and a pinkish-red, rough-textured soft shell on the outside. The aril has a floral scent and is most often eaten fresh. This photograph, which has been  focus-stacked  from 15 separate images, shows a whole lychee fruit, an opened fruit, and a seed.
+>The Grands Boulevards  is an  oil on canvas  painting by  Pierre-Auguste Renoir , painted in 1875. The painting illustrates a busy Paris boulevard, showing the effects of  the recent renovation of the city  by  Georges-Eugène Haussmann . It depicts a wide, paved street with a large concrete building to the right of the painting. The influence of  impressionism  on Renoir can be seen in the painting through the short brush strokes and a seemingly out of focus view. The work is now in the collection of the  Philadelphia Museum of Art .
 
 

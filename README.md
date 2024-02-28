@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pierre-Auguste_Renoir%2C_French_-_The_Grands_Boulevards_-_Google_Art_Project.jpg/600px-Pierre-Auguste_Renoir%2C_French_-_The_Grands_Boulevards_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Malaspina-panorama-no-type.jpg/975px-Malaspina-panorama-no-type.jpg" />
 </div>
 
->The Grands Boulevards  is an  oil on canvas  painting by  Pierre-Auguste Renoir , painted in 1875. The painting illustrates a busy Paris boulevard, showing the effects of  the recent renovation of the city  by  Georges-Eugène Haussmann . It depicts a wide, paved street with a large concrete building to the right of the painting. The influence of  impressionism  on Renoir can be seen in the painting through the short brush strokes and a seemingly out of focus view. The work is now in the collection of the  Philadelphia Museum of Art .
+>The  Malaspina Glacier  is the largest  piedmont glacier  in the world, situated at the head of the  Alaska Panhandle  in the United States. It is about 65 kilometers (40 mi) wide and 45 kilometers (28 mi) long, with an area of 3,900 km 2  (1,500 sq mi). The glacier is up to 600 meters (2,000 ft) thick in places, with the elevation of its bottom being estimated to be up to 300 meters (980 ft) below sea level. This three-dimensional rendered panoramic map shows the Malaspina Glacier and surrounding area in 2021 – the glacier is at the front and center, with its concentric rings of ice, rubble and meltwater visible. The map was created using a digital elevation model with height samples every 22.5 metres (74 ft) based on United States and Canadian government data. The natural colors represent water, snow and ice, barren land, low vegetation, broadleaf forest, needleleaf forest, and wetland.
 
 

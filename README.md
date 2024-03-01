@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Scarlet-chested_sunbird_%28Chalcomitra_senegalensis_lamperti%29_female_2.jpg/450px-Scarlet-chested_sunbird_%28Chalcomitra_senegalensis_lamperti%29_female_2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Eug%C3%A8ne_Du_Faget_-_Costume_designs_for_Les_Huguenots_-_2._Julie_Dorus-Gras_as_Marguerite%2C_Adolphe_Nourrit_as_Raoul%2C_and_Corn%C3%A9lie_Falcon_as_Valentine.jpg/750px-Eug%C3%A8ne_Du_Faget_-_Costume_designs_for_Les_Huguenots_-_2._Julie_Dorus-Gras_as_Marguerite%2C_Adolphe_Nourrit_as_Raoul%2C_and_Corn%C3%A9lie_Falcon_as_Valentine.jpg" />
 </div>
 
->The  scarlet-chested sunbird  ( Chalcomitra senegalensis ) is a species of bird in the  sunbird  family, Nectariniidae. It is found in many areas of  sub-Saharan Africa , and from South Sudan to South Africa. Adult males of this species have a characteristic red–scarlet coloured breast and an iridescent green patch on top of their heads, while the female is dark brown with no  supercilium . It inhabits woodland and gardens, at elevations of up to 2,400 metres (7,900 ft). The bird is around 13 to 15 centimetres (5.1 to 5.9 in) in length, with males having a weight of 7.5 to 17.2 grams (0.26 to 0.61 oz) and females weighing 6.8 to 15.3 grams (0.24 to 0.54 oz). This female scarlet-chested sunbird of the subspecies  C. s. lamperti  was photographed feeding on an  Aloe zebrina  flower in the  Soysambu Conservancy , Kenya.
+>Les Huguenots  is an opera in five acts by  Giacomo Meyerbeer . One of the most popular and spectacular examples of  grand opera , it sets a French-language  libretto  by  Eugène Scribe  and  Émile Deschamps  and premiered in Paris on 29 February 1836. This  watercolour  illustration shows the costume designs by Eugène Du Faget for the first performance of  Les Huguenots . The three roles depicted and the premiere cast, from left to right, are Marguerite ( Julie Dorus-Gras ), Raoul ( Adolphe Nourrit ) and Valentine ( Cornélie Falcon ).
 
 

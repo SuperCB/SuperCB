@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Eug%C3%A8ne_Du_Faget_-_Costume_designs_for_Les_Huguenots_-_2._Julie_Dorus-Gras_as_Marguerite%2C_Adolphe_Nourrit_as_Raoul%2C_and_Corn%C3%A9lie_Falcon_as_Valentine.jpg/750px-Eug%C3%A8ne_Du_Faget_-_Costume_designs_for_Les_Huguenots_-_2._Julie_Dorus-Gras_as_Marguerite%2C_Adolphe_Nourrit_as_Raoul%2C_and_Corn%C3%A9lie_Falcon_as_Valentine.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stonechat_%28Saxicola_rubicola%29_male%2C_Beaulieu%2C_Hampshire.jpg/450px-Stonechat_%28Saxicola_rubicola%29_male%2C_Beaulieu%2C_Hampshire.jpg" />
 </div>
 
->Les Huguenots  is an opera in five acts by  Giacomo Meyerbeer . One of the most popular and spectacular examples of  grand opera , it sets a French-language  libretto  by  Eugène Scribe  and  Émile Deschamps  and premiered in Paris on 29 February 1836. This  watercolour  illustration shows the costume designs by Eugène Du Faget for the first performance of  Les Huguenots . The three roles depicted and the premiere cast, from left to right, are Marguerite ( Julie Dorus-Gras ), Raoul ( Adolphe Nourrit ) and Valentine ( Cornélie Falcon ).
+>The  European stonechat  ( Saxicola rubicola ) is a small  passerine  bird in the  Old World flycatcher  family, Muscicapidae. It is found across Europe, as far east as Ukraine and the  South Caucasus , and in parts of North Africa. It breeds in  heathland , coastal dunes and rough grassland, and is either short-distance  migratory  or non-migratory, with part of the population moving south to winter further south in Europe and more widely in northern Africa. European stonechats are 11.5 to 13 centimetres (4.5 to 5.1 in) long and weigh 13 to 17 grams (0.46 to 0.60 oz), with both sexes having short wings. The summer male has black upperparts, a black head, an orange throat and breast, and a white belly and vent, while the female has brown upperparts and head, and no white neck patches, rump or belly. This male European stonechat was photographed in  Beaulieu  in  Hampshire , England.
 
 

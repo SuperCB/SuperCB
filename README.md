@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg/600px-Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Haane_Manahi.jpg/450px-Haane_Manahi.jpg" />
 </div>
 
->The Wine Glass  is an  oil-on-canvas painting  by  Johannes Vermeer , created around 1660. It portrays a seated woman and a standing man drinking in an interior setting. The work follows the  Delft School  convention of  genre painting , developed by  Pieter de Hooch  in the late 1650s. It contains figures situated in a brightly lit and spacious interior, while its architectural space is highly defined. The figures are set in the middle ground, rather than positioned in the foreground.  The Wine Glass  is now in the collection of the  Gemäldegalerie  in Berlin, Germany.
+>Haane Manahi  (1913–1986) was a New Zealand  Māori  soldier who served in the Second World War with the  Māori Battalion . He joined the battalion in 1939 and fought in the  German invasion of Greece , the  Battle of Crete  and the  North African campaign . In April 1943, during the  Tunisian campaign , his gallantry in an action at  Takrouna  resulted in a recommendation, supported by four generals, that he be awarded the  Victoria Cross . This was downgraded to an award of the  Distinguished Conduct Medal , which disappointed many of his fellow soldiers. After his death in a car crash in 1986, representations were made for a posthumous award of the Victoria Cross for his valour at Takrouna. These representations were unsuccessful but eventually resulted in a special award in 2007 of an altar cloth for use in a local church, a ceremonial sword, and a personal letter from  Queen Elizabeth II  in recognition of his gallantry. This June 1943 photograph of Manahi was taken in  Maadi , Egypt, by George Robert Bull, the official photographer of the New Zealand armed forces.
 
 

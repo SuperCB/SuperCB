@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pardalotus_punctatus_-_Glen_Davis.jpg/600px-Pardalotus_punctatus_-_Glen_Davis.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Picea_abies_young_female_cone_-_Keila.jpg/450px-Picea_abies_young_female_cone_-_Keila.jpg" />
 </div>
 
->The  spotted pardalote  ( Pardalotus punctatus ) is a small  passerine  bird native to eastern and southern Australia, at elevations of up to 2,000 metres (6,600 ft). It is part of the  pardalote  family, Pardalotidae. Weighing around 6 grams (0.21 oz), with a length of 8 to 10 centimetres (3.1 to 3.9 in), the adult male of the  nominate subspecies  has grey-brown upperparts with numerous paler buff spots, a black crown, wings and tail all with white spots, white eyebrows and reddish rump. The female is duller overall. This female spotted pardalote was photographed near  Glen Davis  in New South Wales, Australia.
+>Picea abies , commonly known as the Norway spruce, is a species of  spruce  native to northern, central and eastern Europe. It has  branchlets  that typically hang downwards, and the largest cones of any spruce, at 9 to 17 centimetres (3.5 to 6.7 in) long. It is very closely related to the  Siberian spruce , which replaces it east of the  Ural Mountains , and with which it hybridizes freely. The Norway spruce has a wide distribution of planting for its wood, and is the species used as the main  Christmas tree  in several countries around the world. It was the first  gymnosperm  to have its  genome sequenced . This young female Norway spruce cone, with a length of 43 millimetres (1.7 in) at the time of pollination, was photographed in  Keila , Estonia.
 
 

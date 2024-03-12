@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Picea_abies_young_female_cone_-_Keila.jpg/450px-Picea_abies_young_female_cone_-_Keila.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Poster_for_Burnand_and_Sullivan%27s_Cox_and_Box_-_Royal_Gallery_of_Illustration.jpg/825px-Poster_for_Burnand_and_Sullivan%27s_Cox_and_Box_-_Royal_Gallery_of_Illustration.jpg" />
 </div>
 
->Picea abies , commonly known as the Norway spruce, is a species of  spruce  native to northern, central and eastern Europe. It has  branchlets  that typically hang downwards, and the largest cones of any spruce, at 9 to 17 centimetres (3.5 to 6.7 in) long. It is very closely related to the  Siberian spruce , which replaces it east of the  Ural Mountains , and with which it hybridizes freely. The Norway spruce has a wide distribution of planting for its wood, and is the species used as the main  Christmas tree  in several countries around the world. It was the first  gymnosperm  to have its  genome sequenced . This young female Norway spruce cone, with a length of 43 millimetres (1.7 in) at the time of pollination, was photographed in  Keila , Estonia.
+>Cox and Box , also known as  The Long-Lost Brothers , is a one-act  comic opera  with a libretto by  F. C. Burnand  and music by  Arthur Sullivan , based on the 1847 farce  Box and Cox  by  John Maddison Morton . It premiered in 1866 and was Sullivan's first successful comic opera. The story concerns a landlord who lets a room to two lodgers, one who works at night and one who works during the day. When one of them has the day off, they meet each other in the room and tempers flare. Sullivan wrote this piece five years before  Thespis , his first opera with  W. S. Gilbert . This poster was produced for the first professional production of  Cox and Box , which began in 1869 at the  Royal Gallery of Illustration  in London and ran for 264 performances there. The opera has frequently been used as a  curtain raiser  for the shorter  Gilbert and Sullivan  operas and continues to be frequently produced.
 
 

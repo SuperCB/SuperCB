@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Chipmunk_with_stuffed_cheeks_in_Prospect_Park_%2805980%29.jpg/600px-Chipmunk_with_stuffed_cheeks_in_Prospect_Park_%2805980%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ethel_Reed_%28ca._1895%29_by_Frances_Benjamin_Johnston.jpg/450px-Ethel_Reed_%28ca._1895%29_by_Frances_Benjamin_Johnston.jpg" />
 </div>
 
->The  eastern chipmunk  ( Tamias striatus ) is a  chipmunk  species found in eastern North America. It is a small species, reaching about 30 centimetres (12 in) in length, with a weight of 66 to 150 grams (2.3 to 5.3 oz). It has reddish-brown fur on its upper body and five dark brown stripes contrasting with light brown stripes along its back, ending in a dark tail. The eastern chipmunk can climb trees well, but constructs underground nests with extensive tunnel systems, often with several entrances. Its vocal repertoire consists of five sounds: the chip, the chuck, the trills, the whistle or squeal, and chatter. Trills have been measured to occur at the rate of 130 vibrations per minute. The eastern chipmunk lives a solitary life, except during courtship and mating and for the short period that young spend with their mothers after birth. It sometimes hibernates during the winter. This eastern chipmunk with stuffed cheeks was photographed in  Prospect Park  in  Brooklyn , New York.
+>Ethel Reed  (March 13, 1874 – 1912) was an internationally recognized American graphic artist. This  c.  1895 photograph of Reed, taken by  Frances Benjamin Johnston , is in the collection of the U.S.  Library of Congress .
 
 

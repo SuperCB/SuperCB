@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg/750px-Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg/825px-Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg" />
 </div>
 
->Fushimi Inari-taisha   is the main  Shinto shrine  of the Japanese deity  Inari Ōkami , located in  Fushimi-ku, Kyoto . It sits at the base of a mountain, also named Inari, located 233 metres (764 ft) above sea level. The site's earliest structures were built in 711 on the Inariyama hill in southwestern Kyoto, but the shrine was re-located in 816 on the request of the monk  Kūkai . It gained imperial patronage during the early  Heian period  and the main shrine structure was built in 1499. This photograph shows a  torii  path at Fushimi Inari-taisha with a hanging lantern. Each of the shrine's roughly 10,000  torii  (gates) was donated by a Japanese business, and approximately 800 of these are set up in rows, as depicted here, that give the impression of entering a tunnel.
+>The  bombing of Gaza  is an ongoing aerial bombardment campaign on the  Gaza Strip  by the  Israeli Air Force  during the  Israel–Hamas war . During the bombing, which began on 7 October 2023 after  a Hamas-led attack on Israel , airstrikes have damaged Palestinian mosques,  schools ,  hospitals ,  refugee camps , and  civilian infrastructure . The campaign has been compared to other major historical bombing campaigns, including the  bombings of Dresden  and  Tokyo  during  World War II . This photograph shows damage following an Israeli airstrike on the neighborhood of  Rimal  in  Gaza City  on 9 October 2023.
 
 

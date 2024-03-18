@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg/825px-Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Green_shield_bug_%28Palomena_prasina%29_3.jpg/600px-Green_shield_bug_%28Palomena_prasina%29_3.jpg" />
 </div>
 
->The  bombing of Gaza  is an ongoing aerial bombardment campaign on the  Gaza Strip  by the  Israeli Air Force  during the  Israel–Hamas war . During the bombing, which began on 7 October 2023 after  a Hamas-led attack on Israel , airstrikes have damaged Palestinian mosques,  schools ,  hospitals ,  refugee camps , and  civilian infrastructure . The campaign has been compared to other major historical bombing campaigns, including the  bombings of Dresden  and  Tokyo  during  World War II . This photograph shows damage following an Israeli airstrike on the neighborhood of  Rimal  in  Gaza City  on 9 October 2023.
+>The  green shield bug  ( Palomena prasina ) is a species of  shield bug  in the family  Pentatomidae . It is commonly found throughout Europe, including Great Britain and Ireland, in a large variety of habitats, including gardens. The species displays different colouration during each nymphal stage, light brown, black or green-black, and in the final stage, the imago, is bright green with short wings. The imago stage is usually reached in September, with hibernation occurring in November. This green shield bug was photographed on  Cumnor Hill  in Oxfordshire, England.
 
 

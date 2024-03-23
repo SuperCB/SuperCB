@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Arabis_hirsuta_-_Keila.jpg/450px-Arabis_hirsuta_-_Keila.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg/525px-Laoco%C3%B6n_and_his_sons_group.jpg" />
 </div>
 
->Arabis hirsuta , also known as the hairy rock-cress, is a  flowering plant  of the genus  Arabis  in the family  Brassicaceae . In previous North American works, this species has been broadly defined to include plants native to Europe, Asia, and the northern half of North America, but the name is now more often used to describe a narrower subgroup. The species grows on chalk slopes, dunes, hedgebanks, walls and rocks.  Arabis hirsuta  grows to a height of up to around 75 centimetres (30 inches) and is usually unbranched, with a long spike of flowers and stiff hairs. The lower leaves of the plant form a rosette, while the stalkless upper leaves clasp the stem. Flowering is from June to August. It has white petals, cylindrical fruits pressed close to the stem and reddish brown seeds. This  A. hirsuta  plant at the start of its flowering phase was photographed in  Keila , Estonia.
+>Laocoön and His Sons  is an ancient sculpture which was excavated in  Rome , Italy, in 1506. It depicts the  Trojan  priest  Laocoön  and his sons Antiphantes and Thymbraeus being attacked by sea serpents. The figures in the statue are nearly life-sized, with the entire group measuring just over 2 metres (6 ft 7 in) in height. The statue is likely to be the same one that received praise from the Roman writer  Pliny the Elder , who attributed the work (then housed in the palace of the emperor  Titus ) to three Greek sculptors from the island of  Rhodes :  Agesander , Athenodoros and Polydorus, but he did not mention the work's date or patron. Modern scholars are not certain of the work's origins; it might be an original work or a copy of an earlier bronze sculpture. After its discovery,  Laocoön and His Sons  was put on public display in the  Vatican Museums , where it remains.
 
 

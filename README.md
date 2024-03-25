@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/PK_Karachi_asv2020-02_img62_Frere_Hall.jpg/600px-PK_Karachi_asv2020-02_img62_Frere_Hall.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PAGEOS_Satellite_-_GPN-2000-001896.jpg/525px-PAGEOS_Satellite_-_GPN-2000-001896.jpg" />
 </div>
 
->Frere Hall  is a building in  Karachi , Pakistan, built in 1865 to serve as the city's town hall during  British colonial rule in the Indian subcontinent . Named in 1884 in honour of  Henry Bartle Frere , a British administrator who had earlier served as  Commissioner of Sind  and  Governor of Bombay , the building is now a library and a tourist attraction noted for its  Venetian Gothic architecture , and is also used for exhibitions and events.
+>PAGEOS  (Passive Geodetic Earth Orbiting Satellite) was a  balloon satellite  which was launched by  NASA  in 1966. It was placed into a  polar orbit  ( inclination  85–86°) with a height of approximately 4000 km, which became gradually lower during its nine years of operation. The satellite partly disintegrated in July 1975, which was followed by a second break-up that occurred in January 1976 resulting in the release of a large number of fragments. Most of these re-entered the Earth's atmosphere during the following decade. This photograph shows a test inflation of a PAGEOS satellite in a blimp hangar at  Weeksville, North Carolina , in 1965.
 
 

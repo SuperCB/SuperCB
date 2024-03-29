@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/1581_Bunting_clover_leaf_map.jpg/900px-1581_Bunting_clover_leaf_map.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Wit_oorzwammetje_s.l._%28Crepidotus_variabilis_s.l.%29_12-01-2022._%28d.j.b%29.jpg/750px-Wit_oorzwammetje_s.l._%28Crepidotus_variabilis_s.l.%29_12-01-2022._%28d.j.b%29.jpg" />
 </div>
 
->The  Bünting cloverleaf map  is a historic  mappa mundi  drawn by the German theologian and cartographer  Heinrich Bünting . The map was published in his book  Itinerarium Sacrae Scripturae  in 1581. The map depicts the three continents of the Old World, Europe, Africa and Asia, as three leaves forming the shape of a  clover , with  Jerusalem  at the centre. The three continents include captions for some of their countries and illustrations of cities. The clover is surrounded by the  ocean , with its surface including illustrations of sea creatures, monsters, and a ship. England and Denmark are represented as two island-shapes above Europe's leaf, while the  Americas  are shown as a mostly unrevealed shape in the lower left corner, captioned  Die Neue Welt  (the  New World ).
+>Crepidotus  is a  genus  of  fungus  in the family  Crepidotaceae . Species of  Crepidotus  all have small, convex to fan-shaped  sessile  caps and grow on wood or plant debris. The species are cosmopolitan in distribution, and are well-documented from the northern temperate to the South American regions. This  Crepidotus variabilis  cap growing on a branch was photographed in De Famberhorst, a nature reserve near  Joure  in  Friesland , Netherlands. The photograph was  focus-stacked  from 42 separate images.
 
 

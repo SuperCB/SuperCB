@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Wit_oorzwammetje_s.l._%28Crepidotus_variabilis_s.l.%29_12-01-2022._%28d.j.b%29.jpg/750px-Wit_oorzwammetje_s.l._%28Crepidotus_variabilis_s.l.%29_12-01-2022._%28d.j.b%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Correggio_%28Antonio_Allegri%29_%28Italian%29_-_Head_of_Christ_-_Google_Art_Project.jpg/450px-Correggio_%28Antonio_Allegri%29_%28Italian%29_-_Head_of_Christ_-_Google_Art_Project.jpg" />
 </div>
 
->Crepidotus  is a  genus  of  fungus  in the family  Crepidotaceae . Species of  Crepidotus  all have small, convex to fan-shaped  sessile  caps and grow on wood or plant debris. The species are cosmopolitan in distribution, and are well-documented from the northern temperate to the South American regions. This  Crepidotus variabilis  cap growing on a branch was photographed in De Famberhorst, a nature reserve near  Joure  in  Friesland , Netherlands. The photograph was  focus-stacked  from 42 separate images.
+>Head of Christ  is a painting in oil on panel by the  Italian Renaissance  painter  Antonio da Correggio , dated 1521. It depicts the head of  Christ , wearing the  crown of thorns . In the background there is a white cloth showing that the image represents the  Veil of Veronica , but Christ's head is  given volume through alternate use of light and dark shadows. The painting is in the  J. Paul Getty Museum  in Los Angeles. Correggio was known for creating some of the most sumptuous religious paintings of the period. The Getty Museum considers this artwork as one of the masterpieces of painting held by the museum.
 
 

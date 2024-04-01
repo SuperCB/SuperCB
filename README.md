@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Portal%2C_Pitam_Niwas_Chowk%2C_City_Palace%2C_Jaipur%2C_20191218_1000_9059.jpg/525px-Portal%2C_Pitam_Niwas_Chowk%2C_City_Palace%2C_Jaipur%2C_20191218_1000_9059.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hypoplectrus_guttavarius_-_Wilhelma_01.jpg/600px-Hypoplectrus_guttavarius_-_Wilhelma_01.jpg" />
 </div>
 
->The  City Palace of Jaipur , constructed between 1727 and 1732, is a royal residence located in  Jaipur , Rajasthan, India. It was the ceremonial and administrative seat of the  Kingdom of Amber , and home of its rulers, from the time of the state's foundation in 1727 by Maharaja  Sawai Jai Singh  II until 30 March 1949. The palace continues to be a residence of the royal family of Jaipur and is a popular tourist attraction. This picture shows the  Leheriya  gate, one of four intricately designed gates in an inner courtyard of the palace. The gate is dedicated to Hindu god  Ganesha  (carved above the door) with the green colour representing the season of spring.
+>The  shy hamlet  ( Hypoplectrus guttavarius ) is a small Western Atlantic species of fish in the family  Serranidae . It is found predominantly around rocks and corals in  Caribbean  inshore areas at low depths, in temperatures of about 22 to 27 °C (72 to 80 °F). The shy hamlet has a yellow head and fins followed by a brown-black body, with bright blue stripes around the eye and on the snout. The species is carnivorous, feeding on crustaceans as well as other bony fish. This shy hamlet was photographed in an aquarium at  Wilhelma , a zoological-botanical garden in  Stuttgart , Germany.
 
 

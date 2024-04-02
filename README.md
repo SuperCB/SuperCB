@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hypoplectrus_guttavarius_-_Wilhelma_01.jpg/600px-Hypoplectrus_guttavarius_-_Wilhelma_01.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nelly_Martyl_by_Jean_Reutlinger_%28Image_10715%29.jpg/525px-Nelly_Martyl_by_Jean_Reutlinger_%28Image_10715%29.jpg" />
 </div>
 
->The  shy hamlet  ( Hypoplectrus guttavarius ) is a small Western Atlantic species of fish in the family  Serranidae . It is found predominantly around rocks and corals in  Caribbean  inshore areas at low depths, in temperatures of about 22 to 27 °C (72 to 80 °F). The shy hamlet has a yellow head and fins followed by a brown-black body, with bright blue stripes around the eye and on the snout. The species is carnivorous, feeding on crustaceans as well as other bony fish. This shy hamlet was photographed in an aquarium at  Wilhelma , a zoological-botanical garden in  Stuttgart , Germany.
+>Nelly Martyl  (1 April 1884 – 9 November 1953) was a French opera singer based in Paris who participated in several world premieres. After making her professional debut in 1907 in Gluck's  Armide , she joined the  Opéra-Comique , where she appeared as Micaela in Bizet's  Carmen , Sophie in Massenet's  Werther , Mimi in Puccini's  La bohème  and in the title role of Massenet's  Manon , among others. During  World War I  and the  1918 flu epidemic , she worked as a nurse and received the  Croix de Guerre  for her service. After the war, she created a charitable medical foundation with automobile racer  Magdeleine Goüin . This photograph of Martyl was taken by the French photographer  Jean Reutlinger , probably between 1907 and 1912.
 
 

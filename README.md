@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nelly_Martyl_by_Jean_Reutlinger_%28Image_10715%29.jpg/525px-Nelly_Martyl_by_Jean_Reutlinger_%28Image_10715%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/European_bee-eaters_%28Merops_apiaster%29_with_dragonflies.jpg/675px-European_bee-eaters_%28Merops_apiaster%29_with_dragonflies.jpg" />
 </div>
 
->Nelly Martyl  (1 April 1884 – 9 November 1953) was a French opera singer based in Paris who participated in several world premieres. After making her professional debut in 1907 in Gluck's  Armide , she joined the  Opéra-Comique , where she appeared as Micaela in Bizet's  Carmen , Sophie in Massenet's  Werther , Mimi in Puccini's  La bohème  and in the title role of Massenet's  Manon , among others. During  World War I  and the  1918 flu epidemic , she worked as a nurse and received the  Croix de Guerre  for her service. After the war, she created a charitable medical foundation with automobile racer  Magdeleine Goüin . This photograph of Martyl was taken by the French photographer  Jean Reutlinger , probably between 1907 and 1912.
+>The  European bee-eater  ( Merops apiaster ) is a bird in the  bee-eater  family, Meropidae. It breeds in southern and central Europe, northern and southern Africa, and western Asia. Except for the resident southern African population, the species is strongly  migratory , wintering in tropical Africa. This species, like other bee-eaters, is a richly coloured, slender bird. It has brown and yellow upper parts, whilst the wings are green and the beak is black. It can reach a length of 27–29 cm (10.6–11.4 in), including the two elongated central tail feathers. The most important prey item in its diet is  Hymenoptera , mostly the  European honey bee . Its impact on bee populations, however, is small. It eats less than 1% of the worker bees in areas where it lives. This group of three European bee-eaters, each with a  dragonfly  in its beak, was photographed in Kondor Tanya,  Kecskemét , Hungary.
 
 

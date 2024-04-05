@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mars_Pathfinder_Presidential_Panorama.jpg/2250px-Mars_Pathfinder_Presidential_Panorama.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/A_floral_fantasy_of_animals_and_birds%2C_India%2C_Mughal.jpg/525px-A_floral_fantasy_of_animals_and_birds%2C_India%2C_Mughal.jpg" />
 </div>
 
->Sojourner  is a robotic  Mars rover  that landed in  Ares Vallis , a channel in the  Chryse Planitia  region, on July 4, 1997.  Sojourner  was operational on Mars for 92  sols  (95 Earth days). It was the first wheeled vehicle to rove on a planet other than Earth and formed part of the  Mars Pathfinder  mission. This panoramic photograph is formed of various images of  Sojourner  taken by the  Mars Pathfinder  lander, composited into a 360-degree image referred to by NASA as the "presidential" panorama. Since the camera's position was consistent, it is possible to see these images of the rover in the context of the entire landscape.
+>Al-Wakwak  is an island, or possibly more than one island, in  medieval Arabic geographical  and imaginative literature. Sources variously identify al-Wakwak as representing Japan, Madagascar,  Sumatra  or  Java , with others describing it as an island in the  China Sea  ruled by a queen with an entirely female population. This painting in watercolor and gold on paper was created in  Mughal India  in the early 1600s, and depicts a plant that brings forth animal life in multiple forms, derived from a conflation of medieval Persian and Quranic sources, including descriptions of al-Wakwak as inhabited by half-plant and half-animal creatures. The work is now in the collection of the  Cleveland Museum of Art  in Ohio.
 
 

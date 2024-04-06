@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/A_floral_fantasy_of_animals_and_birds%2C_India%2C_Mughal.jpg/525px-A_floral_fantasy_of_animals_and_birds%2C_India%2C_Mughal.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Oligodon_huahin%2C_Hua_Hin_kukri_snake_-_Kaeng_Krachan_National_Park_%2832625377028%29.jpg/525px-Oligodon_huahin%2C_Hua_Hin_kukri_snake_-_Kaeng_Krachan_National_Park_%2832625377028%29.jpg" />
 </div>
 
->Al-Wakwak  is an island, or possibly more than one island, in  medieval Arabic geographical  and imaginative literature. Sources variously identify al-Wakwak as representing Japan, Madagascar,  Sumatra  or  Java , with others describing it as an island in the  China Sea  ruled by a queen with an entirely female population. This painting in watercolor and gold on paper was created in  Mughal India  in the early 1600s, and depicts a plant that brings forth animal life in multiple forms, derived from a conflation of medieval Persian and Quranic sources, including descriptions of al-Wakwak as inhabited by half-plant and half-animal creatures. The work is now in the collection of the  Cleveland Museum of Art  in Ohio.
+>Oligodon , commonly known as the kukri snakes, is a genus of  colubrid  snakes that was first described by Austrian zoologist  Leopold Fitzinger  in 1826. This genus is widespread throughout  central  and  tropical Asia . This photograph shows a Hua Hin kukri snake ( Oligodon huahin ), in  Kaeng Krachan National Park , Thailand.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bell_Miner_1_-_Nepean_Weir.jpg/600px-Bell_Miner_1_-_Nepean_Weir.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nithya_Menen_2023_Alt.jpg/525px-Nithya_Menen_2023_Alt.jpg" />
 </div>
 
->The  bell miner  ( Manorina melanophrys ), also known as the bellbird, is a colonial  honeyeater  species  endemic  to southeastern Australia. The name  miner  is derived from an old alternative spelling of  myna , and is shared with other members of the genus  Manorina .  The birds feed almost exclusively on the dome-like coverings, referred to as "bell lerps", of certain  psyllid  bugs that feed on  eucalyptus  sap from the leaves. The psyllids make these bell lerps from their own honeydew secretions in order to protect themselves from predators and the environment. This bell miner was photographed on the  Nepean River  in  Penrith, New South Wales .
+>Nithya Menen  (born 8 April 1988) is an Indian actress and singer who works primarily in  Malayalam ,  Tamil  and  Telugu  films. After appearing in roles in 1998 and 2006 as a child actress, her first lead role was in the Malayalam film  Aakasha Gopuram , which was released in 2008. Her debut in leading roles in Telugu and Tamil films were  Ala Modalaindi  (2011) and  Nootrenbadhu  (2011). Her Hindi debut was  Mission Mangal  (2019). As of 2024, Menen has appeared in more than 50 films and has appeared in several lists of top actresses compiled by  Rediff.com  and  Forbes India . This portrait photograph of Menen was taken in 2023.
 
 

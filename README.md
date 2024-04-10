@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nithya_Menen_2023_Alt.jpg/525px-Nithya_Menen_2023_Alt.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Andasol_5.jpg/900px-Andasol_5.jpg" />
 </div>
 
->Nithya Menen  (born 8 April 1988) is an Indian actress and singer who works primarily in  Malayalam ,  Tamil  and  Telugu  films. After appearing in roles in 1998 and 2006 as a child actress, her first lead role was in the Malayalam film  Aakasha Gopuram , which was released in 2008. Her debut in leading roles in Telugu and Tamil films were  Ala Modalaindi  (2011) and  Nootrenbadhu  (2011). Her Hindi debut was  Mission Mangal  (2019). As of 2024, Menen has appeared in more than 50 films and has appeared in several lists of top actresses compiled by  Rediff.com  and  Forbes India . This portrait photograph of Menen was taken in 2023.
+>The  Andasol solar power station  is a 150-megawatt  concentrated solar power  station and Europe's first commercial plant to use  parabolic troughs . Located near  Guadix  in  Andalusia , Spain, the Andasol plant uses tanks of molten salt as  thermal energy storage  to continue generating electricity, irrespective of whether the sun is shining or not. It consists of three projects, completed in 2008, 2009 and 2011, and occupying a total area of about 200 hectares (490 acres). Because of its high altitude (1,100 m; 3,600 ft) and the  semi-arid climate , the site has exceptionally high annual direct  insolation . This aerial view of the Andasol plant was taken in 2021, with the snow-capped peaks of the  Sierra Nevada  in the background.
 
 

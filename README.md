@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Andasol_5.jpg/900px-Andasol_5.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gatekeeper_%28Pyronia_tithonus%29_underside.jpg/525px-Gatekeeper_%28Pyronia_tithonus%29_underside.jpg" />
 </div>
 
->The  Andasol solar power station  is a 150-megawatt  concentrated solar power  station and Europe's first commercial plant to use  parabolic troughs . Located near  Guadix  in  Andalusia , Spain, the Andasol plant uses tanks of molten salt as  thermal energy storage  to continue generating electricity, irrespective of whether the sun is shining or not. It consists of three projects, completed in 2008, 2009 and 2011, and occupying a total area of about 200 hectares (490 acres). Because of its high altitude (1,100 m; 3,600 ft) and the  semi-arid climate , the site has exceptionally high annual direct  insolation . This aerial view of the Andasol plant was taken in 2021, with the snow-capped peaks of the  Sierra Nevada  in the background.
+>The  gatekeeper  ( Pyronia tithonus ) is a species of butterfly in the family  Nymphalidae , found across Europe. It is typically orange with two large brown spots on its wings and a brown pattern on the edge of its wings, although a large number of aberrant forms are known. The eyespots on the forewings most likely reduce bird attacks, so it is often seen resting with its wings open. Colonies vary in size depending on the available habitat, and can range from a few dozen to several thousand butterflies. This gatekeeper was photographed in  Botley  in  Oxfordshire , England.
 
 

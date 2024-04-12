@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gatekeeper_%28Pyronia_tithonus%29_underside.jpg/525px-Gatekeeper_%28Pyronia_tithonus%29_underside.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Maison_Carree_in_Nimes_%2816%29.jpg/600px-Maison_Carree_in_Nimes_%2816%29.jpg" />
 </div>
 
->The  gatekeeper  ( Pyronia tithonus ) is a species of butterfly in the family  Nymphalidae , found across Europe. It is typically orange with two large brown spots on its wings and a brown pattern on the edge of its wings, although a large number of aberrant forms are known. The eyespots on the forewings most likely reduce bird attacks, so it is often seen resting with its wings open. Colonies vary in size depending on the available habitat, and can range from a few dozen to several thousand butterflies. This gatekeeper was photographed in  Botley  in  Oxfordshire , England.
+>The  Maison carrée  (French for 'square house') is an ancient  Roman temple  in  Nîmes , southern France. It is a mid-sized  Augustan  provincial temple of the  imperial cult , and one of the best-preserved Roman temples to survive in the territory of the former  Roman Empire . Built in the early 1st century AD, it was dedicated or rededicated to  Gaius  and  Lucius Caesar , grandsons and adopted heirs of Augustus, who both died young. The Maison carrée is similar to a Tuscan-style Roman temple as described in the writings of  Vitruvius , a contemporary Roman writer on architecture. It has undergone several restorations over the centuries and was inscribed on the  UNESCO  list of  World Heritage Sites  in 2023. This photograph of the Maison carrée at evening was taken in 2019.
 
 

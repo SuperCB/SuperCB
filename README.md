@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Maison_Carree_in_Nimes_%2816%29.jpg/600px-Maison_Carree_in_Nimes_%2816%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Orange_Chat_9034.jpg/750px-Orange_Chat_9034.jpg" />
 </div>
 
->The  Maison carrée  (French for 'square house') is an ancient  Roman temple  in  Nîmes , southern France. It is a mid-sized  Augustan  provincial temple of the  imperial cult , and one of the best-preserved Roman temples to survive in the territory of the former  Roman Empire . Built in the early 1st century AD, it was dedicated or rededicated to  Gaius  and  Lucius Caesar , grandsons and adopted heirs of Augustus, who both died young. The Maison carrée is similar to a Tuscan-style Roman temple as described in the writings of  Vitruvius , a contemporary Roman writer on architecture. It has undergone several restorations over the centuries and was inscribed on the  UNESCO  list of  World Heritage Sites  in 2023. This photograph of the Maison carrée at evening was taken in 2019.
+>The  orange chat  ( Epthianura aurifrons ) is a species of bird in the  honeyeater  family, Meliphagidae, endemic to Australia. With a length of around 10 to 12 centimetres (3.9 to 4.7 inches) and average wingspan of 19 centimetres (7.5 inches), it is a small ground  songbird  with relatively long, broad and rounded wings and a short square-ended tail. The male's feathers are mostly a deep, warm, cadmium yellow with orange overtones, and this colour is strongest on the crown and breast. Females are mottled in grey-brown, with underparts a softer fawny yellow. Its diet consists mainly of small insects, spiders and other invertebrates that are on the ground or shrubs. Its  call  consists of a metallic  twang tang  and a softer  tchek tchek  sound. This orange chat perched on a twig was photographed near  Lake Cargelligo  in  New South Wales , Australia.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Orange_Chat_9034.jpg/750px-Orange_Chat_9034.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Galena_-_Huallanca%2C_Bologesi%2C_Ancash%2C_Peru.jpg/600px-Galena_-_Huallanca%2C_Bologesi%2C_Ancash%2C_Peru.jpg" />
 </div>
 
->The  orange chat  ( Epthianura aurifrons ) is a species of bird in the  honeyeater  family, Meliphagidae, endemic to Australia. With a length of around 10 to 12 centimetres (3.9 to 4.7 inches) and average wingspan of 19 centimetres (7.5 inches), it is a small ground  songbird  with relatively long, broad and rounded wings and a short square-ended tail. The male's feathers are mostly a deep, warm, cadmium yellow with orange overtones, and this colour is strongest on the crown and breast. Females are mottled in grey-brown, with underparts a softer fawny yellow. Its diet consists mainly of small insects, spiders and other invertebrates that are on the ground or shrubs. Its  call  consists of a metallic  twang tang  and a softer  tchek tchek  sound. This orange chat perched on a twig was photographed near  Lake Cargelligo  in  New South Wales , Australia.
+>Galena , also called lead glance, is the natural mineral form of  lead(II) sulfide  (PbS). In addition to lead, some deposits contain up to 0.5 percent silver, in the form of  silver sulfide  or as limited silver in  solid solution ; when present, this byproduct far surpasses the main lead ore in revenue. Galena has been used since antiquity, one of its oldest uses being the production of  kohl , an eye cosmetic now regarded as toxic due to the risk of  lead poisoning . In modern times, galena is primarily used to extract its constituent minerals. In addition to silver, it is the most important global source of lead, for uses such as in  lead-acid batteries . This sample of galena, measuring 3.5 cm × 2.5 cm × 2.0 cm (1.38 in × 0.98 in × 0.79 in), contains a small amount of gold-colored  pyrite  and was extracted from the Huanzala Mine in the Peruvian region of  Ancash . This photograph was  focus-stacked  from 156 separate images.
 
 

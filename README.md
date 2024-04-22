@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vista_de_Tarazona%2C_Espa%C3%B1a%2C_2015-01-02%2C_DD_07.JPG/825px-Vista_de_Tarazona%2C_Espa%C3%B1a%2C_2015-01-02%2C_DD_07.JPG" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Walter_Francis_White_by_Clara_Sipprell.jpg/450px-Walter_Francis_White_by_Clara_Sipprell.jpg" />
 </div>
 
->Tarazona  is a town and municipality, and the capital of the comarca  Tarazona y el Moncayo  in  Aragon , Spain. It is also the seat of the  Roman Catholic Diocese of Tarazona . Located on the river  Queiles , a tributary of the  Ebro , Tarazona was an important regional centre of ancient Rome, known as Turiaso, located around 60 kilometres (37 miles) from  Bilbilis . The city later came under the rule of the  Visigoths , who called it Tirasona. This view of Tarazona was taken from the city's episcopal palace, and shows  Tarazona Cathedral  and its seminary, the Old Bullfight Arena, and the Sanctuary of the Lady of the River.
+>Walter White  (1893–1955) was an American civil rights activist who led the  National Association for the Advancement of Colored People  (NAACP) for a quarter of a century, from 1929 until his death. He directed a broad program of legal challenges to  racial segregation  and  disfranchisement . Under his leadership, the NAACP oversaw the plans and organizational structure of the fight against public segregation in the United States. He worked with President  Harry S. Truman  on desegregating the armed forces after  World War II  and gave him a draft of  Executive Order 9981  to implement this. Under White's leadership, the NAACP set up its  Legal Defense Fund , which conducted numerous legal challenges to segregation and disfranchisement, and achieved many successes. This photograph of White was taken by  Clara Sipprell  around 1950, and is in the collection of the  National Portrait Gallery  in Washington, D.C.
 
 

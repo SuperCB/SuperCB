@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Walter_Francis_White_by_Clara_Sipprell.jpg/450px-Walter_Francis_White_by_Clara_Sipprell.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cyprus_water_frog_%28Pelophylax_cypriensis%29.jpg/600px-Cyprus_water_frog_%28Pelophylax_cypriensis%29.jpg" />
 </div>
 
->Walter White  (1893–1955) was an American civil rights activist who led the  National Association for the Advancement of Colored People  (NAACP) for a quarter of a century, from 1929 until his death. He directed a broad program of legal challenges to  racial segregation  and  disfranchisement . Under his leadership, the NAACP oversaw the plans and organizational structure of the fight against public segregation in the United States. He worked with President  Harry S. Truman  on desegregating the armed forces after  World War II  and gave him a draft of  Executive Order 9981  to implement this. Under White's leadership, the NAACP set up its  Legal Defense Fund , which conducted numerous legal challenges to segregation and disfranchisement, and achieved many successes. This photograph of White was taken by  Clara Sipprell  around 1950, and is in the collection of the  National Portrait Gallery  in Washington, D.C.
+>Pelophylax cypriensis , commonly known as the Cyprus water frog, is a species of frog in the family Ranidae, the  true frogs . It is  endemic  to Cyprus. It is a medium-sized frog, with females (body length up to 75 mm, 3.0 in) being larger than males (up to 65 mm, 2.6 in). The skin is rather warty and colouration varies widely. There are four unwebbed toes on the front legs and five webbed toes on the hindlegs. Males have paired external  vocal sacs . This Cyprus water frog was photographed under the Elia Bridge in  Limassol District , Cyprus.
 
 

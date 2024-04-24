@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cyprus_water_frog_%28Pelophylax_cypriensis%29.jpg/600px-Cyprus_water_frog_%28Pelophylax_cypriensis%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bistorta_officinalis_01.JPG/450px-Bistorta_officinalis_01.JPG" />
 </div>
 
->Pelophylax cypriensis , commonly known as the Cyprus water frog, is a species of frog in the family Ranidae, the  true frogs . It is  endemic  to Cyprus. It is a medium-sized frog, with females (body length up to 75 mm, 3.0 in) being larger than males (up to 65 mm, 2.6 in). The skin is rather warty and colouration varies widely. There are four unwebbed toes on the front legs and five webbed toes on the hindlegs. Males have paired external  vocal sacs . This Cyprus water frog was photographed under the Elia Bridge in  Limassol District , Cyprus.
+>Bistorta officinalis , also known as the common bistort, is a species of  flowering plant  in the dock family  Polygonaceae . It is native to Europe and northern and western Asia, but has also been cultivated and become naturalized in other parts of the world such as in the United States. It is typically found growing in moist meadows, nutrient-rich wooded swamps, forest edges, wetlands, parks, gardens and disturbed ground. A herbaceous  perennial , it grows to a height of 20 to 80 centimetres (8 to 31 inches). It blooms from late spring into autumn, producing tall, erect, unbranched and hairless stems ending in single terminal  racemes  that are club-like spikes, 5 to 7 centimetres (2 to 3 inches) long, of rose-pink flowers. This  B. officinalis   inflorescence  was photographed in the  Austrian Alps .
 
 

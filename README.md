@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bistorta_officinalis_01.JPG/450px-Bistorta_officinalis_01.JPG" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luis_Alvarez_with_a_magnetic_monopole_detector_-_Restoration.jpg/420px-Luis_Alvarez_with_a_magnetic_monopole_detector_-_Restoration.jpg" />
 </div>
 
->Bistorta officinalis , also known as the common bistort, is a species of  flowering plant  in the dock family  Polygonaceae . It is native to Europe and northern and western Asia, but has also been cultivated and become naturalized in other parts of the world such as in the United States. It is typically found growing in moist meadows, nutrient-rich wooded swamps, forest edges, wetlands, parks, gardens and disturbed ground. A herbaceous  perennial , it grows to a height of 20 to 80 centimetres (8 to 31 inches). It blooms from late spring into autumn, producing tall, erect, unbranched and hairless stems ending in single terminal  racemes  that are club-like spikes, 5 to 7 centimetres (2 to 3 inches) long, of rose-pink flowers. This  B. officinalis   inflorescence  was photographed in the  Austrian Alps .
+>Luis Walter Alvarez  (1911–1988) was an American  experimental physicist  who was awarded the  Nobel Prize in Physics  in 1968 for his discovery of  resonance states  in particle physics using the  hydrogen bubble chamber . After receiving his PhD from the  University of Chicago  in 1936, Alvarez went to work for  Ernest Lawrence  at the  Radiation Laboratory  at the  University of California, Berkeley . He joined  MIT Radiation Laboratory  in 1940, where he contributed to a number of World War II radar projects and worked as a test pilot, before joining  J. Robert Oppenheimer  on the  Manhattan Project  in 1943. He moved back to Berkeley as a full professor after the war, going on to use his knowledge in work on improving  particle accelerators . This 1969 photograph shows Alvarez with a  magnetic monopole  detector at Berkeley.
 
 

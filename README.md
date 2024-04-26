@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luis_Alvarez_with_a_magnetic_monopole_detector_-_Restoration.jpg/420px-Luis_Alvarez_with_a_magnetic_monopole_detector_-_Restoration.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Madagascar_stonechat_%28Saxicola_sibilla%29_male.jpg/525px-Madagascar_stonechat_%28Saxicola_sibilla%29_male.jpg" />
 </div>
 
->Luis Walter Alvarez  (1911–1988) was an American  experimental physicist  who was awarded the  Nobel Prize in Physics  in 1968 for his discovery of  resonance states  in particle physics using the  hydrogen bubble chamber . After receiving his PhD from the  University of Chicago  in 1936, Alvarez went to work for  Ernest Lawrence  at the  Radiation Laboratory  at the  University of California, Berkeley . He joined  MIT Radiation Laboratory  in 1940, where he contributed to a number of World War II radar projects and worked as a test pilot, before joining  J. Robert Oppenheimer  on the  Manhattan Project  in 1943. He moved back to Berkeley as a full professor after the war, going on to use his knowledge in work on improving  particle accelerators . This 1969 photograph shows Alvarez with a  magnetic monopole  detector at Berkeley.
+>The  Madagascar stonechat  ( Saxicola sibilla ) is a species of  stonechat  endemic to Madagascar. It is a small bird, closely similar to the  African stonechat  in both plumage and behaviour, but distinguished from it by the more extensive black on the throat and minimal orange-red on the upper breast of the males. This male Madagascar stonechat perching on a branch was photographed in  Analamazaotra National Park , near  Andasibe .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Benjamin_Franklin_Tilley_-_NH_67313.jpg/450px-Benjamin_Franklin_Tilley_-_NH_67313.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Broad-bodied_chaser_%28Libellula_depressa%29_male_dorsal_side.jpg/825px-Broad-bodied_chaser_%28Libellula_depressa%29_male_dorsal_side.jpg" />
 </div>
 
->Benjamin Franklin Tilley  (1848–1907) was a career officer in the  United States Navy  who served from the end of the  American Civil War  through the  Spanish–American War . He is best remembered as the first  acting governor of American Samoa  as well as the territory's first naval governor.
+>Libellula depressa , commonly known as the broad-bodied chaser or broad-bodied darter, is a  dragonfly  in the family  Libellulidae . One of the most common dragonflies in Europe and central Asia, its range extends to England, central Asia and the Middle East, with a few limited populations in Scotland. It is not found in Ireland or North Africa, however. This insect is around 39 to 48 millimetres (1.5 to 1.9 inches) in length, with both the male and the female having a broad, flattened abdomen which is brown with yellow patches down the sides. In the male, the abdomen develops a blue  pruinescence  that covers the brown colour. Both fore and hind wings have a dark patch at the base. This male  L. depressa  dragonfly was photographed at  Wolvercote  Lakes in Oxfordshire, England.
 
 

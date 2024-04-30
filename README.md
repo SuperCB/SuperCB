@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Broad-bodied_chaser_%28Libellula_depressa%29_male_dorsal_side.jpg/825px-Broad-bodied_chaser_%28Libellula_depressa%29_male_dorsal_side.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sphalerite_-_Creede%2C_Mineral_County%2C_Colorado%2C_USA.jpg/525px-Sphalerite_-_Creede%2C_Mineral_County%2C_Colorado%2C_USA.jpg" />
 </div>
 
->Libellula depressa , commonly known as the broad-bodied chaser or broad-bodied darter, is a  dragonfly  in the family  Libellulidae . One of the most common dragonflies in Europe and central Asia, its range extends to England, central Asia and the Middle East, with a few limited populations in Scotland. It is not found in Ireland or North Africa, however. This insect is around 39 to 48 millimetres (1.5 to 1.9 inches) in length, with both the male and the female having a broad, flattened abdomen which is brown with yellow patches down the sides. In the male, the abdomen develops a blue  pruinescence  that covers the brown colour. Both fore and hind wings have a dark patch at the base. This male  L. depressa  dragonfly was photographed at  Wolvercote  Lakes in Oxfordshire, England.
+>Sphalerite  is a  sulfide mineral  with the  chemical formula  (Zn,Fe)S. It is found in a variety of deposit types, and is found in association with  galena ,  chalcopyrite ,  pyrite  (and other sulfides),  calcite ,  dolomite ,  quartz ,  rhodochrosite , and  fluorite . Sphalerite is an important ore of  zinc , with around 95 percent of all primary zinc extracted from its ore. Due to its variable trace-element content, sphalerite is also an important source of several other metals such as  cadmium ,  gallium ,  germanium  and  indium . The zinc in sphalerite is also used to produce  brass . This sample was extracted in  Creede, Colorado , and features black tetrahedral crystals of sphalerite up to 8 mm (0.31 in) in size, with minor chalcopyrite and calcite, in a 4.5 cm × 3.0 cm × 2.0 cm (1.77 in × 1.18 in × 0.79 in)  matrix . This photograph was  focus-stacked  from 125 separate images.
 
 

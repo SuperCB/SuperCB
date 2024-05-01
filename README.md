@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sphalerite_-_Creede%2C_Mineral_County%2C_Colorado%2C_USA.jpg/525px-Sphalerite_-_Creede%2C_Mineral_County%2C_Colorado%2C_USA.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Georges_Rochegrosse_-_Poster_for_the_pr%C3%A8miere_of_Claude_Debussy_and_Maurice_Maeterlinck%27s_Pell%C3%A9as_et_M%C3%A9lisande.jpg/525px-Georges_Rochegrosse_-_Poster_for_the_pr%C3%A8miere_of_Claude_Debussy_and_Maurice_Maeterlinck%27s_Pell%C3%A9as_et_M%C3%A9lisande.jpg" />
 </div>
 
->Sphalerite  is a  sulfide mineral  with the  chemical formula  (Zn,Fe)S. It is found in a variety of deposit types, and is found in association with  galena ,  chalcopyrite ,  pyrite  (and other sulfides),  calcite ,  dolomite ,  quartz ,  rhodochrosite , and  fluorite . Sphalerite is an important ore of  zinc , with around 95 percent of all primary zinc extracted from its ore. Due to its variable trace-element content, sphalerite is also an important source of several other metals such as  cadmium ,  gallium ,  germanium  and  indium . The zinc in sphalerite is also used to produce  brass . This sample was extracted in  Creede, Colorado , and features black tetrahedral crystals of sphalerite up to 8 mm (0.31 in) in size, with minor chalcopyrite and calcite, in a 4.5 cm × 3.0 cm × 2.0 cm (1.77 in × 1.18 in × 0.79 in)  matrix . This photograph was  focus-stacked  from 125 separate images.
+>Pelléas et Mélisande  is an opera in five acts with music by the French composer  Claude Debussy . The French-language  libretto  was adapted from  Maurice Maeterlinck 's symbolist play  Pelléas and Mélisande . The plot concerns a love triangle between Prince Golaud, Mélisande (a mysterious young woman he had found lost in a forest), and Golaud's younger half-brother Pelléas. The only opera Debussy ever completed,  Pelléas et Mélisande  premiered on 30 April 1902 at the  Salle Favart  in Paris, performed by the  Opéra-Comique , with  Jean Périer  as Pelléas and  Mary Garden  as Mélisande. The premiere was conducted by  André Messager , who was instrumental in getting the Opéra-Comique to stage the work. This poster by the French painter  Georges Rochegrosse  was produced for the premiere.
 
 

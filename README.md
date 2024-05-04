@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/John_Rocque%27s_map_of_London_and_Westminster%2C_1746%2C_all_sheets.jpg/900px-John_Rocque%27s_map_of_London_and_Westminster%2C_1746%2C_all_sheets.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/017_Great_blue_turaco_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/525px-017_Great_blue_turaco_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg" />
 </div>
 
->A plan of the cities of London and Westminster, and borough of Southwark  is a 1746 map of the  City of London  and surrounding area, surveyed by  John Rocque  and engraved by  John Pine . Rocque combined two surveying techniques: he made a ground-level survey with a compass and a physical metal chain – the unit of length also being the  chain .  Compass bearings  were taken of the lines measured. He also created a  triangulation  network over the entire area to be covered by taking readings from church towers and similar high places using a  theodolite  made by  Jonathan Sisson  (inventor of the telescopic-sighted theodolite) to measure the observed angle between two other prominent locations. The process was repeated from point to point. This image depicts all 24 sheets of Rocque's map.
+>The  great blue turaco  ( Corythaeola cristata ) is a bird species in the  turaco  family, Musophagidae, which is widespread throughout the  African tropical rainforest . It has a typical length of around 75 cm (30 in) with a mass of around 1 kg (2 lb). The adult great blue turaco has predominantly gray-blue upperparts with an upright blue-black crest. Its bill is yellow and the two sexes have similar plumage. This great blue turaco was photographed in  Kibale National Park , Uganda.
 
 

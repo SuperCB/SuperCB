@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/017_Great_blue_turaco_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/525px-017_Great_blue_turaco_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/900px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG" />
 </div>
 
->The  great blue turaco  ( Corythaeola cristata ) is a bird species in the  turaco  family, Musophagidae, which is widespread throughout the  African tropical rainforest . It has a typical length of around 75 cm (30 in) with a mass of around 1 kg (2 lb). The adult great blue turaco has predominantly gray-blue upperparts with an upright blue-black crest. Its bill is yellow and the two sexes have similar plumage. This great blue turaco was photographed in  Kibale National Park , Uganda.
+>The  Nazca lines  are a group of  geoglyphs  made in the soil of the  Nazca Desert  in southern Peru. They were created in two major phases – the  Paracas  phase (from 400 BC to 200 BC) and the  Nazca  phase (from 200 BC to 500 AD). The combined length of all the lines is more than 1,300 km (800 mi), and the group covers an area of about 50 km 2  (19 sq mi). Most lines run straight across the landscape, but there are also figurative designs of animals and plants. Scholars differ in interpreting the purpose of the designs, but in general, they ascribe religious significance to them. The lines were designated as a UNESCO  World Heritage Site  in 1994. This is an aerial view of the geoglyph known as the "monkey", one of the most well-known in the Nazca lines.
 
 

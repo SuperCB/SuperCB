@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/900px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Am%C3%A9d%C3%A9e_Forestier_-_Illustrated_London_News_-_Gilbert_and_Sullivan_-_Ruddygore_%28Ruddigore%29.jpg/600px-Am%C3%A9d%C3%A9e_Forestier_-_Illustrated_London_News_-_Gilbert_and_Sullivan_-_Ruddygore_%28Ruddigore%29.jpg" />
 </div>
 
->The  Nazca lines  are a group of  geoglyphs  made in the soil of the  Nazca Desert  in southern Peru. They were created in two major phases – the  Paracas  phase (from 400 BC to 200 BC) and the  Nazca  phase (from 200 BC to 500 AD). The combined length of all the lines is more than 1,300 km (800 mi), and the group covers an area of about 50 km 2  (19 sq mi). Most lines run straight across the landscape, but there are also figurative designs of animals and plants. Scholars differ in interpreting the purpose of the designs, but in general, they ascribe religious significance to them. The lines were designated as a UNESCO  World Heritage Site  in 1994. This is an aerial view of the geoglyph known as the "monkey", one of the most well-known in the Nazca lines.
+>Ruddigore  is a  comic opera  in two acts, with music by  Arthur Sullivan  and a libretto by  W. S. Gilbert . The tenth of  fourteen comic operas  written together by  Gilbert and Sullivan , it was first performed by the  D'Oyly Carte Opera Company  at the  Savoy Theatre  in London in 1887. Some critics and audience members initially felt that  Ruddygore  (its original title) did not measure up to its predecessor,  The Mikado . After changes, including respelling the title, it achieved a run of 288 performances and was profitable. This 1887 illustration by  Amédée Forestier  depicts scenes and characters from  Ruddygore  for  The Illustrated London News . Since D'Oyly Carte revived the piece in 1920, it has been regularly performed.
 
 

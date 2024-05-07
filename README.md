@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Am%C3%A9d%C3%A9e_Forestier_-_Illustrated_London_News_-_Gilbert_and_Sullivan_-_Ruddygore_%28Ruddigore%29.jpg/600px-Am%C3%A9d%C3%A9e_Forestier_-_Illustrated_London_News_-_Gilbert_and_Sullivan_-_Ruddygore_%28Ruddigore%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Troodos_lizard_%28Phoenicolacerta_troodica%29.jpg/825px-Troodos_lizard_%28Phoenicolacerta_troodica%29.jpg" />
 </div>
 
->Ruddigore  is a  comic opera  in two acts, with music by  Arthur Sullivan  and a libretto by  W. S. Gilbert . The tenth of  fourteen comic operas  written together by  Gilbert and Sullivan , it was first performed by the  D'Oyly Carte Opera Company  at the  Savoy Theatre  in London in 1887. Some critics and audience members initially felt that  Ruddygore  (its original title) did not measure up to its predecessor,  The Mikado . After changes, including respelling the title, it achieved a run of 288 performances and was profitable. This 1887 illustration by  Amédée Forestier  depicts scenes and characters from  Ruddygore  for  The Illustrated London News . Since D'Oyly Carte revived the piece in 1920, it has been regularly performed.
+>Phoenicolacerta troodica , commonly known as the Troodos lizard or the Troodos wall lizard, is a species of  lizard  in the family  Lacertidae . It is endemic to Cyprus, where it is common and widespread and its natural habitats are  Mediterranean-type  shrubland and rocky areas, in both rural and urban areas. Its length is up to 22 centimetres (8.7 inches), with males slightly larger than females. The species has a long tail, which can grow to more than twice its body length. This  P. troodica  lizard was photographed under the Elia Bridge in  Limassol District , Cyprus.
 
 

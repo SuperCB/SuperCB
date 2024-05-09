@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ninth_Symphony_original.png/825px-Ninth_Symphony_original.png" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Portrait_of_Yi_Haeung_%28National_Museum_of_Korea%29.jpg/450px-Portrait_of_Yi_Haeung_%28National_Museum_of_Korea%29.jpg" />
 </div>
 
->The  Symphony No. 9  in D minor, Op. 125, is a choral symphony, the final complete symphony by  Ludwig van Beethoven , composed between 1822 and 1824. It was first performed in  Vienna  on 7 May 1824. The symphony is regarded by many critics and musicologists as a masterpiece of  Western classical music . It is one of the best-known works in  common practice music  and one of the most frequently performed symphonies worldwide. Symphony No. 9 was the first example of a major composer scoring vocal parts in a symphony. In the 20th century, an instrumental arrangement of the chorus was adopted by the  Council of Europe , and later the  European Union , as the  Anthem of Europe . This photograph displays page 12 of Beethoven's original manuscript, which is currently held in the collection of the  Berlin State Library .
+>Heungseon Daewongun  (1821–1898) was the title of Yi Ha-eung, the regent of  Joseon  during the minority of  Emperor Gojong  in the 1860s. Until his death, he was a key political figure of late-Joseon Korea. The Daewongun is remembered both for the wide-ranging reforms that he attempted during his regency, as well as for what was described by historian Hilary Conroy as "vigorous enforcement of the seclusion policy, persecution of Christians, and the killing or driving off of foreigners who landed on Korean soil". This  silk painting  of the Daewongun, now in the collection of the  National Museum of Korea , was created by an unknown artist circa 1869. It is designated as a  Treasure of Korea .
 
 

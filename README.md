@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Portrait_of_Yi_Haeung_%28National_Museum_of_Korea%29.jpg/450px-Portrait_of_Yi_Haeung_%28National_Museum_of_Korea%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Acorn_woodpecker_holding_a_nut_in_its_beak-0225.jpg/495px-Acorn_woodpecker_holding_a_nut_in_its_beak-0225.jpg" />
 </div>
 
->Heungseon Daewongun  (1821–1898) was the title of Yi Ha-eung, the regent of  Joseon  during the minority of  Emperor Gojong  in the 1860s. Until his death, he was a key political figure of late-Joseon Korea. The Daewongun is remembered both for the wide-ranging reforms that he attempted during his regency, as well as for what was described by historian Hilary Conroy as "vigorous enforcement of the seclusion policy, persecution of Christians, and the killing or driving off of foreigners who landed on Korean soil". This  silk painting  of the Daewongun, now in the collection of the  National Museum of Korea , was created by an unknown artist circa 1869. It is designated as a  Treasure of Korea .
+>The  acorn woodpecker  ( Melanerpes formicivorus ) is a bird in the  woodpecker  family, Picidae. It is found across Central America, as well as the western United States and parts of Colombia. A medium-sized bird, it has a length of around 20 cm (8 in) and is mostly black, and adult males have a red cap starting at the forehead and females a black area between the forehead and the cap. As their name implies, acorn woodpeckers are heavily dependent on  acorns  for food, which they store in small holes that they drill into trees, known as "granaries" or "storage trees". This acorn woodpecker was photographed in the grounds of  California State University, Chico , United States.
 
 

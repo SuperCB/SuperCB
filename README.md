@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Acorn_woodpecker_holding_a_nut_in_its_beak-0225.jpg/495px-Acorn_woodpecker_holding_a_nut_in_its_beak-0225.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/RokebyVenus.jpg/570px-RokebyVenus.jpg" />
 </div>
 
->The  acorn woodpecker  ( Melanerpes formicivorus ) is a bird in the  woodpecker  family, Picidae. It is found across Central America, as well as the western United States and parts of Colombia. A medium-sized bird, it has a length of around 20 cm (8 in) and is mostly black, and adult males have a red cap starting at the forehead and females a black area between the forehead and the cap. As their name implies, acorn woodpeckers are heavily dependent on  acorns  for food, which they store in small holes that they drill into trees, known as "granaries" or "storage trees". This acorn woodpecker was photographed in the grounds of  California State University, Chico , United States.
+>The  Rokeby Venus  is a painting by  Diego Velázquez  which was completed between 1647 and 1651. It depicts the Roman goddess  Venus  in a sensual pose, lying on a bed and looking into a mirror held by her son  Cupid . The painting is the only surviving female  nude  by Velázquez. Since 1906 it has been in the  National Gallery  in London.
 
 

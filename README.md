@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Carpocoris_purpureipennis_fifth_instar_nymph_%28top_view%29_-_Kulna.jpg/360px-Carpocoris_purpureipennis_fifth_instar_nymph_%28top_view%29_-_Kulna.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bronze_chariot_inlaid_with_ivory_MET_DP137936.jpg/900px-Bronze_chariot_inlaid_with_ivory_MET_DP137936.jpg" />
 </div>
 
->Carpocoris purpureipennis  is a species in the shield bug family,  Pentatomidae . With a length of 11–13 millimetres (0.43–0.51 in), its body color varies from purple or reddish-brown to yellowish. The  pronotum  angles are black and the pronotum usually shows short longitudinal black stripes, while the  scutellum  may have some contrasting black spots. The insect's antennae are black and its legs are orange. Both the adult bugs and their  nymphs  are  polyphagous . Adults mainly feed on juices of  Cirsium arvense  and nectar of  Leucanthemum vulgare . These images show top and bottom views of a  C. purpureipennis  nymph.
+>The  Monteleone chariot  is an  Etruscan  chariot, dated to circa 530 BC, that was uncovered in 1902 at  Monteleone di Spoleto  in Umbria, Italy, in an underground tomb covered by a mound. It was part of a  chariot burial , containing the remains of two human corpses along with two drinking cups. Measuring 131 centimetres ( .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px} 51 + 5 ⁄ 8  inches) in height and designed to be drawn by two horses, the chariot itself is constructed of wood covered with hammered bronze plates and carved ivory decoration. The Monteleone chariot is now in the collection of the  Metropolitan Museum of Art  in New York City.
 
 

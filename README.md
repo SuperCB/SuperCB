@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/30_Doradus%2C_Tarantula_Nebula.jpg/525px-30_Doradus%2C_Tarantula_Nebula.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sword-billed_hummingbird_%28male%29_at_Guango_Lodge%2C_Ecuador_%2821310837273%29.jpg/525px-Sword-billed_hummingbird_%28male%29_at_Guango_Lodge%2C_Ecuador_%2821310837273%29.jpg" />
 </div>
 
->The  Tarantula Nebula , also known as 30 Doradus, is a large  H II region  in the  Large Magellanic Cloud  (LMC). It is one of the  largest H II regions  in the  Local Group , with an estimated diameter around 650 to 1860 light years. It is around 160,000 light-years from Earth and has  apparent magnitude  of 8. The Tarantula Nebula was first observed by  Nicolas-Louis de Lacaille  during an expedition to the Cape of Good Hope between 1751 and 1753. This high-resolution photograph was taken by the  Hubble Space Telescope  and shows the star-forming region of Tarantula Nebula with the  R136  super star cluster at its center.
+>The  sword-billed hummingbird  ( Ensifera ensifera ) is a  neotropical  species of  hummingbird  from the Andean regions of South America. Among the largest species of hummingbird, it is characterized by its unusually long beak, being the only bird to have a beak longer than the rest of its body, excluding the tail. It uses this to drink nectar from flowers with long  corollas  and has  coevolved  with the plant  Passiflora mixta . While most hummingbirds  preen  using their beaks, the sword-billed hummingbird uses its feet to scratch and preen due to its beak being so long.
 
 

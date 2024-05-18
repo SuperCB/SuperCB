@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Val%C3%A8re_et_Haut_de_Cry.jpg/750px-Val%C3%A8re_et_Haut_de_Cry.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Red_Kerchief%2C_by_Claude_Monet%2C_Cleveland_Museum_of_Art%2C_1958.39.jpg/525px-The_Red_Kerchief%2C_by_Claude_Monet%2C_Cleveland_Museum_of_Art%2C_1958.39.jpg" />
 </div>
 
->The  Valère Basilica  is a fortified Catholic church in  Sion , in the Swiss canton of  Valais . It is situated on a hill at an altitude of 615 metres (2,018 ft), and faces  Tourbillon Castle  located on the opposite hill. The first parts of the building were constructed around 1100, with numerous additions over the subsequent centuries. It was designated a  minor basilica  in 1987. The site is listed as a  Swiss heritage site of national significance , which includes the surrounding hill due to the large number of protected plant and animal species present there. This photograph shows the Valère Basilica in February 2021, with the  Haut de Cry , a 2,969-metre (9,741 ft) peak of the  Bernese Alps , in the background.
+>The Red Cape , also known as  Madame Monet  or  The Red Kerchief , is an  oil-on-canvas  snowscape by the French  Impressionist  artist  Claude Monet . Painted around 1868 to 1873, it depicts Monet's wife,  Camille , dressed in a red cape, passing outside a window as seen from inside a house. Monet created the painting while living in  Argenteuil  and the solitary setting at his home there allowed him to paint in relative peace, as well as spend time with his family. It is Monet's only known snowscape painting featuring Camille.  The Red Cape  is now in the collection of the  Cleveland Museum of Art  in Ohio, United States.
 
 

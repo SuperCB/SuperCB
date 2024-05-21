@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Quercus_robur_acorn_-_Keila.jpg/450px-Quercus_robur_acorn_-_Keila.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/NPG_2010_112_Lucia_Chamberlain_by_Zaida_Ben-Yusuf.jpg/450px-NPG_2010_112_Lucia_Chamberlain_by_Zaida_Ben-Yusuf.jpg" />
 </div>
 
->The  acorn  is the  nut  of the  oak  tree and its close relatives, in the family  Fagaceae . Acorns usually contain a  seedling  surrounded by two  cotyledons  (seedling leaves), enclosed in a tough  shell  known as the pericarp, and borne in a cup-shaped  cupule . This acorn of the species  Quercus robur  (the pedunculate oak), with a length of 25 millimetres (1 inch), was photographed in  Keila , Estonia.
+>Lucia Chamberlain  (1882–1978) was an American novelist. Her 1909 book was the basis of the 1916 film  The Other Side of the Door , and her 1917 short story "The Underside" formed the basis of the 1920 film  Blackmail . The 1916 film  The Wedding Guest  is also based on her writing. This photograph of Chamberlain was taken around 1908 by the American portrait photographer  Zaida Ben-Yusuf , and is now in the collection of the  National Portrait Gallery  in Washington, D.C.
 
 

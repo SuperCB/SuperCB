@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/NPG_2010_112_Lucia_Chamberlain_by_Zaida_Ben-Yusuf.jpg/450px-NPG_2010_112_Lucia_Chamberlain_by_Zaida_Ben-Yusuf.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Viviparus_georgianus_02.jpg/750px-Viviparus_georgianus_02.jpg" />
 </div>
 
->Lucia Chamberlain  (1882–1978) was an American novelist. Her 1909 book was the basis of the 1916 film  The Other Side of the Door , and her 1917 short story "The Underside" formed the basis of the 1920 film  Blackmail . The 1916 film  The Wedding Guest  is also based on her writing. This photograph of Chamberlain was taken around 1908 by the American portrait photographer  Zaida Ben-Yusuf , and is now in the collection of the  National Portrait Gallery  in Washington, D.C.
+>Viviparus georgianus , commonly known as the banded mystery snail, is a species of large  freshwater snail  in the family  Viviparidae , the river snails. It is native to North America, generally found from the northeastern United States to Florida and the Gulf of Mexico, and thrives in  eutrophic  lentic environments such as lakes, ponds and some low-flow streams. The snail has  has two distinct sexes  and  reproduces more than once in a lifetime , with females laying eggs singly in albumen-filled capsules. It feeds on  diatom  clusters found on silt and mud substrates, but it may also require the ingestion of some grit to be able to break down algae. This image shows five views of a 2.1 cm high (0.83 in)  V. georgianus   shell , originally collected in the U.S. state of  Georgia  and now in the collection of the  State Museum of Natural History Karlsruhe  in Germany.
 
 

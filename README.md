@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Viviparus_georgianus_02.jpg/750px-Viviparus_georgianus_02.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/De_Viron_Castle_%28DSC_2198%29.jpg/825px-De_Viron_Castle_%28DSC_2198%29.jpg" />
 </div>
 
->Viviparus georgianus , commonly known as the banded mystery snail, is a species of large  freshwater snail  in the family  Viviparidae , the river snails. It is native to North America, generally found from the northeastern United States to Florida and the Gulf of Mexico, and thrives in  eutrophic  lentic environments such as lakes, ponds and some low-flow streams. The snail has  has two distinct sexes  and  reproduces more than once in a lifetime , with females laying eggs singly in albumen-filled capsules. It feeds on  diatom  clusters found on silt and mud substrates, but it may also require the ingestion of some grit to be able to break down algae. This image shows five views of a 2.1 cm high (0.83 in)  V. georgianus   shell , originally collected in the U.S. state of  Georgia  and now in the collection of the  State Museum of Natural History Karlsruhe  in Germany.
+>De Viron Castle  is a castle in the town of  Dilbeek  in Flemish Brabant, Belgium. Commissioned by the de Viron family, which settled in Dilbeek in 1775, the castle was built in 1863 by  Jean-Pierre Cluysenaar . The  Renaissance Revival  castle was built on the ruins of a 14th-century fortification that was destroyed in 1862. One of the medieval towers, the Sint-Alenatoren, can still be seen in the park surrounding the current building and is named after  Saint Alena , who lived in Dilbeek. The castle has served as the town hall of Dilbeek and housed the offices of the municipality since 1923, and was listed as a  Belgian protected monument  in 1990. This photograph shows the facade of De Viron Castle with the surrounding park in the foreground.
 
 

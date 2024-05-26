@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ethel_Smyth.jpg/450px-Ethel_Smyth.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Plains-wanderer_female_8173.jpg/750px-Plains-wanderer_female_8173.jpg" />
 </div>
 
->Ethel Smyth  (1858–1944) was an English composer and a member of the  women's suffrage  movement. Her compositions include songs, works for piano, chamber music, orchestral works, choral works and operas. Smyth's extensive body of work includes the Concerto for Violin, Horn and Orchestra, and the  Mass in D . Her opera  The Wreckers  is considered by some critics to be the "most important English opera composed during the period between  Purcell  and  Britten ". This photograph of Smyth was taken in 1922.
+>The  plains-wanderer  ( Pedionomus torquatus ) is a bird in the family Pedionomidae, of which it is the only surviving species. Endemic to Australia, its historical range included  Victoria ,  New South Wales ,  South Australia  and the  Northern Territory , but in recent years it has become endangered, with remaining known populations concentrated in the Riverina (a region in southwestern New South Wales) and in western Queensland. The plains-wanderer is a  quail -like ground bird, measuring 15 to 19 centimetres (5.9 to 7.5 in). The adult male is light brown above, with fawn-white underparts with black crescents. The adult female is substantially larger than the male, and has a distinctive white-spotted black collar. This female plains-wanderer was photographed in the Riverina, north of the town of  Deniliquin , New South Wales.
 
 

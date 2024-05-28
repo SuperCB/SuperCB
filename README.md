@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Giechburg_Luftaufnahme-20210614-RM-212813.jpg/750px-Giechburg_Luftaufnahme-20210614-RM-212813.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Korenveld_-_s0146V1962_-_Van_Gogh_Museum.jpg/495px-Korenveld_-_s0146V1962_-_Van_Gogh_Museum.jpg" />
 </div>
 
->The  Giechburg  is a partly reconstructed hilltop castle located in the town of  Scheßlitz  in  Bavaria , Germany. There was a hilltop fort at the site from at least  Neolithic  times, and the castle enters written history in 1125. In 1390, it entered the possession of the  prince-bishops of Bamberg , and its history thereafter is closely allied to the bishopric and the city of  Bamberg . The castle was destroyed and rebuilt several times over the subsequent centuries before undergoing extensive redevelopment between 1599 and 1609. It became less useful to the prince-bishops over the subsequent centuries however, and eventually fell into ruin. After a period in the 19th and 20th centuries in the hands of the von Giech family, the castle was eventually acquired by the district of Bamberg in 1971 and reconstructed as a conference and hospitality centre. This 2021 aerial photograph shows the Giechburg viewed from the north, with the village of Peulendorf in the background.
+>Wheat Fields  is a series of dozens of paintings by Dutch artist  Vincent van Gogh . The close association of peasants and the cycles of nature particularly interested Van Gogh, such as the sowing of seeds, harvest and sheaves of wheat in the fields. Van Gogh saw ploughing, sowing and harvesting as symbolic to man's efforts to overwhelm the cycles of nature. This oil-on-canvas  Wheat Fields  painting, also sometimes known as  Wheat Field with Alpilles Foothills in the Background , was created in June 1888 and is now in the  Van Gogh Museum  in Amsterdam.
 
 

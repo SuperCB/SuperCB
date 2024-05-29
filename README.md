@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Korenveld_-_s0146V1962_-_Van_Gogh_Museum.jpg/495px-Korenveld_-_s0146V1962_-_Van_Gogh_Museum.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Tawny_coster_%28Acraea_terpsicore%29_underside_2_Komodo_I.jpg/495px-Tawny_coster_%28Acraea_terpsicore%29_underside_2_Komodo_I.jpg" />
 </div>
 
->Wheat Fields  is a series of dozens of paintings by Dutch artist  Vincent van Gogh . The close association of peasants and the cycles of nature particularly interested Van Gogh, such as the sowing of seeds, harvest and sheaves of wheat in the fields. Van Gogh saw ploughing, sowing and harvesting as symbolic to man's efforts to overwhelm the cycles of nature. This oil-on-canvas  Wheat Fields  painting, also sometimes known as  Wheat Field with Alpilles Foothills in the Background , was created in June 1888 and is now in the  Van Gogh Museum  in Amsterdam.
+>Acraea terpsicore , commonly known as the tawny coster, is a species of butterfly in the   Nymphalidae  family, the brush-footed butterflies. It is found across eastern Asia from India and Sri Lanka to Singapore, Indonesia and the Maldives and, more recently, Australia. It is small, with a size of 53–64 millimetres (2.1–2.5 in), has leathery wings and is common in grassland and scrub habitats.  Acraea terpsicore  has a weak fluttery flight and is avoided by most insect predators. This  A. terpsicore  individual was photographed in  Komodo National Park , Indonesia.
 
 

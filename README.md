@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Common_moorhen_%28Gallinula_chloropus%29_France.jpg/525px-Common_moorhen_%28Gallinula_chloropus%29_France.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Self-portrait_of_Jeremiah_Gurney.jpg/450px-Self-portrait_of_Jeremiah_Gurney.jpg" />
 </div>
 
->The  common moorhen  ( Gallinula chloropus ) is a bird species in the  rail  family, Rallidae. It is distributed across many parts of the  Old World , from Africa to Europe and Asia. It lives around well-vegetated marshes, ponds, canals and other wetlands. A midsized to large rail, the common moorhen ranges in length from 30 to 38 cm (12 to 15 in) in length and spans 50 to 62 cm (20 to 24 in) across the wings. It gives a wide range of gargling calls and will emit loud hisses when threatened. This common moorhen was photographed in the Parc des Chanteraines near  Gennevilliers  in the suburbs of Paris, France.
+>Jeremiah Gurney  (1812–1895) was an American  daguerreotype  photographer. Initially working in the jewelry trade in  Saratoga, New York , he took up photography after learning of daguerreotype from  Samuel Morse , moving to New York City where he began selling photographs alongside jewelry. He was one of the earliest photographers in the city, and may have been the owner of the first photographic gallery in the United States. Gurney took this self-portrait photograph around 1869, now in the collection of the  Minneapolis Institute of Art .
 
 

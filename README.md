@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Self-portrait_of_Jeremiah_Gurney.jpg/450px-Self-portrait_of_Jeremiah_Gurney.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Poplar_hawk-moth_%28Laothoe_populi%29_late_instar_larva.jpg/750px-Poplar_hawk-moth_%28Laothoe_populi%29_late_instar_larva.jpg" />
 </div>
 
->Jeremiah Gurney  (1812–1895) was an American  daguerreotype  photographer. Initially working in the jewelry trade in  Saratoga, New York , he took up photography after learning of daguerreotype from  Samuel Morse , moving to New York City where he began selling photographs alongside jewelry. He was one of the earliest photographers in the city, and may have been the owner of the first photographic gallery in the United States. Gurney took this self-portrait photograph around 1869, now in the collection of the  Minneapolis Institute of Art .
+>Laothoe populi , the poplar hawk-moth, is a  moth  of the family  Sphingidae . The species is found throughout the  Palearctic realm  and the  Near East , and is one of the most common members of the family in the region. On first hatching, the  larvae  are pale green with small yellow tubercules and a cream-coloured tail horn, at which point they are known as hornworms. They later develop yellow diagonal stripes on the sides, and pink spiracles. This photograph, taken in  Saint-Quentin-en-Tourmont , France, shows a late  instar  of  L. populi .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Poplar_hawk-moth_%28Laothoe_populi%29_late_instar_larva.jpg/750px-Poplar_hawk-moth_%28Laothoe_populi%29_late_instar_larva.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Edward_Duncan_-_The_Explosion_of_the_United_States_Steam_Frigate_Missouri.jpg/750px-Edward_Duncan_-_The_Explosion_of_the_United_States_Steam_Frigate_Missouri.jpg" />
 </div>
 
->Laothoe populi , the poplar hawk-moth, is a  moth  of the family  Sphingidae . The species is found throughout the  Palearctic realm  and the  Near East , and is one of the most common members of the family in the region. On first hatching, the  larvae  are pale green with small yellow tubercules and a cream-coloured tail horn, at which point they are known as hornworms. They later develop yellow diagonal stripes on the sides, and pink spiracles. This photograph, taken in  Saint-Quentin-en-Tourmont , France, shows a late  instar  of  L. populi .
+>HMS  Malabar  was a 74-gun  ship of the line  of the  Royal Navy , launched in 1818 at  Bombay Dockyard . In 1838,  Malabar  ran aground off  Prince Edward Island  in British North America and was damaged, with the loss of two crew members. She was refloated later that year and towed into  Three Rivers  in  Lower Canada . In August 1843,  Malabar , under the command of  Sir George Sartorius , assisted in fighting a fire that destroyed the  United States Navy  sidewheel frigate  USS  Missouri  at  Gibraltar , taking aboard about 200 of that ship's survivors.  Malabar  was converted to a  hulk  in 1848, eventually becoming a coal hulk, and was renamed  Myrtle  in 1883. The hulk was sold out of the navy in 1905. This  lithograph  from around 1843 shows the crew of  Malabar  watching as  Missouri  explodes and burns in the distance.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Philippe_Chaperon_-_Set_design_for_Act_V_in_the_premi%C3%A8re_of_Victorin_Jonci%C3%A8res%27_Dimitri.jpg/750px-Philippe_Chaperon_-_Set_design_for_Act_V_in_the_premi%C3%A8re_of_Victorin_Jonci%C3%A8res%27_Dimitri.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Aerial_View_of_Edinburgh%2C_by_Alfred_Buckham%2C_from_about_1920.jpg/450px-Aerial_View_of_Edinburgh%2C_by_Alfred_Buckham%2C_from_about_1920.jpg" />
 </div>
 
->Dimitri  is an 1876 French-language  grand opera  in five acts by  Victorin de Joncières . Set to a libretto by  Henri de Bornier  and  Paul Armand Silvestre  after  Friedrich Schiller 's incomplete play  Demetrius , itself a story based on the life of the Russian pretender  False Dmitry I  (reigned 1605–1606), the opera was first performed in Paris at the  Théâtre National Lyrique .  Antonín Dvořák 's 1881 opera  Dimitrij  was also based on Schiller's play. This picture shows the set design for Act V of  Dimitri' s première.
+>Edinburgh  is the capital city of  Scotland  and one of its 32  council areas . Located in the south-east of Scotland, it is bounded to the north by the  Firth of Forth  estuary and to the south by the  Pentland Hills . With a population of 506,520 in mid-2020, Edinburgh is the  second-largest city in Scotland by population  and the  seventh-largest  in the United Kingdom. The  royal burgh  of Edinburgh was founded by  King David I  in the early 12th century on land belonging to the Crown, and has been capital of Scotland since at least the 15th century. This aerial photograph, with  Edinburgh Castle  in the foreground, was taken around 1920.
 
 

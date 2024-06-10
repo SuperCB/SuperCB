@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Aerial_View_of_Edinburgh%2C_by_Alfred_Buckham%2C_from_about_1920.jpg/450px-Aerial_View_of_Edinburgh%2C_by_Alfred_Buckham%2C_from_about_1920.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Eastern_greenish_black-tip_%28Euchloe_penia%29_underside_Macedonia.jpg/525px-Eastern_greenish_black-tip_%28Euchloe_penia%29_underside_Macedonia.jpg" />
 </div>
 
->Edinburgh  is the capital city of  Scotland  and one of its 32  council areas . Located in the south-east of Scotland, it is bounded to the north by the  Firth of Forth  estuary and to the south by the  Pentland Hills . With a population of 506,520 in mid-2020, Edinburgh is the  second-largest city in Scotland by population  and the  seventh-largest  in the United Kingdom. The  royal burgh  of Edinburgh was founded by  King David I  in the early 12th century on land belonging to the Crown, and has been capital of Scotland since at least the 15th century. This aerial photograph, with  Edinburgh Castle  in the foreground, was taken around 1920.
+>Euchloe penia , commonly known as the eastern greenish black-tip, is a  butterfly  in the family  Pieridae . It is found in North Macedonia, Bulgaria, Greece, Turkey, Lebanon, Syria, and northern Iraq. The habitat consists of dry and warm rocky areas. Adults are a bright greenish off-yellow, with a wingspan of 32 to 36 millimetres (1.3 to 1.4 inches). There are two generations per year, with adults on the wing in April and from June to July. The  larvae  feed on plants of the genus  Matthiola . This  E. penia  butterfly perching on a flower was photographed in  Pletvar , North Macedonia.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Eastern_greenish_black-tip_%28Euchloe_penia%29_underside_Macedonia.jpg/525px-Eastern_greenish_black-tip_%28Euchloe_penia%29_underside_Macedonia.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Shockwave_pattern_around_a_T-38C_observed_with_Background-Oriented_Schlieren_photography_%281%29.jpg/525px-Shockwave_pattern_around_a_T-38C_observed_with_Background-Oriented_Schlieren_photography_%281%29.jpg" />
 </div>
 
->Euchloe penia , commonly known as the eastern greenish black-tip, is a  butterfly  in the family  Pieridae . It is found in North Macedonia, Bulgaria, Greece, Turkey, Lebanon, Syria, and northern Iraq. The habitat consists of dry and warm rocky areas. Adults are a bright greenish off-yellow, with a wingspan of 32 to 36 millimetres (1.3 to 1.4 inches). There are two generations per year, with adults on the wing in April and from June to July. The  larvae  feed on plants of the genus  Matthiola . This  E. penia  butterfly perching on a flower was photographed in  Pletvar , North Macedonia.
+>An  oblique shock  is a  shock wave  that, unlike a normal shock, is inclined with respect to the direction of incoming air. It occurs when a supersonic flow encounters a corner that effectively turns the flow into itself and compresses. This photograph shows an oblique shock at the nose of a  Northrop T-38 Talon  aircraft, made visible through  Schlieren photography .
 
 

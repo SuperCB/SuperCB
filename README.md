@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Shockwave_pattern_around_a_T-38C_observed_with_Background-Oriented_Schlieren_photography_%281%29.jpg/525px-Shockwave_pattern_around_a_T-38C_observed_with_Background-Oriented_Schlieren_photography_%281%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Zhou_Fang._Court_Ladies_Playing_Double-sixes._Freer_Gallery_of_Art.jpg/900px-Zhou_Fang._Court_Ladies_Playing_Double-sixes._Freer_Gallery_of_Art.jpg" />
 </div>
 
->An  oblique shock  is a  shock wave  that, unlike a normal shock, is inclined with respect to the direction of incoming air. It occurs when a supersonic flow encounters a corner that effectively turns the flow into itself and compresses. This photograph shows an oblique shock at the nose of a  Northrop T-38 Talon  aircraft, made visible through  Schlieren photography .
+>Zhou Fang  was a Chinese painter during the  Tang dynasty , living in the capital of  Chang'an  (modern  Xi'an ) during the 8th century. He came from a noble background and this was reflected in his works. He personally painted for the emperor and the themes of his artwork covered religious subjects and everyday life. This  ink-and-color-on-silk painting , titled  Court Ladies Playing Double-sixes , measures 30.5 cm × 69.1 cm (12.0 in × 27.2 in) and depicts members of the emperor's household playing the board game  liubo . It now hangs in the  Freer Gallery of Art  in Washington, D.C.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Zhou_Fang._Court_Ladies_Playing_Double-sixes._Freer_Gallery_of_Art.jpg/900px-Zhou_Fang._Court_Ladies_Playing_Double-sixes._Freer_Gallery_of_Art.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Green_kingfisher_%28Chloroceryle_americana%29_male_3.jpg/600px-Green_kingfisher_%28Chloroceryle_americana%29_male_3.jpg" />
 </div>
 
->Zhou Fang  was a Chinese painter during the  Tang dynasty , living in the capital of  Chang'an  (modern  Xi'an ) during the 8th century. He came from a noble background and this was reflected in his works. He personally painted for the emperor and the themes of his artwork covered religious subjects and everyday life. This  ink-and-color-on-silk painting , titled  Court Ladies Playing Double-sixes , measures 30.5 cm × 69.1 cm (12.0 in × 27.2 in) and depicts members of the emperor's household playing the board game  liubo . It now hangs in the  Freer Gallery of Art  in Washington, D.C.
+>The  green kingfisher  ( Chloroceryle americana ) is a species of bird in the  kingfisher  family, Alcedinidae. It is found from the southern United States, south through Central America, and in every mainland South American country except Chile. The green kingfisher is about 20 cm (7.9 in) long and weighs about 35 to 40 g (1.2 to 1.4 oz), with females being larger and heavier than males. It has various vocalisations, including one described as resembling "the striking of two pebbles together" and another as "a harsh, buzzy scold". This male green kingfisher, a member of the subspecies  C. a. americana , was spotted close to the  Cristalino River  in the  Pantanal , Brazil.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_MSS_1288.jpg/525px-Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_MSS_1288.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Violet_dropwing_%28Trithemis_annulata%29_female_Cyprus.jpg/600px-Violet_dropwing_%28Trithemis_annulata%29_female_Cyprus.jpg" />
 </div>
 
->Al-Hajj  is the  22nd chapter  ( surah ) of the  Quran , describing the pilgrimage to  Mecca  known as the  Hajj . This Chinese scroll in ink, watercolour and gold on paper was produced in the second half of the 19th century, contains the full text of the chapter in Arabic, and is now part of the  Khalili Collection of Hajj and the Arts of Pilgrimage . Almost five metres (16 feet) in length, the scroll's illustrations include  a map entitled "Routes of the Hajj", a view of the  Great Wall of China , and views of Mecca and  Medina , as well as diagrammatic depictions of the stations of pilgrimage and Jerusalem, including the  Kaaba . The illustrations are captioned in Chinese.
+>Trithemis annulata , commonly known as the violet dropwing, is a species of  dragonfly  in the family  Libellulidae . It is found in most of Africa, the Middle East, and southern Europe. Males of this species are violet-red with red veins in the wings, while females are yellow and brown. Both sexes have red eyes. This female violet dropwing was photographed near  Kalopanagiotis  in Cyprus.
 
 

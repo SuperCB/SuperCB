@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Violet_dropwing_%28Trithemis_annulata%29_female_Cyprus.jpg/600px-Violet_dropwing_%28Trithemis_annulata%29_female_Cyprus.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Almonds_-_in_shell%2C_shell_cracked_open%2C_shelled%2C_blanched.jpg/570px-Almonds_-_in_shell%2C_shell_cracked_open%2C_shelled%2C_blanched.jpg" />
 </div>
 
->Trithemis annulata , commonly known as the violet dropwing, is a species of  dragonfly  in the family  Libellulidae . It is found in most of Africa, the Middle East, and southern Europe. Males of this species are violet-red with red veins in the wings, while females are yellow and brown. Both sexes have red eyes. This female violet dropwing was photographed near  Kalopanagiotis  in Cyprus.
+>The  almond  ( Prunus amygdalus ) is a species of tree in the family  Rosaceae , the family named after roses. It prospers in a moderate  Mediterranean climate  with cool winter weather, and is native to  Iran  and surrounding countries, although it is rarely now found wild in its original setting. The fruit of the almond is a  drupe , consisting of an outer hull and a  hard shell  with the seed; botanically, it is not considered a  true nut . It is used extensively as a culinary  nut , however, and is cultivated worldwide. Around 80% of the world's almond supply is  produced in the US state of California . This photograph shows an almond drupe in shell, shell cracked open, unshelled and blanched seed.
 
 

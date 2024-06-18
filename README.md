@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Almonds_-_in_shell%2C_shell_cracked_open%2C_shelled%2C_blanched.jpg/570px-Almonds_-_in_shell%2C_shell_cracked_open%2C_shelled%2C_blanched.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sugarloaf_Sunrise_2.jpg/750px-Sugarloaf_Sunrise_2.jpg" />
 </div>
 
->The  almond  ( Prunus amygdalus ) is a species of tree in the family  Rosaceae , the family named after roses. It prospers in a moderate  Mediterranean climate  with cool winter weather, and is native to  Iran  and surrounding countries, although it is rarely now found wild in its original setting. The fruit of the almond is a  drupe , consisting of an outer hull and a  hard shell  with the seed; botanically, it is not considered a  true nut . It is used extensively as a culinary  nut , however, and is cultivated worldwide. Around 80% of the world's almond supply is  produced in the US state of California . This photograph shows an almond drupe in shell, shell cracked open, unshelled and blanched seed.
+>Sugarloaf Mountain  is a peak situated in  Rio de Janeiro , Brazil, on a peninsula that juts out into the Atlantic Ocean. Rising 396 m (1,299 ft) above the harbor, the peak is named for its resemblance to the traditional shape of concentrated refined  sugarloaf . The mountain is one of several  monolithic  granite and quartz mountains that rise straight from the water's edge in the area, and is geologically part of a family of steep-sided rock outcroppings known as  bornhardts . Sugarloaf Mountain also features the  Sugarloaf Cable Car  and is popular with tourists for its panoramic views of the city and beyond. This photograph shows Sugarloaf Mountain at sunrise viewed from  Tijuca National Park , with the Rio neighborhood of  Botafogo  in the foreground.
 
 

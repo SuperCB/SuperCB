@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Copper_sunbird_%28Cinnyris_cupreus_cupreus%29_female_on_Persian_silk_tree_%28Albizia_julibrissin%29.jpg/600px-Copper_sunbird_%28Cinnyris_cupreus_cupreus%29_female_on_Persian_silk_tree_%28Albizia_julibrissin%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zygaena_filipendulae_%28top_view%29_-_Kulna.jpg/420px-Zygaena_filipendulae_%28top_view%29_-_Kulna.jpg" />
 </div>
 
->The  copper sunbird  ( Cinnyris cupreus ) is a species of passerine bird in the family  Nectariniidae . It is native to tropical Africa, its range extending from Senegal and Guinea in the west to South Sudan and Kenya in the east, and southwards to Angola, Zambia, Zimbabwe and Mozambique. It feeds on nectar that it extracts from selected flowers, such as  Calliandra  spp.,  Leonotis leonurus ,  Syzygium  spp., and  Senegalia polyacantha . It also takes fruits, spiders and insects, some of which are caught while in flight. This female copper sunbird of the  subspecies   C. c. cupreus  was photographed in a  Persian silk tree  in  Kakum National Park , Ghana.
+>The  six-spot burnet  ( Zygaena filipendulae ) is a  moth  of the family  Zygaenidae . It is a common species throughout Europe, except the Atlantic coast of the Iberian Peninsula, northern Scandinavia and the Great Russian North, and is also present in Asia Minor, through the Caucasus to Syria and Lebanon. It inhabits meadows, woodland clearings, sea-cliffs and area rich in grasses and flowers, up to 2,000 m altitude. The adults fly on hot, sunny days and are attracted to a wide variety of flowers such as  knapweed  and  scabious , as well as the larval food plants  bird's foot trefoil ,  Dorycnium ,  Coronilla  and  clover . This six-spot burnet was photographed in  Kulna , Estonia.
 
 

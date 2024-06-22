@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zygaena_filipendulae_%28top_view%29_-_Kulna.jpg/420px-Zygaena_filipendulae_%28top_view%29_-_Kulna.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TITIAN_-_Venus_Anadyomene_%28National_Galleries_of_Scotland%2C_c._1520._Oil_on_canvas%2C_75.8_x_57.6_cm%29.jpg/525px-TITIAN_-_Venus_Anadyomene_%28National_Galleries_of_Scotland%2C_c._1520._Oil_on_canvas%2C_75.8_x_57.6_cm%29.jpg" />
 </div>
 
->The  six-spot burnet  ( Zygaena filipendulae ) is a  moth  of the family  Zygaenidae . It is a common species throughout Europe, except the Atlantic coast of the Iberian Peninsula, northern Scandinavia and the Great Russian North, and is also present in Asia Minor, through the Caucasus to Syria and Lebanon. It inhabits meadows, woodland clearings, sea-cliffs and area rich in grasses and flowers, up to 2,000 m altitude. The adults fly on hot, sunny days and are attracted to a wide variety of flowers such as  knapweed  and  scabious , as well as the larval food plants  bird's foot trefoil ,  Dorycnium ,  Coronilla  and  clover . This six-spot burnet was photographed in  Kulna , Estonia.
+>Venus Anadyomene  is an  oil-on-canvas painting  by  Titian , dating to around 1520. It depicts the Greek goddess  Venus  rising from the sea and wringing her hair, with a shell visible at the bottom left, taken from a description of Venus by the Greek poet  Hesiod  in which she was born fully-grown from a shell. The wringing of her hair is a direct imitation of  Apelles 's lost masterwork, also called  Venus Anadyomene . The painting is in good condition and achieved public ownership in 2003 when it was purchased from  Francis Egerton, 7th Duke of Sutherland . It is now in the collection of the  National Galleries of Scotland .
 
 

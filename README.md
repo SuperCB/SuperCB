@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pinguicula_vulgaris_flower_%28front_view%29_-_Keila.jpg/525px-Pinguicula_vulgaris_flower_%28front_view%29_-_Keila.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Long_Tack_Sam_poster_by_Adolph_Friedlander.jpg/525px-Long_Tack_Sam_poster_by_Adolph_Friedlander.jpg" />
 </div>
 
->Pinguicula vulgaris , the common butterwort, is a perennial  carnivorous plant  in the  Lentibulariaceae  family. It has a generally  circumboreal  distribution, being native to almost every country in Europe as well as Russia, Canada and the United States. Growing to a height of 3 to 16 centimetres (1.2 to 6.3 inches), it is topped with a purple and occasionally white funnel-shaped flower that is 15 millimetres (0.59 in) or longer. The plant, which is  insectivorous , grows in damp environments such as bogs and swamps, in low or subalpine elevations. Its leaves have glands that excrete a sticky fluid that traps insects; its glands also produce digestive enzymes that work to consume the insects externally. This  P. vulgaris  flower was photographed in  Keila , Estonia.
+>Long Tack Sam  (1884–1961) was a Chinese-born American magician, acrobat, and  vaudeville  performer. Little is known about his early years, although he is known to have joined a group of acrobats around 1900 called the Tian-Kwai, with whom he toured the world. Several years later, amid unrest in China, he brought his troupe of entertainers to the United States, where he performed extensively for several decades. This colour  lithograph  poster featuring Long was printed in Hamburg, Germany, in 1919. It illustrates his conscious use of luxurious embroidered costumes and elaborate scenery to enhance his mystique and capitalise on Western notions of " the mysterious Orient ".
 
 

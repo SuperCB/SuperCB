@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Long_Tack_Sam_poster_by_Adolph_Friedlander.jpg/525px-Long_Tack_Sam_poster_by_Adolph_Friedlander.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg/525px-Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg" />
 </div>
 
->Long Tack Sam  (1884–1961) was a Chinese-born American magician, acrobat, and  vaudeville  performer. Little is known about his early years, although he is known to have joined a group of acrobats around 1900 called the Tian-Kwai, with whom he toured the world. Several years later, amid unrest in China, he brought his troupe of entertainers to the United States, where he performed extensively for several decades. This colour  lithograph  poster featuring Long was printed in Hamburg, Germany, in 1919. It illustrates his conscious use of luxurious embroidered costumes and elaborate scenery to enhance his mystique and capitalise on Western notions of " the mysterious Orient ".
+>The  sedge warbler  ( Acrocephalus schoenobaenus ) is a passerine bird in the  Acrocephalidae  family, the reed warblers. It is a medium-sized warbler with a brown, streaked back and wings and a distinct pale  supercilium . Sedge warblers are  migratory , crossing the  Sahara  to get from their European and Asian breeding grounds to spend winter in Africa. The male's song is composed of chattering phrases and can include mimicry of other species. The species is mostly  insectivorous . This sedge warbler was photographed in  Otmoor RSPB reserve  in  Oxfordshire , England.
 
 

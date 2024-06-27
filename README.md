@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg/525px-Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sir_William_Thomson%2C_Baron_Kelvin_by_T._%26_R._Annan_%26_Sons.jpg/525px-Sir_William_Thomson%2C_Baron_Kelvin_by_T._%26_R._Annan_%26_Sons.jpg" />
 </div>
 
->The  sedge warbler  ( Acrocephalus schoenobaenus ) is a passerine bird in the  Acrocephalidae  family, the reed warblers. It is a medium-sized warbler with a brown, streaked back and wings and a distinct pale  supercilium . Sedge warblers are  migratory , crossing the  Sahara  to get from their European and Asian breeding grounds to spend winter in Africa. The male's song is composed of chattering phrases and can include mimicry of other species. The species is mostly  insectivorous . This sedge warbler was photographed in  Otmoor RSPB reserve  in  Oxfordshire , England.
+>Lord Kelvin  (26 June 1824 – 17 December 1907) was a British mathematician,  mathematical physicist  and engineer. Born in  Belfast , he was  Professor of Natural Philosophy  at the  University of Glasgow  for 53 years, where he undertook significant research, including on  electricity  and the formulation of the first and second  laws of thermodynamics . He was also the first to determine the correct value of  absolute zero , and the  Kelvin scale  of temperature is named in his honour. Kelvin received the  Copley Medal  in 1883, served as the  president of the Royal Society  from 1890 to 1895, and in 1892 became the first British scientist to be elevated to the  House of Lords . This photograph, taken circa 1900, shows Kelvin resting on a  binnacle  (the stand for a marine compass) of his invention, and holding a marine azimuth mirror.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Espir%C3%B3grafo_%28Sabella_spallanzanii%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-23%2C_DD_70.jpg/600px-Espir%C3%B3grafo_%28Sabella_spallanzanii%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-23%2C_DD_70.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Color_SEM_4.jpg/750px-Color_SEM_4.jpg" />
 </div>
 
->Sabella spallanzanii  is a species of marine  polychaete  worms in the family  Sabellidae . It is native to the northeastern Atlantic Ocean, Mediterranean Sea and North Sea, but has spread to various other parts of the world and is included on the  Global Invasive Species Database . The species grows to a total length of 9 to 40 centimetres (4 to 16 inches) and is usually larger in deep water. It features stiff, sandy tubes formed from hardened mucus secreted by the worm that protrude from the sand, and a two-layered crown of feeding tentacles that can be retracted into the tube. This  S. spallanzanii  worm was photographed in  Arrábida Natural Park , Portugal.
+>Fumarole minerals  are minerals that are deposited by  fumarole  exhalations. They form when gases and compounds desublimate or precipitate out of condensates, forming mineral deposits. They are mostly associated with volcanoes (as volcanic sublimate or fumarolic sublimate), following  deposition  from volcanic gas during an eruption or discharge from a volcanic vent or fumarole, but have been encountered on  burning coal deposits  as well. They can be black or multicoloured and are often unstable upon exposure to the atmosphere. This natural-colour  photomicrograph  of fumarole minerals from  Mutnovsky , a volcano on the  Kamchatka Peninsula  in Russia, was taken using a  scanning electron microscope  and colour-enhanced by optical microscopy. Yellow and red crystals of  thallium(I) iodide  are visible, with a gradual transition between the two  polymorphs . The crystals are located on a substrate of altered rock. This image is 700 micrometres (0.028 in) across on the long side.
 
 

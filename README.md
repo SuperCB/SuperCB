@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BattleOfInab.jpg/525px-BattleOfInab.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gibson%27s_Albatross_0A2A8124.jpg/600px-Gibson%27s_Albatross_0A2A8124.jpg" />
 </div>
 
->The  Battle of Inab , also called the Battle of Ard al-Hâtim or Fons Muratus, was fought on 29 June 1149 during the  Second Crusade . The  Zengid  army of  Nur al-Din Zengi  destroyed the combined army of  Raymond of Poitiers  and the  Assassins  of Ali ibn-Wafa. The  Principality of Antioch  was subsequently pillaged and reduced in size as its eastern border was pushed west, and both Raymond and his ally ibn-Wafa were killed. This illustration by  Jean Colombe  was taken from the 14th-century manuscript  Passages d'outremer  and depicts the Battle of Inab in the main image above, with the recovery of Raymond's body depicted below. It is part of a volume of 66 such full-page miniatures.
+>Gibson's albatross  ( Diomedea antipodensis gibsoni ) is a large seabird in the  albatross  family, Diomedeidae, named after the Australian amateur ornithologist  John Douglas Gibson . It is found principally in the  Auckland Islands  of New Zealand, foraging in the  Tasman Sea , with most individuals nesting on  Adams Island . Gibson's albatross is classified as part of the same species as the  Antipodean albatross  but is generally paler in colour. Adult birds are white on the back, with white plumage on the head and body and fine grey barring. The tail is white with black edges, except in older males, in which it may be completely white, while the bill is pale pink. This Gibson's albatross was photographed in flight off the south-eastern coast of  Tasmania , Australia.
 
 

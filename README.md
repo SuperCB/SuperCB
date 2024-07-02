@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gibson%27s_Albatross_0A2A8124.jpg/600px-Gibson%27s_Albatross_0A2A8124.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hall_Another_World_and_Yet_the_Same_1607_Cornell_CUL_PJM_1009_01.jpg/600px-Hall_Another_World_and_Yet_the_Same_1607_Cornell_CUL_PJM_1009_01.jpg" />
 </div>
 
->Gibson's albatross  ( Diomedea antipodensis gibsoni ) is a large seabird in the  albatross  family, Diomedeidae, named after the Australian amateur ornithologist  John Douglas Gibson . It is found principally in the  Auckland Islands  of New Zealand, foraging in the  Tasman Sea , with most individuals nesting on  Adams Island . Gibson's albatross is classified as part of the same species as the  Antipodean albatross  but is generally paler in colour. Adult birds are white on the back, with white plumage on the head and body and fine grey barring. The tail is white with black edges, except in older males, in which it may be completely white, while the bill is pale pink. This Gibson's albatross was photographed in flight off the south-eastern coast of  Tasmania , Australia.
+>Mundus Alter et Idem  ( Another World and Yet the Same ) is a satirical dystopian novel written by the English writer and bishop  Joseph Hall  around 1605. In the novel, the narrator takes a voyage in the ship  Fantasia  through the southern seas, visiting the lands of Crapulia, Viraginia, Moronia, and Lavernia (populated by gluttons, nags, fools, and thieves, respectively). These locations feature on this map, which accompanies the novel.
 
 

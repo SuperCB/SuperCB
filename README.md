@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hall_Another_World_and_Yet_the_Same_1607_Cornell_CUL_PJM_1009_01.jpg/600px-Hall_Another_World_and_Yet_the_Same_1607_Cornell_CUL_PJM_1009_01.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ectophasia_crassipennis_male_-_Keila.jpg/450px-Ectophasia_crassipennis_male_-_Keila.jpg" />
 </div>
 
->Mundus Alter et Idem  ( Another World and Yet the Same ) is a satirical dystopian novel written by the English writer and bishop  Joseph Hall  around 1605. In the novel, the narrator takes a voyage in the ship  Fantasia  through the southern seas, visiting the lands of Crapulia, Viraginia, Moronia, and Lavernia (populated by gluttons, nags, fools, and thieves, respectively). These locations feature on this map, which accompanies the novel.
+>Ectophasia crassipennis  is a species of flies in the family  Tachinidae  and the subfamily  Phasiinae . It is present in southern Europe and warmer parts of central Europe. Adults can reach a length of about 5 to 9 millimetres (0.20 to 0.35 inches). Their large compound eyes are red, while the body varies between black and orange-brown, with large wings featuring wide brown or grey dots. The broad abdomen is flattened and  sternite  7 is ventrally folded. This male  E. crassipennis  fly was photographed in  Keila , Estonia.
 
 

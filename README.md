@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ectophasia_crassipennis_male_-_Keila.jpg/450px-Ectophasia_crassipennis_male_-_Keila.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/George_Washington_by_John_Trumbull_%281780%29.jpg/525px-George_Washington_by_John_Trumbull_%281780%29.jpg" />
 </div>
 
->Ectophasia crassipennis  is a species of flies in the family  Tachinidae  and the subfamily  Phasiinae . It is present in southern Europe and warmer parts of central Europe. Adults can reach a length of about 5 to 9 millimetres (0.20 to 0.35 inches). Their large compound eyes are red, while the body varies between black and orange-brown, with large wings featuring wide brown or grey dots. The broad abdomen is flattened and  sternite  7 is ventrally folded. This male  E. crassipennis  fly was photographed in  Keila , Estonia.
+>George Washington  is a 1780 oil-on-canvas painting by  John Trumbull , depicting  George Washington , the  commander-in-chief of the Continental Army  and later the first  president of the United States , standing on a bluff above the  Hudson River . His enslaved personal servant,  William "Billy" Lee , is on horseback behind him. The view across the river encompasses  West Point, New York , with a red-and-white striped banner – possibly the  Navy ensign adopted in 1775  – flying atop the fortress. Trumbull served on Washington's staff as an  aide-de-camp  early in the  American Revolutionary War  and painted this portrait from memory about five years later while studying in  London . It was the first authoritative representation of Washington available in Europe and was soon copied throughout the continent. The painting has been in the collection of the  Metropolitan Museum of Art  in New York City since 1924.
 
 

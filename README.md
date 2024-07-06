@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/George_Washington_by_John_Trumbull_%281780%29.jpg/525px-George_Washington_by_John_Trumbull_%281780%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cirsium_palustre_inflorescence_-_Niitv%C3%A4lja.jpg/525px-Cirsium_palustre_inflorescence_-_Niitv%C3%A4lja.jpg" />
 </div>
 
->George Washington  is a 1780 oil-on-canvas painting by  John Trumbull , depicting  George Washington , the  commander-in-chief of the Continental Army  and later the first  president of the United States , standing on a bluff above the  Hudson River . His enslaved personal servant,  William "Billy" Lee , is on horseback behind him. The view across the river encompasses  West Point, New York , with a red-and-white striped banner – possibly the  Navy ensign adopted in 1775  – flying atop the fortress. Trumbull served on Washington's staff as an  aide-de-camp  early in the  American Revolutionary War  and painted this portrait from memory about five years later while studying in  London . It was the first authoritative representation of Washington available in Europe and was soon copied throughout the continent. The painting has been in the collection of the  Metropolitan Museum of Art  in New York City since 1924.
+>Cirsium palustre , the marsh  thistle , is a herbaceous  biennial  (or often  perennial ) flowering plant in the family  Asteraceae . It is native to Europe, where it is particularly common on damp ground such as marshes, wet fields, moorland and beside streams. In Canada and the northern United States it is an  introduced species  that has become  invasive . It grows in dense thickets that can crowd out slower-growing native plants.  Cirsium palustre  can reach up to 2 metres (7 ft) in height. The strong stems have few branches and are covered in small spines. In its first year the plant grows as a dense  rosette  and in subsequent years a candelabra of dark purple or occasionally white flowers, 10–20 millimetres (0.4–0.8 in) with purple-tipped  bracts . In the Northern Hemisphere these are produced from June to September. The plant provides an important source of nectar for  pollinators . This  C. palustre  flower was photographed in  Niitvälja , Estonia.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cirsium_palustre_inflorescence_-_Niitv%C3%A4lja.jpg/525px-Cirsium_palustre_inflorescence_-_Niitv%C3%A4lja.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grey-crowned_Babblers_1605.jpg/600px-Grey-crowned_Babblers_1605.jpg" />
 </div>
 
->Cirsium palustre , the marsh  thistle , is a herbaceous  biennial  (or often  perennial ) flowering plant in the family  Asteraceae . It is native to Europe, where it is particularly common on damp ground such as marshes, wet fields, moorland and beside streams. In Canada and the northern United States it is an  introduced species  that has become  invasive . It grows in dense thickets that can crowd out slower-growing native plants.  Cirsium palustre  can reach up to 2 metres (7 ft) in height. The strong stems have few branches and are covered in small spines. In its first year the plant grows as a dense  rosette  and in subsequent years a candelabra of dark purple or occasionally white flowers, 10–20 millimetres (0.4–0.8 in) with purple-tipped  bracts . In the Northern Hemisphere these are produced from June to September. The plant provides an important source of nectar for  pollinators . This  C. palustre  flower was photographed in  Niitvälja , Estonia.
+>The  grey-crowned babbler  ( Pomatostomus temporalis ) is a species of bird in the family Pomatostomidae, the  Australo-Papuan babblers . It is found in Australia, Indonesia, and Papua New Guinea. Its  habitats  include subtropical,  tropical dry  and  tropical moist  lowland forests and shrublands as well as  savanna . This photograph shows a group of grey-crowned babblers in  Binya , New South Wales, Australia.
 
 

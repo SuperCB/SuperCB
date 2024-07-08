@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grey-crowned_Babblers_1605.jpg/600px-Grey-crowned_Babblers_1605.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Raspberry_-_whole_%28Rubus_idaeus%29.jpg/375px-Raspberry_-_whole_%28Rubus_idaeus%29.jpg" />
 </div>
 
->The  grey-crowned babbler  ( Pomatostomus temporalis ) is a species of bird in the family Pomatostomidae, the  Australo-Papuan babblers . It is found in Australia, Indonesia, and Papua New Guinea. Its  habitats  include subtropical,  tropical dry  and  tropical moist  lowland forests and shrublands as well as  savanna . This photograph shows a group of grey-crowned babblers in  Binya , New South Wales, Australia.
+>The  raspberry  is the edible fruit of a multitude of plant  species  in the  genus   Rubus  of the  rose family , most of which are in the  subgenus   Idaeobatus . World production of raspberries in 2022 was 947,852  tonnes , led by Russia with 22% of the total. Raspberries are cultivated across northern Europe and North America and are eaten in various ways, including as whole fruit and in  preserves , cakes, ice cream, and  liqueurs .
 
 

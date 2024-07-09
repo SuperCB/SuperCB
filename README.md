@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Raspberry_-_whole_%28Rubus_idaeus%29.jpg/375px-Raspberry_-_whole_%28Rubus_idaeus%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Celestine_-_Sakoany_deposit%2C_Katsepy%2C_Mitsinjo%2C_Boeny%2C_Madagascar.jpg/450px-Celestine_-_Sakoany_deposit%2C_Katsepy%2C_Mitsinjo%2C_Boeny%2C_Madagascar.jpg" />
 </div>
 
->The  raspberry  is the edible fruit of a multitude of plant  species  in the  genus   Rubus  of the  rose family , most of which are in the  subgenus   Idaeobatus . World production of raspberries in 2022 was 947,852  tonnes , led by Russia with 22% of the total. Raspberries are cultivated across northern Europe and North America and are eaten in various ways, including as whole fruit and in  preserves , cakes, ice cream, and  liqueurs .
+>Celestine  is a mineral consisting of  strontium sulfate  ( Sr S O 4 ). It is named for its occasional delicate blue color. Celestine and the  carbonate  mineral  strontianite  are the principal sources of the element  strontium , commonly used in fireworks and in various metal alloys. The mineral occurs as crystals, and also in compact massive, and fibrous forms. It is found worldwide, mostly in sedimentary rocks, usually in small quantities. Pale-blue crystal specimens, as shown in this photograph (field of view 3.5 by 2.6 centimetres or 1.4 by 1.0 inch), are found in Madagascar. 
 
 

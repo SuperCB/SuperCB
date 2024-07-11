@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Koppie_foam_grasshopper_%28Dictyophorus_spumans_spumans%29_3.jpg/525px-Koppie_foam_grasshopper_%28Dictyophorus_spumans_spumans%29_3.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Nikola_Tesla%2C_with_his_equipment_Wellcome_M0014782_-_restoration2.jpg/750px-Nikola_Tesla%2C_with_his_equipment_Wellcome_M0014782_-_restoration2.jpg" />
 </div>
 
->Dictyophorus spumans , the koppie foam grasshopper, is a species of  grasshopper  in the family  Pyrgomorphidae , indigenous to southern Africa. The name "foam grasshopper" derives from the insect's ability to produce a toxic foam from its  thoracic  glands, using a combination of  hemolymph  with air from the grasshopper's  spiracles . Adult males are typically 4.5 to 5 centimetres (1.8 to 2.0 inches) long, and females typically 5 to 7 centimetres (2.0 to 2.8 inches), but individual grasshoppers can grow up to a length of 8 centimetres (3.1 inches). This grasshopper of the subspecies  D. s. spumans  was photographed in the  Walter Sisulu National Botanical Garden  in  Roodepoort , South Africa.
+>Nikola Tesla  (10 July 1856 – 7 January 1943) was a Serbian-American inventor, electrical engineer, mechanical engineer, and  futurist . He is known for his contributions to the design of the modern  alternating-current  electricity supply system. This photograph, taken in Tesla's laboratory in  Colorado Springs  in December 1899, supposedly shows him reading in a chair next to his giant " magnifying transmitter " high-voltage generator while the machine produces huge bolts of electricity. The image was created through a  double exposure  as part of a promotional stunt by the photographer Dickenson V. Alley. The machine's huge sparks were first photographed in the darkened room, then the photographic plate was exposed again with the machine off and Tesla sitting in the chair. In his notes, compiled in  Colorado Springs Notes, 1899–1900 , Tesla admitted that the photo is false.
 
 

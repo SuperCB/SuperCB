@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Nikola_Tesla%2C_with_his_equipment_Wellcome_M0014782_-_restoration2.jpg/750px-Nikola_Tesla%2C_with_his_equipment_Wellcome_M0014782_-_restoration2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Navy_Yard%2C_Brooklyn._New_York._1918_-_NH_117794.jpg/600px-Navy_Yard%2C_Brooklyn._New_York._1918_-_NH_117794.jpg" />
 </div>
 
->Nikola Tesla  (10 July 1856 – 7 January 1943) was a Serbian-American inventor, electrical engineer, mechanical engineer, and  futurist . He is known for his contributions to the design of the modern  alternating-current  electricity supply system. This photograph, taken in Tesla's laboratory in  Colorado Springs  in December 1899, supposedly shows him reading in a chair next to his giant " magnifying transmitter " high-voltage generator while the machine produces huge bolts of electricity. The image was created through a  double exposure  as part of a promotional stunt by the photographer Dickenson V. Alley. The machine's huge sparks were first photographed in the darkened room, then the photographic plate was exposed again with the machine off and Tesla sitting in the chair. In his notes, compiled in  Colorado Springs Notes, 1899–1900 , Tesla admitted that the photo is false.
+>The  Brooklyn Navy Yard  is a shipyard and industrial complex in northwest  Brooklyn  in New York City, United States. The Navy Yard is located on the  East River  in  Wallabout Bay , a semicircular bend of the river across from  Corlears Hook  in  Manhattan . It is bounded by Navy Street to the west,  Flushing Avenue  to the south, Kent Avenue to the east, and the East River on the north. The site is listed on the  National Register of Historic Places . This photograph shows Brooklyn Navy Yard seen from the air in 1918.
 
 

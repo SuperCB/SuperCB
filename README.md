@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Navy_Yard%2C_Brooklyn._New_York._1918_-_NH_117794.jpg/600px-Navy_Yard%2C_Brooklyn._New_York._1918_-_NH_117794.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Village_weaver_%28Ploceus_cucullatus_cucullatus%29_male_with_leaf.jpg/495px-Village_weaver_%28Ploceus_cucullatus_cucullatus%29_male_with_leaf.jpg" />
 </div>
 
->The  Brooklyn Navy Yard  is a shipyard and industrial complex in northwest  Brooklyn  in New York City, United States. The Navy Yard is located on the  East River  in  Wallabout Bay , a semicircular bend of the river across from  Corlears Hook  in  Manhattan . It is bounded by Navy Street to the west,  Flushing Avenue  to the south, Kent Avenue to the east, and the East River on the north. The site is listed on the  National Register of Historic Places . This photograph shows Brooklyn Navy Yard seen from the air in 1918.
+>The  village weaver  ( Ploceus cucullatus ) is a species of bird in the family  Ploceidae . It is found in much of sub-Saharan Africa and has been  introduced  to some islands in the Indian Ocean and the Caribbean. Village weavers forage and  roost  in large groups, often with other weaver species. In some areas, they move periodically along fixed routes. The birds look for food on the ground, but also look up to search vegetation and trees. Village weavers nest in colonies and are very active during the breeding season. Birds fly in and leave again constantly, making significant noise. Colonies can contain as many as 150 nests, but eight to a hundred nests in a single tree are usual. This male village weaver was photographed in  Kakum National Park , Ghana.
 
 

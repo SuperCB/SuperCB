@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Death_of_Marat_by_David.jpg/420px-Death_of_Marat_by_David.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Happy_Chandler_-_Harris_and_Ewing_Crop.jpg/450px-Happy_Chandler_-_Harris_and_Ewing_Crop.jpg" />
 </div>
 
->The Death of Marat  is a 1793 painting by  Jacques-Louis David  depicting the artist's friend and murdered French revolutionary leader,  Jean-Paul Marat . It was painted when David was the leading French Neoclassical painter, a  Montagnard , and a member of the revolutionary  Committee of General Security . Created in the months after Marat's death, the painting shows Marat lying dead in his bath after his murder by  Charlotte Corday  on 13 July 1793. Art historian  T. J. Clark  called David's painting the first modernist work for "the way it took the stuff of politics as its material, and did not transmute it".
+>Happy Chandler  (July 14, 1898 – June 15, 1991) was an American politician who served as the  44th governor of Kentucky  from 1935 to 1939, a member of the  U.S. Senate , and again as the 49th governor of Kentucky from 1955 to 1959. In his first term as governor, he oversaw the repeal of the sales tax, replacing the lost revenue with new  excise  taxes and the state's first  income tax , and helped improve the state's education and transportation systems. He resigned as governor so his successor could appoint him to the Senate. A  fiscal conservative  and disciple of  Virginia 's  Harry F. Byrd , Chandler opposed parts of Roosevelt's  New Deal  and openly disagreed with the president's decision to prioritize  European operations in World War II  over the  Pacific War . In 1945, he resigned his Senate seat to become the  commissioner of baseball , succeeding  Kenesaw Mountain Landis . He approved  Jackie Robinson 's contract with the  Brooklyn Dodgers , initiating the  racial integration  of  Major League Baseball .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Happy_Chandler_-_Harris_and_Ewing_Crop.jpg/450px-Happy_Chandler_-_Harris_and_Ewing_Crop.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bronze-winged_jacana_%28Metopidius_indicus%29.jpg/600px-Bronze-winged_jacana_%28Metopidius_indicus%29.jpg" />
 </div>
 
->Happy Chandler  (July 14, 1898 – June 15, 1991) was an American politician who served as the  44th governor of Kentucky  from 1935 to 1939, a member of the  U.S. Senate , and again as the 49th governor of Kentucky from 1955 to 1959. In his first term as governor, he oversaw the repeal of the sales tax, replacing the lost revenue with new  excise  taxes and the state's first  income tax , and helped improve the state's education and transportation systems. He resigned as governor so his successor could appoint him to the Senate. A  fiscal conservative  and disciple of  Virginia 's  Harry F. Byrd , Chandler opposed parts of Roosevelt's  New Deal  and openly disagreed with the president's decision to prioritize  European operations in World War II  over the  Pacific War . In 1945, he resigned his Senate seat to become the  commissioner of baseball , succeeding  Kenesaw Mountain Landis . He approved  Jackie Robinson 's contract with the  Brooklyn Dodgers , initiating the  racial integration  of  Major League Baseball .
+>The  bronze-winged jacana  ( Metopidius indicus ) is a  wader  in the family  Jacanidae . It is found across South and Southeast Asia. Like other jacanas, it forages on lilies and other floating aquatic vegetation, using its long feet and legs for balance. The sexes are alike but females are slightly larger and are  polyandrous , maintaining a harem of males during the breeding season in the  monsoon  rains. Males maintain territories, with one male in the harem chosen to incubate the eggs and take care of the young. When threatened, young chicks may be carried to safety by the male under his wings. This bronze-winged jacana was photographed in  Kumarakom  on the shore of  Vembanad , the largest lake in the Indian state of  Kerala .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bronze-winged_jacana_%28Metopidius_indicus%29.jpg/600px-Bronze-winged_jacana_%28Metopidius_indicus%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Handling_serpents_at_the_Pentecostal_Church_of_God._%28Kentucky%29_by_Russell_Lee._-_NARA_-_541335.jpg/600px-Handling_serpents_at_the_Pentecostal_Church_of_God._%28Kentucky%29_by_Russell_Lee._-_NARA_-_541335.jpg" />
 </div>
 
->The  bronze-winged jacana  ( Metopidius indicus ) is a  wader  in the family  Jacanidae . It is found across South and Southeast Asia. Like other jacanas, it forages on lilies and other floating aquatic vegetation, using its long feet and legs for balance. The sexes are alike but females are slightly larger and are  polyandrous , maintaining a harem of males during the breeding season in the  monsoon  rains. Males maintain territories, with one male in the harem chosen to incubate the eggs and take care of the young. When threatened, young chicks may be carried to safety by the male under his wings. This bronze-winged jacana was photographed in  Kumarakom  on the shore of  Vembanad , the largest lake in the Indian state of  Kerala .
+>Snake handling in Christianity  is a rite performed in several churches in the United States. Originating in rural  Appalachia , the first instance of snake handling was seen about 1910.  Pentecostal  minister  George Went Hensley  was prominent in the early development of the rite. Practitioners commonly quote the  gospels of Luke  and  Mark  to support the practice. Practitioners are also encouraged to  lay hands  on the sick,  speak in tongues , and occasionally drink poisons. This photograph, taken by the American photographer  Russell Lee  in 1946, depicts snake handling at the Church of God with Signs Following, a Pentecostal church in  Lejunior, Kentucky .
 
 

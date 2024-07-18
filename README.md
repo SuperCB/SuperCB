@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Handling_serpents_at_the_Pentecostal_Church_of_God._%28Kentucky%29_by_Russell_Lee._-_NARA_-_541335.jpg/600px-Handling_serpents_at_the_Pentecostal_Church_of_God._%28Kentucky%29_by_Russell_Lee._-_NARA_-_541335.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Espir%C3%B3grafo_%28Bispira_volutacornis%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-23%2C_DD_43.jpg/525px-Espir%C3%B3grafo_%28Bispira_volutacornis%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-23%2C_DD_43.jpg" />
 </div>
 
->Snake handling in Christianity  is a rite performed in several churches in the United States. Originating in rural  Appalachia , the first instance of snake handling was seen about 1910.  Pentecostal  minister  George Went Hensley  was prominent in the early development of the rite. Practitioners commonly quote the  gospels of Luke  and  Mark  to support the practice. Practitioners are also encouraged to  lay hands  on the sick,  speak in tongues , and occasionally drink poisons. This photograph, taken by the American photographer  Russell Lee  in 1946, depicts snake handling at the Church of God with Signs Following, a Pentecostal church in  Lejunior, Kentucky .
+>Bispira volutacornis , sometimes known as the twin fan worm or spiral fan worm, is a type of  tube worm  found in the shallow  sublittoral zone  of the eastern Atlantic Ocean. It grows in crevices and in stony areas and prefers areas rich in sediment but with low levels of illumination. It has a parchment-like tube with a  mucoid  outer layer that is often coated with mud or silt. The tube is usually concealed in a crevice and the worm can retract into the tube when disturbed. It feeds on plankton which it captures with its plumes. It also uses the plumes to gather sediment with which to expand the tube. This  B. volutavornis  worm was photographed in  Arrábida Natural Park , Portugal.
 
 

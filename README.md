@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Espir%C3%B3grafo_%28Bispira_volutacornis%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-23%2C_DD_43.jpg/525px-Espir%C3%B3grafo_%28Bispira_volutacornis%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-23%2C_DD_43.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Salisbury_Cathedral_Nave%2C_Wiltshire%2C_UK_-_Diliff.jpg/525px-Salisbury_Cathedral_Nave%2C_Wiltshire%2C_UK_-_Diliff.jpg" />
 </div>
 
->Bispira volutacornis , sometimes known as the twin fan worm or spiral fan worm, is a type of  tube worm  found in the shallow  sublittoral zone  of the eastern Atlantic Ocean. It grows in crevices and in stony areas and prefers areas rich in sediment but with low levels of illumination. It has a parchment-like tube with a  mucoid  outer layer that is often coated with mud or silt. The tube is usually concealed in a crevice and the worm can retract into the tube when disturbed. It feeds on plankton which it captures with its plumes. It also uses the plumes to gather sediment with which to expand the tube. This  B. volutavornis  worm was photographed in  Arrábida Natural Park , Portugal.
+>Salisbury Cathedral  is a  Church of England  cathedral in the city of  Salisbury  in  Wiltshire , England. It was built between 1220 and 1258 in  Early English Gothic style . This photograph, taken in 2014, shows the interior of Salisbury Cathedral, looking eastwards towards the  high altar  through the tall and narrow  nave . It has three levels: a tall pointed  arcade , an open gallery, and a small  clerestory . The nave includes an unconventional modern  baptismal font , installed in September 2008. Designed by the water sculptor  William Pye , it is the largest working font in any British cathedral. The font is cruciform in shape, and has a 10-foot-wide (3.0 m) vessel filled to its brim with water, designed so that the water overflows in filaments through each corner into bronze gratings embedded in the cathedral's stone floor.
 
 

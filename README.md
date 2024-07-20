@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Salisbury_Cathedral_Nave%2C_Wiltshire%2C_UK_-_Diliff.jpg/525px-Salisbury_Cathedral_Nave%2C_Wiltshire%2C_UK_-_Diliff.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Horatius_Cocles_De_Romeinse_helden_%28serietitel%29%2C_RP-P-OB-10.336.jpg/525px-Horatius_Cocles_De_Romeinse_helden_%28serietitel%29%2C_RP-P-OB-10.336.jpg" />
 </div>
 
->Salisbury Cathedral  is a  Church of England  cathedral in the city of  Salisbury  in  Wiltshire , England. It was built between 1220 and 1258 in  Early English Gothic style . This photograph, taken in 2014, shows the interior of Salisbury Cathedral, looking eastwards towards the  high altar  through the tall and narrow  nave . It has three levels: a tall pointed  arcade , an open gallery, and a small  clerestory . The nave includes an unconventional modern  baptismal font , installed in September 2008. Designed by the water sculptor  William Pye , it is the largest working font in any British cathedral. The font is cruciform in shape, and has a 10-foot-wide (3.0 m) vessel filled to its brim with water, designed so that the water overflows in filaments through each corner into bronze gratings embedded in the cathedral's stone floor.
+>Horatius Cocles  was an officer in the army of the early  Roman Republic  who famously defended the  Pons Sublicius  from the invading army of  Etruscan  king  Lars Porsena  of  Clusium  in the late 6th century BC, during the  war between Rome and Clusium . By defending the narrow end of the bridge, he and his companions were able to hold off the attacking army long enough to allow other Romans to destroy the bridge behind him, blocking the Etruscans' advance and saving the city. This fanciful engraving of Cocles was produced in 1586 by the German-born Dutch printmaker  Hendrick Goltzius . The full-length portrait shows him holding a raised sword in his right hand and a shield in his left. In the lower right of the background, Cocles takes on an army by himself.
 
 

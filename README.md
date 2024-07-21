@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Horatius_Cocles_De_Romeinse_helden_%28serietitel%29%2C_RP-P-OB-10.336.jpg/525px-Horatius_Cocles_De_Romeinse_helden_%28serietitel%29%2C_RP-P-OB-10.336.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Theodore_von_K%C3%A1rm%C3%A1n_230419-F-F3405-0001_%28restored%29.jpg/750px-Theodore_von_K%C3%A1rm%C3%A1n_230419-F-F3405-0001_%28restored%29.jpg" />
 </div>
 
->Horatius Cocles  was an officer in the army of the early  Roman Republic  who famously defended the  Pons Sublicius  from the invading army of  Etruscan  king  Lars Porsena  of  Clusium  in the late 6th century BC, during the  war between Rome and Clusium . By defending the narrow end of the bridge, he and his companions were able to hold off the attacking army long enough to allow other Romans to destroy the bridge behind him, blocking the Etruscans' advance and saving the city. This fanciful engraving of Cocles was produced in 1586 by the German-born Dutch printmaker  Hendrick Goltzius . The full-length portrait shows him holding a raised sword in his right hand and a shield in his left. In the lower right of the background, Cocles takes on an army by himself.
+>Theodore von Kármán  (1881–1963) was a  Hungarian-American  mathematician, aerospace engineer and physicist who worked in aeronautics and astronautics. He was responsible for crucial advances in  aerodynamics  characterizing  supersonic  airflow. The human-defined threshold of outer space is named the  Kármán line  in recognition of his work. This 1959 photograph shows von Kármán  (left)  joined by  United States Air Force  and  NASA  officials while inspecting two missile models used in the high-velocity, high-altitude  wind tunnels  at  Arnold Air Force Base . The missiles shown are the  AGARD-B  and the  Atlas   Series-B .
 
 

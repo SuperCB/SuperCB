@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Marabou_stork_%28Leptoptilos_crumenifer%29_in_flight_2.jpg/600px-Marabou_stork_%28Leptoptilos_crumenifer%29_in_flight_2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/French_Battleship_Justice_by_the_Detroit_Publishing_Co%2C_1909.jpg/750px-French_Battleship_Justice_by_the_Detroit_Publishing_Co%2C_1909.jpg" />
 </div>
 
->The  marabou stork  ( Leptoptilos crumenifer ) is a wading  bird  in the  stork  family, Ciconiidae, native to  sub-Saharan Africa . It is a large bird, with individuals reaching a height of 152 centimetres (4.99 feet) and a weight of 9 kilograms (20 lb), and has the largest  wingspan  of any land bird, with an average of 2.6 metres (8.5 ft) and some recorded examples of up to 3.2 metres (10 ft). The marabou stork breeds in Africa south of the Sahara. In East Africa, the birds interact with humans and breed in urban areas. In southern African countries, the birds breed mainly in less populated areas. This marabou stork in flight was photographed in the town of  Batu , by  Lake Ziway , Ethiopia.
+>Justice  was a  pre-dreadnought battleship  built for the  French Navy  in the early 1900s. She was the second member of the  Liberté  class , which included three other vessels and was a derivative of the preceding  République  class .  Justice  carried a  main battery  of four 305 mm (12 in) guns, with ten 194 mm (7.6 in) guns for her secondary armament. On entering service,  Justice  became the  flagship  of the 2nd Division of the  Mediterranean Squadron , participating in the training routine of squadron and fleet maneuvers and cruises, as well as several  naval reviews . During World War I,  Justice  was used to escort  troopship  convoys carrying elements of the French Army from North Africa to face the Germans invading northern France and also steamed to contain the  Austro-Hungarian Navy  in the  Adriatic Sea , taking part in the minor  Battle of Antivari . She was sent to the  Black Sea  after the war to oversee the surrender of German-occupied Russian warships, and then briefly became a training ship, before being decommissioned in the early 1920s. This photograph shows  Justice  in 1909 near New York City.
 
 

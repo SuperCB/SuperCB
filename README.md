@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nathan_Francis_Mossell_%281856-1946%29%2C_M.D._1882%2C_portrait_photograph_by_H.D._Carns_%26_Co%3B_Image_ID_27593990.jpg/450px-Nathan_Francis_Mossell_%281856-1946%29%2C_M.D._1882%2C_portrait_photograph_by_H.D._Carns_%26_Co%3B_Image_ID_27593990.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bultfonteinite_-_Linxi%2C_Chifeng_City%2C_Inner_Mongolia%2C_China.jpg/450px-Bultfonteinite_-_Linxi%2C_Chifeng_City%2C_Inner_Mongolia%2C_China.jpg" />
 </div>
 
->Nathan Francis Mossell  (July 27, 1856 – October 27, 1946) was an American physician. Born in  Hamilton, Ontario , Mossell was the fourth of six children and both his parents were descended from freed slaves. During the  American Civil War , the family moved back to the United States, settling in  Lockport, New York , where Mossell's father went into business. Mossell earned a degree from  Lincoln University , a historically black college in Pennsylvania, followed by the  University of Pennsylvania School of Medicine , where he graduated in 1882. He was active in the  NAACP  and also helped found the  Douglass Hospital  in West Philadelphia in 1895, which he led as chief of staff and medical director until he retired in 1933. His wife was the activist and teacher  Gertrude Bustill Mossell . This portrait of Mossell was taken around 1882.
+>Bultfonteinite  is a pink, light-brown or colorless  mineral  with the chemical formula Ca 2 SiO 2 (OH,F) 4 . It was first discovered in 1903 or 1904 in the  Bultfontein  mine in Kimberley, South Africa, with other finds in the same country in the following years. It has since been found across the world including in Australia, Botswana, Japan, Russia and the United States. The mineral occurs as radiating prismatic acicular crystals and radial spherules up to 2 centimetres (0.79 inches). This specimen of bultfonteinite, measuring 5.0 cm × 3.0 cm × 3.0 cm (2.0 in × 1.2 in × 1.2 in), was extracted from Shijiangshan Mine near  Chifeng  in  Inner Mongolia , China.
 
 

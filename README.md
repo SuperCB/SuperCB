@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bultfonteinite_-_Linxi%2C_Chifeng_City%2C_Inner_Mongolia%2C_China.jpg/450px-Bultfonteinite_-_Linxi%2C_Chifeng_City%2C_Inner_Mongolia%2C_China.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mockingbird_in_Bay_Ridge_%2885082%29.jpg/600px-Mockingbird_in_Bay_Ridge_%2885082%29.jpg" />
 </div>
 
->Bultfonteinite  is a pink, light-brown or colorless  mineral  with the chemical formula Ca 2 SiO 2 (OH,F) 4 . It was first discovered in 1903 or 1904 in the  Bultfontein  mine in Kimberley, South Africa, with other finds in the same country in the following years. It has since been found across the world including in Australia, Botswana, Japan, Russia and the United States. The mineral occurs as radiating prismatic acicular crystals and radial spherules up to 2 centimetres (0.79 inches). This specimen of bultfonteinite, measuring 5.0 cm × 3.0 cm × 3.0 cm (2.0 in × 1.2 in × 1.2 in), was extracted from Shijiangshan Mine near  Chifeng  in  Inner Mongolia , China.
+>The  northern mockingbird  ( Mimus polyglottos ) is a species of  mockingbird , in the family  Mimidae , commonly found in North America. The species is also found in some parts of the Caribbean, as well as on the  Hawaiian Islands . It is typically a permanent  resident  across much of its range, but northern mockingbirds may move further south during inclement weather or prior to the onset of winter. The northern mockingbird has gray to brown upper feathers and a paler belly. Its tail and wings have white patches which are visible in flight. The species is known for its ability to mimic bird calls and other types of sound, including artificial and electronic noises. This northern mockingbird was photographed in  Bay Ridge , a neighborhood of the New York City borough of  Brooklyn .
 
 

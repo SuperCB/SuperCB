@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mockingbird_in_Bay_Ridge_%2885082%29.jpg/600px-Mockingbird_in_Bay_Ridge_%2885082%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Avocado_Hass_-_single_and_halved.jpg/600px-Avocado_Hass_-_single_and_halved.jpg" />
 </div>
 
->The  northern mockingbird  ( Mimus polyglottos ) is a species of  mockingbird , in the family  Mimidae , commonly found in North America. The species is also found in some parts of the Caribbean, as well as on the  Hawaiian Islands . It is typically a permanent  resident  across much of its range, but northern mockingbirds may move further south during inclement weather or prior to the onset of winter. The northern mockingbird has gray to brown upper feathers and a paler belly. Its tail and wings have white patches which are visible in flight. The species is known for its ability to mimic bird calls and other types of sound, including artificial and electronic noises. This northern mockingbird was photographed in  Bay Ridge , a neighborhood of the New York City borough of  Brooklyn .
+>The  Hass avocado  is a variety of  avocado  with dark green, bumpy skin. It was first grown and sold by the American horticulturist  Rudolph Hass , who also gave it his name. The Hass is one of the most commercially popular avocado cultivars and accounts for more than 80 percent of the crop in the United States. This is due to its taste, size, shelf-life, high growing yield and in some areas, year-round harvesting. The fruit has a mass of 200 to 300 grams (8 to 10 ounces) and, when ripe, its skin becomes a dark purplish-black that yields to gentle pressure. The centre part of the inner fruit then becomes white-green. This picture shows a whole and a halved Hass avocado, cultivated in Colombia. The photograph was  focus-stacked  from 12 separate images.
 
 

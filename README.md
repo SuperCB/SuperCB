@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Avocado_Hass_-_single_and_halved.jpg/600px-Avocado_Hass_-_single_and_halved.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Union_Street_Gowanus_New_York_October_2021_panorama_1.jpg/900px-Union_Street_Gowanus_New_York_October_2021_panorama_1.jpg" />
 </div>
 
->The  Hass avocado  is a variety of  avocado  with dark green, bumpy skin. It was first grown and sold by the American horticulturist  Rudolph Hass , who also gave it his name. The Hass is one of the most commercially popular avocado cultivars and accounts for more than 80 percent of the crop in the United States. This is due to its taste, size, shelf-life, high growing yield and in some areas, year-round harvesting. The fruit has a mass of 200 to 300 grams (8 to 10 ounces) and, when ripe, its skin becomes a dark purplish-black that yields to gentle pressure. The centre part of the inner fruit then becomes white-green. This picture shows a whole and a halved Hass avocado, cultivated in Colombia. The photograph was  focus-stacked  from 12 separate images.
+>The  Gowanus Canal  is a 1.8-mile-long (2.9 km) canal in the New York City borough of  Brooklyn , on the westernmost portion of  Long Island . It was created in the mid–19th century from local tidal  wetlands  and freshwater  streams , and by the end of that century was very polluted due to heavy industrial use. Most industrial tenants had stopped using the canal by the middle of the 20th century, but it remained one of the most polluted bodies of water in the United States. Its proximity to Manhattan and upper-class Brooklyn neighborhoods has attracted waterfront redevelopment in recent years, alongside attempts at environmental cleanup. It was designated a  Superfund  site in 2009. This five-segment panoramic photograph shows the Gowanus Canal as viewed from  Union Street Bridge  in 2021, looking northeastward towards  Downtown Brooklyn .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Union_Street_Gowanus_New_York_October_2021_panorama_1.jpg/900px-Union_Street_Gowanus_New_York_October_2021_panorama_1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Green_frog_%28Pelophylax_esculentus_complex%29_Danube_delta.jpg/600px-Green_frog_%28Pelophylax_esculentus_complex%29_Danube_delta.jpg" />
 </div>
 
->The  Gowanus Canal  is a 1.8-mile-long (2.9 km) canal in the New York City borough of  Brooklyn , on the westernmost portion of  Long Island . It was created in the mid–19th century from local tidal  wetlands  and freshwater  streams , and by the end of that century was very polluted due to heavy industrial use. Most industrial tenants had stopped using the canal by the middle of the 20th century, but it remained one of the most polluted bodies of water in the United States. Its proximity to Manhattan and upper-class Brooklyn neighborhoods has attracted waterfront redevelopment in recent years, alongside attempts at environmental cleanup. It was designated a  Superfund  site in 2009. This five-segment panoramic photograph shows the Gowanus Canal as viewed from  Union Street Bridge  in 2021, looking northeastward towards  Downtown Brooklyn .
+>The  edible frog  or green frog ( Pelophylax  kl.  esculentus ) is a common European frog species that occurs naturally from the northern half of France to western Russia and from Estonia and Denmark to Bulgaria and northern Italy, and is also an  introduced species  in other parts of the continent. It is a fertile  hybrid  of the  pool frog  ( Pelophylax lessonae ) and the  marsh frog  ( P. ridibundus ) and  reproduces using hybridogenesis , a process in which one parental genome is excluded. The species is used as food – particularly in France, as well as Germany and Italy – as the delicacy  frog legs . This edible frog was photographed in the  Danube  delta east of  Tulcea , Romania.
 
 

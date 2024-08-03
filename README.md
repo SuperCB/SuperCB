@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Green_frog_%28Pelophylax_esculentus_complex%29_Danube_delta.jpg/600px-Green_frog_%28Pelophylax_esculentus_complex%29_Danube_delta.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sedum_acre_single_-_Niitv%C3%A4lja.jpg/450px-Sedum_acre_single_-_Niitv%C3%A4lja.jpg" />
 </div>
 
->The  edible frog  or green frog ( Pelophylax  kl.  esculentus ) is a common European frog species that occurs naturally from the northern half of France to western Russia and from Estonia and Denmark to Bulgaria and northern Italy, and is also an  introduced species  in other parts of the continent. It is a fertile  hybrid  of the  pool frog  ( Pelophylax lessonae ) and the  marsh frog  ( P. ridibundus ) and  reproduces using hybridogenesis , a process in which one parental genome is excluded. The species is used as food – particularly in France, as well as Germany and Italy – as the delicacy  frog legs . This edible frog was photographed in the  Danube  delta east of  Tulcea , Romania.
+>Sedum acre , commonly known as the biting stonecrop, is a perennial  flowering plant  in the family  Crassulaceae . It is native to Europe, North Africa and parts of Asia, and is naturalised in other places such as North America and New Zealand. It is a low-growing plant which is adapted for growth on thin dry soils, being found on terrain including dry grassland, beaches, drystone walls and roadside verges. The plant forms mat-like stands up to 12 centimetres (5 inches) tall. For most of the year the stems are short with dense leaf coverage, but during the flowering season  in June and July, the stems lengthen and become erect. This  S. acre  plant with a length of 3.5 centimetres (1.4 inches) was photographed in  Niitvälja , Estonia.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sedum_acre_single_-_Niitv%C3%A4lja.jpg/450px-Sedum_acre_single_-_Niitv%C3%A4lja.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Belva_Ann_Bennett_Lockwood.jpg/450px-Belva_Ann_Bennett_Lockwood.jpg" />
 </div>
 
->Sedum acre , commonly known as the biting stonecrop, is a perennial  flowering plant  in the family  Crassulaceae . It is native to Europe, North Africa and parts of Asia, and is naturalised in other places such as North America and New Zealand. It is a low-growing plant which is adapted for growth on thin dry soils, being found on terrain including dry grassland, beaches, drystone walls and roadside verges. The plant forms mat-like stands up to 12 centimetres (5 inches) tall. For most of the year the stems are short with dense leaf coverage, but during the flowering season  in June and July, the stems lengthen and become erect. This  S. acre  plant with a length of 3.5 centimetres (1.4 inches) was photographed in  Niitvälja , Estonia.
+>Belva Ann Lockwood  (1830–1917) was an American lawyer, politician, educator, and author who was active in the  women's rights  and  women's suffrage  movements. She was one of the first women lawyers in the United States, and in 1879 she became the first woman to be  admitted to practice law  before the  U.S. Supreme Court . She later ran for president, one of the first women to do so, in the  1884  and  1888 presidential elections , on the ticket of the  National Equal Rights Party . This  albumen silver print  of a photograph of Lockwood was taken around 1880 by Benjamin Joseph Falk.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Belva_Ann_Bennett_Lockwood.jpg/450px-Belva_Ann_Bennett_Lockwood.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IceCube_Neutrino_Observatory_in_2023_02.jpg/750px-IceCube_Neutrino_Observatory_in_2023_02.jpg" />
 </div>
 
->Belva Ann Lockwood  (1830–1917) was an American lawyer, politician, educator, and author who was active in the  women's rights  and  women's suffrage  movements. She was one of the first women lawyers in the United States, and in 1879 she became the first woman to be  admitted to practice law  before the  U.S. Supreme Court . She later ran for president, one of the first women to do so, in the  1884  and  1888 presidential elections , on the ticket of the  National Equal Rights Party . This  albumen silver print  of a photograph of Lockwood was taken around 1880 by Benjamin Joseph Falk.
+>The  IceCube Neutrino Observatory  is a  neutrino detector  constructed at the  Amundsen–Scott South Pole Station  in Antarctica. Similar to its predecessor, the  Antarctic Muon And Neutrino Detector Array , IceCube consists of spherical optical sensors called Digital Optical Modules, each with a  photomultiplier tube , located under the Antarctic ice and distributed over a cubic kilometre. The project is a recognized  CERN  experiment and construction was completed in 2010. This photograph shows the exterior of the IceCube building in 2023.
 
 

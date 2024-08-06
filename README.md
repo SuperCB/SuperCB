@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IceCube_Neutrino_Observatory_in_2023_02.jpg/750px-IceCube_Neutrino_Observatory_in_2023_02.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Malabar_pied_hornbill_%28Anthracoceros_coronatus%29_male.jpg/495px-Malabar_pied_hornbill_%28Anthracoceros_coronatus%29_male.jpg" />
 </div>
 
->The  IceCube Neutrino Observatory  is a  neutrino detector  constructed at the  Amundsen–Scott South Pole Station  in Antarctica. Similar to its predecessor, the  Antarctic Muon And Neutrino Detector Array , IceCube consists of spherical optical sensors called Digital Optical Modules, each with a  photomultiplier tube , located under the Antarctic ice and distributed over a cubic kilometre. The project is a recognized  CERN  experiment and construction was completed in 2010. This photograph shows the exterior of the IceCube building in 2023.
+>The  Malabar pied hornbill  ( Anthracoceros coronatus ) is a bird in the  hornbill  family of tropical  near-passerines . It is a common resident breeder in India and Sri Lanka, where its habitat is evergreen and moist deciduous forests, often near human settlements. It is an omnivorous species, consuming fruits, small mammals, birds, small reptiles and insects. It eats by killing its prey and swallowing it whole. Figs are an important food, contributing at least 60% of the bird's diet throughout the year. It breeds in March and April, during which time figs form up to 75% of the fruits delivered at the nest. This Malabar pied hornbill was photographed in  Yala National Park , Sri Lanka.
 
 

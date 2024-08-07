@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Malabar_pied_hornbill_%28Anthracoceros_coronatus%29_male.jpg/495px-Malabar_pied_hornbill_%28Anthracoceros_coronatus%29_male.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Installing_the_ATLAS_Calorimeter_-_edit1.jpg/863px-Installing_the_ATLAS_Calorimeter_-_edit1.jpg" />
 </div>
 
->The  Malabar pied hornbill  ( Anthracoceros coronatus ) is a bird in the  hornbill  family of tropical  near-passerines . It is a common resident breeder in India and Sri Lanka, where its habitat is evergreen and moist deciduous forests, often near human settlements. It is an omnivorous species, consuming fruits, small mammals, birds, small reptiles and insects. It eats by killing its prey and swallowing it whole. Figs are an important food, contributing at least 60% of the bird's diet throughout the year. It breeds in March and April, during which time figs form up to 75% of the fruits delivered at the nest. This Malabar pied hornbill was photographed in  Yala National Park , Sri Lanka.
+>ATLAS  is the largest general-purpose  particle detector  experiment at the  Large Hadron Collider  (LHC), a  particle accelerator  at  CERN  (the European Organization for Nuclear Research) in Switzerland. The experiment is designed to take advantage of the unprecedented energy available at the LHC and observe phenomena that involve highly massive  particles  which were not observable using earlier lower-energy accelerators. ATLAS was one of the two LHC experiments involved in the discovery of the  Higgs boson  in July 2012. It was also designed to search for evidence of theories of  particle physics  beyond the  Standard Model . This image shows the eight  toroid  magnets surrounding the  calorimeter  in the centre.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Installing_the_ATLAS_Calorimeter_-_edit1.jpg/863px-Installing_the_ATLAS_Calorimeter_-_edit1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Takht-i-Bahi_Buddhist_Monastery.jpg/825px-Takht-i-Bahi_Buddhist_Monastery.jpg" />
 </div>
 
->ATLAS  is the largest general-purpose  particle detector  experiment at the  Large Hadron Collider  (LHC), a  particle accelerator  at  CERN  (the European Organization for Nuclear Research) in Switzerland. The experiment is designed to take advantage of the unprecedented energy available at the LHC and observe phenomena that involve highly massive  particles  which were not observable using earlier lower-energy accelerators. ATLAS was one of the two LHC experiments involved in the discovery of the  Higgs boson  in July 2012. It was also designed to search for evidence of theories of  particle physics  beyond the  Standard Model . This image shows the eight  toroid  magnets surrounding the  calorimeter  in the centre.
+>Takht-i-Bahi  are the ruins of a 1st-century CE  Buddhist monastery  complex located in what was once the  ancient Indian  region of  Gandhara , in the present-day northern Pakistani province of  Khyber Pakhtunkhwa . It is representative of Buddhist monastic architecture from its era and the ruins were listed as a  World Heritage Site  in 1980, with  UNESCO  describing it as having been "exceptionally well-preserved". Pictured here is an aerial view of the complex, showing its various chambers and courtyards.
 
 

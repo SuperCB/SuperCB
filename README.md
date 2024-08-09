@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Takht-i-Bahi_Buddhist_Monastery.jpg/825px-Takht-i-Bahi_Buddhist_Monastery.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Spanish_festoon_%28Zerynthia_rumina%29.jpg/600px-Spanish_festoon_%28Zerynthia_rumina%29.jpg" />
 </div>
 
->Takht-i-Bahi  are the ruins of a 1st-century CE  Buddhist monastery  complex located in what was once the  ancient Indian  region of  Gandhara , in the present-day northern Pakistani province of  Khyber Pakhtunkhwa . It is representative of Buddhist monastic architecture from its era and the ruins were listed as a  World Heritage Site  in 1980, with  UNESCO  describing it as having been "exceptionally well-preserved". Pictured here is an aerial view of the complex, showing its various chambers and courtyards.
+>Swallowtail butterflies  are large, colorful  butterflies  in the family Papilionidae, and include over 550  species . Though the majority are tropical, swallowtails inhabit every continent except Antarctica. The family includes the largest butterflies in the world, the  birdwing butterflies  of the genus  Ornithoptera . This  Zerynthia rumina  butterfly, also known as the Spanish festoon, was photographed in  Extremadura , Spain.
 
 

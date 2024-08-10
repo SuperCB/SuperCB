@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Spanish_festoon_%28Zerynthia_rumina%29.jpg/600px-Spanish_festoon_%28Zerynthia_rumina%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/John_Campbell_Dancy%2C_Recorder_of_Deeds%2C_Washington%2C_D.C..jpg/450px-John_Campbell_Dancy%2C_Recorder_of_Deeds%2C_Washington%2C_D.C..jpg" />
 </div>
 
->Swallowtail butterflies  are large, colorful  butterflies  in the family Papilionidae, and include over 550  species . Though the majority are tropical, swallowtails inhabit every continent except Antarctica. The family includes the largest butterflies in the world, the  birdwing butterflies  of the genus  Ornithoptera . This  Zerynthia rumina  butterfly, also known as the Spanish festoon, was photographed in  Extremadura , Spain.
+>John C. Dancy  (1857–1920) was an American politician, journalist, and educator. For many years he was the editor of  African Methodist Episcopal  newspapers  Star of Zion  and then  Zion Quarterly . In 1897 he was appointed collector of customs at  Wilmington, North Carolina , but was chased out of town in the  Wilmington massacre  of 1898, in part for his activity in the  National Afro-American Council  which he helped found and of which he was an officer. He then moved to  Washington, D.C. , where he served as  recorder of deeds  from 1901 to 1910. His political appointments came in part as a result of the influence of his ally,  Booker T. Washington .
 
 

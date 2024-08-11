@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/John_Campbell_Dancy%2C_Recorder_of_Deeds%2C_Washington%2C_D.C..jpg/450px-John_Campbell_Dancy%2C_Recorder_of_Deeds%2C_Washington%2C_D.C..jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Chestnut-headed_bee-eater_%28Merops_leschenaulti%29_Yala.jpg/450px-Chestnut-headed_bee-eater_%28Merops_leschenaulti%29_Yala.jpg" />
 </div>
 
->John C. Dancy  (1857–1920) was an American politician, journalist, and educator. For many years he was the editor of  African Methodist Episcopal  newspapers  Star of Zion  and then  Zion Quarterly . In 1897 he was appointed collector of customs at  Wilmington, North Carolina , but was chased out of town in the  Wilmington massacre  of 1898, in part for his activity in the  National Afro-American Council  which he helped found and of which he was an officer. He then moved to  Washington, D.C. , where he served as  recorder of deeds  from 1901 to 1910. His political appointments came in part as a result of the influence of his ally,  Booker T. Washington .
+>The  chestnut-headed bee-eater  ( Merops leschenaulti ) is a bird in the  bee-eater  family, Meropidae, which is distributed in an area ranging from India, Bangladesh and Sri Lanka across Southeast Asia to Indonesia. It is 18–20 cm (7.1–7.9 in) in overall length and weighs 26–33 g (0.92–1.16 oz), with the sexes being similar in appearance. It is a multi-coloured bird, with parts of the bird such as the forehead and nape being chestnut, and other parts being green, yellow, black and blue. It eats predominantly insects, especially bees, wasps and hornets, which are caught in the air by sorties from an open perch. This chestnut-headed bee-eater was photographed in  Yala National Park , Sri Lanka.
 
 

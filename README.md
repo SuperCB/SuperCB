@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kefermarkt_Kirche_Fl%C3%BCgelaltar_Marientod_02.jpg/600px-Kefermarkt_Kirche_Fl%C3%BCgelaltar_Marientod_02.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ceramica_pisi_caterpillar_%28side_view%29_-_Keila.jpg/375px-Ceramica_pisi_caterpillar_%28side_view%29_-_Keila.jpg" />
 </div>
 
->The  Kefermarkt altarpiece  is a richly decorated wooden  altarpiece  in the  Late Gothic style  in the parish church of  Kefermarkt  in  Upper Austria . Commissioned by the knight Christoph von Zelking, it was completed around 1497.  Saints Peter ,  Wolfgang  and  Christopher  are depicted in the central section. The wing panels depict scenes from the life of  Mary , and the altarpiece also has an intricate superstructure and two side figures of  Saints George  and  Florian . The identity of its maker, known by the  notname   Master of the Kefermarkt Altarpiece , is unknown, but at least two skilled sculptors appear to have created the main statuary. Throughout the centuries, it has been altered and lost its original paint and  gilding ; a major restoration was undertaken in the 19th century under the direction of  Adalbert Stifter . The altarpiece has been described as "one of the greatest achievements in late-medieval sculpture in the German-speaking area". This image shows the lower-left wing panel of the Kefermarkt altarpiece, depicting the  death of Mary . She lies peacefully in her deathbed, while a diminutive angel holds the curtain apart so that the viewer can see Mary better. The twelve apostles are all present, each one depicted with individual traits. Above the head of Saint Peter, Christ appears in a cloud, receiving the soul of his mother in the form of a small figure.
+>Ceramica pisi , the broom moth, is a species of  moth  of the family  Noctuidae . It is found in a range covering the whole of Europe from the  Arctic Circle  to northern Spain, and across to the  Russian Far East . It lives at heights of up to 2,000 metres. This photograph shows a broom moth  caterpillar  in Estonia.
 
 

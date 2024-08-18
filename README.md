@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ceramica_pisi_caterpillar_%28side_view%29_-_Keila.jpg/375px-Ceramica_pisi_caterpillar_%28side_view%29_-_Keila.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs%2C_Glittering_Landscape_of_Star_Birth.jpg/825px-NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs%2C_Glittering_Landscape_of_Star_Birth.jpg" />
 </div>
 
->Ceramica pisi , the broom moth, is a species of  moth  of the family  Noctuidae . It is found in a range covering the whole of Europe from the  Arctic Circle  to northern Spain, and across to the  Russian Far East . It lives at heights of up to 2,000 metres. This photograph shows a broom moth  caterpillar  in Estonia.
+>NGC 3324  is an  open cluster  in the southern constellation  Carina , located northwest of the  Carina Nebula  at a distance of 9,100  ly  (2,800  pc ) from Earth. The two are often confused as a single object, and together have been nicknamed the " Gabriela Mistral  Nebula" due to its resemblance to the Chilean poet.  NGC 3324  was first catalogued by  James Dunlop  in 1826. This infrared photograph by NASA’s  James Webb Space Telescope  shows a young, star-forming region in the western section of NGC 3324 known as the "Cosmic Cliffs".
 
 

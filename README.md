@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/450px-Marie_Curie_c._1920s.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Symphorichthys_spilurus_-_Wilhelma_01.jpg/750px-Symphorichthys_spilurus_-_Wilhelma_01.jpg" />
 </div>
 
->Marie Curie  (1867–1934) was a Polish and naturalised-French physicist and chemist who conducted pioneering research on  radioactivity . Born in  Warsaw , she studied in Poland until she was 24, when she moved to Paris to earn her higher degrees. In 1895, she married French physicist  Pierre Curie , and in 1903 she shared the  Nobel Prize in Physics  with Pierre and physicist  Henri Becquerel  for their pioneering work developing the theory of "radioactivity" – a term she coined. She was the  first woman to win a Nobel Prize . She won a second Nobel Prize in 1911, the first person to do so, for her discovery of the elements  polonium  and  radium . Under her direction, the world's first studies were conducted into the treatment of  neoplasms  by the use of radioactive isotopes. During  World War I , she developed mobile radiography units to provide  X-ray  services to  field hospitals . She founded the  Curie Institute in Paris  in 1920, and the  Curie Institute in Warsaw  in 1932. This photograph of Curie was taken in around 1920 by French photographer  Henri Manuel .
+>The  sailfin snapper  ( Symphorichthys spilurus ) is a species of marine  ray-finned fish  in the snapper family,  Lutjanidae . It is found in the eastern Indian Ocean and the western Pacific Ocean, at depths between 5 and 60 metres (16 and 197 feet). It lives in areas of sand near to reefs in lagoons and over outer reefs.  The sailfin snapper is targeted in mixed-species fisheries throughout its range, being caught predominantly using  handlines  and  bottom trawling . The juveniles appear in the  aquarium trade . This sailfin snapper was photographed in  Wilhelma , a zoological–botanical garden in  Stuttgart , Germany.
 
 

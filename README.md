@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Symphorichthys_spilurus_-_Wilhelma_01.jpg/750px-Symphorichthys_spilurus_-_Wilhelma_01.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cezanne_Ambroise_Vollard.jpg/465px-Cezanne_Ambroise_Vollard.jpg" />
 </div>
 
->The  sailfin snapper  ( Symphorichthys spilurus ) is a species of marine  ray-finned fish  in the snapper family,  Lutjanidae . It is found in the eastern Indian Ocean and the western Pacific Ocean, at depths between 5 and 60 metres (16 and 197 feet). It lives in areas of sand near to reefs in lagoons and over outer reefs.  The sailfin snapper is targeted in mixed-species fisheries throughout its range, being caught predominantly using  handlines  and  bottom trawling . The juveniles appear in the  aquarium trade . This sailfin snapper was photographed in  Wilhelma , a zoological–botanical garden in  Stuttgart , Germany.
+>Portrait of Ambroise Vollard  is an 1899  oil-on-canvas  portrait by  Paul Cézanne  of his art dealer  Ambroise Vollard . It was bequeathed by Vollard on his death to the  Petit Palais  in Paris, where it is still housed today. Like many of his portraits, the  Portrait of Ambroise Vollard  displays the significant role of the subject in Cézanne's life, and specifically, the artist's gratitude for promoting his work and establishing his reputation as an artist.
 
 

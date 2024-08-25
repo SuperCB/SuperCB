@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cezanne_Ambroise_Vollard.jpg/465px-Cezanne_Ambroise_Vollard.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Barite_-_Cerro_Warihuyn%2C_Miraflores%2C_Huamalies%2C_Huanuco%2C_Peru.jpg/525px-Barite_-_Cerro_Warihuyn%2C_Miraflores%2C_Huamalies%2C_Huanuco%2C_Peru.jpg" />
 </div>
 
->Portrait of Ambroise Vollard  is an 1899  oil-on-canvas  portrait by  Paul Cézanne  of his art dealer  Ambroise Vollard . It was bequeathed by Vollard on his death to the  Petit Palais  in Paris, where it is still housed today. Like many of his portraits, the  Portrait of Ambroise Vollard  displays the significant role of the subject in Cézanne's life, and specifically, the artist's gratitude for promoting his work and establishing his reputation as an artist.
+>Baryte  is a mineral consisting of  barium sulfate  (BaSO 4 ). Generally white or colorless, it is the main source of the element  barium , an  alkaline earth metal . It is found across the world and can be deposited through biogenic and hydrothermal processes or evaporation. Early records of baryte date to the 16th century, when a radiating form gained notoriety among  alchemists  for specimens found near  Bologna , Italy.  Carl Wilhelm Scheele  determined that baryte contained a new element in 1774, but elemental barium was not isolated until 1808 by  Humphry Davy , using electrolysis of molten barium salts. Modern uses of baryte include oil and gas drilling, oxygen and sulfur isotopic analysis, and  radiometric dating . These crystals of baryte on a  dolomite  crystal  matrix  was found at Cerro Warihuyn in  Miraflores District , Peru. This photograph was  focus-stacked  from 24 separate images.
 
 

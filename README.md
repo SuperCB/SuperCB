@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wreck_of_the_ship_George_Roper%2C_Point_Lonsdale_%281883%29_by_Fred_Kruger.jpg/600px-Wreck_of_the_ship_George_Roper%2C_Point_Lonsdale_%281883%29_by_Fred_Kruger.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Plac_Konstytucji_Warsaw_2022_aerial.jpg/750px-Plac_Konstytucji_Warsaw_2022_aerial.jpg" />
 </div>
 
->George Roper  was a four-masted iron  barque  that was built for service between England and Australia, launching from  Liverpool  in February 1883. On its maiden voyage, it carried 3,842 tons of cargo, including  railway track  for the Victorian Government, liquor, chemicals, drapery, and dynamite. It reached Australia in July, but got caught on the reef at  Point Lonsdale  while being towed into  Port Melbourne . The ship sat there for nearly two months before breaking up and sinking on 26 August 1883. The wreck remains under 4–5 metres of water and is accessible to recreational divers. This photograph by the German-born photographer  Fred Kruger  shows  George Roper 's  wreck at Point Lonsdale before it sank.
+>Warsaw  is the capital and largest city of Poland, located on the  Vistula  in the east-central part of the country. It has an estimated population of 1.86 million, within  a larger metropolitan area  of 3.27 million residents, and it is a major cultural, political and economic hub. Warsaw originated as a small fishing town in  Masovia , rising to prominence in the late 16th century when  Sigismund III  moved the Polish capital and his royal court from  Kraków . It was the de facto capital of the  Polish–Lithuanian Commonwealth  until 1795 and then the seat of Napoleon's  Duchy of Warsaw . The 19th century and its  Industrial Revolution  brought a demographic boom.  Warsaw was bombed  and  besieged  at the start of World War II in 1939, and its infrastructure and population  suffered during the systematic razing  which followed the  Warsaw Uprising  in 1944. The modern city features many historic monuments, including the reconstructed  Old Town , designated a  World Heritage Site . This 2022 photograph shows an elevated view of Warsaw's  Constitution Square , looking northwards down  Marszałkowska Street .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Plac_Konstytucji_Warsaw_2022_aerial.jpg/750px-Plac_Konstytucji_Warsaw_2022_aerial.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Coral_plato_%28Danafungia_scruposa%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_49.jpg/525px-Coral_plato_%28Danafungia_scruposa%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_49.jpg" />
 </div>
 
->Warsaw  is the capital and largest city of Poland, located on the  Vistula  in the east-central part of the country. It has an estimated population of 1.86 million, within  a larger metropolitan area  of 3.27 million residents, and it is a major cultural, political and economic hub. Warsaw originated as a small fishing town in  Masovia , rising to prominence in the late 16th century when  Sigismund III  moved the Polish capital and his royal court from  Kraków . It was the de facto capital of the  Polish–Lithuanian Commonwealth  until 1795 and then the seat of Napoleon's  Duchy of Warsaw . The 19th century and its  Industrial Revolution  brought a demographic boom.  Warsaw was bombed  and  besieged  at the start of World War II in 1939, and its infrastructure and population  suffered during the systematic razing  which followed the  Warsaw Uprising  in 1944. The modern city features many historic monuments, including the reconstructed  Old Town , designated a  World Heritage Site . This 2022 photograph shows an elevated view of Warsaw's  Constitution Square , looking northwards down  Marszałkowska Street .
+>Danafungia scruposa  is a species of  coral  found in the eastern and western Indian Ocean, the eastern central, northwestern and western central Pacific Ocean, Japan, the East China Sea, the Red Sea, and eastern Australia. It is around 25 centimetres (9.8 inches) in diameter and normally consumes a variety of food from bacteria to  mesozooplankton  measuring 1 mm (0.039 in) in diameter. During an  algal bloom  in 2009, researchers observed  D. scruposa  consuming the jellyfish  Aurelia aurita , the first time such behaviour had been seen in the wild. This  D. scruposa  coral was photographed in the Red Sea off the Egyptian coast.
 
 

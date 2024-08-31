@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tom_Taylor_by_Lock_and_Whitfield.jpg/525px-Tom_Taylor_by_Lock_and_Whitfield.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Origanum_vulgare_inflorescence_-_Keila.jpg/600px-Origanum_vulgare_inflorescence_-_Keila.jpg" />
 </div>
 
->Tom Taylor  (1817–1880) was an English dramatist, public servant and writer. After a brief academic career in English literature and language at  University College London  in the 1840s, Taylor practised law and became a civil servant. At the same time he became a journalist, most prominently as a contributor to and eventually the editor of the magazine  Punch . He also began a theatre career and is now best known as a playwright. With up to one hundred plays staged during his career, both original work and adaptations of French plays, Taylor's output covers a range of genres from  farce  to  melodrama . Most fell into neglect after Taylor's death, but  Our American Cousin  (1858), which achieved great success in the 19th century, remains famous as the piece that was being performed in the presence of  Abraham Lincoln  when  he was assassinated in 1865 . This undated photograph by the studio of Samuel Robert Lock and George C. Whitfield is part of  Men of Mark: A Gallery of Contemporary Portraits , a collection published in 1881.
+>Oregano  ( Origanum vulgare ) is a species of  flowering plant  in the mint family,  Lamiaceae . It was native to the  Mediterranean region , but widely naturalised elsewhere in the  temperate  Northern Hemisphere. A relative of the herb  marjoram , oregano has purple, pink or white flowers and spade-shaped, olive-green leaves. It is a  perennial , but it is grown as an annual in colder climates as it often does not survive the winter. Oregano leaves are widely used as a culinary  herb , and its oil is often used as a dietary supplement, although there is no clinical evidence that it has any effect on human health. This photograph of an  inflorescence  of oregano was taken in  Keila , Estonia; the petals of the flowers depicted are approximately 5 millimetres (0.20 inches) in length. This picture was  focus-stacked  from 66 separate images.
 
 

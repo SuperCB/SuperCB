@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wilhelm_-_Costume_design_for_Arac%2C_Gunon%2C_and_Scynthius_%28Princess_Ida%2C_1884%29.jpg/480px-Wilhelm_-_Costume_design_for_Arac%2C_Gunon%2C_and_Scynthius_%28Princess_Ida%2C_1884%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Great_golden_digger_wasp_%2831760%29.jpg/600px-Great_golden_digger_wasp_%2831760%29.jpg" />
 </div>
 
->Princess Ida  is a  comic opera  with music by  Arthur Sullivan  and a  libretto  by  W. S. Gilbert . It was  Gilbert and Sullivan 's eighth operatic collaboration, preceding  The Mikado .  Princess Ida  opened at the  Savoy Theatre  in 1884 and ran for 246 performances. Based on the narrative poem  The Princess  by  Alfred, Lord Tennyson , the opera concerns a princess who founds a women's university and teaches that women are superior to men and should rule in their stead. Prince Hilarion, to whom she had been betrothed, sneaks into the university, and a war erupts between the two sexes.  Princess Ida  satirizes feminism, women's education and Darwinian evolution, controversial topics in conservative  Victorian England .  Princess Ida  was only a modest success, and after its initial run, it was not revived in London until 1919. Nevertheless, the piece is performed regularly today by both professional and amateur companies. This watercolour-and-pencil-on-card image by  C. Wilhelm  shows his costume design for the characters of Arac, Guron and Scynthius in the 1884 production of  Princess Ida .
+>Sphex ichneumoneus , commonly known as the great golden digger wasp, is a  wasp  in the family  Sphecidae . It is native to the Western Hemisphere, from Canada to South America, and provisions its young with various types of paralyzed  Orthoptera . The species is identifiable by the golden pubescence on its head and thorax, its reddish orange legs, and partly reddish orange body. This  S. ichneumoneus  wasp was photographed in the  Brooklyn Botanic Garden  in New York City, United States.
 
 

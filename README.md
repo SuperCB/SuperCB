@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Great_golden_digger_wasp_%2831760%29.jpg/600px-Great_golden_digger_wasp_%2831760%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/John_Milton_Brannan_by_the_Studio_of_Mathew_Brady_-_NPG_81_M465.jpg/450px-John_Milton_Brannan_by_the_Studio_of_Mathew_Brady_-_NPG_81_M465.jpg" />
 </div>
 
->Sphex ichneumoneus , commonly known as the great golden digger wasp, is a  wasp  in the family  Sphecidae . It is native to the Western Hemisphere, from Canada to South America, and provisions its young with various types of paralyzed  Orthoptera . The species is identifiable by the golden pubescence on its head and thorax, its reddish orange legs, and partly reddish orange body. This  S. ichneumoneus  wasp was photographed in the  Brooklyn Botanic Garden  in New York City, United States.
+>John Milton Brannan  (1819–1892) was a career  United States Army  artillery officer who served in the  Mexican–American War  and as a  Union Army  brigadier general of  volunteers  in the  American Civil War . He was in command of the Department of Key West in Florida and assigned to  Fort Zachary Taylor . Most notably, Brannan served as a division commander of the Union XIV Corps at the  Battle of Chickamauga  in 1863. This photograph of Brannan was produced by the studio of the American photographer  Mathew Brady  circa the 1860s.
 
 

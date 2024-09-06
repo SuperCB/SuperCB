@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/John_Milton_Brannan_by_the_Studio_of_Mathew_Brady_-_NPG_81_M465.jpg/450px-John_Milton_Brannan_by_the_Studio_of_Mathew_Brady_-_NPG_81_M465.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Oroblanco_%28sweetie%29_fruits.jpg/600px-Oroblanco_%28sweetie%29_fruits.jpg" />
 </div>
 
->John Milton Brannan  (1819–1892) was a career  United States Army  artillery officer who served in the  Mexican–American War  and as a  Union Army  brigadier general of  volunteers  in the  American Civil War . He was in command of the Department of Key West in Florida and assigned to  Fort Zachary Taylor . Most notably, Brannan served as a division commander of the Union XIV Corps at the  Battle of Chickamauga  in 1863. This photograph of Brannan was produced by the studio of the American photographer  Mathew Brady  circa the 1860s.
+>The  oroblanco  ( Citrus maxima  ×  C. paradisi ) is a sweet seedless  citrus hybrid  fruit. It was developed as a cross between a  diploid  acidless  pomelo  and a seedy white tetraploid  grapefruit , resulting in a triploid seedless fruit that is less acidic and less bitter than the grapefruit. The oroblanco was patented by the  University of California  in 1981 after its development at  the university's citrus experiment station  by  Robert Soost  and  James W. Cameron . Oroblancos are either round- or oval-shaped with a thicker rind than grapefruit. The fruit is available from September through December and can be peeled and eaten like an orange. A similar fruit named the "sweetie" has been commonly cultivated in Israel since 1984. This photograph shows oroblancos grown in Israel, one whole and one sectioned. The picture was  focus-stacked  from 12 separate images.
 
 

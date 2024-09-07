@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Oroblanco_%28sweetie%29_fruits.jpg/600px-Oroblanco_%28sweetie%29_fruits.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Spinifex_Pigeon_0A2A1585.jpg/750px-Spinifex_Pigeon_0A2A1585.jpg" />
 </div>
 
->The  oroblanco  ( Citrus maxima  ×  C. paradisi ) is a sweet seedless  citrus hybrid  fruit. It was developed as a cross between a  diploid  acidless  pomelo  and a seedy white tetraploid  grapefruit , resulting in a triploid seedless fruit that is less acidic and less bitter than the grapefruit. The oroblanco was patented by the  University of California  in 1981 after its development at  the university's citrus experiment station  by  Robert Soost  and  James W. Cameron . Oroblancos are either round- or oval-shaped with a thicker rind than grapefruit. The fruit is available from September through December and can be peeled and eaten like an orange. A similar fruit named the "sweetie" has been commonly cultivated in Israel since 1984. This photograph shows oroblancos grown in Israel, one whole and one sectioned. The picture was  focus-stacked  from 12 separate images.
+>The  spinifex pigeon  ( Geophaps plumifera ) is a bird in the pigeon family,  Columbidae . It is endemic to Australia, occurring throughout much of the arid and semi-arid northern and central parts of the continent. It lives in stony habitats on rocky hills and mountainous terrain, gorges, dry rocky creek beds and nearby  gibber  plains. The spinifex pigeon weighs 80 to 110 grams (2.8 to 3.9 ounces), with a mean body length of 200 to 235 millimetres (7.9 to 9.3 inches) and a wingspan of 300 to 350 millimetres (12 to 14 inches). Its plumage is distinctively rufous-brown with thin black bars on the wings and back. The forehead, the sides of the  crown  and the ear  coverts  are grey, while the bill is black, and it has distinctive facial markings including a bright red facial mask and a white band extending from the chin to behind the eye. This spinifex pigeon was photographed in  Watarrka National Park  in Australia's  Northern Territory .
 
 

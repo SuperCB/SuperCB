@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Spinifex_Pigeon_0A2A1585.jpg/750px-Spinifex_Pigeon_0A2A1585.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schloss_Sigmaringen_2022.jpg/825px-Schloss_Sigmaringen_2022.jpg" />
 </div>
 
->The  spinifex pigeon  ( Geophaps plumifera ) is a bird in the pigeon family,  Columbidae . It is endemic to Australia, occurring throughout much of the arid and semi-arid northern and central parts of the continent. It lives in stony habitats on rocky hills and mountainous terrain, gorges, dry rocky creek beds and nearby  gibber  plains. The spinifex pigeon weighs 80 to 110 grams (2.8 to 3.9 ounces), with a mean body length of 200 to 235 millimetres (7.9 to 9.3 inches) and a wingspan of 300 to 350 millimetres (12 to 14 inches). Its plumage is distinctively rufous-brown with thin black bars on the wings and back. The forehead, the sides of the  crown  and the ear  coverts  are grey, while the bill is black, and it has distinctive facial markings including a bright red facial mask and a white band extending from the chin to behind the eye. This spinifex pigeon was photographed in  Watarrka National Park  in Australia's  Northern Territory .
+>Sigmaringen Castle , located in  Sigmaringen , Baden-Württemberg, Germany, served as the princely castle and seat of government for the princes of  Hohenzollern-Sigmaringen . First mentioned in 1077, it was rebuilt around 1200 and suffered various fires through the centuries, most recently around 1893 when the eastern wing was destroyed. It then underwent a full rebuild in eclectic style (a combination of  Romanesque ,  Gothic , and mostly  Renaissance ). During the closing months of World War II, Sigmaringen Castle was  briefly the seat  of the  Vichy French government  after  France was liberated by the Allies . The castle is still owned by the Hohenzollern-Sigmaringen family, and is open to visitors. This photograph was taken from the north west, across the  Danube  river.
 
 

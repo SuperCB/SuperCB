@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schloss_Sigmaringen_2022.jpg/825px-Schloss_Sigmaringen_2022.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/US_Marshals_with_Young_Ruby_Bridges_on_School_Steps.jpg/750px-US_Marshals_with_Young_Ruby_Bridges_on_School_Steps.jpg" />
 </div>
 
->Sigmaringen Castle , located in  Sigmaringen , Baden-Württemberg, Germany, served as the princely castle and seat of government for the princes of  Hohenzollern-Sigmaringen . First mentioned in 1077, it was rebuilt around 1200 and suffered various fires through the centuries, most recently around 1893 when the eastern wing was destroyed. It then underwent a full rebuild in eclectic style (a combination of  Romanesque ,  Gothic , and mostly  Renaissance ). During the closing months of World War II, Sigmaringen Castle was  briefly the seat  of the  Vichy French government  after  France was liberated by the Allies . The castle is still owned by the Hohenzollern-Sigmaringen family, and is open to visitors. This photograph was taken from the north west, across the  Danube  river.
+>Ruby Nell Bridges Hall  (born September 8, 1954) is an American civil rights activist. She was the  first African American  child to attend the formerly  whites -only  William Frantz Elementary School  in  Louisiana  during the  New Orleans school desegregation crisis  on November 14, 1960. Bridges attended a segregated  kindergarten  in 1959. In early 1960, she was one of six black children in New Orleans to pass the test that determined whether they could go to the all-white William Frantz Elementary School. Two of the six decided to stay at their old school, Bridges went to Frantz by herself, and  three children  (Gail Etienne,  Leona Tate  and Tessie Prevost) were transferred to the all-white  McDonogh No. 19 Elementary School . All four 6-year-old girls were escorted to and from school by  federal marshals  due to crowds of angry protestors opposing school integration.
 
 

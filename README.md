@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dark_blue_tiger_%28Tirumala_septentrionis_dravidarum%29_male_underside.jpg/600px-Dark_blue_tiger_%28Tirumala_septentrionis_dravidarum%29_male_underside.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Grocery-store-widtsoe-utah-.jpg/825px-Grocery-store-widtsoe-utah-.jpg" />
 </div>
 
->Tirumala septentrionis , commonly known as the dark blue tiger, is a species of butterfly in the  danaid subfamily  of the family  Nymphalidae . It is found in South and Southeast Asia, including the Himalayas to southern India and Sri Lanka, Myanmar and Cambodia. Its upper wing is generally black with some bluish-white semihyaline markings, and its wing span is 80 to 115 millimetres (3.1 to 4.5 inches). This male butterfly of the subspecies  T. s. dravidarum  was photographed in  Kumarakom  in the Indian state of  Kerala .
+>Widtsoe  is a  ghost town  in  Garfield County, Utah , United States. It is located in John's Valley, northeast of  Bryce Canyon  and along the  Sevier River  at the mouth of Sweetwater Creek. A small number of settlers arrived in the area in 1876 and it became a town around 1908 after farmer Jedediah Adair was followed by a more significant population. Initially known as Adairville, after Adair, the town later became Houston and Winder, before attaining its final name after  John A. Widtsoe , the president of and an agricultural scientist at the  University of Utah . The population declined significantly from 1920 following droughts, and the town emptied in 1936. Most buildings were demolished shortly afterwards. This photograph by  Dorothea Lange  shows Widtsoe's Emery Valley Mercantile Co. grocery store in 1936.
 
 

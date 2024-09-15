@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Aerial_image_of_Grand_Prismatic_Spring_%28view_from_the_south%29.jpg/600px-Aerial_image_of_Grand_Prismatic_Spring_%28view_from_the_south%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Il_trovatore_by_Luigi_Morgari.jpg/750px-Il_trovatore_by_Luigi_Morgari.jpg" />
 </div>
 
->Grand Prismatic Spring  in  Yellowstone National Park  is the largest  hot spring  in the United States, and the third largest in the world. It is located in the  Midway Geyser Basin . Grand Prismatic Spring was noted by geologists working in the  Hayden Geological Survey of 1871 , and named by them for its striking coloration. Its colors match most of those seen in the  rainbow  dispersion of white light by an optical  prism : red, orange, yellow, green, and blue. The bright, vivid colors in the spring are the result of  microbial mats  around the edges of the mineral-rich water. The mats produce colors ranging from green to red; the amount of color in the microbial mats depends on the ratio of  chlorophyll  to  carotenoids  and on the temperature gradient in the runoff. In the summer, the mats tend to be orange and red, whereas in the winter the mats are usually dark green. The deep blue color of the water in the center of the pool results from the  intrinsic blue color of water . The effect is strongest in the center of the spring, because of its sterility and depth. This aerial photo shows Grand Prismatic Spring from the south in August 2022.
+>Il trovatore  is an opera in four acts by  Giuseppe Verdi  to an Italian  libretto  largely written by  Salvadore Cammarano , based on the Spanish play  El trovador  (1836) by  Antonio García Gutiérrez . Set in the 15th century in  Biscay  and  Aragon , Spain, it tells the story of a nobleman named Count di Luna, who falls in love with Leonora, a lady-in-waiting. However, Leonora in turn falls in love with Manrico, the titular  troubadour  of the opera. The premiere of  Il trovatore  took place at the  Teatro Apollo  in Rome in January 1853. This undated poster by  Luigi Morgari  depicts a scene from act 4 of the opera, in which Leonora encounters Manrico, who is imprisoned in di Luna's dungeon.
 
 

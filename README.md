@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Il_trovatore_by_Luigi_Morgari.jpg/750px-Il_trovatore_by_Luigi_Morgari.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg/450px-Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg" />
 </div>
 
->Il trovatore  is an opera in four acts by  Giuseppe Verdi  to an Italian  libretto  largely written by  Salvadore Cammarano , based on the Spanish play  El trovador  (1836) by  Antonio García Gutiérrez . Set in the 15th century in  Biscay  and  Aragon , Spain, it tells the story of a nobleman named Count di Luna, who falls in love with Leonora, a lady-in-waiting. However, Leonora in turn falls in love with Manrico, the titular  troubadour  of the opera. The premiere of  Il trovatore  took place at the  Teatro Apollo  in Rome in January 1853. This undated poster by  Luigi Morgari  depicts a scene from act 4 of the opera, in which Leonora encounters Manrico, who is imprisoned in di Luna's dungeon.
+>William Howard Taft  (September 15, 1857 – March 8, 1930) was the 27th  president of the United States , serving from 1909 to 1913, and the tenth  chief justice of the United States , serving from 1921 to 1930, the only person to have held both offices. Taft was elected president  in 1908 , the chosen successor of  Theodore Roosevelt , but was defeated for reelection  in 1912  by  Woodrow Wilson  after Roosevelt  split  the  Republican  vote by running as a  third-party  candidate. In 1921, President  Warren G. Harding  appointed Taft to be chief justice, a position he held until a month before his death. This photograph was taken in 1908 by the  Pach Brothers  studio.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg/450px-Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Pez_%C3%A1ngel_de_barra_amarilla_%28Pomacanthus_maculosus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-26%2C_DD_138.jpg/750px-Pez_%C3%A1ngel_de_barra_amarilla_%28Pomacanthus_maculosus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-26%2C_DD_138.jpg" />
 </div>
 
->William Howard Taft  (September 15, 1857 – March 8, 1930) was the 27th  president of the United States , serving from 1909 to 1913, and the tenth  chief justice of the United States , serving from 1921 to 1930, the only person to have held both offices. Taft was elected president  in 1908 , the chosen successor of  Theodore Roosevelt , but was defeated for reelection  in 1912  by  Woodrow Wilson  after Roosevelt  split  the  Republican  vote by running as a  third-party  candidate. In 1921, President  Warren G. Harding  appointed Taft to be chief justice, a position he held until a month before his death. This photograph was taken in 1908 by the  Pach Brothers  studio.
+>Pomacanthus maculosus , commonly known as the yellowbar angelfish, is a species in the marine angelfish family,  Pomacanthidae , found in the western Indian Ocean and, more recently, in the eastern Mediterranean Sea. It has a deep and compressed body with a small mouth that is equipped with small bristle-like teeth. The background colour of adults is brownish blue with each scale having a blue margin creating the impression that it is predominantly blue. There is an uneven, yellow bar close to the centre of the flanks with dark blue, vertically elongated spots towards the head. The species is occasionally collected for the aquarium trade and has also been recorded on sale as food in fish markets. This  P. maculosus  fish was photographed in  Ras Muhammad National Park  in the Red Sea off the coast of the  Sinai Peninsula  in Egypt.
 
 

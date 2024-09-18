@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Pez_%C3%A1ngel_de_barra_amarilla_%28Pomacanthus_maculosus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-26%2C_DD_138.jpg/750px-Pez_%C3%A1ngel_de_barra_amarilla_%28Pomacanthus_maculosus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-26%2C_DD_138.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ganymede_-_Perijove_34_Composite.png/600px-Ganymede_-_Perijove_34_Composite.png" />
 </div>
 
->Pomacanthus maculosus , commonly known as the yellowbar angelfish, is a species in the marine angelfish family,  Pomacanthidae , found in the western Indian Ocean and, more recently, in the eastern Mediterranean Sea. It has a deep and compressed body with a small mouth that is equipped with small bristle-like teeth. The background colour of adults is brownish blue with each scale having a blue margin creating the impression that it is predominantly blue. There is an uneven, yellow bar close to the centre of the flanks with dark blue, vertically elongated spots towards the head. The species is occasionally collected for the aquarium trade and has also been recorded on sale as food in fish markets. This  P. maculosus  fish was photographed in  Ras Muhammad National Park  in the Red Sea off the coast of the  Sinai Peninsula  in Egypt.
+>Ganymede  is a  moon of Jupiter  and the  largest and most massive  satellite in the  Solar System . It is the largest Solar System object without a substantial atmosphere and also the only moon in the Solar System with a substantial  magnetic field . Like  Titan , Saturn's largest moon, it is larger than the planet Mercury but, due to its lower density, has somewhat less  surface gravity  than Mercury,  Io , or the Moon. Ganymede is composed of  silicate  rock and water in approximately equal proportions. It is a fully  differentiated  body, with an iron-rich liquid core and an  internal ocean . Ganymede orbits Jupiter in roughly seven days and is in a 1:2:4  orbital resonance  with  Europa  and Io. This image, a composite of three photographs taken by the NASA space probe  Juno  during a flyby in 2021, depicts the northern hemisphere of Ganymede roughly centered around the  prime meridian .
 
 

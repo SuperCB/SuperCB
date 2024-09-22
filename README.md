@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pepino_de_mar_%28Holothuria_fuscogilva%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_119.jpg/750px-Pepino_de_mar_%28Holothuria_fuscogilva%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_119.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pomegranate_arils.jpg/599px-Pomegranate_arils.jpg" />
 </div>
 
->Holothuria fuscogilva , also known as the white teatfish, is a species of  sea cucumber  in the family  Holothuriidae . It is found in the tropical waters of the  Indo-Pacific  in shallow waters near islands and around coral reefs. Juveniles live in shallower waters (such as inter-tidal zones) and then migrate to deeper waters as they mature. Adults of this species weigh between 2.4 and 4 kilograms (5.3 and 8.8 pounds) and are elliptical in shape with a firm texture. They feature lateral papillae (teats), which are often buried in the sand. The species is consumed as food and is vulnerable to over-exploitation from commercial fishing. This  H. fuscogilva  sea cucumber was photographed in  Ras Muhammad National Park  off the  Red Sea  coast of the  Sinai Peninsula  in Egypt.
+>The  pomegranate  ( Punica granatum ) is a  fruit -bearing  deciduous   shrub  in the family  Lythraceae , subfamily Punicoideae, that grows between 5 and 10 m (16 and 33 ft) tall. The pomegranate was originally found only throughout the  Mediterranean  region. It was introduced into  Spanish America  in the late 16th century and into California by  Spanish settlers  in 1769. This photograph shows a number of  sarcotesta  seedcoats from a pomegranate. This image is a focus-stacked image consisting of 31 images.
 
 

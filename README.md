@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pomegranate_arils.jpg/599px-Pomegranate_arils.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/NASA%E2%80%99s_Boeing_Crew_Flight_Test_Launch_%28NHQ202406050029%29.jpg/600px-NASA%E2%80%99s_Boeing_Crew_Flight_Test_Launch_%28NHQ202406050029%29.jpg" />
 </div>
 
->The  pomegranate  ( Punica granatum ) is a  fruit -bearing  deciduous   shrub  in the family  Lythraceae , subfamily Punicoideae, that grows between 5 and 10 m (16 and 33 ft) tall. The pomegranate was originally found only throughout the  Mediterranean  region. It was introduced into  Spanish America  in the late 16th century and into California by  Spanish settlers  in 1769. This photograph shows a number of  sarcotesta  seedcoats from a pomegranate. This image is a focus-stacked image consisting of 31 images.
+>Boeing Crew Flight Test  was the first crewed mission of the  Boeing Starliner  capsule. Launched on 5 June 2024, the mission flew a crew of two  NASA  astronauts,  Barry E. Wilmore  and  Sunita Williams , from  Cape Canaveral Space Force Station  to the  International Space Station . The mission was intended to last eight days, ending on 14 June with a landing in the  American Southwest . However, the capsule's thrusters malfunctioned as Starliner approached the ISS. After more than two months of investigation, NASA decided it was too risky to return Wilmore and Williams to Earth aboard Starliner. Instead, the Boeing spacecraft returned uncrewed on 7 September 2024, and the astronauts will ride down on the  SpaceX Crew-9  spacecraft in February 2025. This photograph shows the Crew Flight Test launch, with capsule   Calypso  atop an  Atlas V  rocket.
 
 

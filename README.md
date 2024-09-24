@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/NASA%E2%80%99s_Boeing_Crew_Flight_Test_Launch_%28NHQ202406050029%29.jpg/600px-NASA%E2%80%99s_Boeing_Crew_Flight_Test_Launch_%28NHQ202406050029%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hepatica_nobilis_flowers_-_blue_and_pink_-_Keila.jpg/825px-Hepatica_nobilis_flowers_-_blue_and_pink_-_Keila.jpg" />
 </div>
 
->Boeing Crew Flight Test  was the first crewed mission of the  Boeing Starliner  capsule. Launched on 5 June 2024, the mission flew a crew of two  NASA  astronauts,  Barry E. Wilmore  and  Sunita Williams , from  Cape Canaveral Space Force Station  to the  International Space Station . The mission was intended to last eight days, ending on 14 June with a landing in the  American Southwest . However, the capsule's thrusters malfunctioned as Starliner approached the ISS. After more than two months of investigation, NASA decided it was too risky to return Wilmore and Williams to Earth aboard Starliner. Instead, the Boeing spacecraft returned uncrewed on 7 September 2024, and the astronauts will ride down on the  SpaceX Crew-9  spacecraft in February 2025. This photograph shows the Crew Flight Test launch, with capsule   Calypso  atop an  Atlas V  rocket.
+>Anemone hepatica  is a species of  flowering plant  in the buttercup family  Ranunculaceae , native to woodland in  temperate  regions of the Northern Hemisphere. Traditional  herbal medicine  claimed that it was useful in the treatment of  liver  disorders, hence its name (from Greek  hepatikos , 'of the liver'). This photograph shows the flowers of two  A. hepatica   varieties , blue (common) and pink (rare), growing in a forest in  Keila , Estonia. The picture was  focus-stacked  from 29 separate images.
 
 

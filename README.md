@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hepatica_nobilis_flowers_-_blue_and_pink_-_Keila.jpg/825px-Hepatica_nobilis_flowers_-_blue_and_pink_-_Keila.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chestnut-crowned_antpitta_%28Grallaria_ruficapilla_ruficapilla%29_Caldas.jpg/675px-Chestnut-crowned_antpitta_%28Grallaria_ruficapilla_ruficapilla%29_Caldas.jpg" />
 </div>
 
->Anemone hepatica  is a species of  flowering plant  in the buttercup family  Ranunculaceae , native to woodland in  temperate  regions of the Northern Hemisphere. Traditional  herbal medicine  claimed that it was useful in the treatment of  liver  disorders, hence its name (from Greek  hepatikos , 'of the liver'). This photograph shows the flowers of two  A. hepatica   varieties , blue (common) and pink (rare), growing in a forest in  Keila , Estonia. The picture was  focus-stacked  from 29 separate images.
+>The  chestnut-crowned antpitta  ( Grallaria ruficapilla ) is a species of bird in the  antpitta  family, Grallariidae. It is found in Colombia, Ecuador, Peru, and Venezuela. It is around 18 to 23 centimetres (7.1 to 9.1 in) long, with a mass of 70 to 98 grams (2.5 to 3.5 oz). The sexes have the same plumage. Adults of the  nominate subspecies   G. r. ruficapilla  have a rufous crown, nape, and face with an olive-colored back, rump, tail, and wings. Its throat, breast, and belly are white with ochraceous edges on some breast feathers, and olivaceous and blackish streaks on their sides and sometimes their breast. This chestnut-crowned antpitta perching on a branch was photographed in the Río Blanco Ecological Reserve in  Manizales , Colombia.
 
 

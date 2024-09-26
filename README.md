@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chestnut-crowned_antpitta_%28Grallaria_ruficapilla_ruficapilla%29_Caldas.jpg/675px-Chestnut-crowned_antpitta_%28Grallaria_ruficapilla_ruficapilla%29_Caldas.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/La_Promenade%2C_by_Pierre-Auguste_Renoir.jpg/525px-La_Promenade%2C_by_Pierre-Auguste_Renoir.jpg" />
 </div>
 
->The  chestnut-crowned antpitta  ( Grallaria ruficapilla ) is a species of bird in the  antpitta  family, Grallariidae. It is found in Colombia, Ecuador, Peru, and Venezuela. It is around 18 to 23 centimetres (7.1 to 9.1 in) long, with a mass of 70 to 98 grams (2.5 to 3.5 oz). The sexes have the same plumage. Adults of the  nominate subspecies   G. r. ruficapilla  have a rufous crown, nape, and face with an olive-colored back, rump, tail, and wings. Its throat, breast, and belly are white with ochraceous edges on some breast feathers, and olivaceous and blackish streaks on their sides and sometimes their breast. This chestnut-crowned antpitta perching on a branch was photographed in the Río Blanco Ecological Reserve in  Manizales , Colombia.
+>La Promenade  is an early  Impressionist  painting by the French artist  Pierre-Auguste Renoir , created in 1870. The oil-on-canvas work depicts a young couple on an excursion outside a city, walking on a woodland path. Influenced by the  Rococo Revival  style during the  Second French Empire , the work reflects the older style and themes of eighteenth-century artists like  Jean-Honoré Fragonard  and  Antoine Watteau . It also shows the influence of  Claude Monet  on Renoir's new approach to painting.  La Promenade  now hangs in the  Getty Center  in Los Angeles, California.
 
 

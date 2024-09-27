@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/La_Promenade%2C_by_Pierre-Auguste_Renoir.jpg/525px-La_Promenade%2C_by_Pierre-Auguste_Renoir.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_93.jpg/900px-File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_93.jpg" />
 </div>
 
->La Promenade  is an early  Impressionist  painting by the French artist  Pierre-Auguste Renoir , created in 1870. The oil-on-canvas work depicts a young couple on an excursion outside a city, walking on a woodland path. Influenced by the  Rococo Revival  style during the  Second French Empire , the work reflects the older style and themes of eighteenth-century artists like  Jean-Honoré Fragonard  and  Antoine Watteau . It also shows the influence of  Claude Monet  on Renoir's new approach to painting.  La Promenade  now hangs in the  Getty Center  in Los Angeles, California.
+>The  Philae temple complex   is an island-based temple complex in the reservoir of the  Aswan Low Dam , downstream of the  Aswan Dam  and  Lake Nasser  in Egypt. Until the  International Campaign to Save the Monuments of Nubia , the temple complex was located on  Philae Island , near the expansive  First Cataract  of the  Nile  in  Upper Egypt . These  rapids  and the surrounding area have been variously flooded since the initial construction of the Aswan Low Dam in 1902. The temple complex was dismantled and moved to nearby  Agilkia Island  as part of the  UNESCO  Nubia Campaign project, protecting this and other complexes before the 1970 completion of the Aswan High Dam. This 2022 photograph shows the temple of Isis from the Philae temple complex in its current location.
 
 

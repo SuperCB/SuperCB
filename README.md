@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_93.jpg/900px-File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_93.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg/600px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg" />
 </div>
 
->The  Philae temple complex   is an island-based temple complex in the reservoir of the  Aswan Low Dam , downstream of the  Aswan Dam  and  Lake Nasser  in Egypt. Until the  International Campaign to Save the Monuments of Nubia , the temple complex was located on  Philae Island , near the expansive  First Cataract  of the  Nile  in  Upper Egypt . These  rapids  and the surrounding area have been variously flooded since the initial construction of the Aswan Low Dam in 1902. The temple complex was dismantled and moved to nearby  Agilkia Island  as part of the  UNESCO  Nubia Campaign project, protecting this and other complexes before the 1970 completion of the Aswan High Dam. This 2022 photograph shows the temple of Isis from the Philae temple complex in its current location.
+>The  platypus  ( Ornithorhynchus anatinus ), sometimes referred to as the duck-billed platypus, is a semiaquatic mammal endemic to eastern Australia, including  Tasmania . It is the sole living representative of the family  Ornithorhynchidae  and, together with the four species of  echidna , it is one of the five extant species of  monotreme  – mammals that lay eggs instead of giving birth to live young. Like other monotremes, the platypus senses prey in cloudy water through  electrolocation . The male platypus has a  spur  on the hind foot that delivers  an extremely painful venom , making it one of the few species of venomous mammals. This platypus was photographed swimming in a creek near  Scottsdale  in Tasmania.
 
 

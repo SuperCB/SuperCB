@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg/600px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Olivia_de_Havilland%2C_actress%2C_1985_-_levels_adjustment.jpg/525px-Olivia_de_Havilland%2C_actress%2C_1985_-_levels_adjustment.jpg" />
 </div>
 
->The  platypus  ( Ornithorhynchus anatinus ), sometimes referred to as the duck-billed platypus, is a semiaquatic mammal endemic to eastern Australia, including  Tasmania . It is the sole living representative of the family  Ornithorhynchidae  and, together with the four species of  echidna , it is one of the five extant species of  monotreme  – mammals that lay eggs instead of giving birth to live young. Like other monotremes, the platypus senses prey in cloudy water through  electrolocation . The male platypus has a  spur  on the hind foot that delivers  an extremely painful venom , making it one of the few species of venomous mammals. This platypus was photographed swimming in a creek near  Scottsdale  in Tasmania.
+>Olivia de Havilland  (1916–2020) was a British, American and French actress. A member of the  de Havilland family , her younger sister was the Oscar-winning actress  Joan Fontaine , with whom she had a noted rivalry well documented by the media. During her career, de Havilland appeared in 49 feature films. She first came to prominence with  Errol Flynn  as a screen couple in adventure films such as  Captain Blood  (1935). Departing from  ingénue  roles in the 1940s, she went on to win two  Academy Awards for Best Actress , for her roles in  To Each His Own  (1946) and  The Heiress  (1949). She received honours in the United States, the United Kingdom and France, including appointments to the  Légion d'honneur  and the  Order of the British Empire . At the time of her death, she was widely considered the last surviving major star from the  Golden Age of Hollywood . This 1985 photograph of de Havilland was taken by the Polish-born American photographer  Bernard Gotfryd .
 
 

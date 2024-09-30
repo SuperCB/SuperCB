@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Olivia_de_Havilland%2C_actress%2C_1985_-_levels_adjustment.jpg/525px-Olivia_de_Havilland%2C_actress%2C_1985_-_levels_adjustment.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Plac_Wilsona_Warsaw_2022_aerial.jpg/750px-Plac_Wilsona_Warsaw_2022_aerial.jpg" />
 </div>
 
->Olivia de Havilland  (1916–2020) was a British, American and French actress. A member of the  de Havilland family , her younger sister was the Oscar-winning actress  Joan Fontaine , with whom she had a noted rivalry well documented by the media. During her career, de Havilland appeared in 49 feature films. She first came to prominence with  Errol Flynn  as a screen couple in adventure films such as  Captain Blood  (1935). Departing from  ingénue  roles in the 1940s, she went on to win two  Academy Awards for Best Actress , for her roles in  To Each His Own  (1946) and  The Heiress  (1949). She received honours in the United States, the United Kingdom and France, including appointments to the  Légion d'honneur  and the  Order of the British Empire . At the time of her death, she was widely considered the last surviving major star from the  Golden Age of Hollywood . This 1985 photograph of de Havilland was taken by the Polish-born American photographer  Bernard Gotfryd .
+>Wilson Square  is an urban square and roundabout, located in the  Żoliborz  area of Warsaw, Poland. Constructed in around 1923, close to Sokolnicki Fort, part of the  Warsaw Citadel , the square was designed by Józef Jankowski, Antoni Jawornicki, and Tadeusz Tołwiński. Initially named after Polish novelist  Stefan Żeromski , the square was renamed in 1926 in honour of the recently-deceased US president  Woodrow Wilson . The buildings around the square were partially destroyed in 1944, during World War II, and it was remodelled in 1955. The modern square features a lawn and greenery with a road running through it, as well as  tram tracks  and the  Plac Wilsona metro station . This photograph shows an aerial view of Wilson Square from the south-east.
 
 

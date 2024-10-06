@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/H%C3%BCbnerite_-_Pasto_Bueno%2C_Ancash%2C_Peru.jpg/525px-H%C3%BCbnerite_-_Pasto_Bueno%2C_Ancash%2C_Peru.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Pristimantis_elegans_Chingaza.jpg/600px-Pristimantis_elegans_Chingaza.jpg" />
 </div>
 
->Hübnerite  is a mineral consisting of manganese  tungsten  oxide, with a chemical formula MnWO 4 . It typically occurs in association with high-temperature  hydrothermal  vein deposits and altered  granites  and in  alluvial  deposits. Hübnerite is the manganese  endmember  of the  wolframite  solid solution series, with  ferberite  (FeWO 4 ) the opposite iron endmember. Color differences between members of the wolframite family are clear and marked, with the color of hübnerite varying from yellowish brown to reddish brown. It was first described in 1865 for an occurrence in the US state of Nevada and was named after the German mining engineer and metallurgist Adolf Hübner. This  stacked image , composed of 38 individual photographs, shows red hübnerite crystals with  quartz  extracted from the Pasto Bueno mine in  Pallasca Province , Peru.
+>Pristimantis elegans  is a species of  frog  in the family  Strabomantidae . It is endemic to the Colombian Andes, in the  Cordillera Oriental , residing in  páramos  and  cloud forests  at elevations of 2,600–3,650 m (8,530–11,980 ft) above sea level. It is typically found in herbaceous vegetation and very small bushes.  Pristimantis elegans  is a stout-bodied frog, with males typically measuring 37–40 mm (1.5–1.6 in). Development is direct, without a free-living tadpole stage. Males of the species have a pulsed  advertisement call , which is usually emitted at night, in vegetation. This  Pristimantis elegans  individual was photographed in  Chingaza National Natural Park , Colombia.
 
 

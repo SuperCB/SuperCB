@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Pristimantis_elegans_Chingaza.jpg/600px-Pristimantis_elegans_Chingaza.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Juniperus_communis_fruits_-_Keila.jpg/525px-Juniperus_communis_fruits_-_Keila.jpg" />
 </div>
 
->Pristimantis elegans  is a species of  frog  in the family  Strabomantidae . It is endemic to the Colombian Andes, in the  Cordillera Oriental , residing in  páramos  and  cloud forests  at elevations of 2,600–3,650 m (8,530–11,980 ft) above sea level. It is typically found in herbaceous vegetation and very small bushes.  Pristimantis elegans  is a stout-bodied frog, with males typically measuring 37–40 mm (1.5–1.6 in). Development is direct, without a free-living tadpole stage. Males of the species have a pulsed  advertisement call , which is usually emitted at night, in vegetation. This  Pristimantis elegans  individual was photographed in  Chingaza National Natural Park , Colombia.
+>A  juniper berry  is the female  seed cone  produced by various species of  junipers . It is used as a flavoring agent in northern European and Scandinavian cuisine for meat dishes. Juniper is used to flavor  gin , a liquor developed in the 17th century in the Netherlands. Juniper berries are among the only spices derived from  conifers , along with  spruce  buds. This photograph shows foliage and cones of  Juniperus communis , the common juniper, in  Keila , Estonia. This picture was  focus-stacked  from 55 separate images.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kuni%27s_chromodoris%2C_fan_38_west%2C_wakatobi%2C_2018_%2845763962462%29_%28cropped%29.jpg/600px-Kuni%27s_chromodoris%2C_fan_38_west%2C_wakatobi%2C_2018_%2845763962462%29_%28cropped%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Europa_Clipper_commemorative_plate_1.jpg/750px-Europa_Clipper_commemorative_plate_1.jpg" />
 </div>
 
->Goniobranchus kuniei  is a  mollusc  species in the family  Chromodorididae , often classified as a  sea slug . It is found in the western Pacific Ocean and eastern Indian Ocean including Fiji, the Marshall Islands, Australia, Papua New Guinea, Indonesia, Malaysia, the Philippines, Taiwan and the French territory of New Caledonia. It has a body length of up to 40 mm and features a pattern of blue spots with pale blue haloes on a creamy mantle. The mantle has a double border of purple and blue. This  G. kuniei  individual was photographed in  Wakatobi National Park , Southeast Sulawesi, Indonesia.
+>Europa Clipper  is a  space probe  developed by  NASA  and scheduled for launch in October 2024. The largest spacecraft NASA has built for a planetary mission,  Europa Clipper  is designed to study Jupiter's moon  Europa  through a series of  flybys  while in orbit around Jupiter, with the goals of exploring Europa, investigating its habitability, and aiding in the selection of a landing site for the future  Europa Lander . It is expected to reach its destination in 2030. This photograph shows a commemorative plate, 7 by 11 inches (18 by 28 centimeters) in size and made of  tantalum , that is attached to the outside of the space probe to seal an entrance to a vault designed to protect the electronics from  Jupiter's radiation . The outer face of the plate, pictured here, is etched with  waveforms  of audio recordings of the word  water  translated into 103 languages, radiating outwards from the  American Sign Language  symbol for the same word. The inner face of the plate features a work by the American poet  Ada Limón .
 
 

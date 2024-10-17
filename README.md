@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Vincent_Van_Gogh_-_Wheatfield_With_Cornflowers_-_Google_Art_Project.jpg/600px-Vincent_Van_Gogh_-_Wheatfield_With_Cornflowers_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg/450px-Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg" />
 </div>
 
->Wheat Fields  is a series of dozens of paintings by the Dutch  Post-Impressionist  artist  Vincent van Gogh , borne out of his religious studies and sermons, connection to nature, appreciation of manual laborers and desire to provide a means of offering comfort to others. The series includes this 1890 oil-on-canvas landscape, painted at  Auvers-sur-Oise  and titled  Wheatfield with Cornflowers , now in the collection of the  Beyeler Foundation  in  Riehen , Switzerland.
+>Oscar Wilde  (16 October 1854 – 30 November 1900) was an Irish poet and playwright. After completing his education in Ireland and the UK, Wilde became associated with the philosophy of  aestheticism  and then settled in London. After writing in different forms throughout the 1880s, including plays, poems and lectures, he became one of the most popular playwrights in London in the early 1890s, with works including  Salome  (1891),  An Ideal Husband  (1895) and  The Importance of Being Earnest  (1895). He also wrote his sole novel  The Picture of Dorian Gray  around this time. At the height of his fame and success, Wilde prosecuted the  Marquess of Queensberry  for  criminal libel . The Marquess was the father of Wilde's lover,  Lord Alfred Douglas . The libel trial unearthed evidence that caused Wilde to drop his charges and led to his own arrest and trial for  gross indecency  with men; he was convicted and jailed from 1895 to 1897. After his release, he spent his last three years impoverished and in exile in France before his death from  meningitis . His last works included  De Profundis  (published posthumously in 1905), a letter discussing his spiritual journey through his trials, and  The Ballad of Reading Gaol  (1898), a poem about the harsh rhythms of prison life.
 
 

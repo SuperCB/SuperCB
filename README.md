@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg/450px-Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%28MHNT%29_Chromatopelma_cyaneopubescens_-_Venezuela_-_Female.jpg/525px-%28MHNT%29_Chromatopelma_cyaneopubescens_-_Venezuela_-_Female.jpg" />
 </div>
 
->Oscar Wilde  (16 October 1854 – 30 November 1900) was an Irish poet and playwright. After completing his education in Ireland and the UK, Wilde became associated with the philosophy of  aestheticism  and then settled in London. After writing in different forms throughout the 1880s, including plays, poems and lectures, he became one of the most popular playwrights in London in the early 1890s, with works including  Salome  (1891),  An Ideal Husband  (1895) and  The Importance of Being Earnest  (1895). He also wrote his sole novel  The Picture of Dorian Gray  around this time. At the height of his fame and success, Wilde prosecuted the  Marquess of Queensberry  for  criminal libel . The Marquess was the father of Wilde's lover,  Lord Alfred Douglas . The libel trial unearthed evidence that caused Wilde to drop his charges and led to his own arrest and trial for  gross indecency  with men; he was convicted and jailed from 1895 to 1897. After his release, he spent his last three years impoverished and in exile in France before his death from  meningitis . His last works included  De Profundis  (published posthumously in 1905), a letter discussing his spiritual journey through his trials, and  The Ballad of Reading Gaol  (1898), a poem about the harsh rhythms of prison life.
+>The  greenbottle blue tarantula  ( Chromatopelma cyaneopubescens ) is a species of spider in the  tarantula  family, Theraphosidae. It is native to the  Paraguaná Peninsula  in the Venezuelan state of  Falcón . The spider features metallic blue legs and a blue-green  carapace , which give it its name. They are very active and fast-growing animals that are particularly attractive to hobbyists. This mounted greenbottle blue tarantula female is part of the collection of the  Muséum de Toulouse  in France.
 
 

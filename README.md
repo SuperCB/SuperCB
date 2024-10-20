@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Krishna_Butterball_Below_Mahabalipuram_Sep22_A7C_02490.jpg/600px-Krishna_Butterball_Below_Mahabalipuram_Sep22_A7C_02490.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_European_Extremely_Large_Telescope.jpg/525px-The_European_Extremely_Large_Telescope.jpg" />
 </div>
 
->Krishna's Butterball  is a large granite  balancing rock  that rests on a short incline in the coastal resort town of  Mamallapuram  in the Indian state of Tamil Nadu. It is approximately six metres (20 ft) high and five metres (16 ft) wide, with a mass of around 250 tonnes. It is balanced on a slope on top of a 1.2-metre-high (4 ft) plinth that is a naturally eroded hill. Krishna's Butterball is part of the  Group of Monuments at Mahabalipuram , a UNESCO  World Heritage Site  built during the 7th and 8th centuries as Hindu religious monuments by the  Pallava dynasty . It is now a popular tourist attraction.
+>The  Extremely Large Telescope  (ELT) is an  astronomical observatory  under construction. Part of the  European Southern Observatory  (ESO) agency, it is located on top of  Cerro Armazones  in the  Atacama Desert  of northern Chile. The project was proposed in 2011 with construction beginning in 2017. Completion and  first light  is anticipated to take place in 2028. The ELT's design consists of a reflecting telescope with a 39.3-metre-diameter (130-foot) segmented primary mirror and a 4.2 m (14 ft) diameter secondary mirror. When completed, it will be the world's largest  optical telescope . This picture shows a schematic view of the ELT, released by the ESO in 2012.
 
 

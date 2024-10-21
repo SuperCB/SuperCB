@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_European_Extremely_Large_Telescope.jpg/525px-The_European_Extremely_Large_Telescope.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/555px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg" />
 </div>
 
->The  Extremely Large Telescope  (ELT) is an  astronomical observatory  under construction. Part of the  European Southern Observatory  (ESO) agency, it is located on top of  Cerro Armazones  in the  Atacama Desert  of northern Chile. The project was proposed in 2011 with construction beginning in 2017. Completion and  first light  is anticipated to take place in 2028. The ELT's design consists of a reflecting telescope with a 39.3-metre-diameter (130-foot) segmented primary mirror and a 4.2 m (14 ft) diameter secondary mirror. When completed, it will be the world's largest  optical telescope . This picture shows a schematic view of the ELT, released by the ESO in 2012.
+>The  house sparrow  ( Passer domesticus ) is a  passerine  bird of the  sparrow  family Passeridae. Originally native to Europe, the Mediterranean Basin and a large part of Asia, it is now found in most parts of the world and is the most widely distributed wild bird. It is closely associated with human habitation and resides in both urban and rural areas. The house sparrow is a small bird with a typical length of 16 cm (6.3 in) and a mass of 24–39.5 g (0.85–1.39 oz). Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings. It is sometimes considered a  pest  but is also sometimes kept as a pet or used as a food item. This male house sparrow was photographed in  Prospect Park , New York City, United States.
 
 

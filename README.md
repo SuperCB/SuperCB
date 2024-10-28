@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Greater_white-fronted_goose_in_flight-1045.jpg/600px-Greater_white-fronted_goose_in_flight-1045.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Acer_negundo_female_flowers_-_Keila.jpg/450px-Acer_negundo_female_flowers_-_Keila.jpg" />
 </div>
 
->The  greater white-fronted goose  ( Anser albifrons ) is a species of goose in the family  Anatidae . It is closely related to the  lesser white-fronted goose , which is smaller. The greater white-fronted goose is  migratory , breeding in northern Canada, Alaska, Greenland and Russia, and winters farther south in North America, Europe and Asia. The greater white-fronted goose has a length of 64 to 81 cm (25 to 32 in), a wingspan of 130 to 165 cm (51 to 65 in), and a mass of 1.93 to 3.31 kg (4 lb 4 oz to 7 lb 5 oz). Males are typically larger in size, and both sexes are similar in appearance – greyish brown with light grey breasts dappled with dark brown to black blotches and bars. Both males and females also have a pinkish bill, and orange legs and feet. This greater white-fronted goose was photographed in flight in the  Central Valley  of the US state of California.
+>Acer negundo , also known as the box elder, is a species of  maple  in the family  Sapindaceae , native to North America. It is a fast-growing, short-lived tree with opposite, ash-like compound leaves. It is sometimes considered a weedy or  invasive species , and has been  naturalized  throughout much of the world. It grows up to 10 to 25 metres (35 to 80 feet) tall, with a trunk diameter of 30 to 50 centimetres (12 to 20 inches). Male and female flowers appear on separate plants, with flowers on male plants generally appearing in clusters of four and flowers on female plants appearing as a  raceme . These flowers of a female  A. negundo  plant were photographed in  Keila , Estonia.
 
 

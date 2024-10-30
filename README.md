@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Auguste_Fran%C3%A7ois-Marie_Gorguet_-_poster_for_the_premi%C3%A8re_performance_of_%C3%89douard_Lalo%27s_Le_roi_d%27Ys_%281888%29.jpg/525px-Auguste_Fran%C3%A7ois-Marie_Gorguet_-_poster_for_the_premi%C3%A8re_performance_of_%C3%89douard_Lalo%27s_Le_roi_d%27Ys_%281888%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sarlyk_Yak2.jpg/600px-Sarlyk_Yak2.jpg" />
 </div>
 
->Le roi d'Ys  is an opera in three acts by the French composer  Édouard Lalo , to a  libretto  by  Édouard Blau . It is based on the old  Breton  legend of the drowned city of  Ys , which was according to the legend the capital of the kingdom of  Cornouaille . The opera includes a noteworthy  aubade  for tenor in act 3, titled " Vainement, ma bien-aimée " (In vain, my beloved).  Le roi d'Ys  premiered on 7 May 1888 at the  Théâtre Lyrique  in Paris, in a production by the  Opéra-Comique . Within France, the opera was regarded as Lalo's most recognized work. This poster was produced by Auguste François-Marie Gorguet  for the 1888 premiere of  Le roi d'Ys , and depicts the final scene of the opera.
+>The  yak  ( Bos grunniens ) is a species of long-haired domesticated  cattle  in the family  Bovidae . It is found throughout the  Himalayas  in Pakistan, India, the  Tibetan Plateau  of China, Tajikistan, and as far north as Mongolia and Siberia, Russia. Yak physiology is well adapted to high altitudes and cold weather, featuring larger lungs and heart than other cattle, a greater capacity for transporting oxygen through their blood and a thick layer of  subcutaneous fat . Yaks have been domesticated in areas such as Mongolia and Tibet, primarily for  their fibre , milk and meat, and as  beasts of burden . Yaks' milk is often processed to a cheese called  chhurpi  in the Tibetan and Nepali languages, and  byaslag  in Mongolia, while  butter made from yaks' milk  is an ingredient of Tibetan  butter tea . This yak was photographed near the river  Chuya  in the  Altai Republic , a region in southern Siberia.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sarlyk_Yak2.jpg/600px-Sarlyk_Yak2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Anna_Fernqvist%2C_rollportr%C3%A4tt_-_SMV_-_H1_122_-_Restoration.jpg/525px-Anna_Fernqvist%2C_rollportr%C3%A4tt_-_SMV_-_H1_122_-_Restoration.jpg" />
 </div>
 
->The  yak  ( Bos grunniens ) is a species of long-haired domesticated  cattle  in the family  Bovidae . It is found throughout the  Himalayas  in Pakistan, India, the  Tibetan Plateau  of China, Tajikistan, and as far north as Mongolia and Siberia, Russia. Yak physiology is well adapted to high altitudes and cold weather, featuring larger lungs and heart than other cattle, a greater capacity for transporting oxygen through their blood and a thick layer of  subcutaneous fat . Yaks have been domesticated in areas such as Mongolia and Tibet, primarily for  their fibre , milk and meat, and as  beasts of burden . Yaks' milk is often processed to a cheese called  chhurpi  in the Tibetan and Nepali languages, and  byaslag  in Mongolia, while  butter made from yaks' milk  is an ingredient of Tibetan  butter tea . This yak was photographed near the river  Chuya  in the  Altai Republic , a region in southern Siberia.
+>Anna Bartels  (1869–1950) was a Swedish operatic  soprano  and  mezzo-soprano . She made her debut at the  Royal Swedish Opera  in 1897 in the title role of  Friedrich von Flotow 's  Martha . Engaged by the company for the next 20 years, she appeared in many Swedish premieres, such as Musette in Puccini's  La bohème  (1901), Marianne in Richard Strauss's  Der Rosenkavalier  (1920) and La Ciesca in Puccini's  Gianni Schicchi  (1920). Other works in which she appeared include  The Merry Wives of Windsor ,  The Magic Flute ,  Don Giovanni  and  Carmen . Bartels is also remembered for her appearances in concerts and  lieder  recitals. She was awarded the  Litteris et Artibus  medal in 1923 for her contributions to Swedish culture. This 1901 photograph by the Swedish photographer Ferdinand Flodin shows Bartels in her role as Musette.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Woman_lighting_the_candles_for_the_Festival_of_Lights_in_India_%28cropped%29.jpg/750px-Woman_lighting_the_candles_for_the_Festival_of_Lights_in_India_%28cropped%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mauritius_kestrel_%28Falco_punctatus%29.jpg/465px-Mauritius_kestrel_%28Falco_punctatus%29.jpg" />
 </div>
 
->Diwali  is a five-day Hindu festival of lights which symbolises the spiritual victory of light over darkness and good over evil. It commemorates the day when Hindu god  Rama , along with his wife-consort  Sita  and brother  Lakshmana , returned to his kingdom of  Ayodhya  after defeating demon-king  Ravana  and following 14 years of exile. Celebrations peak on the night of the third day of the festival—the main day of Diwali, which is today—marking the darkest night of the  Hindu lunisolar calendar . People celebrate on this day by lighting traditional lamps ( diyas ) and candles. Pictured here is a woman lighting candles on Diwali.
+>The  Mauritius kestrel  ( Falco punctatus ) is a  bird of prey  from the family  Falconidae  endemic to the forests of Mauritius, where it is restricted to the southwestern plateau's forests, cliffs, and ravines. It colonized the island and evolved into a distinct species from other  Indian Ocean kestrels , probably during the  Gelasian  or  Early Pleistocene  periods. The Mauritius kestrel can reach a size between 26 and 30.5 cm (10.2 and 12.0 in), with a mass of up to 250 g (8.8 oz) and rounded wings with a span of approximately 45 cm (18 in). Males are slightly smaller than the females. It is a carnivorous bird, eating geckos, dragonflies, cicadas, cockroaches, crickets, and small birds. It hunts by means of short, swift flights through the forests. This Mauritius kestrel was photographed in the  Ebony Forest  reserve near  Chamarel , Mauritius.
 
 

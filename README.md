@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mauritius_kestrel_%28Falco_punctatus%29.jpg/465px-Mauritius_kestrel_%28Falco_punctatus%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Coconuts_-_single_and_cracked_open.jpg/750px-Coconuts_-_single_and_cracked_open.jpg" />
 </div>
 
->The  Mauritius kestrel  ( Falco punctatus ) is a  bird of prey  from the family  Falconidae  endemic to the forests of Mauritius, where it is restricted to the southwestern plateau's forests, cliffs, and ravines. It colonized the island and evolved into a distinct species from other  Indian Ocean kestrels , probably during the  Gelasian  or  Early Pleistocene  periods. The Mauritius kestrel can reach a size between 26 and 30.5 cm (10.2 and 12.0 in), with a mass of up to 250 g (8.8 oz) and rounded wings with a span of approximately 45 cm (18 in). Males are slightly smaller than the females. It is a carnivorous bird, eating geckos, dragonflies, cicadas, cockroaches, crickets, and small birds. It hunts by means of short, swift flights through the forests. This Mauritius kestrel was photographed in the  Ebony Forest  reserve near  Chamarel , Mauritius.
+>The  coconut  ( Cocos nucifera ) is a member of the palm tree family,  Arecaceae . Originally native to the  Central Indo-Pacific , in the regions of  Maritime Southeast Asia  and  Melanesia , coconuts are now found across the world due to human cultivation and dispersal. They are normally cultivated in hot and wet tropical climates. The term coconut also commonly refers to the seed and fruit of the coconut tree, which is botanically a  drupe . The fruit has three layers including an edible white, fleshy  endosperm  and is filled with a liquid known as  coconut water . The coconut thus played a critical role in the migration of  Austronesian peoples  across the Indian Ocean, as it provided a portable source of both food and water for long sea voyages. In modern times coconuts are used extensively in cooking and cuisine, using the raw flesh, the water or in alternative forms such as  coconut milk  and  coconut butter . These coconuts, one whole and one halved, were grown in the Dominican Republic; this photograph was  focus-stacked  from 19 separate images.
 
 

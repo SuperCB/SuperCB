@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cecilia_Helena_Payne-Gaposchkin_%281900-1979%29_-_Science_Service.jpg/750px-Cecilia_Helena_Payne-Gaposchkin_%281900-1979%29_-_Science_Service.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dalmatian_pelican_%28Pelecanus_crispus%29_in_flight_Danube_delta_2.jpg/675px-Dalmatian_pelican_%28Pelecanus_crispus%29_in_flight_Danube_delta_2.jpg" />
 </div>
 
->Cecilia Payne-Gaposchkin  (1900–1979) was a British-born American  astronomer  and  astrophysicist  who proposed in her 1925  doctoral  thesis that  stars  were composed primarily of  hydrogen  and  helium . Her groundbreaking conclusion was initially rejected because it contradicted the scientific wisdom of the time, which held that there were no significant elemental differences between the  Sun  and Earth. Independent observations eventually proved she was correct. Her work on the nature of variable stars was foundational to modern astrophysics.
+>The  Dalmatian pelican  ( Pelecanus crispus ) is a bird in the family  Pelecanidae . With a length of 160 to 183 centimetres (63 to 72 inches), a mass of 7.25 to 15 kilograms (16.0 to 33.1 pounds) and a wingspan of 245 to 351 centimetres (96 to 138 inches), it is the largest  pelican  species and one of the world's largest living flying birds. The Dalmatian pelican has a range spanning across much of central Eurasia, from the  Mediterranean  in the west to the  Taiwan Strait  in the east, and from the  Persian Gulf  in the south to  Siberia  in the north. It is a short-to-medium-distance  migrant  between breeding and overwintering areas. The Dalmatian pelican's preferred habitat is lakes, rivers, deltas and estuaries, and it feeds on various fish species such as  the  common carp  and  European perch . Like many pelicans, it is often silent, but can be vocal during the mating season, engaging in a wide range of guttural, deep vocalisations, including barks, hisses and grunts. This Dalmatian pelican was photographed in flight over the  Danube Delta  in Romania.
 
 

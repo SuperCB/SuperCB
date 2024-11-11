@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pyromorphite_-_Santa_Eufemia%2C_Cordoba%2C_Spain.jpg/450px-Pyromorphite_-_Santa_Eufemia%2C_Cordoba%2C_Spain.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ips_typographus_%28female%29.jpg/600px-Ips_typographus_%28female%29.jpg" />
 </div>
 
->Pyromorphite  is a mineral species composed of  lead  chlorophosphate: Pb 5 (PO 4 ) 3 Cl, sometimes occurring in sufficient abundance to be mined as an  ore  of lead. First distinguished chemically by  Martin Heinrich Klaproth  in 1784, it was named pyromorphite by  Johann Friedrich Ludwig Hausmann  in 1813. It is usually green, yellow or brown in color, with a resinous  lustre .  Crystals  are common and have the form of a hexagonal prism terminated by the  basal planes , sometimes combined with narrow faces of a hexagonal pyramid. Other forms include crystals with a barrel-like curvature and globular or reniform masses. Pyromorphite is part of the  apatite  group of minerals and bears a close resemblance physically and chemically with two other minerals,  mimetite  and  vanadinite . This  focus-stacked  photograph, merged from 26 separate images, shows a sample of pyromorphite extracted from the Resuperferolitica Mine in  Santa Eufemia , in the Spanish province of  Córdoba . The sample measures 3.5 cm × 3.0 cm × 1.5 cm (1.38 in × 1.18 in × 0.59 in).
+>The  European spruce bark beetle  ( Ips typographus ), is a species of  bark beetle  in the true weevil family,  Curculionidae . It is found in Europe and Asia Minor and east to China, Japan, North Korea and South Korea. Bark beetles are so named because they reproduce in the inner bark, living and dead  phloem  tissues, of trees. Their preferred trees in which to reside include  spruces ,  firs ,  pines  and  larches . The species has the ability to spread quickly over large areas and some scientists hypothesize that long-distance movements originating from the  Iberian Peninsula  may have contributed to its invasion of northern  Norway spruce  forests. This female European spruce bark beetle was photographed in  Naninne  in the province of  Namur , Belgium.
 
 

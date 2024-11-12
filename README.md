@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ips_typographus_%28female%29.jpg/600px-Ips_typographus_%28female%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Carl_Van_Vechten_-_Shirley_Graham_Du_Bois.jpg/450px-Carl_Van_Vechten_-_Shirley_Graham_Du_Bois.jpg" />
 </div>
 
->The  European spruce bark beetle  ( Ips typographus ), is a species of  bark beetle  in the true weevil family,  Curculionidae . It is found in Europe and Asia Minor and east to China, Japan, North Korea and South Korea. Bark beetles are so named because they reproduce in the inner bark, living and dead  phloem  tissues, of trees. Their preferred trees in which to reside include  spruces ,  firs ,  pines  and  larches . The species has the ability to spread quickly over large areas and some scientists hypothesize that long-distance movements originating from the  Iberian Peninsula  may have contributed to its invasion of northern  Norway spruce  forests. This female European spruce bark beetle was photographed in  Naninne  in the province of  Namur , Belgium.
+>Shirley Graham Du Bois  (November 11, 1896 – March 27, 1977) was an American-Ghanaian writer, playwright, composer, and activist for African-American causes. Born in  Indianapolis  to an Episcopal minister, she moved with her family throughout the United States as a child. After marrying her first husband, she moved to Paris to study music at the  Sorbonne . After her divorce and return to the United States, Graham Du Bois took positions at  Howard University  and  Morgan College  before completing her BA and master's at  Oberlin College  in Ohio. Her first major work was the opera  Tom-Tom , which premiered in  Cleveland  in 1932. She married  W. E. B. Du Bois  in 1951, and the couple later lived in Ghana, Tanzania and China. She won several prizes, including an  Anisfield-Wolf Book Award  for her 1949 biography of  Benjamin Banneker . This photograph of Graham Du Bois was taken by  Carl Van Vechten  in 1946.
 
 

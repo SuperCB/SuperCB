@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Carl_Van_Vechten_-_Shirley_Graham_Du_Bois.jpg/450px-Carl_Van_Vechten_-_Shirley_Graham_Du_Bois.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/R%C3%A9union_stonechat_%28Saxicola_tectes%29_male.jpg/600px-R%C3%A9union_stonechat_%28Saxicola_tectes%29_male.jpg" />
 </div>
 
->Shirley Graham Du Bois  (November 11, 1896 – March 27, 1977) was an American-Ghanaian writer, playwright, composer, and activist for African-American causes. Born in  Indianapolis  to an Episcopal minister, she moved with her family throughout the United States as a child. After marrying her first husband, she moved to Paris to study music at the  Sorbonne . After her divorce and return to the United States, Graham Du Bois took positions at  Howard University  and  Morgan College  before completing her BA and master's at  Oberlin College  in Ohio. Her first major work was the opera  Tom-Tom , which premiered in  Cleveland  in 1932. She married  W. E. B. Du Bois  in 1951, and the couple later lived in Ghana, Tanzania and China. She won several prizes, including an  Anisfield-Wolf Book Award  for her 1949 biography of  Benjamin Banneker . This photograph of Graham Du Bois was taken by  Carl Van Vechten  in 1946.
+>The  Réunion stonechat  ( Saxicola tectes ) is a species of  stonechat  in the family Muscicapidae, the  Old World flycatchers . It is found across the French Indian Ocean island of  Réunion  in forests, shrublands, and artificial environments such as gardens and plantations. The Réunion stonechat is a member of the  common stonechat  superspecies, but it is distinct, together with its closest relative the  Madagascar stonechat , from the rest of that group being insular derivatives of the  African stonechat . The male is black above and white below, with a white  supercilium  (sometimes absent), half-collar, covert patch, and a variable-sized orange patch on the breast. Females differ from males in being browner above, more buff-toned below, and often lacking the white greater covert patch. This male Réunion stonechat was photographed in La Roche Écrite, south of the Réunion capital  Saint-Denis .
 
 

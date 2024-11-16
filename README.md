@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Percy_Grainger_by_Bain_News_Service.jpg/480px-Percy_Grainger_by_Bain_News_Service.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/F.O.C._Darley_and_Alexander_Hay_Ritchie_-_Sherman%27s_March_to_the_Sea.jpg/825px-F.O.C._Darley_and_Alexander_Hay_Ritchie_-_Sherman%27s_March_to_the_Sea.jpg" />
 </div>
 
->Percy Grainger  (1882–1961) was an Australian-born composer, arranger and pianist who played a prominent role in the revival of interest in British folk music in the early 20th century. Grainger left Australia in 1895 to study at the  Hoch Conservatory  in  Frankfurt . Between 1901 and 1914 he was based in London, where he established himself first as a society pianist and later as a concert performer, composer and collector of original folk melodies. He met many of the significant figures in European music, forming friendships with  Frederick Delius  and  Edvard Grieg , and became a champion of  Nordic  music and culture. In 1914, Grainger moved to the United States, where he took citizenship in 1918. He experimented with music machines that he hoped would supersede human interpretation. Although much of his work was experimental and unusual, the piece with which he is most generally associated is his piano arrangement of the folk-dance tune " Country Gardens ". This  glass negative  of Grainger was taken at some point around 1915–1920.
+>Sherman's March to the Sea  was a military campaign of the  American Civil War  conducted through  Georgia  by Major General  William Tecumseh Sherman  of the  Union Army . The campaign began on November 15, 1864, with Sherman's troops leaving  Atlanta , recently  taken by Union forces , and ended with the capture of the port of  Savannah  on December 21. His forces followed a " scorched earth " policy, destroying military targets as well as industry, infrastructure, and civilian property, disrupting the  Confederacy's economy and transportation networks . The operation debilitated the Confederacy and helped lead to its eventual surrender. This picture shows an engraving by  Alexander Hay Ritchie  depicting Sherman's March to the Sea.
 
 

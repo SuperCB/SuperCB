@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/F.O.C._Darley_and_Alexander_Hay_Ritchie_-_Sherman%27s_March_to_the_Sea.jpg/825px-F.O.C._Darley_and_Alexander_Hay_Ritchie_-_Sherman%27s_March_to_the_Sea.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Artemis_I_Launch_%28NHQ202211160017%29.jpg/563px-Artemis_I_Launch_%28NHQ202211160017%29.jpg" />
 </div>
 
->Sherman's March to the Sea  was a military campaign of the  American Civil War  conducted through  Georgia  by Major General  William Tecumseh Sherman  of the  Union Army . The campaign began on November 15, 1864, with Sherman's troops leaving  Atlanta , recently  taken by Union forces , and ended with the capture of the port of  Savannah  on December 21. His forces followed a " scorched earth " policy, destroying military targets as well as industry, infrastructure, and civilian property, disrupting the  Confederacy's economy and transportation networks . The operation debilitated the Confederacy and helped lead to its eventual surrender. This picture shows an engraving by  Alexander Hay Ritchie  depicting Sherman's March to the Sea.
+>Artemis I  was an uncrewed  Moon-orbiting  mission that was launched on November 16, 2022. It was the first major spaceflight of  NASA 's  Artemis program  and marked the agency's return to lunar exploration since the  Apollo program  after five decades. It was the first flight test of the  Orion spacecraft  and the  Space Launch System  (SLS) rocket, and the mission's main objective was to test the Orion spacecraft in preparation for future Artemis missions.  Artemis I was launched from  Launch Complex 39B  at the  Kennedy Space Center . After reaching  orbit , the upper stage separated and performed a trans-lunar injection before releasing Orion and ten  CubeSat  satellites. Orion completed one  flyby  of the  Moon  on November 21 and completed a second flyby on December 5. This picture shows Artemis I launching from Launch Complex 39B.
 
 

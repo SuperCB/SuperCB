@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Artemis_I_Launch_%28NHQ202211160017%29.jpg/563px-Artemis_I_Launch_%28NHQ202211160017%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg/600px-European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg" />
 </div>
 
->Artemis I  was an uncrewed  Moon-orbiting  mission that was launched on November 16, 2022. It was the first major spaceflight of  NASA 's  Artemis program  and marked the agency's return to lunar exploration since the  Apollo program  after five decades. It was the first flight test of the  Orion spacecraft  and the  Space Launch System  (SLS) rocket, and the mission's main objective was to test the Orion spacecraft in preparation for future Artemis missions.  Artemis I was launched from  Launch Complex 39B  at the  Kennedy Space Center . After reaching  orbit , the upper stage separated and performed a trans-lunar injection before releasing Orion and ten  CubeSat  satellites. Orion completed one  flyby  of the  Moon  on November 21 and completed a second flyby on December 5. This picture shows Artemis I launching from Launch Complex 39B.
+>The  European bison  ( Bison bonasus ), also known as the wisent, is a mammal in the family  Bovidae . It is one of two extant species of  bison . Having been hunted to  extinction in the wild  by the early 20th century, the European bison was reintroduced to the wild in various European countries by the 2010s, following  captive breeding  programmes. It is the heaviest wild  land animal  in Europe, and individuals in the past may have been even larger than their modern-day descendants. The largest bulls of the species have a mass of up to 1,000 kilograms (2,200 lb). The European bison is a  herd  animal, which lives in both mixed and solely male groups. Mixed groups consist of adult females, calves, young aged two to three years, and young adult bulls. A typical herd numbers around eight to thirteen animals on average. This male European bison was photographed in the  Białowieża Forest , Poland.
 
 

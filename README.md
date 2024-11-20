@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Apennine_Colossus_panorama_%2881988p%29.jpg/600px-Apennine_Colossus_panorama_%2881988p%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Doolhofzwam_%28Daedalea_quercina%29_30-11-2022._%28d.j.b%29.jpg/600px-Doolhofzwam_%28Daedalea_quercina%29_30-11-2022._%28d.j.b%29.jpg" />
 </div>
 
->The  Apennine Colossus   is a stone statue, approximately 11 metres (36 feet) tall, in the estate of Villa Demidoff (originally  Villa di Pratolino ) in  Vaglia  in  Tuscany , Italy. A personification of the  Apennine Mountains , the colossal figure was created by  Giambologna , a Flemish-born Italian sculptor, in the late 1580s. The statue has the appearance of an elderly man crouched at the shore of a lake, squeezing the head of a sea monster through whose open mouth water originally emanated into the pond in front of the statue. The colossus is depicted naked, with  stalactites  in the thick beard and long hair to show the  metamorphosis  of man and mountain, blending his body with the surrounding nature. It is made of stone and plaster and the interior houses a series of chambers and caves on three levels. Initially, the back of the statue was protected by a structure resembling a cave, which was demolished around 1690 by the sculptor  Giovanni Battista Foggini , who built a statue of a dragon to adorn the back of the colossus. The Italian sculptor  Rinaldo Barbetti  renovated the statue in 1876.
+>Fomitopsis quercina  is a species of  mushroom  in the order  Polyporales . Commonly known as the oak mazegill, among other names, its  specific epithet  refers to the  oak  genus  Quercus , upon which it frequently grows, causing a  brown rot . It is found in most of Europe, following the pattern of oak distribution, and has also been reported in northern Africa, North America, Asia and Australia. The mushroom features  pores  which form a maze-like appearance.  Though inedible, it can be used as a natural comb and has been the subject of chemical research. This  F. quercina  mushroom was photographed growing on a tree branch at De Famberhorst, a nature reserve in the town of  Joure  in  Friesland , Netherlands. The photograph was  focus-stacked  from 21 separate images.
 
 

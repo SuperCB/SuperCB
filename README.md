@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Doolhofzwam_%28Daedalea_quercina%29_30-11-2022._%28d.j.b%29.jpg/600px-Doolhofzwam_%28Daedalea_quercina%29_30-11-2022._%28d.j.b%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Machado_de_Assis_by_Marc_Ferrez.jpg/525px-Machado_de_Assis_by_Marc_Ferrez.jpg" />
 </div>
 
->Fomitopsis quercina  is a species of  mushroom  in the order  Polyporales . Commonly known as the oak mazegill, among other names, its  specific epithet  refers to the  oak  genus  Quercus , upon which it frequently grows, causing a  brown rot . It is found in most of Europe, following the pattern of oak distribution, and has also been reported in northern Africa, North America, Asia and Australia. The mushroom features  pores  which form a maze-like appearance.  Though inedible, it can be used as a natural comb and has been the subject of chemical research. This  F. quercina  mushroom was photographed growing on a tree branch at De Famberhorst, a nature reserve in the town of  Joure  in  Friesland , Netherlands. The photograph was  focus-stacked  from 21 separate images.
+>Machado de Assis   (1839–1908) was a Brazilian novelist, poet, playwright and short-story writer, widely regarded as the greatest writer of  Brazilian literature . In 1897, he founded and became the first president of the  Brazilian Academy of Letters . He was  multilingual , having taught himself  French ,  English ,  German  and  Greek  later in life. Machado's work shaped the realist movement in Brazil and the birth of the Brazilian republic made Machado become more critical and an observer of the Brazilian society of his time. Generally considered to be Machado's greatest works are  Dom Casmurro  (1899),  Memórias Póstumas de Brás Cubas  ( Posthumous Memoirs of Brás Cubas , also translated as  Epitaph of a Small Winner ) and  Quincas Borba  (also known in English as  Philosopher or Dog? ). In 1893, he published "A Missa do Galo" ("Midnight Mass"), often considered to be the greatest short story in Brazilian literature. This photograph of Machado was taken by the Brazilian photographer  Marc Ferrez  in 1890.
 
 

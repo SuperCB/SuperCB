@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Red-lored_Whistler_0A2A8896.jpg/750px-Red-lored_Whistler_0A2A8896.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/British_Columbia_Regiment_1940.jpg/600px-British_Columbia_Regiment_1940.jpg" />
 </div>
 
->The  red-lored whistler  ( Pachycephala rufogularis ) is one of nine species of whistler occurring in Australia and a member of the family  Pachycephalidae . It resides in the low mallee,  spinifex , cypress pine and broombush woodland in the desert of central New South Wales, north-western Victoria and adjacent south-eastern South Australia, preferring low mallee woodlands or shrublands with open canopy, above a moderately dense but patchy scrub layer. The male bird has an orange or buff face and throat, a grey breastband extending around the neck and over the head, and rufous underparts with pale yellow or olive edging to primaries. The female is similar but with a paler throat and underparts. While it is often seen perched in trees and shrubs, the red-lored whistler feeds, for the most part, on the ground. Little is known about the movement of this species, although it is thought to be sedentary, with some movement possibly after breeding. It builds a substantial, cup-shaped nest made mostly of coarse bark and mallee leaves, neatly woven around the rim in low shrubs and lays two or three eggs. The species's limited range has seen it listed nationally as a  vulnerable species . This red-lored whistler was photographed in the  Nombinnie Nature Reserve  in New South Wales.
+>Wait for Me, Daddy  is a photo taken by  Claude P. Dettloff  of  The Province  on October 1, 1940, of the  British Columbia Regiment (Duke of Connaught's Own)  marching down Eighth Street at the Columbia Street intersection,  New Westminster , British Columbia. While Dettloff was taking the photo, Warren "Whitey" Bernard ran away from his mother to his father, Private Jack Bernard. The picture received extensive exposure and was used in war-bond drives.
 
 

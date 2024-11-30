@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ocellated_turkey_%28Meleagris_ocellata%29_male_Peten.jpg/495px-Ocellated_turkey_%28Meleagris_ocellata%29_male_Peten.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dudley_Hardy_-_Poster_for_Basil_Hood_and_Arthur_Sullivan%27s_The_Rose_of_Persia.jpg/525px-Dudley_Hardy_-_Poster_for_Basil_Hood_and_Arthur_Sullivan%27s_The_Rose_of_Persia.jpg" />
 </div>
 
->The  ocellated turkey  ( Meleagris ocellata ) is a species of  turkey  residing primarily in the  Yucatán Peninsula , Mexico, as well as in parts of Belize and Guatemala. It is a relative of the North American  wild turkey  ( Meleagris gallopavo ), although it is somewhat smaller. The body feathers of both sexes are a mixture of bronze and green  iridescent  color, with neither sex possessing the  beard  typically found in wild turkeys. Tail feathers of both sexes are bluish-grey with an eye-shaped, blue-bronze spot near the end with a bright gold tip. These spots, or  ocelli  (for which the ocellated turkey is named) have been likened to the patterning typically found on peafowl. This ocellated turkey was photographed near  Tikal  in the Petén region of Guatemala.
+>The Rose of Persia ;  or, The Story-Teller and the Slave , is a two-act  comic opera , with music by  Arthur Sullivan  and a libretto by  Basil Hood . It premiered at the  Savoy Theatre  on 29 November 1899, closing on 28 June 1900 after a profitable run of 211 performances. The opera then toured, had a brief run in America and played elsewhere throughout the English-speaking world.
 
 

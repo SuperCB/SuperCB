@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dudley_Hardy_-_Poster_for_Basil_Hood_and_Arthur_Sullivan%27s_The_Rose_of_Persia.jpg/525px-Dudley_Hardy_-_Poster_for_Basil_Hood_and_Arthur_Sullivan%27s_The_Rose_of_Persia.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/525px-Sir_Winston_Churchill_-_19086236948.jpg" />
 </div>
 
->The Rose of Persia ;  or, The Story-Teller and the Slave , is a two-act  comic opera , with music by  Arthur Sullivan  and a libretto by  Basil Hood . It premiered at the  Savoy Theatre  on 29 November 1899, closing on 28 June 1900 after a profitable run of 211 performances. The opera then toured, had a brief run in America and played elsewhere throughout the English-speaking world.
+>Winston Churchill  (30 November 1874 – 24 January 1965) was a British statesman, soldier and writer who served as  Prime Minister of the United Kingdom  from 1940 to 1945,  during the Second World War , and again from 1951 to 1955. Apart from 1922 to 1924, he was a  member of Parliament  from 1900 to 1964, representing five different  constituencies . This black-and-white photograph of Churchill, titled  The Roaring Lion , was taken on 30 December 1941 by the Armenian-Canadian photographer  Yousuf Karsh  in the  Centre Block  on  Parliament Hill  in  Ottawa , Canada. The photograph is particularly noted for Churchill's posture and facial expression, which have been compared to the wartime feelings that prevailed in the United Kingdom – persistence in the face of an all-conquering enemy.
 
 

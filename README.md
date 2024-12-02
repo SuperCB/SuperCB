@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/525px-Sir_Winston_Churchill_-_19086236948.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/African_helmeted_turtle_%28Pelomedusa_subrufa%29.jpg/600px-African_helmeted_turtle_%28Pelomedusa_subrufa%29.jpg" />
 </div>
 
->Winston Churchill  (30 November 1874 – 24 January 1965) was a British statesman, soldier and writer who served as  Prime Minister of the United Kingdom  from 1940 to 1945,  during the Second World War , and again from 1951 to 1955. Apart from 1922 to 1924, he was a  member of Parliament  from 1900 to 1964, representing five different  constituencies . This black-and-white photograph of Churchill, titled  The Roaring Lion , was taken on 30 December 1941 by the Armenian-Canadian photographer  Yousuf Karsh  in the  Centre Block  on  Parliament Hill  in  Ottawa , Canada. The photograph is particularly noted for Churchill's posture and facial expression, which have been compared to the wartime feelings that prevailed in the United Kingdom – persistence in the face of an all-conquering enemy.
+>The  African helmeted turtle  ( Pelomedusa subrufa ) is a species of  side-necked terrapin  in the family  Pelomedusidae . The species naturally occurs in fresh and stagnant water bodies throughout much of sub-Saharan Africa, and in southern Yemen. It is  omnivorous , with its diet consisting mainly of aquatic invertebrates, small fish, and vegetation. It is typically a small turtle, with most individuals being less than 20 centimetres (7.9 inches) in straight carapace length. The female lays two to ten eggs on average, normally during late spring and early summer. The eggs are placed in a flask-shaped nest about 4 to 7 inches (10 to 18 centimetres) deep and hatch in 75 to 90 days. This African helmeted turtle was photographed in  Phinda Private Game Reserve , South Africa.
 
 

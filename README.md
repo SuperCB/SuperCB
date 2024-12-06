@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sarcelle_cannelle_%28Spatula_cyanoptera%29.jpg/600px-Sarcelle_cannelle_%28Spatula_cyanoptera%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg/825px-Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg" />
 </div>
 
->The  cinnamon teal  ( Spatula cyanoptera ) is a species of  dabbling duck  found in western North and South America. It is a migratory species, travelling to northern South America and the Caribbean during the Northern Hemisphere's winter. The cinnamon teal lives in marshes and ponds, and feeds mostly on plants. It has a typical length of 16 in (41 cm), with a wing span of 22 inch (56 cm) and a mass of 14 oz (400 g). The male has bright reddish plumage with a duller brown coloration on the female. The bird feeds predominantly by dabbling, with its main diet being plants and sometimes  molluscs  and aquatic  insects . This cinnamon teal was photographed at the Parrot World animal park in  Crécy-la-Chapelle , France.
+>The  fall of man  is a term used in  Christianity  to describe the transition of the first man and woman from a state of innocent obedience to  God  to a state of guilty disobedience. The doctrine of the Fall comes from a biblical interpretation of  Genesis , chapters 1–3. At first,  Adam and Eve  lived with God in the  Garden of Eden , but  a serpent  tempted them into eating  the fruit  from the  tree of the knowledge of good and evil , which God had forbidden. After doing so, they became ashamed of their nakedness and God expelled them from the Garden to prevent them from eating the fruit of the  tree of life  and becoming immortal. The narrative of the Garden of Eden and the fall of humanity constitute a mythological tradition shared by all the  Abrahamic religions . The fall of man has been depicted many times in art and literature. This 1828  oil-on-canvas  painting, titled  Expulsion from the Garden of Eden , by  Thomas Cole  (1801–1848), is now in the collection of the  Museum of Fine Arts  in Boston, United States.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Town_Hall%2C_Yarmouth%2C_England-LCCN2002708291_-_Restoration.jpg/600px-Town_Hall%2C_Yarmouth%2C_England-LCCN2002708291_-_Restoration.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/035_Uganda_kobs_mating_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg/600px-035_Uganda_kobs_mating_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg" />
 </div>
 
->Great Yarmouth Town Hall  is a municipal building on Hall Plain in  Great Yarmouth , in  Norfolk , England. It is the meeting place of  Great Yarmouth Borough Council  and is a Grade II*  listed building . The town hall was designed by  John Bond Pearce  in the  Queen Anne Revival style , with  terracotta  facings and a 110-foot-tall (34-metre)  clock tower  with a  lantern  above. It was opened by  Edward, Prince of Wales  (later King Edward VII), on 31 May 1882. The building served as the headquarters of Great Yarmouth County Borough Council for much of the 20th century and has continued to operate as the local seat of government following the formation of the enlarged borough council in 1974. This hand-colored  photochrom  shows Great Yarmouth Town Hall in the 1890s, seen from opposite the  River Yare .
+>The  Ugandan kob  ( Kobus kob thomasi ) is a  subspecies  of the  kob , a type of  antelope . It is found in  sub-Saharan Africa , in South Sudan, Uganda and the Democratic Republic of the Congo. The Ugandan kob is distinguished from other kob subspecies by its reddish-brown colour. It is similar in appearance to the  impala  but is more sturdily built. Only the males have horns, which are lyre-shaped, strongly ridged and divergent. Males are slightly larger than females, being 90 to 100 centimetres (3.0 to 3.3 ft) at the shoulder, with an average weight of 94 kilograms (207 lb), while females are 82 to 92 centimetres (2.7 to 3.0 ft) at the shoulder and on average weigh about 63 kilograms (139 lb). This photograph shows two Ugandan kobs mating in  Queen Elizabeth National Park , Uganda.
 
 

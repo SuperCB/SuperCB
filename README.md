@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/035_Uganda_kobs_mating_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg/600px-035_Uganda_kobs_mating_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Jean_Ritchie_-_Appalachian_folk_singer%2C_1950.jpg/525px-Jean_Ritchie_-_Appalachian_folk_singer%2C_1950.jpg" />
 </div>
 
->The  Ugandan kob  ( Kobus kob thomasi ) is a  subspecies  of the  kob , a type of  antelope . It is found in  sub-Saharan Africa , in South Sudan, Uganda and the Democratic Republic of the Congo. The Ugandan kob is distinguished from other kob subspecies by its reddish-brown colour. It is similar in appearance to the  impala  but is more sturdily built. Only the males have horns, which are lyre-shaped, strongly ridged and divergent. Males are slightly larger than females, being 90 to 100 centimetres (3.0 to 3.3 ft) at the shoulder, with an average weight of 94 kilograms (207 lb), while females are 82 to 92 centimetres (2.7 to 3.0 ft) at the shoulder and on average weigh about 63 kilograms (139 lb). This photograph shows two Ugandan kobs mating in  Queen Elizabeth National Park , Uganda.
+>Jean Ritchie  (December 8, 1922 – June 1, 2015) was an American folk singer and songwriter who was known for playing the  Appalachian dulcimer . Born to a family of folk singers in  Viper, Kentucky , Ritchie was the youngest of fourteen siblings. As a child, her father Balis barred his children from playing the dulcimer, but Ritchie defied his injunction and began playing it in secret. Thus, by the time her father began teaching her how to play, she was already accustomed to the instrument, and he labeled her as a "natural born musician". Ritchie popularized the dulcimer by playing it on many of her albums and writing tutorials, making her ultimately responsible for its revival, and earning her the nickname "Mother of Folk". This 1950  Associated Press  photograph shows Ritchie playing the Appalachian dulcimer.
 
 

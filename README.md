@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Jean_Ritchie_-_Appalachian_folk_singer%2C_1950.jpg/525px-Jean_Ritchie_-_Appalachian_folk_singer%2C_1950.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Fr%C3%BChlings-Knotenblume_%28Leucojum_vernum%29-20230220-RM-161056.jpg/600px-Fr%C3%BChlings-Knotenblume_%28Leucojum_vernum%29-20230220-RM-161056.jpg" />
 </div>
 
->Jean Ritchie  (December 8, 1922 – June 1, 2015) was an American folk singer and songwriter who was known for playing the  Appalachian dulcimer . Born to a family of folk singers in  Viper, Kentucky , Ritchie was the youngest of fourteen siblings. As a child, her father Balis barred his children from playing the dulcimer, but Ritchie defied his injunction and began playing it in secret. Thus, by the time her father began teaching her how to play, she was already accustomed to the instrument, and he labeled her as a "natural born musician". Ritchie popularized the dulcimer by playing it on many of her albums and writing tutorials, making her ultimately responsible for its revival, and earning her the nickname "Mother of Folk". This 1950  Associated Press  photograph shows Ritchie playing the Appalachian dulcimer.
+>Leucojum vernum , commonly called the spring snowflake, is a species of flowering plant in the family  Amaryllidaceae . It is native to central and southern Europe from Belgium to Ukraine.  L. vernum  is cultivated as an  ornamental plant  for its white flowers in spring. The plant multiplies in favourable conditions to form clumps. Each plant bears a single white flower with greenish marks near the tip of the  tepal , on a stem about 10 to 20 centimetres (3.9 to 7.9 inches) tall, occasionally more. The Latin  specific epithet   vernum  means 'relating to spring'; its close relative,  L. aestivum , blooms in summer. This photograph of a  L. vernum  flower, taken in  Bamberg , Germany, was  focus-stacked  from 32 separate images.
 
 

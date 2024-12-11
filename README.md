@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Fr%C3%BChlings-Knotenblume_%28Leucojum_vernum%29-20230220-RM-161056.jpg/600px-Fr%C3%BChlings-Knotenblume_%28Leucojum_vernum%29-20230220-RM-161056.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kitt_Peak_National_Observatory_in_the_Quinlan_Mountains%2C_2023.jpg/600px-Kitt_Peak_National_Observatory_in_the_Quinlan_Mountains%2C_2023.jpg" />
 </div>
 
->Leucojum vernum , commonly called the spring snowflake, is a species of flowering plant in the family  Amaryllidaceae . It is native to central and southern Europe from Belgium to Ukraine.  L. vernum  is cultivated as an  ornamental plant  for its white flowers in spring. The plant multiplies in favourable conditions to form clumps. Each plant bears a single white flower with greenish marks near the tip of the  tepal , on a stem about 10 to 20 centimetres (3.9 to 7.9 inches) tall, occasionally more. The Latin  specific epithet   vernum  means 'relating to spring'; its close relative,  L. aestivum , blooms in summer. This photograph of a  L. vernum  flower, taken in  Bamberg , Germany, was  focus-stacked  from 32 separate images.
+>Kitt Peak National Observatory  is a United States  astronomical observatory  located on  Kitt Peak  in the  Quinlan Mountains , 55 miles (88 km) southwest of  Tucson, Arizona , in the  Sonoran Desert  and the  Tohono Oʼodham Nation . With more than twenty  optical telescopes  and two  radio telescopes , it is one of the largest gatherings of astronomical instruments in the Northern Hemisphere. The observatory was founded in 1958, and was administered by the  National Optical Astronomy Observatory  from the early 1980s until 2019, after which it has been overseen by  NOIRLab . This photograph, titled  A Breeze of Color , shows a portion of Kitt Peak National Observatory at sunset, and was taken as part of a 2022 photographic expedition to all the NOIRLab sites.
 
 

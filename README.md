@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kitt_Peak_National_Observatory_in_the_Quinlan_Mountains%2C_2023.jpg/600px-Kitt_Peak_National_Observatory_in_the_Quinlan_Mountains%2C_2023.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dusky_Grasswren_0A2A9591.jpg/600px-Dusky_Grasswren_0A2A9591.jpg" />
 </div>
 
->Kitt Peak National Observatory  is a United States  astronomical observatory  located on  Kitt Peak  in the  Quinlan Mountains , 55 miles (88 km) southwest of  Tucson, Arizona , in the  Sonoran Desert  and the  Tohono Oʼodham Nation . With more than twenty  optical telescopes  and two  radio telescopes , it is one of the largest gatherings of astronomical instruments in the Northern Hemisphere. The observatory was founded in 1958, and was administered by the  National Optical Astronomy Observatory  from the early 1980s until 2019, after which it has been overseen by  NOIRLab . This photograph, titled  A Breeze of Color , shows a portion of Kitt Peak National Observatory at sunset, and was taken as part of a 2022 photographic expedition to all the NOIRLab sites.
+>The  dusky grasswren  ( Amytornis purnelli ) is a species of small  passerine  bird in the family  Maluridae . The species is endemic to Australia, in which it is limited to inland areas of the  Northern Territory ,  Western Australia  and  South Australia . The dusky grasswren inhabits rocky ranges and outcrops, often preferring tumbled talus or  scree , and with areas of thick, long-unburnt spinifex grasses in the genus  Triodia . In the wild, it has been observed feeding on a range of small arthropods and other invertebrates as well as seeds. The vocal repertoire of the dusky grasswren is varied and includes trills, high-pitched whistles, rapid twittering, and high-speed warbling. This dusky grasswren was photographed in  Ormiston Pound  in the Northern Territory.
 
 

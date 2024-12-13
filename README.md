@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dusky_Grasswren_0A2A9591.jpg/600px-Dusky_Grasswren_0A2A9591.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marcelo_Rebelo_de_Sousa_%28Web_Summit%29.jpg/450px-Marcelo_Rebelo_de_Sousa_%28Web_Summit%29.jpg" />
 </div>
 
->The  dusky grasswren  ( Amytornis purnelli ) is a species of small  passerine  bird in the family  Maluridae . The species is endemic to Australia, in which it is limited to inland areas of the  Northern Territory ,  Western Australia  and  South Australia . The dusky grasswren inhabits rocky ranges and outcrops, often preferring tumbled talus or  scree , and with areas of thick, long-unburnt spinifex grasses in the genus  Triodia . In the wild, it has been observed feeding on a range of small arthropods and other invertebrates as well as seeds. The vocal repertoire of the dusky grasswren is varied and includes trills, high-pitched whistles, rapid twittering, and high-speed warbling. This dusky grasswren was photographed in  Ormiston Pound  in the Northern Territory.
+>Marcelo Rebelo de Sousa  (born 12 December 1948) is a Portuguese politician and academic. He has been the 20th and current  president of Portugal  since 9 March 2016. As a member of the  Social Democratic Party , he previously served as a  minister  and parliamentarian in the  Assembly of the Republic . This photograph of Rebelo de Sousa was taken in 2017 at  Web Summit , an annual technology conference held in  Lisbon .
 
 

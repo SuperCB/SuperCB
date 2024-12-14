@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marcelo_Rebelo_de_Sousa_%28Web_Summit%29.jpg/450px-Marcelo_Rebelo_de_Sousa_%28Web_Summit%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kl%C3%B6sterle_Stuben_Vogelperspektive.jpg/750px-Kl%C3%B6sterle_Stuben_Vogelperspektive.jpg" />
 </div>
 
->Marcelo Rebelo de Sousa  (born 12 December 1948) is a Portuguese politician and academic. He has been the 20th and current  president of Portugal  since 9 March 2016. As a member of the  Social Democratic Party , he previously served as a  minister  and parliamentarian in the  Assembly of the Republic . This photograph of Rebelo de Sousa was taken in 2017 at  Web Summit , an annual technology conference held in  Lisbon .
+>Stuben am Arlberg  is a winter sports resort in the town of  Klösterle  in the westernmost Austrian province of  Vorarlberg . It is located at an altitude of 1,410 metres (4,630 ft) and had 90 inhabitants in 2019. The settlement of Klösterle probably originated in the 9th century, at a time of silver mining in the  Klostertal  valley and the neighbouring  Montafon  valley, with the first known mention of Stuben occurring in a 1330 document describing it as a post station and the " Kaiser 's highest living room". In the late 19th century, Stuben became a popular skiing and tourist resort and is now part of  Ski Arlberg , Austria's largest skiing area. In the summer months the area is popular with hikers and mountain bikers. This aerial view from the north-west shows Stuben am Arlberg and the winding Arlbergstrasse, which passes through the resort.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kl%C3%B6sterle_Stuben_Vogelperspektive.jpg/750px-Kl%C3%B6sterle_Stuben_Vogelperspektive.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gallito_%28Stephanolepis_hispidus%29%2C_franja_marina_Teno-Rasca%2C_Tenerife%2C_Espa%C3%B1a%2C_2022-01-06%2C_DD_16.jpg/600px-Gallito_%28Stephanolepis_hispidus%29%2C_franja_marina_Teno-Rasca%2C_Tenerife%2C_Espa%C3%B1a%2C_2022-01-06%2C_DD_16.jpg" />
 </div>
 
->Stuben am Arlberg  is a winter sports resort in the town of  Klösterle  in the westernmost Austrian province of  Vorarlberg . It is located at an altitude of 1,410 metres (4,630 ft) and had 90 inhabitants in 2019. The settlement of Klösterle probably originated in the 9th century, at a time of silver mining in the  Klostertal  valley and the neighbouring  Montafon  valley, with the first known mention of Stuben occurring in a 1330 document describing it as a post station and the " Kaiser 's highest living room". In the late 19th century, Stuben became a popular skiing and tourist resort and is now part of  Ski Arlberg , Austria's largest skiing area. In the summer months the area is popular with hikers and mountain bikers. This aerial view from the north-west shows Stuben am Arlberg and the winding Arlbergstrasse, which passes through the resort.
+>Stephanolepis hispidus , commonly known as the planehead filefish, is a species in the  filefish  family, Monacanthidae. It is found in the Atlantic Ocean at depths of up to 300 metres (980 ft), with its range extending from the Canadian province of Nova Scotia to Uruguay in the west and from the Canary Islands to Angola in the east. It lives near the seabed on reefs and over sandy and muddy sea floors, often being found among  Sargassum  seaweed.  Stephanolepis hispidus  grows to a maximum length of 27 centimetres (11 in) but is more typically about 17 centimetres (6.7 in) long. The colour is cryptic, being a more or less mottled pale brown, olive or green on a light coloured background, sometimes with darker brown splotches and streaks. This  S. hispidus  individual was photographed off the Spanish island of  Tenerife .
 
 

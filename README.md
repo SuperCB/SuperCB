@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Caroline_Hill_as_Mirza_in_W._S._Gilbert%27s_The_Palace_of_Truth.jpg/450px-Caroline_Hill_as_Mirza_in_W._S._Gilbert%27s_The_Palace_of_Truth.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Papaya_-_longitudinal_section.jpg/600px-Papaya_-_longitudinal_section.jpg" />
 </div>
 
->Caroline Hill  (1845 – unknown) was an English actress. She began acting as a child in the company of  Samuel Phelps  and soon joined the company of  J. B. Buckstone  at the  Haymarket Theatre . There she created roles in several new plays, including some by  W. S. Gilbert , in whose plays she continued to act later in her career. She played at various London and provincial theatres in the 1870s. In 1883, Hill married the actor  Herbert Kelcey , with whom she had begun to appear on stage. The couple played mostly in New York City in the 1880s, and Hill continued to act through the 1890s, mostly in England. This 1870 photograph shows Hill as Mirza in a production of Gilbert's  The Palace of Truth .
+>The  papaya  ( Carica papaya ), also known as the pawpaw, is a plant species in the family  Caricaceae , and also the name of the plant's fruit. It was first domesticated in  Mesoamerica , within modern-day southern Mexico and Central America, and is now grown in several countries in regions with a tropical climate. The papaya fruit is a large berry about 15 to 45 cm (5.9 to 17.7 in) long and 10 to 30 cm (3.9 to 11.8 in) in diameter. The fruit is cultivated for food, being typically consumed when ripe and eaten raw without skin or seeds. The black seeds are also edible and have a sharp, spicy taste. This photograph shows the longitudinal cross section of a papaya fruit lying on its side, with orange flesh and numerous black seeds visible. The picture was  focus-stacked  from seven separate images.
 
 

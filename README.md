@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Papaya_-_longitudinal_section.jpg/600px-Papaya_-_longitudinal_section.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg%2C_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg/525px-Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_de_Lorraine-Habsbourg%2C_reine_de_France_et_ses_enfants_-_Google_Art_Project.jpg" />
 </div>
 
->The  papaya  ( Carica papaya ), also known as the pawpaw, is a plant species in the family  Caricaceae , and also the name of the plant's fruit. It was first domesticated in  Mesoamerica , within modern-day southern Mexico and Central America, and is now grown in several countries in regions with a tropical climate. The papaya fruit is a large berry about 15 to 45 cm (5.9 to 17.7 in) long and 10 to 30 cm (3.9 to 11.8 in) in diameter. The fruit is cultivated for food, being typically consumed when ripe and eaten raw without skin or seeds. The black seeds are also edible and have a sharp, spicy taste. This photograph shows the longitudinal cross section of a papaya fruit lying on its side, with orange flesh and numerous black seeds visible. The picture was  focus-stacked  from seven separate images.
+>Marie Antoinette and Her Children  is an  oil-on-canvas painting  by the French artist  Élisabeth Vigée Le Brun , painted in 1787. It shows  Marie Antoinette , the consort of  King Louis XVI of France , wearing a red velvet gown with a sable lining. Her younger son, the future  Louis XVII , sits on her lap, while her daughter  Marie-Thérèse  leans on her arm. Marie Antoinette's elder son,  Louis Joseph , at that time  Dauphin of France , is near an empty cradle intended for her younger daughter Sophie, who died before the painting's completion. The work was commissioned by Louis XVI in an effort to improve the public perception of Marie Antoinette, after her reputation was tarnished by the  Affair of the Diamond Necklace , by focusing on her role as a queen and a mother; she is depicted with little jewellery. The painting was first shown at the  Salon  in Paris, to mixed reactions, and is now displayed at the  Palace of Versailles .
 
 

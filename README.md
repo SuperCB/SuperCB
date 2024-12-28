@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Amphipoea_oculea_-_Keila.jpg/600px-Amphipoea_oculea_-_Keila.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Reduced_Gravity_Walking_Simulator_-_NASA_1963.jpg/750px-Reduced_Gravity_Walking_Simulator_-_NASA_1963.jpg" />
 </div>
 
->Amphipoea oculea , the ear moth, is a  moth  in the family  Noctuidae , with a  wingspan  of 29 to 34 millimetres (1.1 to 1.3 inches). Its range includes southern England, where it is widespread and common, as well as Ireland and continental Europe, with the exception of Albania, Greece and Turkey. Adults are found from June to September depending on the location, with  one generation  occurring per year. At night the moths come to light and flowers, seeking  honeydew  and sugar. During the day they feed at the flowers of  thistles  and  ragwort . This female  A. oculea  moth was photographed feeding on  field scabious  in  Keila , Estonia. The photograph was  focus-stacked  from 22 separate images.
+>The  Reduced Gravity Walking Simulator  was a facility developed by  NASA  in the early 1960s to study human movement under simulated lunar gravity conditions. It was located at NASA's  Langley Research Center  in Virginia and was designed to  prepare astronauts  for the Moon landings during the  Apollo program . The simulator was tilted at a 9.5-degree angle from the vertical and test subjects were suspended on their side by cables at the same angle. This set-up allowed the trainees to walk along the surface while experiencing only one-sixth of Earth's gravity. It was also used to study the physiological effects on the astronaut's body during movement. In total, 24 astronauts used the simulator to train for lunar missions, including all three astronauts of the  Apollo 1  mission. This photograph, taken in 1963, shows a test subject being suited up by two technicians on the Reduced Gravity Walking Simulator.
 
 

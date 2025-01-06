@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Morena_del_Mediterr%C3%A1neo_%28Muraena_helena%29%2C_Regga%2C_Gozo%2C_Malta%2C_2021-08-23%2C_DD_14.jpg/525px-Morena_del_Mediterr%C3%A1neo_%28Muraena_helena%29%2C_Regga%2C_Gozo%2C_Malta%2C_2021-08-23%2C_DD_14.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Holger_Drachmann%2C_fra_Kl%C3%A6bels_samling_-_Restoration.jpg/525px-Holger_Drachmann%2C_fra_Kl%C3%A6bels_samling_-_Restoration.jpg" />
 </div>
 
->The  Mediterranean moray  ( Muraena helena ), also known as the Roman eel, is a species of fish in the family Muraenidae, the  moray eels . It has a long eel-like body and is found in the eastern Atlantic Ocean and the Mediterranean Sea. The species prefers rocky bottoms and lives at depths between 1 and 800 metres (3 and 2,620 ft), with the 100–300-metre (330–980 ft) range being the most common habitat. It is a territorial species and is more active at night, spending most of the day in cavities and clefts between rocks. It hunts fish, crabs and  cephalopods , and its bite can be dangerous to humans. This Mediterranean moray was photographed off the coast of the Maltese island of  Gozo .
+>Holger Drachmann  (1846–1908) was a Danish poet, dramatist and painter. He was a member of the  Skagen artistic colony  and became a figure of the Scandinavian  Modern Breakthrough  Movement. Born in  Copenhagen , he studied at the  Royal Danish Academy of Fine Arts , going on to achieve fame for his painting of seascapes and ships in storms. He began writing poetry in 1872; his most famous work is the 1877 collection of poems  Sange ved Havet  ( Songs of the Sea ). 
 
 

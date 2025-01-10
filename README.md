@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lime_-_whole_and_halved.jpg/450px-Lime_-_whole_and_halved.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Michael_William_Balfe_-_Atelier_Nadar.jpg/525px-Michael_William_Balfe_-_Atelier_Nadar.jpg" />
 </div>
 
->A  lime  is a  citrus  fruit, which is typically round,  lime green  in colour, 3–6 centimetres (1.2–2.4 in) in diameter, and contains acidic  juice vesicles . There are several species of citrus trees whose fruits are called limes, including the  Key lime ,  Persian lime ,  kaffir lime ,  finger lime ,  blood lime , and  desert lime . Limes are a rich source of  vitamin C , are sour, and are often used to accent the flavours of foods and beverages. They are grown year-round, originally in tropical  South  and  Southeast Asia  but now in much of the world. Plants with fruit called "limes" have diverse genetic origins; limes do not form a  monophyletic  group. This photograph shows two limes grown in Brazil, one whole and one halved, and was  focus-stacked  from 23 images.
+>Michael William Balfe  (1808–1870) was an Irish composer, best remembered for his operas. Balfe was born in  Dublin  and grew up on Pitt Street, which was renamed Balfe Street in 1917 in his honour. After moving to  Wexford  with his family as a child, he began a career as a violinist, moving to  London  in 1823 after his father's death, later relocating again to Italy and Switzerland, where he married the Hungarian-born singer Lina Roser. Balfe began pursuing an operatic singing career as well as composition, and moved back to London with his family in 1835. In a career spanning more than 40 years, he composed at least 29 operas, almost 250 songs, several  cantatas , and other works. He was also a noted conductor, directing Italian opera at  Her Majesty's Italian Opera House  for seven years, among other conducting posts. His most notable opera is  The Bohemian Girl , which continues to be performed. This photograph of Balfe was taken by the studio of the French photographer  Nadar ; this  albumen print  was made in 1900.
 
 

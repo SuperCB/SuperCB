@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SQM_GE_289A_Boxcab_Carmelita_-_Reverso.jpg/750px-SQM_GE_289A_Boxcab_Carmelita_-_Reverso.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/John_Henry_Turpin%2C_Chief_Gunner%27s_Mate%2C_U.S._Navy%2C_circa_in_the_1940s_%28NH_89471%29.jpg/480px-John_Henry_Turpin%2C_Chief_Gunner%27s_Mate%2C_U.S._Navy%2C_circa_in_the_1940s_%28NH_89471%29.jpg" />
 </div>
 
->The  Tocopilla railway  was a  mountain railway  built to serve the  sodium nitrate  mines in the Toco area of the  Antofagasta Region  in Chile. With a  gauge of 3 ft 6 in  (1,067 mm), it ran from the port of  Tocopilla  on the Pacific coast up to a height of 4,902 feet (1,494 metres), with gradients up to 1 in 24. The railway was built by a joint-stock company founded in  London  and was designed by William Stirling of  Lima , with a detailed description of the initial operation of the railway published by his brother Robert in 1900.The line was electrified in the mid-1920s and expanded in 1930 with the addition of lines serving new areas of mining. It continued operating into the 21st century, but was forced to close in 2015 when flash flooding caused numerous washouts on the electrified section of the railroad. With the declining prospects for nitrate, it was not economical for the line to be repaired. This photograph taken in 2013 shows a  boxcab  on the Tocopilla railway, leading a train down towards the coast.
+>John Henry Turpin  (1876–1962) was a sailor in the  United States Navy  in the late 19th and early 20th centuries. He was one of the first African-American  chief petty officers  in the U.S. Navy, becoming a  chief gunner's mate  on the cruiser  Marblehead  in 1917. He was transferred to the  Fleet Reserve  in 1919 and retired in 1925. He is also notable for surviving the catastrophic explosions of two U.S. Navy ships:  USS  Maine  in 1898, and  USS  Bennington  in 1905.
 
 

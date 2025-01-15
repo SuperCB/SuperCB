@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fork-tailed_flycatcher_%28Tyrannus_savana_monachus%29_in_flight_Cayo.jpg/600px-Fork-tailed_flycatcher_%28Tyrannus_savana_monachus%29_in_flight_Cayo.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Nigeen_Lake_pano_%28edited%29.jpg/4500px-Nigeen_Lake_pano_%28edited%29.jpg" />
 </div>
 
->The  fork-tailed flycatcher  ( Tyrannus savana ) is a bird in the family Tyrannidae, the  tyrant flycatchers . Named after their distinguishably long, forked tails, particularly in males, fork-tailed flycatchers are seen in shrubland, savanna, lightly forested and grassland areas, from southern Mexico south to Argentina. They tend to build their cup nests in similar habitats to their hunting grounds ( riparian forests  and grasslands). Males perform aerial courtship displays to impress females involving swirling somersaults, twists, and flips, all partnered with their buzzing calls. These courtship displays utilise the long tail feathers. This male fork-tailed flycatcher of the subspecies  T. s. monachus  was photographed in  Cayo District , Belize, demonstrating its characteristic forked tail while in flight.
+>Nigeen Lake  is a mildly  eutrophic  lake located in  Srinagar , in Indian-administered  Jammu and Kashmir . It is sometimes considered to be a part of  Dal Lake  and is connected to it via a narrow strait. This  panoramic photograph  shows the west bank of Nigeen Lake, with  houseboats  lining the shore.  Hari Parbat , a hill overlooking Srinagar, is visible to the left of centre, and the snow-capped  Pir Panjal Range  can be seen in the distance.
 
 

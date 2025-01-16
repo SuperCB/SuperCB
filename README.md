@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Nigeen_Lake_pano_%28edited%29.jpg/4500px-Nigeen_Lake_pano_%28edited%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rhinanthus_angustifolius_inflorescence_-_Kulna.jpg/450px-Rhinanthus_angustifolius_inflorescence_-_Kulna.jpg" />
 </div>
 
->Nigeen Lake  is a mildly  eutrophic  lake located in  Srinagar , in Indian-administered  Jammu and Kashmir . It is sometimes considered to be a part of  Dal Lake  and is connected to it via a narrow strait. This  panoramic photograph  shows the west bank of Nigeen Lake, with  houseboats  lining the shore.  Hari Parbat , a hill overlooking Srinagar, is visible to the left of centre, and the snow-capped  Pir Panjal Range  can be seen in the distance.
+>Rhinanthus angustifolius , the narrow-leaved rattle or greater yellow-rattle, is a species of plant of the genus  Rhinanthus , in the broomrape family,  Orobanchaceae . It is an  annual  wildflower, native to temperate  grasslands  in much of Europe, and north and central Western Asia. The yellow flowers are mostly visited by  bumblebees . This  R. angustifolius   inflorescence  was photographed in  Kulna , Estonia. The photograph was  focus-stacked  from 80 separate images.
 
 

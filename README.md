@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Panorama_of_a_green_iguana_%2806643p%29.jpg/1500px-Panorama_of_a_green_iguana_%2806643p%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/375px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg" />
 </div>
 
->The  green iguana  ( Iguana iguana ), also known as the American iguana, the common green iguana, or simply the iguana, is a large,  arboreal , mostly  herbivorous  species of  lizard  of the genus  Iguana . The species is native to a large geographic area, from southern Brazil and Paraguay as far north as Mexico. It grows to 1.7 metres (5.6 feet) in length from head to tail, although a few specimens have grown more than 2 metres (6.6 feet) with weights upward of 20 pounds (9.1 kilograms). Green iguanas possess a row of spines along their backs and tails, which helps to protect them from predators. Their whip-like tails can be used to deliver painful strikes, and like many other lizards, when grabbed by the tail, iguanas can  allow it to break , so they can escape and eventually regenerate a new one. This green iguana was photographed in  Palm Beach County, Florida , where the species has been  introduced .
+>Benjamin Franklin  (January 17, 1706 – April 17, 1790) was an American  polymath : a writer, scientist, inventor, statesman, diplomat, printer, publisher and  political philosopher . Among the most influential intellectuals of his time, Franklin was one of the  Founding Fathers of the United States ; a  drafter  and signer of the  Declaration of Independence ; and the first  postmaster general . Franklin became a successful  newspaper editor and printer  in Philadelphia, the leading city in the colonies, publishing  The Pennsylvania Gazette  at age 23. He became wealthy publishing this and  Poor Richard's Almanack , which he wrote under the pseudonym "Richard Saunders". As a scientist, his studies of electricity made him a major figure in the  American Enlightenment  and the  history of physics . His inventions include the  lightning rod ,  bifocals ,  glass harmonica  and the  Franklin stove . This 1778 portrait of Franklin was painted by  Joseph Duplessis .
 
 

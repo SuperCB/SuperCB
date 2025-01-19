@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/375px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Volc%C3%A1n_Aucanquilcha%2C_Chile%2C_2016-02-10%2C_DD_11.JPG/825px-Volc%C3%A1n_Aucanquilcha%2C_Chile%2C_2016-02-10%2C_DD_11.JPG" />
 </div>
 
->Benjamin Franklin  (January 17, 1706 – April 17, 1790) was an American  polymath : a writer, scientist, inventor, statesman, diplomat, printer, publisher and  political philosopher . Among the most influential intellectuals of his time, Franklin was one of the  Founding Fathers of the United States ; a  drafter  and signer of the  Declaration of Independence ; and the first  postmaster general . Franklin became a successful  newspaper editor and printer  in Philadelphia, the leading city in the colonies, publishing  The Pennsylvania Gazette  at age 23. He became wealthy publishing this and  Poor Richard's Almanack , which he wrote under the pseudonym "Richard Saunders". As a scientist, his studies of electricity made him a major figure in the  American Enlightenment  and the  history of physics . His inventions include the  lightning rod ,  bifocals ,  glass harmonica  and the  Franklin stove . This 1778 portrait of Franklin was painted by  Joseph Duplessis .
+>Aucanquilcha  is a large  stratovolcano  located in the  Antofagasta Region  of northern Chile, just west of the border with Bolivia and within the  Alto Loa National Reserve . Part of the  Central Volcanic Zone  of the  Andes , it takes the form of a ridge, with a maximum height of 6,176 metres (20,262 ft). The volcano is embedded in a larger cluster of volcanoes known as the Aucanquilcha cluster. This was formed in stages over 11 million years of activity with varying magma output, including  lava domes  and  lava flows . Aucanquilcha was formed from four units that erupted between 1.04 and 0.23 million years ago. During the  ice ages , both the principal Aucanquilcha complex and the other volcanoes of the cluster were subject to  glaciation , resulting in the formation of  moraines  and  cirques .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Volc%C3%A1n_Aucanquilcha%2C_Chile%2C_2016-02-10%2C_DD_11.JPG/825px-Volc%C3%A1n_Aucanquilcha%2C_Chile%2C_2016-02-10%2C_DD_11.JPG" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Roadside_hawk_%28Rupornis_magnirostris_griseocauda%29_eating_speckled_racer_%28Drymobius_margaritiferus%29_Orange_Walk.jpg/600px-Roadside_hawk_%28Rupornis_magnirostris_griseocauda%29_eating_speckled_racer_%28Drymobius_margaritiferus%29_Orange_Walk.jpg" />
 </div>
 
->Aucanquilcha  is a large  stratovolcano  located in the  Antofagasta Region  of northern Chile, just west of the border with Bolivia and within the  Alto Loa National Reserve . Part of the  Central Volcanic Zone  of the  Andes , it takes the form of a ridge, with a maximum height of 6,176 metres (20,262 ft). The volcano is embedded in a larger cluster of volcanoes known as the Aucanquilcha cluster. This was formed in stages over 11 million years of activity with varying magma output, including  lava domes  and  lava flows . Aucanquilcha was formed from four units that erupted between 1.04 and 0.23 million years ago. During the  ice ages , both the principal Aucanquilcha complex and the other volcanoes of the cluster were subject to  glaciation , resulting in the formation of  moraines  and  cirques .
+>The  roadside hawk  ( Rupornis magnirostris ) is a relatively small  bird of prey  in the family  Accipitridae . It is found from Mexico through Central America and in most of South America east of the  Andes . With the possible exception of dense  rainforests , the roadside hawk is well adapted to most ecosystems in its range. It is also an urban bird, and is possibly the most common species of hawk seen in various cities throughout its range. This roadside hawk of the subspecies  R. m. griseocauda  was photographed feeding on a  speckled racer  in  Orange Walk District , Belize.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mary_Stevenson_Cassatt_-_In_the_Loge_-_Google_Art_Project.jpg/525px-Mary_Stevenson_Cassatt_-_In_the_Loge_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cattle_tyrant_%28Machetornis_rixosa%29_on_Capybara.jpg/825px-Cattle_tyrant_%28Machetornis_rixosa%29_on_Capybara.jpg" />
 </div>
 
->In the Loge , also known as  At the Opera , is an 1878  Impressionist  painting by the American artist  Mary Cassatt . The  oil-on-canvas  work depicts a  bourgeois  woman in a  box  at an opera house looking through her  opera glasses , while a man in the background looks at her from a different box. The woman's costume and fan identify her upper-class status. Art historians see the painting as a commentary on the role of gender, looking, and power in the social spaces of the 19th century. The painting is now at the  Museum of Fine Arts, Boston , which also holds a preliminary drawing for the work.
+>The  cattle tyrant  ( Machetornis rixosa ) is a species of bird in the family Tyrannidae, the  tyrant flycatcher . It has a  disjunct distribution , consisting of one race in a region from northern Argentina and Bolivia to the north-eastern tip of Brazil, and the two other subspecies ranging from Panama to Venezuela and eastern Ecuador. It inhabits drier open and semi-open habitats, and avoided forested and wooded areas. It can be found in savannah, pastureland, parkland, agricultural land and even gardens. The  capybara  ( Hydrochoerus hydrochaeris ) is the largest living species of rodent, classified within the genus  Hydrochoerus , the only other extant member of which is the  lesser capybara  ( H. isthmius ). Its close relatives include  guinea pigs  and  rock cavies , and it is more distantly related to the  agouti , the  chinchilla , and the  nutria . The capybara is a highly social species and inhabits savannas and dense forests, living near bodies of water. It is hunted for its meat and hide and also for grease from its thick fatty skin. This photograph, taken in the  Pantanal , a wetland region in western Brazil, shows a cattle tyrant perching on the head of a capybara.
 
 

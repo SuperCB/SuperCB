@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frozen_Lake_Shinko_La_Lahaul_Jun24_A7CR_00315.jpg/750px-Frozen_Lake_Shinko_La_Lahaul_Jun24_A7CR_00315.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Vietnam_peace_agreement_signing%2C_27580141%2C_new.jpg/750px-Vietnam_peace_agreement_signing%2C_27580141%2C_new.jpg" />
 </div>
 
->Shinku La  is a  mountain pass  in the  Himalayas  of northern India. The pass is traversed by the  Darcha–Padum road , connecting the high-altitude region of  Zanskar  in  Ladakh  with the rest of India. The pass becomes snowbound in the winter, leading to the closure of the road. The construction of a tunnel under the pass, to ensure all-weather connectivity, began in 2024. This photograph shows Shinku La covered in snow, with a frozen lake in the foreground.
+>The  Paris Peace Accords , officially the Agreement on Ending the War and Restoring Peace in Viet Nam, was a peace agreement signed on January 27, 1973, to establish peace in Vietnam and end the  Vietnam War . The agreement was signed by the governments of the  Democratic Republic of Vietnam  (North Vietnam), the  Republic of Vietnam  (South Vietnam), the United States, and the  Provisional Revolutionary Government of the Republic of South Vietnam  (representing South Vietnamese communists). The Paris Peace Accords removed the remaining United States forces, and fighting between the three remaining powers temporarily stopped. The agreement's provisions were immediately and frequently broken by both North and South Vietnamese forces with no official response from the United States. Open fighting broke out in March 1973, and North Vietnamese offensives enlarged their territory by the end of the year. The war continued until the  fall of Saigon  to North Vietnamese forces in 1975. This photograph shows  William P. Rogers , United States Secretary of State, signing the accords in Paris.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Percy_Anderson_-_Poster_for_The_Duchess_of_Dantzic.jpg/480px-Percy_Anderson_-_Poster_for_The_Duchess_of_Dantzic.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/FDR_1944_Color_Portrait_%28cropped%29%28b%29.jpg/450px-FDR_1944_Color_Portrait_%28cropped%29%28b%29.jpg" />
 </div>
 
->The Duchess of Dantzic  is a  comic opera  in three acts, set in  Paris , with music by  Ivan Caryll  and a book and lyrics by  Henry Hamilton , based on the play  Madame Sans-Gêne  by  Victorien Sardou  and  Émile Moreau .  Additional lyrics by  Adrian Ross .  The story concerns  Napoleon  and a laundress,  Catherine Üpscher , who marries  Marshal Lefebvre  and becomes a duchess. The opera was first produced in London at the  Lyric Theatre  in 1903 and ran for 236 performances.  Subsequently, it enjoyed a successful New York production at  Daly's Theatre  and other productions around the world, and was revived in London and performed regularly by amateur theatre groups, particularly in Britain, until the 1950s. This 1903 poster for the opera's original production was designed by the show's costume designer,  Percy Anderson .
+>Franklin D. Roosevelt  (January 30, 1882 – April 12, 1945) was the 32nd  president of the United States , serving from 1933 until his death. He was the longest-serving U.S. president and the only one to serve more than two terms in office. His first two terms were centered on combating the  Great Depression , while his third and fourth saw him shift his focus to  America's involvement in World War II . This official photographic portrait of Roosevelt was taken in  Hyde Park, New York , for his  1944 presidential election  campaign.
 
 

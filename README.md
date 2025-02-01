@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/FDR_1944_Color_Portrait_%28cropped%29%28b%29.jpg/450px-FDR_1944_Color_Portrait_%28cropped%29%28b%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Robert_Jacob_Hamerton_-_Poster_for_A_Sensation_Novel.jpg/525px-Robert_Jacob_Hamerton_-_Poster_for_A_Sensation_Novel.jpg" />
 </div>
 
->Franklin D. Roosevelt  (January 30, 1882 – April 12, 1945) was the 32nd  president of the United States , serving from 1933 until his death. He was the longest-serving U.S. president and the only one to serve more than two terms in office. His first two terms were centered on combating the  Great Depression , while his third and fourth saw him shift his focus to  America's involvement in World War II . This official photographic portrait of Roosevelt was taken in  Hyde Park, New York , for his  1944 presidential election  campaign.
+>A Sensation Novel  is a comic  musical play  in three acts (described as "volumes" in the programme), one of a series written by the dramatist  W. S. Gilbert  for the  Royal Gallery of Illustration , with music composed by  Thomas German Reed , though much of the music is lost. The play premiered on 31 January 1871 and concerns an author suffering from  writer's block  who finds that the characters in his novel are dissatisfied when they come to life and complain about their fate. The piece satirises the  sensation novels  popular as pulp detective fiction in the  Victorian era . This  lithographic  poster was designed by Robert Jacob Hamerton to advertise the premiere of  A Sensation Novel .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Robert_Jacob_Hamerton_-_Poster_for_A_Sensation_Novel.jpg/525px-Robert_Jacob_Hamerton_-_Poster_for_A_Sensation_Novel.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sgt._Samuel_Smith%2C_African_American_soldier_in_Union_uniform_with_wife_and_two_daughters.jpg/750px-Sgt._Samuel_Smith%2C_African_American_soldier_in_Union_uniform_with_wife_and_two_daughters.jpg" />
 </div>
 
->A Sensation Novel  is a comic  musical play  in three acts (described as "volumes" in the programme), one of a series written by the dramatist  W. S. Gilbert  for the  Royal Gallery of Illustration , with music composed by  Thomas German Reed , though much of the music is lost. The play premiered on 31 January 1871 and concerns an author suffering from  writer's block  who finds that the characters in his novel are dissatisfied when they come to life and complain about their fate. The piece satirises the  sensation novels  popular as pulp detective fiction in the  Victorian era . This  lithographic  poster was designed by Robert Jacob Hamerton to advertise the premiere of  A Sensation Novel .
+>African Americans , also known as Afro-Americans or Black Americans, are an  ethnic group  consisting of Americans with partial or total ancestry from any of the  Black  racial groups of Africa. African Americans constitute the third largest racial or ethnic group in the U.S. after  White Americans  and  Hispanic and Latino Americans . Most African Americans are descendants of  enslaved people , having West African and coastal Central African ancestry, with varying amounts of Western European and Native American ancestry. This  ambrotype  depicts African American  Union  soldier Sgt. Samuel Smith, of the 119th  United States Colored Troops , with his family in  c.  1863 –65.
 
 

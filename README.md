@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamerkop_%28Scopus_umbretta_umbretta%29_2.jpg/450px-Hamerkop_%28Scopus_umbretta_umbretta%29_2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Charles_Henry_Turner_at_Sumner_High_School%2C_St._Louis%2C_Mo._Aug._9%2C_1921.jpg/450px-Charles_Henry_Turner_at_Sumner_High_School%2C_St._Louis%2C_Mo._Aug._9%2C_1921.jpg" />
 </div>
 
->The  hamerkop  ( Scopus umbretta ) is a medium-sized wading bird. It is  the only living species in the genus  Scopus  and the family Scopidae. Its closest relatives are thought to be the  pelicans  and the  shoebill , in the order  Pelecaniformes . The shape of its head with a long bill and crest at the back is reminiscent of a hammer, which has given this species its name after the  Afrikaans  word for hammerhead. It is a medium-sized waterbird with brown plumage. It is found in Africa and Arabia, living in a wide variety of  wetlands , including  estuaries , lakesides, fish ponds,  riverbanks , and rocky coasts. This hamerkop was photographed at  Lake Baringo  in Kenya.
+>Charles Henry Turner  (February 3, 1867 – February 14, 1923) was an American  zoologist ,  entomologist , educator, and  comparative psychologist , known for his studies on the behavior of insects, particularly bees and ants. Born in  Cincinnati , Turner was the first  African American  to receive a graduate degree at the  University of Cincinnati  and among the first African Americans to earn a PhD from the  University of Chicago . He spent most of his career as a high-school teacher at  Sumner High School  in St. Louis.  Turner was one of the first scientists to systematically examine the question of whether animals display complex cognition, studying  arthropods  such as  spiders  and  bees . He also examined differences in behavior between individuals within a species, a precursor to the study of  animal personality . This 1921 portrait photograph of Turner is in the collection of  The Crisis , the magazine of the  National Association for the Advancement of Colored People  (NAACP).
 
 

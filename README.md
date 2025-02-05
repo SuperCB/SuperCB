@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Charles_Henry_Turner_at_Sumner_High_School%2C_St._Louis%2C_Mo._Aug._9%2C_1921.jpg/450px-Charles_Henry_Turner_at_Sumner_High_School%2C_St._Louis%2C_Mo._Aug._9%2C_1921.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Paranal_and_the_Pacific_at_sunset_%28dsc4088%2C_retouched%2C_cropped%29.jpg/750px-Paranal_and_the_Pacific_at_sunset_%28dsc4088%2C_retouched%2C_cropped%29.jpg" />
 </div>
 
->Charles Henry Turner  (February 3, 1867 – February 14, 1923) was an American  zoologist ,  entomologist , educator, and  comparative psychologist , known for his studies on the behavior of insects, particularly bees and ants. Born in  Cincinnati , Turner was the first  African American  to receive a graduate degree at the  University of Cincinnati  and among the first African Americans to earn a PhD from the  University of Chicago . He spent most of his career as a high-school teacher at  Sumner High School  in St. Louis.  Turner was one of the first scientists to systematically examine the question of whether animals display complex cognition, studying  arthropods  such as  spiders  and  bees . He also examined differences in behavior between individuals within a species, a precursor to the study of  animal personality . This 1921 portrait photograph of Turner is in the collection of  The Crisis , the magazine of the  National Association for the Advancement of Colored People  (NAACP).
+>The  Very Large Telescope  (VLT) is an astronomical facility operated by the  European Southern Observatory , located on  Cerro Paranal  in the  Atacama Desert  of northern Chile. It consists of four individual  optical telescopes , each equipped with a  primary mirror  measuring 8.2 metres (27 feet) in diameter, which are generally used separately but can be combined to achieve a very high  angular resolution . The VLT array is complemented by four movable auxiliary telescopes with 1.8-metre (5.9-feet)  apertures , and the VLT Survey Telescope (at right in the photograph). This photograph, taken at sunset in 2015, shows the VLT and its associated telescopes and supporting buildings.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Paranal_and_the_Pacific_at_sunset_%28dsc4088%2C_retouched%2C_cropped%29.jpg/750px-Paranal_and_the_Pacific_at_sunset_%28dsc4088%2C_retouched%2C_cropped%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cabinet_Card_of_Sojourner_Truth_-_Collection_of_the_National_Museum_of_African_American_History_and_Culture.jpg/435px-Cabinet_Card_of_Sojourner_Truth_-_Collection_of_the_National_Museum_of_African_American_History_and_Culture.jpg" />
 </div>
 
->The  Very Large Telescope  (VLT) is an astronomical facility operated by the  European Southern Observatory , located on  Cerro Paranal  in the  Atacama Desert  of northern Chile. It consists of four individual  optical telescopes , each equipped with a  primary mirror  measuring 8.2 metres (27 feet) in diameter, which are generally used separately but can be combined to achieve a very high  angular resolution . The VLT array is complemented by four movable auxiliary telescopes with 1.8-metre (5.9-feet)  apertures , and the VLT Survey Telescope (at right in the photograph). This photograph, taken at sunset in 2015, shows the VLT and its associated telescopes and supporting buildings.
+>Sojourner Truth , born Isabella Baumfree, ( c.  1797  – 1883) was an American  abolitionist  and activist for  African-American civil rights ,  women's rights , and  alcohol temperance . Truth was born into slavery in  Swartekill, New York , but escaped with her infant daughter to freedom in 1826. After going to court to recover her son in 1828, she became the first black woman to win such a case against a white man. This  cabinet card  of Truth was produced around 1864, and is now in the collection of the  National Museum of African American History and Culture .
 
 

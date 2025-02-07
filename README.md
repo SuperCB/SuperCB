@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cabinet_Card_of_Sojourner_Truth_-_Collection_of_the_National_Museum_of_African_American_History_and_Culture.jpg/435px-Cabinet_Card_of_Sojourner_Truth_-_Collection_of_the_National_Museum_of_African_American_History_and_Culture.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pez_ballesta_ondulado_%28Balistapus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_45.jpg/750px-Pez_ballesta_ondulado_%28Balistapus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_45.jpg" />
 </div>
 
->Sojourner Truth , born Isabella Baumfree, ( c.  1797  – 1883) was an American  abolitionist  and activist for  African-American civil rights ,  women's rights , and  alcohol temperance . Truth was born into slavery in  Swartekill, New York , but escaped with her infant daughter to freedom in 1826. After going to court to recover her son in 1828, she became the first black woman to win such a case against a white man. This  cabinet card  of Truth was produced around 1864, and is now in the collection of the  National Museum of African American History and Culture .
+>The  orange-lined triggerfish  ( Balistapus undulatus ) is a species of marine  ray-finned fish  belonging to the  triggerfish  family, Balistidae. It has a wide  Indo-Pacific  range, and is typically found in  coral reefs , coral lagoons, and external reef slopes. The orange-lined triggerfish has a dark brown to dark green body with orange lines that start behind the head and cover the rest of its body. Its maximum body size is about 30 centimetres (12 inches), with the head about one-third of the body length. Due to its broad diet and distribution, the species is a crucial component in coral reef ecosystems through top-down control, and especially through consumption of  sea urchins . This orange-lined triggerfish was photographed in the  Red Sea  off the Egyptian coast.
 
 

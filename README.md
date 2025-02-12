@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg/450px-003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dolderbahn_Bhe_1-2_1_Waldhaus_Dolder_-_Bergstation_Dolderbahn.jpg/825px-Dolderbahn_Bhe_1-2_1_Waldhaus_Dolder_-_Bergstation_Dolderbahn.jpg" />
 </div>
 
->The  Alpine ibex  ( Capra ibex ), also known as the steinbock, is a species of  goat  that lives in the  Alps  of Europe. Its closest living relative is the  Iberian ibex . Alpine ibex have brownish-grey  coats  and sharp hooves adapted to steep, rough terrain. Found at elevations as high as 3,300 metres (10,800 feet), they are active throughout the year, primarily feeding on grass in open alpine meadows. Adult males, which are larger than females, segregate from them for most of the year, coming together only during the breeding season, when they fight for access to the females using their long horns. The Alpine ibex has been successfully reintroduced to parts of its historical range, but all individuals living today descend from a  population bottleneck  of fewer than 100 individuals from  Gran Paradiso National Park  in Italy. The species has few predators and is not  threatened , but it has very low  genetic diversity . These Alpine ibex, a male in winter and a female in summer, were photographed at  Creux du Van  in Switzerland.
+>The  Dolderbahn  is a  rack railway  in the Swiss city of  Zurich . It has a length of 1.3 km (0.8 mi) and is located in Zurich's  Hottingen  and  Fluntern  suburbs on the south slope of the  Adlisberg  mountain. The lower terminus of the line is at  Römerhof , around 1.5 km (0.9 mi) from the city centre, where it connects with lines 3 and 8 of the  Zurich tramway . The upper terminus at  Bergstation Dolderbahn  is adjacent to the  Dolder Grand Hotel  and the Dolder recreation area. Two intermediate stations, at  Titlisstrasse  and  Waldhaus Dolder , are also served. This image shows car 1/2 1 from the  1973 SLM rolling stock .
 
 

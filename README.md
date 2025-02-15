@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jadeite_Cabbage%2C_National_Palace_Museum.jpg/375px-Jadeite_Cabbage%2C_National_Palace_Museum.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pomegranate_fruit_-_whole_and_piece_with_arils.jpg/750px-Pomegranate_fruit_-_whole_and_piece_with_arils.jpg" />
 </div>
 
->The  Jadeite Cabbage , also known as  Jadeite Cabbage with Insects , is a piece of  jadeite  carved into the shape of a head of  Chinese cabbage , with a  locust  and a  katydid  camouflaged in the leaves. Created by an unknown sculptor in the 19th century, it was first displayed in the  Forbidden City 's Yonghe Palace, the residence of  Consort Jin , who probably received it as part of her dowry for her wedding to the  Guangxu Emperor  in 1889. The Jadeite Cabbage is now part of the collection of the  National Palace Museum  in  Taipei , Taiwan. It has been called the museum's "most famous masterpiece" and, along with the  Meat-Shaped Stone  and the  Mao Gong  ding , is considered one of the Three Treasures of the National Palace Museum.
+>The  pomegranate  ( Punica granatum ) is a  fruit -bearing  deciduous  shrub in the family  Lythraceae  that grows between 5 and 10 metres (16 and 33 feet) tall. The pomegranate fruit  husk  is red-purple in color, with an outer, hard pericarp, and an inner, spongy mesocarp (white "albedo"), which comprises the fruit inner wall where seeds attach. Pomegranate seeds are characterized by having  sarcotesta , thick fleshy seed coats derived from the integuments or outer layers of the ovule's  epidermal  cells. The number of seeds in a fruit can vary from 200 to about 1,400. Rich in symbolic and mythological associations in many cultures, the pomegranate is thought to have originated from Afghanistan and Iran before being introduced and exported to other parts of Asia, Africa, and Europe. This photograph, which was  focus-stacked  from 10 separate images, shows a whole pomegranate fruit (right), and a fruit split open to reveal the  arils , each of which surrounds a seed (left).
 
 

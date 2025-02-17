@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ernest_Shackleton_before_1909.jpg/450px-Ernest_Shackleton_before_1909.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lesser_violetear_%28Colibri_cyanotus_cabanidis%29.jpg/600px-Lesser_violetear_%28Colibri_cyanotus_cabanidis%29.jpg" />
 </div>
 
->Ernest Shackleton  (15 February 1874 – 5 January 1922) was an explorer who led three British expeditions to the  Antarctic  during the  Heroic Age of Antarctic Exploration . He and three companions established a new record  Farthest South  latitude, 112 miles (180 km) from the  South Pole , as part of the  Nimrod  Expedition  of 1907–1909; Shackleton was  knighted  on his return home. He planned the  Imperial Trans-Antarctic Expedition  of 1914–1917 but his ship,  Endurance , became trapped in  pack ice  and then sank on 21 November 1915. The crew escaped and used the lifeboats to reach  Elephant Island  and ultimately the island of  South Georgia  in a stormy ocean voyage of more than 700 nautical miles (800 mi; 1,300 km), Shackleton's most famous exploit. He returned to the Antarctic in 1921 with the  Shackleton–Rowett Expedition  but died of a heart attack on South Georgia, where he was buried at his wife's request. This photograph of Shackleton was taken by  George Charles Beresford  before 1909.
+>The  lesser violetear  ( Colibri cyanotus ) is a medium-sized, metallic-green species of  hummingbird  commonly found from Costa Rica south to the Andes and Argentina and east to Venezuela. It commonly inhabits the canopy and borders of subtropical and lower  temperate forest ,  secondary woodland  and scrub, and clearings and gardens. It is recorded mostly between altitudes of 1,500 and 3,000 metres (4,900 and 9,800 ft), although it is sometimes found down to 900 metres (3,000 ft). The lesser violetear is a medium-sized hummingbird with an average length around 9.7 to 12 centimetres (3.8 to 4.7 in) and a body mass of 4.8 to 5.6 grams (0.17 to 0.20 oz). Its bill is black and mostly straight with only a slight downward curve. This lesser violetear of the subspecies  C. c. cabanidis  was photographed in the Mount Totumas cloud forest in  Chiriquí Province , Panama.
 
 

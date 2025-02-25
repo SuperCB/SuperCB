@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sturnella_neglecta_GNP_02.jpg/525px-Sturnella_neglecta_GNP_02.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Biblioteka_Narodowa_Warsaw_2022_aerial.jpg/600px-Biblioteka_Narodowa_Warsaw_2022_aerial.jpg" />
 </div>
 
->The  western meadowlark  ( Sturnella neglecta ) is a medium-sized species of bird in the family  Icteridae , the icterids. About 8.5 inches (22 centimetres) in length, it is found across western and central North America. It is a  full migrant , breeding in Canada and the United States with resident populations also found in Mexico. The species has distinctive calls described as watery or flute-like, which distinguish it from the closely related  eastern meadowlark . The western meadowlark is the  state bird  of six U.S. states:  Kansas ,  Montana ,  Nebraska ,  North Dakota ,  Oregon , and  Wyoming . This western meadowlark was photographed perching on a twig in  Grasslands National Park , in the Canadian province of  Saskatchewan .
+>The  National Library of Poland  is a  central library  of Poland and one of the oldest cultural institutions in the country. Established on 24 February 1928 by a decree of President  Ignacy Mościcki , it traces its origins to the  Załuski Library , one of the first  public libraries  in Europe, founded in 1747. The library's headquarters is located in the district of  Ochota  in  Warsaw , with additional facilities at the  Krasiński Palace , which houses  its collection of early printed books and manuscripts . This photograph shows an aerial view of the main complex of the National Library of Poland, designed by Stanisław Fijałkowski and built 1962–1976, surrounded by  Mokotów Field .
 
 

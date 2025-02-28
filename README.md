@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ancient_Temple%2C_Naranag%2C_Jammu_and_Kashmir%2C_India.jpg/750px-Ancient_Temple%2C_Naranag%2C_Jammu_and_Kashmir%2C_India.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Black_iguana_%28Ctenosaura_similis%29_Cayo.jpg/750px-Black_iguana_%28Ctenosaura_similis%29_Cayo.jpg" />
 </div>
 
->Wangath temple complex  is a group of  Hindu temple  monuments in Wangath, close to  Naranag ,  Jammu and Kashmir , India. The current structure was built by  Lalitaditya Muktapida  of the Karkota dynasty in the 8th century CE but are now ruins. The temple is constructed out of local grey granite and consists of two complexes, dedicated respectively to Shiva Jyeshthesa and Shiva Bhuteshwara, with a central pavilion in between. The temple marks the starting point of pilgrimages to the  Gangabal Lake , a high-altitude alpine lake in the Himalayas considered by  Kashmiri Hindus  to be an abode of Shiva. This photograph shows the main temple of the site's western complex.
+>Ctenosaura similis , commonly known as the black iguana or the black spiny-tailed iguana, is a species of  iguanid lizard  native to Mexico and Central America. It has been reported in some Colombian islands in the Caribbean Sea and Pacific Ocean, and has been  introduced  to the United States in the state of Florida. The largest  species  in the genus  Ctenosaura , it is commonly found in areas such as  grasslands  and forests. This  C. similis  lizard was photographed on a tree branch near the  Macal River , in  Cayo District , western Belize.
 
 

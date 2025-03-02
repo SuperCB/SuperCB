@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Continental_I-1430_NASM.jpg/600px-Continental_I-1430_NASM.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Whitehead%27s_Trogon_0A2A5728.jpg/750px-Whitehead%27s_Trogon_0A2A5728.jpg" />
 </div>
 
->The  Continental  XI-1430  (often identified as the  IV-1430 ) was a liquid-cooled  aircraft engine  developed in the United States by a partnership between the  United States Army Air Corps  (USAAC) and  Continental Motors . It resulted from the USAAC's  hyper-engine  efforts that started in 1932, but never entered widespread production as it was not better than other available engines when it finally matured. In 1939, the  I-1430-3  was designated as the engine to power the  Curtiss  XP-55 , a radical  pusher-engine  fighter design that did not reach production. This  I-1430-11  engine is in the collection of the  National Air and Space Museum  at the  Smithsonian Institution  in Washington, D.C.
+>Whitehead's trogon  ( Harpactes whiteheadi ) is a species of bird in the family  Trogonidae . It is endemic to the island of  Borneo , where it is an uncommon  resident  in  primary  mountain forest. One of Borneo's largest trogons at 29 to 33 centimetres (11 to 13 inches) long, it is  sexually dimorphic . The male is crimson on the head,  nape , and underparts, with a black throat and grey chest; the rest of its  upperparts  are cinnamon-coloured. The female is similarly patterned, but cinnamon-brown where the male is scarlet. The species is primarily an  insectivore , but also eats various plant materials, including fruits and seeds. Other than the timing of its breeding, typically between April and June, little is known about its breeding biology. It is classified as a  near-threatened species , with population numbers thought to be declining and  habitat loss  a key threat. This male Whitehead's trogon was photographed perching on a branch on  Mount Kinabalu  in the Malaysian state of  Sabah .
 
 

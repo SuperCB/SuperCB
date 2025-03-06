@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/071_Wild_marmot_at_Grand_Muveran_Nature_Reserve_Photo_by_Giles_Laurent.jpg/750px-071_Wild_marmot_at_Grand_Muveran_Nature_Reserve_Photo_by_Giles_Laurent.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cimabue_Christ_Mocked.jpg/480px-Cimabue_Christ_Mocked.jpg" />
 </div>
 
->The  Alpine marmot  ( Marmota marmota ) is a large  ground-dwelling squirrel , from the  genus  of  marmots . It is found in high numbers in mountainous areas of central and southern Europe, at heights between 800 and 3,200 metres (2,600 and 10,500 feet) in the  Alps , the  Carpathians , the  Tatras , and the northern  Apennines . In 1948, the species was reintroduced with success in the  Pyrenees , where it had disappeared at the end of the  Pleistocene  epoch. This Alpine marmot was photographed in the  Grand Muveran  federal game reserve, in the Swiss canton of  Vaud .
+>The Mocking of Christ  is a small 13th-century  panel painting  by the Italian artist  Cimabue , in  tempera  on a  poplar  panel. It depicts the  mocking of Jesus  and is one of three panels known from Cimabue's  Diptych of Devotion . It was discovered in the kitchen of an elderly woman in northern France. In October 2019 it sold at auction for €24 million, a record for an artwork predating the 16th century. It is believed to be the first work by Cimabue to have been auctioned. Following an export ban, it was acquired by the  Louvre  in 2023.
 
 

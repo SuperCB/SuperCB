@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cimabue_Christ_Mocked.jpg/480px-Cimabue_Christ_Mocked.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Philippe_Chaperon_by_Atelier_Nadar.jpg/525px-Philippe_Chaperon_by_Atelier_Nadar.jpg" />
 </div>
 
->The Mocking of Christ  is a small 13th-century  panel painting  by the Italian artist  Cimabue , in  tempera  on a  poplar  panel. It depicts the  mocking of Jesus  and is one of three panels known from Cimabue's  Diptych of Devotion . It was discovered in the kitchen of an elderly woman in northern France. In October 2019 it sold at auction for €24 million, a record for an artwork predating the 16th century. It is believed to be the first work by Cimabue to have been auctioned. Following an export ban, it was acquired by the  Louvre  in 2023.
+>Philippe Chaperon  (1823–1906) was a French painter and  scenic designer , particularly known for his work at the  Paris Opera . He produced stage designs for the premieres of numerous 19th-century operas, including Verdi's  Don Carlos  and  Aida , Massenet's  Le Cid , Saint-Saëns's  Henry VIII , part two of Berlioz's  Les Troyens , and the first performances in France of Verdi's  Otello  and  Rigoletto  and Wagner's  Tannhäuser . His painting style was influenced by his architecture studies, such as his debut work exhibited at the  Paris Salon ,  Ruines d'un Temple dans l'Inde . This photographic portrait of Chaperon, taken around 1900, was produced by the studio (a.k.a.  atelier ) of the French photographer  Nadar .
 
 

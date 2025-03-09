@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CRS-20_Dragon%E2%80%93Enhanced.jpg/750px-CRS-20_Dragon%E2%80%93Enhanced.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flame-faced_tanager_%28Tangara_parzudakii_parzudakii%29_Cundinamarca.jpg/750px-Flame-faced_tanager_%28Tangara_parzudakii_parzudakii%29_Cundinamarca.jpg" />
 </div>
 
->SpaceX  CRS-20  was a  Commercial Resupply Services  mission to the  International Space Station  (ISS) launched on March 7, 2020. Contracted by  NASA  and flown by  SpaceX , the mission was the final flight of  Dragon 1 , before the introduction of  Dragon 2 .  CRS-20  was launched aboard  Falcon 9  from  Space Launch Complex 40  at  Cape Canaveral Air Force Station , and used Dragon capsule C112, which had previously flown to the ISS on  CRS-10  and  CRS-16 .  CRS-20  arrived at the ISS on March 9, 2020, and was captured by  the station's robotic arm . It carried 1977 kilograms (4358 lbs) of cargo. This photograph shows the  CRS-20  capsule approaching the ISS while around 267 miles (430 kilometres) above Namibia.
+>The  flame-faced tanager  ( Tangara parzudakii ) is a species of bird in the  tanager  family, Thraupidae. It is  endemic  to South America and is found in the eastern  Andes  of Colombia, Ecuador, Peru and Venezuela, its natural habitat being subtropical or tropical moist  montane forests . The flame-faced tanager is a distinctive-looking species with black and  opalescent -green upperparts, opalescent-green and buff underparts, and a deep-red and yellow face. The subspecies  T. p. lunigera  lacks the deep red on the face, which is replaced with orangish-red. It is an omnivorous bird, feeding on fruit and  arthropods  found mostly on mossy branches. It breeds in the rainy season with eggs laid in  clutches  of two and  fledglings  fed by both parents. Although it is listed as a  least-concern species  by the  International Union for Conservation of Nature , it is facing population decline due to  habitat destruction . This flame-faced tanager of the subspecies  T. p. parzudakii  was photographed perching on a branch in the Parque Verde y Agua in Colombia's  Cundinamarca Department .
 
 

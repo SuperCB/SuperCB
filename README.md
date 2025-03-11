@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flame-faced_tanager_%28Tangara_parzudakii_parzudakii%29_Cundinamarca.jpg/750px-Flame-faced_tanager_%28Tangara_parzudakii_parzudakii%29_Cundinamarca.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zaadzetting_van_Verbena_hastata%2C_17-08-2024._%28d.j.b%29.jpg/825px-Zaadzetting_van_Verbena_hastata%2C_17-08-2024._%28d.j.b%29.jpg" />
 </div>
 
->The  flame-faced tanager  ( Tangara parzudakii ) is a species of bird in the  tanager  family, Thraupidae. It is  endemic  to South America and is found in the eastern  Andes  of Colombia, Ecuador, Peru and Venezuela, its natural habitat being subtropical or tropical moist  montane forests . The flame-faced tanager is a distinctive-looking species with black and  opalescent -green upperparts, opalescent-green and buff underparts, and a deep-red and yellow face. The subspecies  T. p. lunigera  lacks the deep red on the face, which is replaced with orangish-red. It is an omnivorous bird, feeding on fruit and  arthropods  found mostly on mossy branches. It breeds in the rainy season with eggs laid in  clutches  of two and  fledglings  fed by both parents. Although it is listed as a  least-concern species  by the  International Union for Conservation of Nature , it is facing population decline due to  habitat destruction . This flame-faced tanager of the subspecies  T. p. parzudakii  was photographed perching on a branch in the Parque Verde y Agua in Colombia's  Cundinamarca Department .
+>Verbena hastata , commonly known as the American vervain, blue vervain, simpler's joy, or swamp verbena, is a  perennial  flowering plant in the vervain family,  Verbenaceae . It grows throughout the continental United States and in much of southern Canada.  V. hastata  grows as a stiffly erect stem, occasionally branching in the upper half, reaching up to 1.5 metres (5 feet) tall. The stems are four-angled (square), hairy, and green to reddish in color. Leaves are opposite, simple, and measure up to 15 centimetres (6 inches) long and 3 centimetres (1 inch) across. This photograph, which was  focus-stacked  from 50 separate images, shows a  V. hastata   inflorescence .
 
 

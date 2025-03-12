@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zaadzetting_van_Verbena_hastata%2C_17-08-2024._%28d.j.b%29.jpg/825px-Zaadzetting_van_Verbena_hastata%2C_17-08-2024._%28d.j.b%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Eero-Saarinen_%28cropped%29.jpg/450px-Eero-Saarinen_%28cropped%29.jpg" />
 </div>
 
->Verbena hastata , commonly known as the American vervain, blue vervain, simpler's joy, or swamp verbena, is a  perennial  flowering plant in the vervain family,  Verbenaceae . It grows throughout the continental United States and in much of southern Canada.  V. hastata  grows as a stiffly erect stem, occasionally branching in the upper half, reaching up to 1.5 metres (5 feet) tall. The stems are four-angled (square), hairy, and green to reddish in color. Leaves are opposite, simple, and measure up to 15 centimetres (6 inches) long and 3 centimetres (1 inch) across. This photograph, which was  focus-stacked  from 50 separate images, shows a  V. hastata   inflorescence .
+>Eero Saarinen  (1910–1961) was a Finnish-American architect and industrial designer. He created many buildings and monuments, including the  General Motors Technical Center  in  Warren, Michigan ; the passenger terminal at  Dulles International Airport  outside  Washington, D.C. ; the  TWA Flight Center  (now  TWA Hotel ) at  John F. Kennedy International Airport ; the  Vivian Beaumont Theater  at  Lincoln Center  in New York City; and the  Gateway Arch  in  St. Louis . He was the son of Finnish architect  Eliel Saarinen . This photograph of Saarinen smoking a pipe was taken by the Hungarian-American photographer  Balthazar Korab  in 1955 or 1956.
 
 

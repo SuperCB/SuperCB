@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Eero-Saarinen_%28cropped%29.jpg/450px-Eero-Saarinen_%28cropped%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mauritius_kestrel_%28Falco_punctatus%29.jpg/450px-Mauritius_kestrel_%28Falco_punctatus%29.jpg" />
 </div>
 
->Eero Saarinen  (1910–1961) was a Finnish-American architect and industrial designer. He created many buildings and monuments, including the  General Motors Technical Center  in  Warren, Michigan ; the passenger terminal at  Dulles International Airport  outside  Washington, D.C. ; the  TWA Flight Center  (now  TWA Hotel ) at  John F. Kennedy International Airport ; the  Vivian Beaumont Theater  at  Lincoln Center  in New York City; and the  Gateway Arch  in  St. Louis . He was the son of Finnish architect  Eliel Saarinen . This photograph of Saarinen smoking a pipe was taken by the Hungarian-American photographer  Balthazar Korab  in 1955 or 1956.
+>The  Mauritius kestrel  ( Falco punctatus ) is a  bird of prey  in the family  Falconidae  endemic to the forests of Mauritius, where it is restricted to the southwestern  plateau 's forests, cliffs, and ravines. It colonized the island and evolved into a distinct species from other  Indian Ocean kestrels , probably during the  Gelasian  or  Early Pleistocene  periods. The Mauritius kestrel can reach a size between 26 and 30.5 centimetres (10.2 and 12.0 inches), with a mass of up to 250 grams (8.8 ounces) and rounded wings with a span of approximately 45 centimetres (18 inches). Males are slightly smaller than the females. It is a carnivorous bird, eating geckos, dragonflies, cicadas, cockroaches, crickets, and small birds. It hunts by means of short, swift flights through the forests. In 2022, it was proclaimed the  Mauritian national bird  to mark the 30th anniversary of the Republic of Mauritius. This Mauritius kestrel was photographed in the  Ebony Forest  near the village of  Chamarel .
 
 

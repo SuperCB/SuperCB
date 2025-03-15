@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg/825px-Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Retrato_da_D._Am%C3%A9lia_de_Beauharnais_-_Google_Art_Project.jpg/525px-Retrato_da_D._Am%C3%A9lia_de_Beauharnais_-_Google_Art_Project.jpg" />
 </div>
 
->St. Paraskevi Church  is a  Gothic   tserkva  (wooden church) located in the village of  Kwiatoń , Poland. It was built in the second half of the seventeenth-century with the tower constructed in 1743. After  Operation Vistula , the  tserkva  was transformed into a  Roman Catholic  church, belonging to the  Uście Gorlickie  parish. Together with other  tserkvas  in the area, it is designated as part of the  wooden tserkvas of the Carpathian region in Poland and Ukraine  UNESCO World Heritage Site.
+>Amélie of Leuchtenberg  (1812–1873) was a French noblewoman and  Empress of Brazil  as the wife of  Emperor Pedro I . She was the fourth child of  Eugène de Beauharnais  and his wife  Princess Augusta of Bavaria . After the defeat of  Napoleon  in 1814, her father, having been granted the title of  Duke of Leuchtenberg  by his father-in-law, settled in  Munich . When Pedro's first wife,  Maria Leopoldina of Austria , died in 1826, he sent an ambassador to Europe to find him a second. Pedro's relatively poor reputation in Europe led to several refusals by princesses, and his union with Amélie resulted from a lowering of his strict conditions. They were married in 1829 and she moved to Brazil to be presented in court. Her husband  abdicated the throne in 1831  and the couple returned to Europe. Their daughter  Maria Amélia  was born shortly after. Pedro died in 1834 and Amélie did not remarry, living the rest of her life in Portugal. This oil-on-canvas portrait of Amélie, produced in the 1830s by the German painter  Friedrich Dürck , is now in the  Soares dos Reis National Museum  in  Porto , Portugal.
 
 

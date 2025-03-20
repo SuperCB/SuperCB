@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sword-billed_hummingbird_%28Ensifera_ensifera%29_Caldas.jpg/600px-Sword-billed_hummingbird_%28Ensifera_ensifera%29_Caldas.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/David_Livingstone_by_Thomas_Annan.jpg/525px-David_Livingstone_by_Thomas_Annan.jpg" />
 </div>
 
->The  sword-billed hummingbird  ( Ensifera ensifera ), also known as the swordbill, is a  neotropical  species of  hummingbird  from the  Andean  regions of South America. Among the largest species of hummingbird, it is characterized by its unusually long  beak , being the only bird to have a beak longer than the rest of its body, excluding the tail. It uses its bill to drink  nectar  from flowers with long  corollas , and has  coevolved  with the species  Passiflora mixta . While most hummingbirds  preen  using their bills, the sword-billed hummingbird uses its feet to scratch and preen due to its beak being so long. This sword-billed hummingbird was photographed perching on a branch at Hacienda El Bosque in  Manizales , Colombia.
+>David Livingstone  (19 March 1813 – 1 May 1873) was a Scottish physician,  Congregationalist , pioneer Christian  missionary  with the  London Missionary Society , and an  explorer  in Africa. Livingstone was married to  Mary Moffat Livingstone , from the prominent 18th-century Moffat missionary family. His fame as an explorer and his obsession with learning the sources of the  Nile  was founded on the belief that if he could solve that age-old mystery, his fame would give him the influence to end the  East African Arab–Swahili slave trade . Livingstone's subsequent exploration of the central African watershed was the culmination of the classic period of European geographical  discovery and colonial penetration of Africa . His missionary travels, "disappearance", and eventual death in Africa‍—‌and subsequent glorification as a posthumous national hero in 1874‍—‌led to the founding of several major central African Christian missionary initiatives carried forward in the era of the European " Scramble for Africa ". This portrait by  Thomas Annan  was taken in 1864.
 
 

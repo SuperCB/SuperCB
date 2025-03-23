@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Operophtera_brumata_%28caterpillar%29_focus_stacking-20230508-RM-131624.jpg/600px-Operophtera_brumata_%28caterpillar%29_focus_stacking-20230508-RM-131624.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Lone_Mountain_Sunset_%2832727260230%29.jpg/750px-Lone_Mountain_Sunset_%2832727260230%29.jpg" />
 </div>
 
->The  winter moth  ( Operophtera brumata ) is an insect in the  geometer moth  family, Geometridae. It is an abundant species in Europe and the  Near East  and a famous study organism for evaluating insect population dynamics. It is one of very few  lepidopterans  of temperate regions in which adults are active in late autumn and early winter. Winter moth caterpillars emerge in early spring from egg masses with recently hatched larvae feeding on expanding leaf buds, often after having burrowed inside the bud, and later on foliage. In addition to feeding on the tree where they hatched, young larvae will also produce silk strands to be wind-blown to other trees. The larvae descend to the ground by mid-May with  pupation  occurring in the soil in late May. Adult moths then emerge from the soil in mid-late November. This focus stack of 73 photographs shows a winter moth caterpillar on a rose leaf in a garden in  Bamberg , Bavaria, Germany.
+>Big Sky  is an  unincorporated community  and  census-designated place  in  Gallatin County  and  Madison County , in the southwest of the U.S. state of  Montana . As of the  2020 United States census , it had a population of 3,591, up from 2,308 in the  2010 census . The primary industry of the area is tourism. Big Sky is located close to  Yellowstone National Park  along the western edge of Gallatin County and the eastern edge of Madison County, on  U.S. Route 191 . It is approximately midway between  West Yellowstone  and  Bozeman , being around 45 miles (72 km) by road from each. This photograph shows a snow-covered sunset view of  Lone Mountain , located near  Big Sky Resort  and about 7 miles (11 km) west of the town center of Big Sky.
 
 

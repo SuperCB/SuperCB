@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wreckage_from_Key_Bridge_Collapse_%28240326-A-SE916-9511%29.jpg/825px-Wreckage_from_Key_Bridge_Collapse_%28240326-A-SE916-9511%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Mauritius_ornate_day_gecko_%28Phelsuma_ornata%29.jpg/825px-Mauritius_ornate_day_gecko_%28Phelsuma_ornata%29.jpg" />
 </div>
 
->The  Francis Scott Key Bridge collapsed  on March 26, 2024, at 1:28 a.m.  Eastern Time , in the  Baltimore metropolitan area  in the U.S. state of  Maryland . The main  spans  and the three nearest northeast approach spans of the  Francis Scott Key Bridge , spanning the  Patapsco River , collapsed after  MV  Dali , a  container ship , struck one of the bridge's  piers . Six members of a maintenance crew working on the roadway were killed, and two more were rescued from the river. The collapse blocked most shipping to and from the  Port of Baltimore  for 11 weeks.  Wes Moore , the  governor of Maryland , called the event a "global crisis" that affected more than 8,000 jobs. The economic impact of the closure of the waterway was estimated at $15 million per day. This photograph, taken on the afternoon of March 26 by a member of the  United States Army Corps of Engineers , shows the aftermath of the Francis Scott Key Bridge collapse, with  Dali 's   bow  damaged by and lying under a section of the bridge's collapsed  truss .
+>The  Mauritius ornate day gecko  ( Phelsuma ornata ) is a  diurnal  species of  gecko  in the family  Gekkonidae , the common geckos. It occurs in Mauritius, on the main island up to an elevation of 300 metres (980 feet) and on most of the surrounding islands. The species feeds on insects and nectar from flowering plants. It has a typical length of 10 to 13 centimetres (3.9 to 5.1 inches), and can be bluish green, with a back covered with red coloured dots and a head with a T-shaped pattern. This Mauritius ornate day gecko was photographed on the  Île aux Aigrettes , an islet of the southeastern coast of the main island.
 
 

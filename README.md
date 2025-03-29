@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Mauritius_ornate_day_gecko_%28Phelsuma_ornata%29.jpg/825px-Mauritius_ornate_day_gecko_%28Phelsuma_ornata%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Joseph_Bazalgette_by_Lock_%26_Whitfield.jpg/525px-Joseph_Bazalgette_by_Lock_%26_Whitfield.jpg" />
 </div>
 
->The  Mauritius ornate day gecko  ( Phelsuma ornata ) is a  diurnal  species of  gecko  in the family  Gekkonidae , the common geckos. It occurs in Mauritius, on the main island up to an elevation of 300 metres (980 feet) and on most of the surrounding islands. The species feeds on insects and nectar from flowering plants. It has a typical length of 10 to 13 centimetres (3.9 to 5.1 inches), and can be bluish green, with a back covered with red coloured dots and a head with a T-shaped pattern. This Mauritius ornate day gecko was photographed on the  Île aux Aigrettes , an islet of the southeastern coast of the main island.
+>Joseph Bazalgette  (28 March 1819 – 15 March 1891) was an English  civil engineer . As Chief Engineer of London's  Metropolitan Board of Works , his major achievement was the creation of a  sewerage system for central London , in response to the  Great Stink  of 1858, which was instrumental in relieving the  city  of  cholera  epidemics, while beginning to clean the  River Thames . He later designed the second and current  Hammersmith Bridge , which opened in 1887. This photograph of Bazalgette was taken between 1864 and 1877.
 
 

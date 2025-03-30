@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Joseph_Bazalgette_by_Lock_%26_Whitfield.jpg/525px-Joseph_Bazalgette_by_Lock_%26_Whitfield.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Silene_flos-cuculi_flower_-_Niitv%C3%A4lja.jpg/960px-Silene_flos-cuculi_flower_-_Niitv%C3%A4lja.jpg" />
 </div>
 
->Joseph Bazalgette  (28 March 1819 – 15 March 1891) was an English  civil engineer . As Chief Engineer of London's  Metropolitan Board of Works , his major achievement was the creation of a  sewerage system for central London , in response to the  Great Stink  of 1858, which was instrumental in relieving the  city  of  cholera  epidemics, while beginning to clean the  River Thames . He later designed the second and current  Hammersmith Bridge , which opened in 1887. This photograph of Bazalgette was taken between 1864 and 1877.
+>Silene flos-cuculi , commonly known as the ragged robin, is a perennial herbaceous plant in the family  Caryophyllaceae . Native to Europe and Asia, it is found along roads and in  wet meadows  and pastures, and has also become naturalized in parts of North America. It forms a rosette of low growing foliage with numerous stems that are 30 to 90 centimetres (12 to 36 inches) tall. The stems rise above the foliage and branch near the top of the stem, the stems having barbed hairs which point downward and make the plant rough to the touch. The middle and upper leaves are linear-lanceolate with pointed apexes. Butterflies and long-tongued bees feed on the flowers' nectar. In addition to these pollinators, the flowers are visited by many other types of insects, and can be characterized by a generalized  pollination syndrome . This  S. flos-cuculi  flower was photographed in  Niitvälja , Estonia. This picture was  focus-stacked  from 27 separate images.
 
 

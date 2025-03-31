@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Silene_flos-cuculi_flower_-_Niitv%C3%A4lja.jpg/960px-Silene_flos-cuculi_flower_-_Niitv%C3%A4lja.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chestnut-naped_antpitta_%28Grallaria_nuchalis_ruficeps%29_Las_Tangaras.jpg/960px-Chestnut-naped_antpitta_%28Grallaria_nuchalis_ruficeps%29_Las_Tangaras.jpg" />
 </div>
 
->Silene flos-cuculi , commonly known as the ragged robin, is a perennial herbaceous plant in the family  Caryophyllaceae . Native to Europe and Asia, it is found along roads and in  wet meadows  and pastures, and has also become naturalized in parts of North America. It forms a rosette of low growing foliage with numerous stems that are 30 to 90 centimetres (12 to 36 inches) tall. The stems rise above the foliage and branch near the top of the stem, the stems having barbed hairs which point downward and make the plant rough to the touch. The middle and upper leaves are linear-lanceolate with pointed apexes. Butterflies and long-tongued bees feed on the flowers' nectar. In addition to these pollinators, the flowers are visited by many other types of insects, and can be characterized by a generalized  pollination syndrome . This  S. flos-cuculi  flower was photographed in  Niitvälja , Estonia. This picture was  focus-stacked  from 27 separate images.
+>The  chestnut-naped antpitta  ( Grallaria nuchalis ) is a species of bird in the  antpitta  family, Grallariidae. Found in Colombia, Ecuador and Peru, it inhabits bamboo stands in temperate to humid  montane forest , and in the undergrowth of adjacent forest that lacks bamboo, at elevations between 2,000 and 3,000 metres (6,600 and 9,800 feet). It is known to feed on insects and other invertebrates, and sings mostly at dawn and dusk, usually from a hidden low perch. This chestnut-naped antpitta of the subspecies  G. n. ruficeps  was photographed in Las Tángaras, a nature reserve in  Chocó Department , Colombia.
 
 

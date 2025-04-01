@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chestnut-naped_antpitta_%28Grallaria_nuchalis_ruficeps%29_Las_Tangaras.jpg/960px-Chestnut-naped_antpitta_%28Grallaria_nuchalis_ruficeps%29_Las_Tangaras.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg/1100px-ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg" />
 </div>
 
->The  chestnut-naped antpitta  ( Grallaria nuchalis ) is a species of bird in the  antpitta  family, Grallariidae. Found in Colombia, Ecuador and Peru, it inhabits bamboo stands in temperate to humid  montane forest , and in the undergrowth of adjacent forest that lacks bamboo, at elevations between 2,000 and 3,000 metres (6,600 and 9,800 feet). It is known to feed on insects and other invertebrates, and sings mostly at dawn and dusk, usually from a hidden low perch. This chestnut-naped antpitta of the subspecies  G. n. ruficeps  was photographed in Las Tángaras, a nature reserve in  Chocó Department , Colombia.
+>The  ArtScience Museum  is a building within the integrated resort of  Marina Bay Sands  in the  Downtown Core  of Singapore. Opened in 2011, it features exhibitions in art, science, culture and technology. The museum was designed by  Moshe Safdie  and features an exterior made of  fibre-reinforced plastic  supported internally by a steel lattice. It is anchored by a round base in the middle, with ten extensions referred to as "fingers" in the shape of a flower. This photograph shows the ArtScience Museum with other buildings of Singapore's Central Business District in the background.
 
 

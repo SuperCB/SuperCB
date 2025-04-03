@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wildlife_Photographer_Giles_Laurent_in_a_ghillie_suit.jpg/960px-Wildlife_Photographer_Giles_Laurent_in_a_ghillie_suit.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CA-84_Woodside_April_2023_002.jpg/960px-CA-84_Woodside_April_2023_002.jpg" />
 </div>
 
->A  ghillie suit  is a type of  camouflage  clothing designed to resemble the background environment, such as foliage. Typically, it is a net or cloth garment covered in loose strips of burlap ( hessian ), cloth,  twine ,  or jute sometimes made to look like leaves and twigs, and optionally augmented with foliage from the area.  Military personnel ,  police ,  hunters , and  nature photographers  may wear a ghillie suit to blend into their surroundings and to conceal themselves from enemies or targets. The suit gives the wearer's outline a three-dimensional breakup, rather than a linear one. When manufactured correctly, the suit will move in the wind in the same way as surrounding foliage. Some ghillie suits are made with light and breathable material that allows a person to wear a shirt underneath. This photograph of a wildlife photographer in a ghillie suit, standing and holding a camera, was taken in a forest in the  Jura Mountains  near  Marchissy , Switzerland.
+>Periods of heavy  rainfall  caused by multiple  atmospheric rivers  in California between December 31, 2022, and March 25, 2023,  resulted in floods  that affected parts of  Southern California , the  California Central Coast ,  Northern California  and  Nevada . The  flooding  resulted in over US$4 billion in property damage and at least 22 fatalities. A portion of  California State Route 84  in  Woodside  was closed due to  landslide  damage as a result of the floods, as shown in this aerial photograph taken on April 2, 2023. 
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CA-84_Woodside_April_2023_002.jpg/960px-CA-84_Woodside_April_2023_002.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ford_Strikers_Riot.jpg/960px-Ford_Strikers_Riot.jpg" />
 </div>
 
->Periods of heavy  rainfall  caused by multiple  atmospheric rivers  in California between December 31, 2022, and March 25, 2023,  resulted in floods  that affected parts of  Southern California , the  California Central Coast ,  Northern California  and  Nevada . The  flooding  resulted in over US$4 billion in property damage and at least 22 fatalities. A portion of  California State Route 84  in  Woodside  was closed due to  landslide  damage as a result of the floods, as shown in this aerial photograph taken on April 2, 2023. 
+>Ford Strikers Riot  is a 1941 photograph that shows an American  strikebreaker  getting beaten by  United Auto Workers  (UAW) strikers who were  picketing  at the  Ford Motor Company 's  Rouge Plant  in  Dearborn, Michigan .  Milton Brooks , a photographer for  The Detroit News , captured the image on April 3, 1941, and it won the inaugural  Pulitzer Prize for Photography  in 1942. The photograph has been called a portrayal of the struggle in America between capital and labor. During the incident, a peaceful picketing of the Ford Motor Company was interrupted when a single man clashed with the UAW strikers. The man ignored the advice of the  Michigan State Police  and crossed the picket lines. Brooks, who was waiting with other  photojournalists  outside the Ford factory gates, took only one photograph and said: "I took the picture quickly, hid the camera ... ducked into the crowd ... a lot of people would have liked to wreck that picture."
 
 

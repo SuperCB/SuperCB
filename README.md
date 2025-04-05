@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ford_Strikers_Riot.jpg/960px-Ford_Strikers_Riot.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Red_Panda_%2824986761703%29.jpg/500px-Red_Panda_%2824986761703%29.jpg" />
 </div>
 
->Ford Strikers Riot  is a 1941 photograph that shows an American  strikebreaker  getting beaten by  United Auto Workers  (UAW) strikers who were  picketing  at the  Ford Motor Company 's  Rouge Plant  in  Dearborn, Michigan .  Milton Brooks , a photographer for  The Detroit News , captured the image on April 3, 1941, and it won the inaugural  Pulitzer Prize for Photography  in 1942. The photograph has been called a portrayal of the struggle in America between capital and labor. During the incident, a peaceful picketing of the Ford Motor Company was interrupted when a single man clashed with the UAW strikers. The man ignored the advice of the  Michigan State Police  and crossed the picket lines. Brooks, who was waiting with other  photojournalists  outside the Ford factory gates, took only one photograph and said: "I took the picture quickly, hid the camera ... ducked into the crowd ... a lot of people would have liked to wreck that picture."
+>The  red panda  is a  mammal  native to the  eastern Himalayas  and  southwestern China . It has dense reddish-brown fur with a black belly and legs, and a ringed tail. It has a head-to-body length of 51–63.5 cm (20–25 in) and a 28–48.5 cm (11–19 in) tail, and it weighs between 3.2 and 15 kg (7 and 33 lb). It is genetically close to  raccoons ,  weasels  and  skunks . Solitary, largely  arboreal  and well adapted to climbing, it inhabits  coniferous ,  temperate broadleaf and mixed forests , favouring steep slopes with dense  bamboo  cover close to water sources. It uses elongated wrist bones ("false thumbs") to grasp bamboo. It feeds mainly on  bamboo shoots  and leaves. Red pandas mate in early spring, giving birth to litters of up to four cubs in summer. On the  IUCN Red List  as  endangered  since 2015, the species is threatened by  poaching  and  deforestation -based habitat  destruction  and  fragmentation .
 
 

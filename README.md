@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Miller_Range%2C_Antarctica_-_Meteorite_%282%29.jpg/1100px-Miller_Range%2C_Antarctica_-_Meteorite_%282%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Composer_Florence_Price_%28cropped%29.jpg/500px-Composer_Florence_Price_%28cropped%29.jpg" />
 </div>
 
->Blue-ice areas  are regions of Antarctica where the ice surface has a blue colour, contrasting with the more common white Antarctic surface. They form around 1% of the continent's ice area. Blue-ice areas typically form when the movement of both air and ice are obstructed by topographic obstacles such as mountains that emerge from the  ice sheet , generating particular climatic conditions where the net snow accumulation is exceeded by wind-driven sublimation and snow transports. They are noted for being hard and flat, enabling their use as a runway, in addition to their stability. Ice of up to 2.7 million years in age has been extracted from blue-ice areas. There are also large numbers of  meteorites  accumulated on them, either from direct falls or having been transported from elsewhere by  ice flow . This NASA photograph shows a blue-ice area in the  Miller Range , with a meteorite.
+>Florence Price  (April 9, 1887 – June 3, 1953) was an American classical composer pianist, organist and music teacher. Born in  Little Rock, Arkansas , she was educated at the  New England Conservatory of Music  and was active in  Chicago  from 1927 until her death. Price was the first African-American woman to be recognized as a symphonic composer, and the first to have a composition played by a major  orchestra . She composed more than 300 works, including four  symphonies , four  concertos , as well as choral works,  art songs ,  chamber music , and music for solo instruments. This portrait photograph of Price was taken around 1940 by George Nelidoff and is in the collection of the  University of Arkansas Libraries .
 
 

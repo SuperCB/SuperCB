@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gatekeeper_%28Pyronia_tithonus%29_male_2.jpg/960px-Gatekeeper_%28Pyronia_tithonus%29_male_2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jacob_Isaackszoon_van_Ruisdael_-_The_Jewish_Cemetery_%281654_or_1655%29.jpg/960px-Jacob_Isaackszoon_van_Ruisdael_-_The_Jewish_Cemetery_%281654_or_1655%29.jpg" />
 </div>
 
->The  gatekeeper  ( Pyronia tithonus ) is a species of butterfly in the family  Nymphalidae . Found across Europe, it is typically orange with two large brown spots on its wings and a brown pattern on the edge of its wings, although a large number of aberrant forms are known. The eyespots on the fore wings most likely reduce bird attacks; the gatekeeper is therefore often seen resting with its wings open. Colonies vary in size depending on the available habitat, and can range from a few dozen to several thousand butterflies. This male gatekeeper was photographed in  Bernwood Forest  in Buckinghamshire, England. The photograph was  focus-stacked  from 15 separate images.
+>The Jewish Cemetery  is an oil-on-canvas painting by the Dutch landscape painter  Jacob van Ruisdael . Painted in 1654 or 1655, it is an allegorical landscape painting suggesting ideas of hope and death, while also being based on  Beth Haim , a cemetery located on  Amsterdam 's southern outskirts, at the town of  Ouderkerk aan de Amstel . Beth Haim is a resting place for some prominent figures among Amsterdam's large Jewish Portuguese community in the 17th century. Ruisdael presents the cemetery as a landscape variant of a  vanitas  painting, employing deserted tombs, ravaged churches, stormy clouds, dead trees, changing skies, and flowing water to symbolize death and the transience of all earthly things. The known provenance for the painting dates back only to 1739 and its original owner is not documented; since 1926, it has been owned by the  Detroit Institute of Arts .
 
 

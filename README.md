@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bali_Myna_0A2A9443.jpg/960px-Bali_Myna_0A2A9443.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/JEFFERSON%2C_Thomas-President_%28BEP_engraved_portrait%29.jpg/960px-JEFFERSON%2C_Thomas-President_%28BEP_engraved_portrait%29.jpg" />
 </div>
 
->The  Bali myna  ( Leucopsar rothschildi ) is a medium-sized bird in the  starling  family, Sturnidae. It is found in the north-west of the Indonesian island of  Bali , and nearby offshore islands. The Bali myna has a length of around 25 centimetres (9.8 inches) and is almost wholly white with a long, drooping crest, and black tips on the wings and tail. It has blue bare skin around the eyes, greyish legs and a yellow beak. Both sexes are similar. The species is  critically endangered  and fewer than 50 adults were assumed to exist in the wild in 2020. This Bali myna perching on a branch was photographed in  West Bali National Park .
+>Thomas Jefferson  (April 13, 1743 – July 4, 1826) was an American statesman, planter, diplomat, lawyer, architect, philosopher, and  Founding Father  who served as the third  president of the United States  from 1801 to 1809. He was the primary author of the  Declaration of Independence . Following the  American Revolutionary War  and before becoming president in 1801, Jefferson was the first  United States secretary of state  under  George Washington , and then the second  vice president  under  John Adams . Jefferson was a leading proponent of democracy,  republicanism , and  natural rights , and he produced formative documents and decisions at the state, national, and international levels. This  line-engraved  portrait of Jefferson was produced by the  United States Department of the Treasury 's  Bureau of Engraving and Printing  (BEP) as part of a  BEP presentation album  of the first 26 presidents. The same portrait appears on the obverse of the  two-dollar bill .
 
 

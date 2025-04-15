@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/JEFFERSON%2C_Thomas-President_%28BEP_engraved_portrait%29.jpg/960px-JEFFERSON%2C_Thomas-President_%28BEP_engraved_portrait%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dust_storm_approaching_Stratford%2C_Texas.jpg/960px-Dust_storm_approaching_Stratford%2C_Texas.jpg" />
 </div>
 
->Thomas Jefferson  (April 13, 1743 – July 4, 1826) was an American statesman, planter, diplomat, lawyer, architect, philosopher, and  Founding Father  who served as the third  president of the United States  from 1801 to 1809. He was the primary author of the  Declaration of Independence . Following the  American Revolutionary War  and before becoming president in 1801, Jefferson was the first  United States secretary of state  under  George Washington , and then the second  vice president  under  John Adams . Jefferson was a leading proponent of democracy,  republicanism , and  natural rights , and he produced formative documents and decisions at the state, national, and international levels. This  line-engraved  portrait of Jefferson was produced by the  United States Department of the Treasury 's  Bureau of Engraving and Printing  (BEP) as part of a  BEP presentation album  of the first 26 presidents. The same portrait appears on the obverse of the  two-dollar bill .
+>Black Sunday  was a severe  dust storm  that occurred on April 14, 1935, as part of the  Dust Bowl , a period of severe dust storms in the American  prairies  in the 1930s. The storm first hit the  Oklahoma panhandle  and northwestern  Oklahoma , then moved south into  Texas . The conditions were the most severe in the Oklahoma and  Texas panhandles , but the storm's effects were also felt in surrounding areas. Drought, erosion, bare soil, and winds caused the dust to fly freely and at high speeds. It is estimated that 300,000 tons of  topsoil  were displaced from the prairie area. Black Sunday was one of the worst dust storms in American history and caused immense economic and agricultural damage. This photograph shows the storm approaching  Stratford, Texas .
 
 

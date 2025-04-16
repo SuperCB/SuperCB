@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dust_storm_approaching_Stratford%2C_Texas.jpg/960px-Dust_storm_approaching_Stratford%2C_Texas.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Roosilawati%2C_Tati_Photo_Studios%2C_c._1960.jpg/500px-Roosilawati%2C_Tati_Photo_Studios%2C_c._1960.jpg" />
 </div>
 
->Black Sunday  was a severe  dust storm  that occurred on April 14, 1935, as part of the  Dust Bowl , a period of severe dust storms in the American  prairies  in the 1930s. The storm first hit the  Oklahoma panhandle  and northwestern  Oklahoma , then moved south into  Texas . The conditions were the most severe in the Oklahoma and  Texas panhandles , but the storm's effects were also felt in surrounding areas. Drought, erosion, bare soil, and winds caused the dust to fly freely and at high speeds. It is estimated that 300,000 tons of  topsoil  were displaced from the prairie area. Black Sunday was one of the worst dust storms in American history and caused immense economic and agricultural damage. This photograph shows the storm approaching  Stratford, Texas .
+>Roosilawaty  (born Surayi Pendidikan; April 15, 1936 – February 25, 2009) was an Indonesian actress and dancer. She appeared in her first films in 1956, in  Tiga Dara  as a dancer and in the lead role in  Tjatut . This was the beginning of a successful career, and she continued to appear in  Indonesian films  until 1963. She retired from acting and, after a period as a  florist , subsequently founded Les Sphinx Promotion, an  agency  for artistic talent, in 1972. This photograph shows Roosilawaty  c.  1960 .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/%C3%89douard_de_Reszke_by_Nadar_%28BPL_Hale_Coll%29.jpg/960px-%C3%89douard_de_Reszke_by_Nadar_%28BPL_Hale_Coll%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/500px-William_Shakespeare_by_John_Taylor%2C_edited.jpg" />
 </div>
 
->Édouard de Reszke  (1853–1917) was a Polish  bass  from Warsaw. A member of the musical Reszke family, he was a successful opera singer, as were his brother  Jean  and his sister  Josephine . He made his debut in  Aida  in Paris on 22 April 1876.
+>The  Chandos portrait  is the most famous of the  portraits that are believed to depict   William Shakespeare  ( c.  23 April 1564 – 23 April 1616). Painted between 1600 and 1610, it may have served as the basis for the engraved portrait of Shakespeare used in his  First Folio  in 1623.  John Taylor  ( c.  1580–1653) is thought by several scholars to have painted the portrait. It is named for the  3rd Duke of Chandos , who formerly owned the painting. The portrait was given to the  National Portrait Gallery, London , on its foundation in 1856, and it is listed as the first work in its collection.
 
 

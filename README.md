@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/500px-William_Shakespeare_by_John_Taylor%2C_edited.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blue-tailed_damselfies_%28Ischnura_elegans%29_mating_female_typica_4.jpg/960px-Blue-tailed_damselfies_%28Ischnura_elegans%29_mating_female_typica_4.jpg" />
 </div>
 
->The  Chandos portrait  is the most famous of the  portraits that are believed to depict   William Shakespeare  ( c.  23 April 1564 – 23 April 1616). Painted between 1600 and 1610, it may have served as the basis for the engraved portrait of Shakespeare used in his  First Folio  in 1623.  John Taylor  ( c.  1580–1653) is thought by several scholars to have painted the portrait. It is named for the  3rd Duke of Chandos , who formerly owned the painting. The portrait was given to the  National Portrait Gallery, London , on its foundation in 1856, and it is listed as the first work in its collection.
+>The  blue-tailed damselfly  ( Ischnura elegans ) is a  damselfly , belonging to the family  Coenagrionidae .  I. elegans  can reach a body length of 27–35 millimetres (1.1–1.4 in) and a  wingspan  of about 35 millimetres (1.4 in). Adult male blue-tailed damselflies have a head and thorax patterned with blue and black, while females come in a variety of colour forms. This pair of blue-tailed damselflies was photographed while mating in  Abingdon-on-Thames , Oxfordshire.
 
 

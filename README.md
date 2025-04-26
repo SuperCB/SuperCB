@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blue-tailed_damselfies_%28Ischnura_elegans%29_mating_female_typica_4.jpg/960px-Blue-tailed_damselfies_%28Ischnura_elegans%29_mating_female_typica_4.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NNC-US-1908-G%242%C2%BD-Indian_Head.jpg/1200px-NNC-US-1908-G%242%C2%BD-Indian_Head.jpg" />
 </div>
 
->The  blue-tailed damselfly  ( Ischnura elegans ) is a  damselfly , belonging to the family  Coenagrionidae .  I. elegans  can reach a body length of 27–35 millimetres (1.1–1.4 in) and a  wingspan  of about 35 millimetres (1.4 in). Adult male blue-tailed damselflies have a head and thorax patterned with blue and black, while females come in a variety of colour forms. This pair of blue-tailed damselflies was photographed while mating in  Abingdon-on-Thames , Oxfordshire.
+>The  Indian Head gold pieces  were two coin series struck by the  United States Mint : a two-and-a-half dollar piece, or  quarter eagle  (1908–1915, 1925–1929), and a five-dollar coin, or  half eagle  (1908–1916, 1929). The only US coins with recessed (engraved) designs ever to enter circulation, they were the last of a long series of coins in those denominations.  President   Theodore Roosevelt  advocated for new coin designs, and had the Mint engage his friend, the sculptor  Augustus Saint-Gaudens , to design coins that could be changed without congressional authorization. The sculptor completed an  eagle  ($10 piece) and  double eagle  before his death in 1907. Roosevelt convinced Mint Director  Frank A. Leach  to reproduce the eagle's design on both of the smaller coins, but recessed below the background. The job fell to Boston sculptor  Bela Pratt , and after some difficulty, the Mint was able to strike the coins, though Pratt was unhappy with modifications made by the Mint's engravers. The quarter eagle enjoyed popularity as a Christmas present, but neither coin circulated much. This photograph shows the obverse (left) and reverse (right) of a quarter eagle coin struck in 1908, which is in the  National Numismatic Collection  at the  National Museum of American History .
 
 

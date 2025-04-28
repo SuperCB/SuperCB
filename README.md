@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Palacio_Real%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_07-09_HDR.jpg/1100px-Palacio_Real%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_07-09_HDR.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg/960px-Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg" />
 </div>
 
->The  Royal Palace of Amsterdam  is a royal residence in  Amsterdam , Netherlands. Opened in 1655 as a  town hall , the main architect was  Jacob van Campen , who designed it in the  Dutch Baroque  style.  Louis Bonaparte  became  King of Holland  in 1806 and established his  court  in Amsterdam, turning the town hall into a palace; it has been used by  Dutch monarchs  since then, although their main place of residence is  Huis ten Bosch  in  The Hague . The Royal Palace of Amsterdam is used for entertaining and official functions during  state visits  and other official receptions, such as New Year receptions. This photograph shows the Royal Palace from  Dam Square  in 2016.
+>Selection on the ramp at  Auschwitz II–Birkenau  from the  Auschwitz Album , a  photographic record of the Holocaust  during  World War II . It and the  Sonderkommando  photographs  are among the small number of visual documents that show the operations of Auschwitz II–Birkenau, the German  extermination camp  in  occupied Poland .  Originally titled "Resettlement of the Jews from Hungary" ( Umsiedlung der Juden aus Ungarn ), it shows a period when the Nazis accelerated their   deportation of Hungarian Jews to Auschwitz . The images were taken by photographers from the camp's  Erkennungsdienst  ("identification service"). Among other things, the Erkennungsdienst was responsible for fingerprinting and taking photo IDs of prisoners who had not been selected for extermination. The identity of the photographers is uncertain, but it is thought to have been Bernhard Walter or Ernst Hoffmann, two  SS  men who were director and deputy director of the Erkennungsdienst. The camp's director,  Rudolf Höss , also may have taken several of the photographs himself.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mimetite_-_Congreso-Le%C3%B3n_mines%2C_San_Pedro_Corralitos%2C_Chihuahua%2C_Mexico.jpg/500px-Mimetite_-_Congreso-Le%C3%B3n_mines%2C_San_Pedro_Corralitos%2C_Chihuahua%2C_Mexico.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Euthrix_potatoria_caterpillar_%28top_view%29_-_Keila.jpg/500px-Euthrix_potatoria_caterpillar_%28top_view%29_-_Keila.jpg" />
 </div>
 
->Mimetite  is a  lead   arsenate   chloride  mineral ( .mw-parser-output .template-chem2-su{display:inline-block;font-size:80%;line-height:1;vertical-align:-0.35em}.mw-parser-output .template-chem2-su>span{display:block;text-align:left}.mw-parser-output sub.template-chem2-sub{font-size:80%;vertical-align:-0.35em}.mw-parser-output sup.template-chem2-sup{font-size:80%;vertical-align:0.65em} Pb 5 (AsO 4 ) 3 Cl ) which forms as a secondary mineral in lead deposits, usually by the  oxidation  of  galena  and  arsenopyrite . The name derives from the Greek  Μιμητής  ( mimetes ), meaning "imitator," and refers to mimetite's resemblance to the similar mineral  pyromorphite . This  focus-stacked  photograph shows a 3 cm × 1.7 cm × 1 cm (1.18 in × 0.67 in × 0.39 in) sample of mimetite collected from the Congreso-León mines in the Mexican state of  Chihuahua .
+>Euthrix potatoria , commonly known as the drinker,  is an orange-brown  moth  in the family  Lasiocampidae . The species' common and scientific names derive from the larva's supposed drinking of drops of  dew . It is found in Europe, most frequently found in marshy places, fens and riversides but may also be seen in drier, grassy terrain. The larva (caterpillar) of this species grows to about 6 cm (2.3 in) in length and is hairy, striped and spotted, with distinctive tufts fore and aft. Caterpillars hibernate while young and resume feeding in the spring, pupating in a cocoon during the summer. This picture shows the top of an  E. potatoria  caterpillar in  Keila , Estonia.
 
 

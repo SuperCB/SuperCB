@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Raising_a_flag_over_the_Reichstag_-_Restoration.jpg/960px-Raising_a_flag_over_the_Reichstag_-_Restoration.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eastern_grey_kangaroo_%28Macropus_giganteus%29_Mount_Annan_composite_of_6.jpg/1200px-Eastern_grey_kangaroo_%28Macropus_giganteus%29_Mount_Annan_composite_of_6.jpg" />
 </div>
 
->Raising a Flag over the Reichstag  (Russian:  Знамя Победы над Рейхстагом ,  romanized:  Znamya Pobedy nad Reykhstagom ,  lit.   'Victory Banner over the Reichstag') is an iconic  World War II  photograph, taken during the  Battle of Berlin  on 2 May 1945 by  Yevgeny Khaldei . The photograph was reprinted in thousands of publications and came to be regarded around the world as one of the most significant and recognizable images of World War II, but, owing to the secrecy of Soviet media, both the identity of photographer and the identities of the men in the picture were often disputed. 
+>The  eastern grey kangaroo  ( Macropus giganteus ) is a  marsupial  found in the eastern third of Australia, with a population of several million. The eastern grey kangaroo is the second largest living marsupial and native land mammal in Australia, with adult males weighing around 50 to 66 kg (110 to 146 lb) and females weighing around 17 to 40 kg (37 to 88 lb). Like all  kangaroos , it is mainly  nocturnal  and  crepuscular , and is mostly seen early in the morning, or as the light starts to fade in the evening. In the middle of the day, kangaroos rest in the cover of the woodlands and  graze  there. Kangaroos are the only large mammals to  hop  on two legs as their primary means of  locomotion .  This  multiple exposure  photograph shows an eastern grey kangaroo hopping in  Mount Annan, New South Wales .
 
 

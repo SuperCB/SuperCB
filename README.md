@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eastern_grey_kangaroo_%28Macropus_giganteus%29_Mount_Annan_composite_of_6.jpg/1200px-Eastern_grey_kangaroo_%28Macropus_giganteus%29_Mount_Annan_composite_of_6.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Greensburg_kansas_tornado.jpg/960px-Greensburg_kansas_tornado.jpg" />
 </div>
 
->The  eastern grey kangaroo  ( Macropus giganteus ) is a  marsupial  found in the eastern third of Australia, with a population of several million. The eastern grey kangaroo is the second largest living marsupial and native land mammal in Australia, with adult males weighing around 50 to 66 kg (110 to 146 lb) and females weighing around 17 to 40 kg (37 to 88 lb). Like all  kangaroos , it is mainly  nocturnal  and  crepuscular , and is mostly seen early in the morning, or as the light starts to fade in the evening. In the middle of the day, kangaroos rest in the cover of the woodlands and  graze  there. Kangaroos are the only large mammals to  hop  on two legs as their primary means of  locomotion .  This  multiple exposure  photograph shows an eastern grey kangaroo hopping in  Mount Annan, New South Wales .
+>The  Greensburg tornado  was a large and devastating  tornado  that moved through  Kiowa County, Kansas , on the evening of May 4, 2007, amid  a tornado outbreak across the central United States , causing catastrophic damage to the town of  Greensburg . The tornado tracked 28.8 miles (46.3 kilometers) through the area, killing at least eleven people and injuring sixty-three others. The tornado was the first to be rated EF5 on the  enhanced Fujita scale  after the retirement of the original  Fujita scale  in the United States in 2007. This photograph, taken for the  Federal Emergency Management Agency , shows the destroyed town center of Greensburg on May 16, twelve days after the tornado struck.
 
 

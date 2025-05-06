@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Greensburg_kansas_tornado.jpg/960px-Greensburg_kansas_tornado.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/US-%245-SC-1953-Fr.1655.jpg/960px-US-%245-SC-1953-Fr.1655.jpg" />
 </div>
 
->The  Greensburg tornado  was a large and devastating  tornado  that moved through  Kiowa County, Kansas , on the evening of May 4, 2007, amid  a tornado outbreak across the central United States , causing catastrophic damage to the town of  Greensburg . The tornado tracked 28.8 miles (46.3 kilometers) through the area, killing at least eleven people and injuring sixty-three others. The tornado was the first to be rated EF5 on the  enhanced Fujita scale  after the retirement of the original  Fujita scale  in the United States in 2007. This photograph, taken for the  Federal Emergency Management Agency , shows the destroyed town center of Greensburg on May 16, twelve days after the tornado struck.
+>Silver certificates  are a type of  representative money  issued between 1878 and 1964 in the United States as part of  its circulation of paper currency . They were produced in response to  silver agitation  by citizens who were angered by the  Coinage Act of 1873 , which had effectively placed the United States on a  gold standard . Since 1968 they have been redeemable only in  Federal Reserve Notes  and are thus obsolete, but they remain  legal tender  at their face value and hence are still an accepted form of currency. This  five-dollar bill , a 1953 silver certificate bearing the first serial number of a printing of 339,600,000 banknotes, is part of the  National Numismatic Collection  at the  Smithsonian Institution 's  National Museum of American History . It features a portrait of President  Abraham Lincoln  on the obverse and the facade of the  Lincoln Memorial  in Washington, D.C., on the reverse.
 
 

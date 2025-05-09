@@ -15,9 +15,8 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sumatran_Ground-Cuckoo_0A2A4427.jpg/960px-Sumatran_Ground-Cuckoo_0A2A4427.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Auxiliary_Territorial_Service_%28ATS%29_women_working_on_a_Churchill_tank_at_a_Royal_Army_Ordnance_Corps_depot%2C_10_October_1942._H24517_-_Restoration.jpg/500px-Auxiliary_Territorial_Service_%28ATS%29_women_working_on_a_Churchill_tank_at_a_Royal_Army_Ordnance_Corps_depot%2C_10_October_1942._H24517_-_Restoration.jpg" />
 </div>
 
->The  Sumatran ground cuckoo  ( Carpococcyx viridis ) is a large,  terrestrial  species of  cuckoo . It is  endemic  to Indonesia, where it is found exclusively on the island of  Sumatra . Its favoured habitat is believed to be foothills and primary  montane  rainforest. The Sumatran ground cuckoo is a large bird, adults having an average length of 55 cm, with a long, full tail. Much of its body is green and brown with cinammon-buff underparts, glossy and greenish-black wings and tail, and green, lilac and blue bare skin around the eyes. Due to ongoing habitat loss and small population size, the Sumatran ground cuckoo is evaluated as  critically endangered  on the  IUCN Red List . This Sumatran ground cuckoo was photographed in the western part of the Sumatran province of  Jambi , near  Mount Kunyit .
-
+>Photograph credit: Lt. Taylor, War Office official photographer; restored by  Adam Cuerden
 

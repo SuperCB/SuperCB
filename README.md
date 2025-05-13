@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ottmar_Mergenthaler%2C_at_approximately_45_years_old.jpg/960px-Ottmar_Mergenthaler%2C_at_approximately_45_years_old.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Xbox-360-Pro-wController.jpg/500px-Xbox-360-Pro-wController.jpg" />
 </div>
 
->Ottmar Mergenthaler  (11 May 1854 – 28 October 1899) was the inventor of the  linotype machine , the first device that could easily and quickly set complete lines of  type  for use in  printing presses . Mergenthaler was born into a German family in  Hachtel  in the  Kingdom of Württemberg . He was apprenticed to a  watchmaker  in  Bietigheim  before emigrating to the United States in 1872 to work in  Washington, D.C. , with his cousin August Hahl. In 1876, Mergenthaler was approached by  James O. Clephane  and his associate Charles T. Moore, who sought a quicker way of publishing  legal briefs . By 1884, he conceived the idea of assembling metallic letter molds, called matrices, and  casting molten metal  into them, all within a single machine. In July 1886, the  Mergenthaler Linotype Company  installed the first commercially used Linotype in the printing office of the  New-York Tribune . This photograph shows Mergenthaler at approximately 45 years of age in 1899; he died that year in  Baltimore  of  tuberculosis .
+>The  Xbox 360  is a  home video game console  developed by  Microsoft . As the successor to the  original Xbox , it is the second console in the  Xbox series . It competed with  Sony 's  PlayStation 3  and  Nintendo 's  Wii  as part of the  seventh generation of video game consoles . It was officially unveiled on  MTV  on May 12, 2005, with detailed launch and game information announced later that month at the 2005  Electronic Entertainment Expo  (E3). This photograph shows the "Pro" model from the launch line-up, which featured a 20GB  hard drive ,  wireless controller  and a silver  DVD  bezel.
 
 

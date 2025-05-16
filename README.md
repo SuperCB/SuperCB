@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lysander_Spooner_by_Hardy.jpg/960px-Lysander_Spooner_by_Hardy.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kiwifruit_cross_section.jpg/500px-Kiwifruit_cross_section.jpg" />
 </div>
 
->Lysander Spooner  (January 19, 1808 — May 14, 1887) was an American  abolitionist , entrepreneur, lawyer, essayist,  natural rights legal theorist ,  pamphleteer ,  political philosopher , and writer often associated with the  Boston anarchist tradition . He is known for establishing the  American Letter Mail Company , which competed with the  United States Postal Service . This undated photograph of Spooner was taken by  Amory Nelson Hardy .
+>Kiwifruit  is the edible  berry  of several species of woody  vines  in the genus  Actinidia . The most common  cultivar  group of kiwifruit ( Actinidia chinensis  var.  deliciosa  'Hayward') is oval, 5–8 centimetres (2–3 inches) in length and  .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px} 4.5–5.5 cm ( 1 + 3 ⁄ 4 – 2 + 1 ⁄ 4  in) in diameter. Kiwifruit has a thin, fuzzy, fibrous, tart but edible, light brown skin and light green or golden flesh with rows of tiny, black, edible seeds. Kiwifruit is native to central and eastern China, with the first recorded description dating back to the 12th century during the  Song dynasty . In 2023, world kiwifruit production was 4.4 million tonnes, led by China with 55% of the total. This  focus-stacked  photograph shows the cross-section of a kiwifruit grown in Portugal.
 
 

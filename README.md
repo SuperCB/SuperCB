@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/G%C3%A9iseres_del_Tatio%2C_Atacama%2C_Chile%2C_2016-02-01%2C_DD_03-05_HDR.JPG/960px-G%C3%A9iseres_del_Tatio%2C_Atacama%2C_Chile%2C_2016-02-01%2C_DD_03-05_HDR.JPG" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Chester_Cathedral_Lady_Chapel%2C_Cheshire%2C_UK_-_Diliff.jpg/960px-Chester_Cathedral_Lady_Chapel%2C_Cheshire%2C_UK_-_Diliff.jpg" />
 </div>
 
->El Tatio  is a geothermal field with many  geysers  located in the  Andes  Mountains of  northern Chile  at 4,320 metres (14,170 ft) above mean sea level. It is the third-largest geyser field in the world and the largest in the  Southern Hemisphere . The geothermal field has many geysers,  hot springs , and associated  sinter deposits . These hot springs eventually form the  Rio Salado , a major tributary of the  Rio Loa , and are a major source of  arsenic  pollution in the river. The vents are sites of populations of  extremophile  microorganisms such as  hyperthermophiles , and El Tatio has been studied as an analogue for the  early Earth  and possible past  life on Mars .
+>Chester Cathedral  is a  cathedral  of the  Church of England  and the  mother church  of the  Diocese of Chester . It is located in the city of  Chester , Cheshire, England. The cathedral, formerly the abbey church of a  Benedictine  monastery dedicated to  Saint Werburgh , is dedicated to  Christ  and the  Blessed Virgin Mary . Since 1541, it has been the seat of the  Bishop of Chester . This photograph shows the interior of the Lady Chapel at Chester Cathedral, built between 1265 and 1290 in the  Early English Gothic  style. It contains the Shrine of St Werburgh, dating from the 14th century, and also has a  sedilia  and a  piscina . It is decorated with carved roof bosses representing the  Trinity , the  Madonna and Child , and the murder of  Thomas Becket .
 
 

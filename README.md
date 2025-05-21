@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Chester_Cathedral_Lady_Chapel%2C_Cheshire%2C_UK_-_Diliff.jpg/960px-Chester_Cathedral_Lady_Chapel%2C_Cheshire%2C_UK_-_Diliff.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rhina_Aguirre_Am%C3%A9zaga._11_November_2014%2C_Chamber_of_Senators%2C_La_Paz._%2852421482576%29_Cropped_I.jpg/500px-Rhina_Aguirre_Am%C3%A9zaga._11_November_2014%2C_Chamber_of_Senators%2C_La_Paz._%2852421482576%29_Cropped_I.jpg" />
 </div>
 
->Chester Cathedral  is a  cathedral  of the  Church of England  and the  mother church  of the  Diocese of Chester . It is located in the city of  Chester , Cheshire, England. The cathedral, formerly the abbey church of a  Benedictine  monastery dedicated to  Saint Werburgh , is dedicated to  Christ  and the  Blessed Virgin Mary . Since 1541, it has been the seat of the  Bishop of Chester . This photograph shows the interior of the Lady Chapel at Chester Cathedral, built between 1265 and 1290 in the  Early English Gothic  style. It contains the Shrine of St Werburgh, dating from the 14th century, and also has a  sedilia  and a  piscina . It is decorated with carved roof bosses representing the  Trinity , the  Madonna and Child , and the murder of  Thomas Becket .
+>Rhina Aguirre  (20 May 1939 – 30 October 2021) was a Bolivian disability activist, politician, and sociologist. An opponent of the military dictatorships of the 1970s and 1980s, Aguirre was an early activist in the country's human rights movement. Exiled to Ecuador by the regime of  Luis García Meza , she collaborated with  Leonidas Proaño 's indigenous ministry and worked closely with the country's peasant and social organizations. Blinded in both eyes by  toxoplasmosis , Aguirre took up the cause of  disability rights , joining the Departmental Council for Disabled Persons upon her return to Bolivia. In 2009, she joined the  Movement for Socialism  and was elected to represent the department of  Tarija  in the  Chamber of Senators , becoming the first blind person in Bolivian history to assume a parliamentary seat. This photograph of Aguirre was taken in 2014.
 
 

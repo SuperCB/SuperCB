@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rhina_Aguirre_Am%C3%A9zaga._11_November_2014%2C_Chamber_of_Senators%2C_La_Paz._%2852421482576%29_Cropped_I.jpg/500px-Rhina_Aguirre_Am%C3%A9zaga._11_November_2014%2C_Chamber_of_Senators%2C_La_Paz._%2852421482576%29_Cropped_I.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Black-crowned_Barwing_0A2A7804.jpg/960px-Black-crowned_Barwing_0A2A7804.jpg" />
 </div>
 
->Rhina Aguirre  (20 May 1939 – 30 October 2021) was a Bolivian disability activist, politician, and sociologist. An opponent of the military dictatorships of the 1970s and 1980s, Aguirre was an early activist in the country's human rights movement. Exiled to Ecuador by the regime of  Luis García Meza , she collaborated with  Leonidas Proaño 's indigenous ministry and worked closely with the country's peasant and social organizations. Blinded in both eyes by  toxoplasmosis , Aguirre took up the cause of  disability rights , joining the Departmental Council for Disabled Persons upon her return to Bolivia. In 2009, she joined the  Movement for Socialism  and was elected to represent the department of  Tarija  in the  Chamber of Senators , becoming the first blind person in Bolivian history to assume a parliamentary seat. This photograph of Aguirre was taken in 2014.
+>The  black-crowned barwing  ( Actinodura sodangorum ) is a non-migratory bird from  Mainland Southeast Asia  in the family Leiothrichidae, the  laughingthrushes . The species's first sighting was reported in April 1996 at  Ngọc Linh , Vietnam, and it was  formally described  in 1999. The black-crowned barwing is the only bird in the genus  Actinodura  to have a black crown. It has transverse barring on the wings (wingbars) and a crest, which are characteristic of the genus. Its natural  habitats  are subtropical or tropical moist  montane forest , high-altitude  shrubland , high-altitude  grassland , and  plantations . This black-crowned barwing was photographed in the Ngọc Linh Nature Reserve, Vietnam.
 
 

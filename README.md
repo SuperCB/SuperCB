@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Black-crowned_Barwing_0A2A7804.jpg/960px-Black-crowned_Barwing_0A2A7804.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mary_Stevenson_Cassatt_-_In_the_Loge_-_Google_Art_Project.jpg/960px-Mary_Stevenson_Cassatt_-_In_the_Loge_-_Google_Art_Project.jpg" />
 </div>
 
->The  black-crowned barwing  ( Actinodura sodangorum ) is a non-migratory bird from  Mainland Southeast Asia  in the family Leiothrichidae, the  laughingthrushes . The species's first sighting was reported in April 1996 at  Ngọc Linh , Vietnam, and it was  formally described  in 1999. The black-crowned barwing is the only bird in the genus  Actinodura  to have a black crown. It has transverse barring on the wings (wingbars) and a crest, which are characteristic of the genus. Its natural  habitats  are subtropical or tropical moist  montane forest , high-altitude  shrubland , high-altitude  grassland , and  plantations . This black-crowned barwing was photographed in the Ngọc Linh Nature Reserve, Vietnam.
+>In the Loge , also known as  At the Opera , is an 1878  impressionist  painting by the American artist  Mary Cassatt . The  oil-on-canvas  painting displays a  bourgeois  woman in a  loge  at the opera house looking through her opera glasses, while a man in the background looks at her. The woman's costume and fan make clear her upper class status. Art historians see the painting as commentary on the role of gender, looking, and power in the social spaces of the nineteenth century. The painting is currently in the collection of the  Museum of Fine Arts, Boston , which also holds a preliminary drawing for the work.
 
 

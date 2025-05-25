@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mary_Stevenson_Cassatt_-_In_the_Loge_-_Google_Art_Project.jpg/960px-Mary_Stevenson_Cassatt_-_In_the_Loge_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg/500px-Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg" />
 </div>
 
->In the Loge , also known as  At the Opera , is an 1878  impressionist  painting by the American artist  Mary Cassatt . The  oil-on-canvas  painting displays a  bourgeois  woman in a  loge  at the opera house looking through her opera glasses, while a man in the background looks at her. The woman's costume and fan make clear her upper class status. Art historians see the painting as commentary on the role of gender, looking, and power in the social spaces of the nineteenth century. The painting is currently in the collection of the  Museum of Fine Arts, Boston , which also holds a preliminary drawing for the work.
+>Germanicus Julius Caesar  (24 May 15 BC – 10 October AD 19) was an  ancient Roman  general and politician most famously known for his campaigns against  Arminius  in  Germania . The son of  Nero Claudius Drusus  and  Antonia Minor , Germanicus was born into an influential branch of the  patrician   gens Claudia . The  agnomen   Germanicus  was added to his full name in 9 BC when it was posthumously awarded to his father in honor of his victories in Germania. In AD 4 he was adopted by his paternal uncle  Tiberius , himself the stepson and heir of Germanicus' great-uncle  Augustus ; ten years later, Tiberius succeeded Augustus as  Roman emperor . As a result of his adoption, Germanicus became an official member of the  gens Julia , another prominent family, to which he was related on his mother's side. His connection to the  Julii Caesares  was further consolidated through a marriage between him and  Agrippina the Elder , a granddaughter of Augustus. He was also the father of  Caligula , the maternal grandfather of  Nero , and the older brother of  Claudius . This  bust , depicting Germanicus in AD 4, is in the collection of the  J. Paul Getty Museum .
 
 

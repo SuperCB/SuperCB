@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BLM_mural_in_Greenpoint_%2835406p%29.jpg/960px-BLM_mural_in_Greenpoint_%2835406p%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Raya_de_arrecife_%28Taeniura_lymma%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-14%2C_DD_64.jpg/500px-Raya_de_arrecife_%28Taeniura_lymma%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-14%2C_DD_64.jpg" />
 </div>
 
->Many  artworks related to the Black Lives Matter movement  have been created. These works are seen as a direct tribute to those who have died or more broadly to the movement. Often the pieces are  created in the streets  as to be more publicly visible. This mural in  Greenpoint, Brooklyn  lists the names of  African Americans killed by law enforcement officers in the United States , ending with  George Floyd , whose  murder on May 25, 2020  sparked  global protests  that raised the visibility of the  Black Lives Matter  movement.
+>The  bluespotted ribbontail ray  ( Taeniura lymma ) is a species of  stingray  in the family  Dasyatidae . Found from the  intertidal zone  to a depth of 30 m (100 ft), this species is common throughout the tropical  Indian  and western  Pacific Oceans  in  nearshore ,  coral reef -associated  habitats . It is a fairly small ray, not exceeding 35 cm (14 in) in width, with a mostly smooth, oval  pectoral fin  disc, large protruding eyes, and a relatively short and thick tail with a deep fin fold underneath. It can be easily identified by its striking color pattern of many electric blue spots on a yellowish background, with a pair of blue stripes on the tail. This bluespotted ribbontail ray was photographed in the  Red Sea  off the coast of Egypt.
 
 

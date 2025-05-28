@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Raya_de_arrecife_%28Taeniura_lymma%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-14%2C_DD_64.jpg/500px-Raya_de_arrecife_%28Taeniura_lymma%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-14%2C_DD_64.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Balkan_Windr%C3%B6schen_%28Anemone_blanda%29-20230407-RM-124525.jpg/960px-Balkan_Windr%C3%B6schen_%28Anemone_blanda%29-20230407-RM-124525.jpg" />
 </div>
 
->The  bluespotted ribbontail ray  ( Taeniura lymma ) is a species of  stingray  in the family  Dasyatidae . Found from the  intertidal zone  to a depth of 30 m (100 ft), this species is common throughout the tropical  Indian  and western  Pacific Oceans  in  nearshore ,  coral reef -associated  habitats . It is a fairly small ray, not exceeding 35 cm (14 in) in width, with a mostly smooth, oval  pectoral fin  disc, large protruding eyes, and a relatively short and thick tail with a deep fin fold underneath. It can be easily identified by its striking color pattern of many electric blue spots on a yellowish background, with a pair of blue stripes on the tail. This bluespotted ribbontail ray was photographed in the  Red Sea  off the coast of Egypt.
+>Anemonoides blanda , the Balkan anemone, Grecian windflower, or winter windflower, is a species of  flowering plant  in the family  Ranunculaceae . The species is native to  southeast Europe  and the  Middle East . It grows up to 10 to 15 centimetres (4 to 6 inches) tall and is valued for its  daisy -like flowers, which appear in early spring, a time when little else is in flower. The flowers are found in various colors and are radially symmetrical, containing seven or more  sepals  and  petals . This purple  A. blanda  flower was photographed in  Bamberg , Germany.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hell_Gate_Bridge_%2860275p%29.jpg/975px-Hell_Gate_Bridge_%2860275p%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Australian_ibis_%28Threskiornis_molucca%29_Sydney.jpg/500px-Australian_ibis_%28Threskiornis_molucca%29_Sydney.jpg" />
 </div>
 
->The  Hell Gate Bridge  is a railroad bridge in  New York City , United States. The bridge carries two tracks of  Amtrak 's  Northeast Corridor  and one freight track between  Astoria, Queens , and  Port Morris, Bronx , via  Randalls and Wards Islands . Its main span is a 1,017-foot (310 m) steel  through arch  across  Hell Gate , a  strait  of the  East River  that separates Wards Island from  Queens . The  New York Connecting Railroad  began construction of the bridge in 1912, and it opened in 1917. The main span, a  two-hinged arch  flanked by stone towers on either bank of Hell Gate, was the world's  longest steel arch bridge  until the  Bayonne Bridge  opened in 1931. It is one of the few rail connections from  Long Island , of which Queens is part, to the rest of the United States. This panoramic photograph shows the main span of the Hell Gate Bridge. The photograph was taken in 2023 looking northeast from the neighboring  Robert F. Kennedy Bridge , with Wards Island on the left of the image and Astoria on the right. A tugboat tows a barge in the foreground towards the Hell Gate Bridge.
+>The  Australian white ibis  ( Threskiornis molucca ) is a wading  bird  of the  ibis  family,  Threskiornithidae . It is widespread across much of Australia, and has a predominantly white plumage with a bare, black head, long downcurved bill, and black legs. While it is closely related to the  African sacred ibis , the Australian white ibis is a  native Australian bird . Due to its increasing presence in the urban environment and its habit of rummaging in garbage, the species has acquired a variety of colloquial names such as "tip turkey" and "bin chicken". This Australian white ibis was photographed at the  Royal Botanic Garden, Sydney .
 
 

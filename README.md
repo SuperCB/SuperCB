@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Australian_ibis_%28Threskiornis_molucca%29_Sydney.jpg/500px-Australian_ibis_%28Threskiornis_molucca%29_Sydney.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Tournenie_%28HS85-10-21122%29.jpg/500px-Tournenie_%28HS85-10-21122%29.jpg" />
 </div>
 
->The  Australian white ibis  ( Threskiornis molucca ) is a wading  bird  of the  ibis  family,  Threskiornithidae . It is widespread across much of Australia, and has a predominantly white plumage with a bare, black head, long downcurved bill, and black legs. While it is closely related to the  African sacred ibis , the Australian white ibis is a  native Australian bird . Due to its increasing presence in the urban environment and its habit of rummaging in garbage, the species has acquired a variety of colloquial names such as "tip turkey" and "bin chicken". This Australian white ibis was photographed at the  Royal Botanic Garden, Sydney .
+>Ignace Tonené  (1840 or 1841 – 15 March 1916), also known as Nias or by his  Ojibwe  name  Maiagizis  ( ' right/correct sun ' ), was a  Teme-Augama Anishnabai  chief,  fur trader , and  gold prospector  in  Upper Canada . He was a prominent employee of the  Hudson's Bay Company . Tonené was the elected deputy chief before being the lead chief and later the life chief of his community. In his role as deputy, he negotiated with the  Canadian federal government  and the  Ontario provincial government , advocating for his community to receive annual financial support from both. His attempts to secure land reserves for his community were thwarted by the Ontario premier  Oliver Mowat . Tonené's prospecting triggered a 1906 gold rush and the creation of  Kerr Addison Mines Ltd. , although  one of his claims  was  stolen  from him by white Canadian prospectors. This photograph shows Tonené in 1909.
 
 

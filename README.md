@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Tournenie_%28HS85-10-21122%29.jpg/500px-Tournenie_%28HS85-10-21122%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cucumis_metuliferus_fruit_-_whole_and_cross_section.jpg/960px-Cucumis_metuliferus_fruit_-_whole_and_cross_section.jpg" />
 </div>
 
->Ignace Tonené  (1840 or 1841 – 15 March 1916), also known as Nias or by his  Ojibwe  name  Maiagizis  ( ' right/correct sun ' ), was a  Teme-Augama Anishnabai  chief,  fur trader , and  gold prospector  in  Upper Canada . He was a prominent employee of the  Hudson's Bay Company . Tonené was the elected deputy chief before being the lead chief and later the life chief of his community. In his role as deputy, he negotiated with the  Canadian federal government  and the  Ontario provincial government , advocating for his community to receive annual financial support from both. His attempts to secure land reserves for his community were thwarted by the Ontario premier  Oliver Mowat . Tonené's prospecting triggered a 1906 gold rush and the creation of  Kerr Addison Mines Ltd. , although  one of his claims  was  stolen  from him by white Canadian prospectors. This photograph shows Tonené in 1909.
+>Cucumis metuliferus , the African horned cucumber, is an annual  vine  in the  cucumber  and  melon  family,  Cucurbitaceae . Its  fruit  has  horn -like  spines , hence the name "horned melon". The ripe fruit has orange skin and lime-green, jelly-like flesh. It is native to  Southern Africa , where it is a traditional food. Along with the  gemsbok cucumber  and the  citron melon , it is one of the few sources of water during the dry season in the  Kalahari Desert . This photograph, which was  focus-stacked  from 25 separate images, shows two  C. metuliferus  fruits, one whole and the other in cross-section.
 
 

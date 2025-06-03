@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cucumis_metuliferus_fruit_-_whole_and_cross_section.jpg/960px-Cucumis_metuliferus_fruit_-_whole_and_cross_section.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Taking_of_the_rock_Le_Diamant%2C_near_Martinique%2C_2_June_1805_%28by_Auguste_Etienne_Fran%C3%A7ois_Mayer%29.jpg/1200px-Taking_of_the_rock_Le_Diamant%2C_near_Martinique%2C_2_June_1805_%28by_Auguste_Etienne_Fran%C3%A7ois_Mayer%29.jpg" />
 </div>
 
->Cucumis metuliferus , the African horned cucumber, is an annual  vine  in the  cucumber  and  melon  family,  Cucurbitaceae . Its  fruit  has  horn -like  spines , hence the name "horned melon". The ripe fruit has orange skin and lime-green, jelly-like flesh. It is native to  Southern Africa , where it is a traditional food. Along with the  gemsbok cucumber  and the  citron melon , it is one of the few sources of water during the dry season in the  Kalahari Desert . This photograph, which was  focus-stacked  from 25 separate images, shows two  C. metuliferus  fruits, one whole and the other in cross-section.
+>The  Battle of Diamond Rock  was a naval battle that took place between 31 May and 2 June 1805 during the  Trafalgar campaign  of the  War of the Third Coalition , part of the  Napoleonic Wars . A Franco-Spanish force dispatched under Captain  Julien Cosmao  retook  Diamond Rock , on the approach to  Fort-de-France  on the Caribbean island of  Martinique , from the British forces that had occupied it more than a year before. This oil-on-canvas painting depicting the battle, titled  Taking of the Rock Le Diamant, near Martinique, 2 June 1805 , was painted in 1837 by  Auguste Étienne François Mayer , and measures 80 cm (31.4 in) high and 128 cm (50.3 in) wide. The painting now hangs in the  Palace of Versailles .
 
 

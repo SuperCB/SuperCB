@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Taking_of_the_rock_Le_Diamant%2C_near_Martinique%2C_2_June_1805_%28by_Auguste_Etienne_Fran%C3%A7ois_Mayer%29.jpg/1200px-Taking_of_the_rock_Le_Diamant%2C_near_Martinique%2C_2_June_1805_%28by_Auguste_Etienne_Fran%C3%A7ois_Mayer%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg/960px-Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg" />
 </div>
 
->The  Battle of Diamond Rock  was a naval battle that took place between 31 May and 2 June 1805 during the  Trafalgar campaign  of the  War of the Third Coalition , part of the  Napoleonic Wars . A Franco-Spanish force dispatched under Captain  Julien Cosmao  retook  Diamond Rock , on the approach to  Fort-de-France  on the Caribbean island of  Martinique , from the British forces that had occupied it more than a year before. This oil-on-canvas painting depicting the battle, titled  Taking of the Rock Le Diamant, near Martinique, 2 June 1805 , was painted in 1837 by  Auguste Étienne François Mayer , and measures 80 cm (31.4 in) high and 128 cm (50.3 in) wide. The painting now hangs in the  Palace of Versailles .
+>The  eastern quoll  ( Dasyurus viverrinus ) is a medium-sized carnivorous  marsupial  in the  dasyurid  family, and one of six extant species of  quolls . Endemic to Australia, the species occurs on the island of  Tasmania , and was formerly found across much of southeastern mainland Australia before becoming functionally extinct there in the 1960s. Eastern quolls are about the size of a small  domestic cat  and have a thick, light fawn or near-black, coat with white spots. They are solitary predators, hunting at night for their prey of insects, small mammals, birds, and reptiles. This fawn- morph  eastern quoll was photographed in  Upper Esk , Tasmania.
 
 

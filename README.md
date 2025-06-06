@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Daft_Punk_in_2013_2-_centered.jpg/960px-Daft_Punk_in_2013_2-_centered.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/King%27s_Cross_Western_Concourse_-_central_position_-_2012-05-02.75.jpg/975px-King%27s_Cross_Western_Concourse_-_central_position_-_2012-05-02.75.jpg" />
 </div>
 
->Daft Punk  were a French  electronic music  duo formed in 1993 in Paris by  Thomas Bangalter  (left) and  Guy-Manuel de Homem-Christo . They achieved popularity in the late 1990s as part of the  French house  movement, combining  house music ,  funk ,  disco ,  techno ,  rock  and  synth-pop . They are regarded as one of the most influential acts in  dance music . From 1999, Daft Punk assumed robot personas for public appearances, with helmets, outfits and gloves to disguise their identities, and made few media appearances. In 2013, the band released their fourth and final album,  Random Access Memories , to acclaim. The lead single, " Get Lucky ", reached the top 10 in the charts of 27 countries. The album won five Grammy Awards in 2014, including  Album of the Year  and  Record of the Year  for "Get Lucky". This promotional photograph shows Daft Punk in 2013 after the release of  Random Access Memories .
+>London King's Cross railway station  is a passenger railway terminus in the  London Borough of Camden , on the edge of  Central London . It is in the  London station group , one of the  busiest railway stations in the United Kingdom , and the southern terminus of the  East Coast Main Line  to  Yorkshire and the Humber ,  North East England  and  Scotland . The station was opened in  King's Cross  in 1852 by the  Great Northern Railway , and has been expanded and redeveloped several times since. This  panoramic photograph  shows the western departures concourse of King's Cross station, which was designed by  John McAslan  and opened in March 2012 as part of a major renovation project. McAslan said that the roof was the longest single-span station structure in Europe; the semi-circular structure has a radius of 59 yards (54 metres) and more than 2,000 triangular roof panels, half of which are glass.
 
 

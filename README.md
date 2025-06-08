@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/010e_Wild_Bearded_Vulture_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/960px-010e_Wild_Bearded_Vulture_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/East_End_of_Rundle_and_Whitemans_Pond.jpg/1200px-East_End_of_Rundle_and_Whitemans_Pond.jpg" />
 </div>
 
->The  bearded vulture  ( Gypaetus barbatus ) is a very large  bird of prey  in the  monotypic  genus  Gypaetus . It is vernacularly known as the  Homa , a bird in Iranian mythology. The bearded vulture is the only known vertebrate whose diet consists of 70 to 90 per cent bone. It lives and breeds on crags in high mountains in Iran, southern Europe, East Africa, the Indian subcontinent, Tibet, and the Caucasus. The bearded vulture population is thought to be in decline; since 2014, it has been classified as  near threatened  on the  IUCN Red List . Bearded vultures are 94 to 125 centimetres (37 to 49 inches) long, with a  wingspan  of 2.31 to 2.83 metres (7.6 to 9.3 feet). This bearded vulture was photographed carrying a piece of  carrion  in the  Alps  in Switzerland, where the species was  reintroduced  in the late 20th century after having become  locally extinct  in the early 20th century.
+>Mount Rundle  is a mountain in  Banff National Park  that overlooks the towns of  Banff  and  Canmore  in the Canadian province of  Alberta . Geologically, it consists of  limestones ,  dolomitic  limestones,  dolomites  and  shales  of  Paleozoic  age. In ascending order, they belong to the  Palliser ,  Exshaw  and  Banff Formations , topped by the  Rundle Group , which was named after the mountain. Mount Rundle could be considered a small mountain range as the mountain extends for more than 12 kilometres (7.5 miles) on the south side of the  Trans-Canada Highway  eastward from Banff to Canmore, and has seven distinct peaks. The southeasternmost of these peaks is the  East End of Rundle , pictured here from the trail to  Ha Ling Peak , with Whitemans Pond in the foreground.
 
 

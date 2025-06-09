@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/East_End_of_Rundle_and_Whitemans_Pond.jpg/1200px-East_End_of_Rundle_and_Whitemans_Pond.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pierre-Luc-Charles_Cic%C3%A9ri_-_Act_III_set_design_for_the_premi%C3%A8re_production_of_Daniel_Auber%27s_Gustave_III.jpg/1200px-Pierre-Luc-Charles_Cic%C3%A9ri_-_Act_III_set_design_for_the_premi%C3%A8re_production_of_Daniel_Auber%27s_Gustave_III.jpg" />
 </div>
 
->Mount Rundle  is a mountain in  Banff National Park  that overlooks the towns of  Banff  and  Canmore  in the Canadian province of  Alberta . Geologically, it consists of  limestones ,  dolomitic  limestones,  dolomites  and  shales  of  Paleozoic  age. In ascending order, they belong to the  Palliser ,  Exshaw  and  Banff Formations , topped by the  Rundle Group , which was named after the mountain. Mount Rundle could be considered a small mountain range as the mountain extends for more than 12 kilometres (7.5 miles) on the south side of the  Trans-Canada Highway  eastward from Banff to Canmore, and has seven distinct peaks. The southeasternmost of these peaks is the  East End of Rundle , pictured here from the trail to  Ha Ling Peak , with Whitemans Pond in the foreground.
+>Set design for Act III  of  the opera  Gustave III, ou Le bal masqué , composed  by  Daniel Auber  with a  libretto  by  Eugène Scribe .  Created for the première performance at the  Salle Le Peletier  of the  Paris Opera  on 27 February 1833.
 
 

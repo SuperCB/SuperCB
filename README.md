@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pierre-Luc-Charles_Cic%C3%A9ri_-_Act_III_set_design_for_the_premi%C3%A8re_production_of_Daniel_Auber%27s_Gustave_III.jpg/1200px-Pierre-Luc-Charles_Cic%C3%A9ri_-_Act_III_set_design_for_the_premi%C3%A8re_production_of_Daniel_Auber%27s_Gustave_III.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lestes_dryas_male_%28side_view%29_-_Kulna.jpg/500px-Lestes_dryas_male_%28side_view%29_-_Kulna.jpg" />
 </div>
 
->Set design for Act III  of  the opera  Gustave III, ou Le bal masqué , composed  by  Daniel Auber  with a  libretto  by  Eugène Scribe .  Created for the première performance at the  Salle Le Peletier  of the  Paris Opera  on 27 February 1833.
+>Lestes dryas  is a species of  damselfly  in the family  Lestidae , the spreadwings. Its common names include emerald spreadwing, scarce emerald damselfly, and robust spreadwing. This species is native to the  Holarctic realm , especially northern parts of Eurasia and North America, and  relictual  in  North Africa . It is about 35 to 42 millimetres (1.4 to 1.7 in) long, with the males generally longer than the females. The males have a  wingspan  of about 45 millimetres (1.8 in), and the females of about 47 millimetres (1.9 in). Both sexes of  L. dryas  have largely metallic green bodies with a bronze  iridescence , with blue  pruinescence  developing as they age. This male emerald spreadwing was photographed in  Kulna , Estonia.
 
 

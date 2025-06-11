@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lestes_dryas_male_%28side_view%29_-_Kulna.jpg/500px-Lestes_dryas_male_%28side_view%29_-_Kulna.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Batalha_September_2021-2.jpg/960px-Batalha_September_2021-2.jpg" />
 </div>
 
->Lestes dryas  is a species of  damselfly  in the family  Lestidae , the spreadwings. Its common names include emerald spreadwing, scarce emerald damselfly, and robust spreadwing. This species is native to the  Holarctic realm , especially northern parts of Eurasia and North America, and  relictual  in  North Africa . It is about 35 to 42 millimetres (1.4 to 1.7 in) long, with the males generally longer than the females. The males have a  wingspan  of about 45 millimetres (1.8 in), and the females of about 47 millimetres (1.9 in). Both sexes of  L. dryas  have largely metallic green bodies with a bronze  iridescence , with blue  pruinescence  developing as they age. This male emerald spreadwing was photographed in  Kulna , Estonia.
+>Batalha Monastery  is a  Dominican  convent in the municipality of  Batalha  in Portugal. Originally and officially known as the Monastery of Saint Mary of the Victory, it was erected in commemoration of the 1385  Battle of Aljubarrota  and would serve as the burial church of the 15th-century  Aviz dynasty  of Portuguese royalty. It is one of the best and original examples of Late  Flamboyant  Gothic architecture in Portugal, intermingled with the  Manueline  style. The monastery is a historic and cultural monument and was listed as a UNESCO  World Heritage Site  in 1983.  This photograph of the main facade of Batalha Monastery was taken in 2021.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Batalha_September_2021-2.jpg/960px-Batalha_September_2021-2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jelly_Ear%2C_Auricularia_auricula-judae%2C_UK_2.jpg/960px-Jelly_Ear%2C_Auricularia_auricula-judae%2C_UK_2.jpg" />
 </div>
 
->Batalha Monastery  is a  Dominican  convent in the municipality of  Batalha  in Portugal. Originally and officially known as the Monastery of Saint Mary of the Victory, it was erected in commemoration of the 1385  Battle of Aljubarrota  and would serve as the burial church of the 15th-century  Aviz dynasty  of Portuguese royalty. It is one of the best and original examples of Late  Flamboyant  Gothic architecture in Portugal, intermingled with the  Manueline  style. The monastery is a historic and cultural monument and was listed as a UNESCO  World Heritage Site  in 1983.  This photograph of the main facade of Batalha Monastery was taken in 2021.
+>Auricularia auricula-judae , commonly known as the wood ear, the jelly ear, or historically the Jew's ear, is a species of  fungus  in the order  Auriculariales . The  basidiocarps  (fruit bodies) are brown, gelatinous, and have a noticeably ear-like shape, normally up to 90 millimetres (3.5 inches) across and up to 3 millimetres (0.12 inches) thick. It is edible but not widely consumed, and has been used as a  medicinal fungus  by  herbalists . It grows on wood, especially  elder , and is widespread throughout Europe, but is not known to occur elsewhere. The specific epithet is derived from the belief that  Judas Iscariot  hanged himself from an elder tree after  his betrayal of Jesus . These  A. auricula-judae  basidiocarps were photographed on a log in the  London Borough of Enfield .
 
 

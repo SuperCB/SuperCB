@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jelly_Ear%2C_Auricularia_auricula-judae%2C_UK_2.jpg/960px-Jelly_Ear%2C_Auricularia_auricula-judae%2C_UK_2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Grey-breasted_mountain_toucan_%28Andigena_hypoglauca%29_Caldas.jpg/960px-Grey-breasted_mountain_toucan_%28Andigena_hypoglauca%29_Caldas.jpg" />
 </div>
 
->Auricularia auricula-judae , commonly known as the wood ear, the jelly ear, or historically the Jew's ear, is a species of  fungus  in the order  Auriculariales . The  basidiocarps  (fruit bodies) are brown, gelatinous, and have a noticeably ear-like shape, normally up to 90 millimetres (3.5 inches) across and up to 3 millimetres (0.12 inches) thick. It is edible but not widely consumed, and has been used as a  medicinal fungus  by  herbalists . It grows on wood, especially  elder , and is widespread throughout Europe, but is not known to occur elsewhere. The specific epithet is derived from the belief that  Judas Iscariot  hanged himself from an elder tree after  his betrayal of Jesus . These  A. auricula-judae  basidiocarps were photographed on a log in the  London Borough of Enfield .
+>The  grey-breasted mountain toucan  ( Andigena hypoglauca ) is a  near-threatened species  of bird in the  toucan  family, Ramphastidae, and a member of the genus  Andigena , the  mountain toucans . Found in Colombia, Ecuador and Peru, grey-breasted mountain toucans are 41 to 48 centimetres (16 to 19 inches) long and weigh 244 to 370 grams (8.6 to 13 ounces). The species inhabits wet temperate  montane forest , including  cloud ,  elfin , and  secondary forest , generally between 2,200 and 3,650 metres (7,200 and 12,000 feet) in elevation. This grey-breasted mountain toucan of the  subspecies   A. h. hypoglauca  was photographed perching on a branch in the mountains of the  Cordillera Central  near  Manizales , Colombia.
 
 

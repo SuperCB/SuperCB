@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Raspberry_-_halved_%28Rubus_idaeus%29.jpg/500px-Raspberry_-_halved_%28Rubus_idaeus%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Entire-embroidery-magna-carta-cornelia-parker_-_edit1.jpg/500px-Entire-embroidery-magna-carta-cornelia-parker_-_edit1.jpg" />
 </div>
 
->The  raspberry  is the edible fruit of a multitude of plant species in the genus  Rubus  of the  rose family , most of which are in the subgenus  Idaeobatus . The name also applies to the plant itself. Raspberry plants are  perennial  with  woody stems . It is an  aggregate fruit , developing from the numerous distinct carpels of a single flower. Originally occurring in  East Asia , the raspberry is now cultivated across northern Europe and North America and is eaten in a variety of ways including as a whole fruit and in  preserves , cakes, ice cream and liqueurs. Raspberries are a rich source of  vitamin C ,  manganese , and  dietary fiber .
+>Magna Carta (An Embroidery)  is a 2015 work by English installation artist  Cornelia Parker . The artwork is an  embroidered  representation of the complete text and images of an  online encyclopedia  article for  Magna Carta , as it appeared in  English Wikipedia  on  15 June 2014 , the 799th anniversary of the document. The hand-stitched embroidery is 1.5 metres (5') wide and nearly 13 metres (42') long. The embroidery formed part of an exhibition celebrating the 800th anniversary of Magna Carta on 15 June 2015. It was displayed in the Entrance Hall of the British Library from 15 May to 24 July 2015.
 
 

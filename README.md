@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Entire-embroidery-magna-carta-cornelia-parker_-_edit1.jpg/500px-Entire-embroidery-magna-carta-cornelia-parker_-_edit1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Igor_Stravinsky_LOC_32392u.jpg/960px-Igor_Stravinsky_LOC_32392u.jpg" />
 </div>
 
->Magna Carta (An Embroidery)  is a 2015 work by English installation artist  Cornelia Parker . The artwork is an  embroidered  representation of the complete text and images of an  online encyclopedia  article for  Magna Carta , as it appeared in  English Wikipedia  on  15 June 2014 , the 799th anniversary of the document. The hand-stitched embroidery is 1.5 metres (5') wide and nearly 13 metres (42') long. The embroidery formed part of an exhibition celebrating the 800th anniversary of Magna Carta on 15 June 2015. It was displayed in the Entrance Hall of the British Library from 15 May to 24 July 2015.
+>Igor Stravinsky  (17 June 1882 – 6 April 1971) was a Russian composer and conductor, considered to be one of the most important and influential  composers of the 20th century . He studied under  Nikolai Rimsky-Korsakov  until the latter's death in 1908. Soon after, Stravinsky met the  impresario   Sergei Diaghilev , who commissioned the composer to write three ballets for  Ballets Russes :  The Firebird  (1910),  Petrushka  (1911), and  The Rite of Spring  (1913), the last of which  caused a near-riot at its premiere  in Paris. His compositional style varied greatly, being influenced at different times by  Russian folklore ,  neoclassicism , and  serialism . His ideas influenced  Aaron Copland ,  Philip Glass ,  Béla Bartók , and  Pierre Boulez , who were all challenged to innovate beyond traditional  tonality , rhythm, and  form . This photograph of Stravinsky in the early 1920s is from the collection of the American photojournalist  George Grantham Bain .
 
 

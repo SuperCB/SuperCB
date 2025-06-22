@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaws_movie_poster.jpg/960px-Jaws_movie_poster.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cape_Barren_geese_%28Cereopsis_novaehollandiae%29_in_flight_Kangaroo_Island_2.jpg/960px-Cape_Barren_geese_%28Cereopsis_novaehollandiae%29_in_flight_Kangaroo_Island_2.jpg" />
 </div>
 
->This famous design, by  Roger Kastel , of a shark with a mouth filled with jagged teeth, rising towards an unsuspecting female swimmer, was completed in 1974. Its first appearance was as a book cover ( illustrated as the image accompanying  Today's Featured Article ) with publication of the paperback edition of  the novel  by  Peter Benchley , on January 1, 1975. Later that year, it formed the basis for one of the most iconic film posters in history ( shown here ) with the release of  the movie  on June 20, 1975. In 2014, the Review Board of the  United States Copyright Office  upheld the denial of a copyright for the artwork as there was no proper notice of copyright, since the only copyright notice in the paperback was that of Benchley's 1974 copyright of the text.
+>The  Cape Barren goose  ( Cereopsis novaehollandiae ) is a species of  goose  endemic to  southern Australia . It was first formally described by the English ornithologist  John Latham  in 1801. Adult Cape Barren geese are large birds, typically measuring 75 to 100 centimetres (30 to 39 inches) long and weighing between 3.7 to 5.2 kilograms (8.2 to 11.5 pounds), with males generally being larger than females. The plumage is mostly pale grey with a slight brown tint. The head is somewhat small in proportion to the body and mostly grey in colour, save for a pale whitish patch on the forehead and crown. Cape Barren geese are largely  terrestrial , only occasionally swimming. They predominantly graze on grasses,  sedges ,  legumes ,  herbs , and  succulents . This group of Cape Barren geese in flight was photographed near Hanson Bay, on  Kangaroo Island  in  South Australia .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cape_Barren_geese_%28Cereopsis_novaehollandiae%29_in_flight_Kangaroo_Island_2.jpg/960px-Cape_Barren_geese_%28Cereopsis_novaehollandiae%29_in_flight_Kangaroo_Island_2.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mezquita_Shah%2C_Isfah%C3%A1n%2C_Ir%C3%A1n%2C_2016-09-20%2C_DD_64.jpg/960px-Mezquita_Shah%2C_Isfah%C3%A1n%2C_Ir%C3%A1n%2C_2016-09-20%2C_DD_64.jpg" />
 </div>
 
->The  Cape Barren goose  ( Cereopsis novaehollandiae ) is a species of  goose  endemic to  southern Australia . It was first formally described by the English ornithologist  John Latham  in 1801. Adult Cape Barren geese are large birds, typically measuring 75 to 100 centimetres (30 to 39 inches) long and weighing between 3.7 to 5.2 kilograms (8.2 to 11.5 pounds), with males generally being larger than females. The plumage is mostly pale grey with a slight brown tint. The head is somewhat small in proportion to the body and mostly grey in colour, save for a pale whitish patch on the forehead and crown. Cape Barren geese are largely  terrestrial , only occasionally swimming. They predominantly graze on grasses,  sedges ,  legumes ,  herbs , and  succulents . This group of Cape Barren geese in flight was photographed near Hanson Bay, on  Kangaroo Island  in  South Australia .
+>The  Shah Mosque , officially known as the  Imam Khomeini  Mosque, is located on the south side of  Naqsh-e Jahan Square  in  Isfahan , Iran. The  mosque  was commissioned by  Abbas the Great  to a design by the architect  Ali Akbar Isfahani . Its construction began in 1611, during the  Safavid Empire , and was completed  c.  1630 . The photograph shows the  Persian blue  tiling of the entrance  iwan , looking up at the  muqarnas  above.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Antidorcas_marsupialis%2C_male_%28Etosha%2C_2012%29.jpg/960px-Antidorcas_marsupialis%2C_male_%28Etosha%2C_2012%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Atacamite_on_malachite_-_Mt_Gunson_mines%2C_South_Australia.jpg/960px-Atacamite_on_malachite_-_Mt_Gunson_mines%2C_South_Australia.jpg" />
 </div>
 
->The  springbok  ( Antidorcas marsupialis ) is a medium-sized  antelope  found mainly in the dry areas of southern and southwestern Africa. A slender, long-legged  bovid , it reaches 71 to 86 cm (28 to 34 in) at the shoulder and weighs between 27 and 42 kg (60 and 93 lb). Both sexes have a pair of long black  horns  that curve backwards, a white face, a dark stripe running from the eyes to the mouth, a light-brown  coat  with a reddish-brown stripe, and a white  rump  flap. Primarily  browsing  at dawn and dusk, it can live without drinking water for years, subsisting on  succulent vegetation . Breeding peaks in the rainy season, when food is more  abundant. A single calf is weaned at nearly six months of age and leaves its mother a few months later. Springbok herds in the  Kalahari Desert  and the semi-arid  Karoo  used to migrate in large numbers across the countryside.  The springbok is the national animal of South Africa. This male springbok was photographed in  Etosha National Park , Namibia.
+>Atacamite  is a copper  halide mineral : a  copper(II) chloride hydroxide  with the chemical formula Cu 2 Cl(OH) 3 . It was first described in 1802 by  Dmitri Alekseyevich Golitsyn  from deposits in Chile's  Atacama Desert , after which it is named. Atacamite is a comparatively rare mineral, formed from primary copper minerals in the  oxidation  or  weathering  zone of arid climates. It has also been reported as a  volcanic sublimate  from  fumarole  deposits, as sulfide alteration products in  black smokers . This photograph shows a specimen of atacamite, on a  malachite  matrix, from the Mount Gunson Mines in  South Australia . The picture was  focus-stacked  from 42 separate images.
 
 

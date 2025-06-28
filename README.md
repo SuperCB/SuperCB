@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Atacamite_on_malachite_-_Mt_Gunson_mines%2C_South_Australia.jpg/960px-Atacamite_on_malachite_-_Mt_Gunson_mines%2C_South_Australia.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Whitehead%27s_Trogon_0A2A6014.jpg/960px-Whitehead%27s_Trogon_0A2A6014.jpg" />
 </div>
 
->Atacamite  is a copper  halide mineral : a  copper(II) chloride hydroxide  with the chemical formula Cu 2 Cl(OH) 3 . It was first described in 1802 by  Dmitri Alekseyevich Golitsyn  from deposits in Chile's  Atacama Desert , after which it is named. Atacamite is a comparatively rare mineral, formed from primary copper minerals in the  oxidation  or  weathering  zone of arid climates. It has also been reported as a  volcanic sublimate  from  fumarole  deposits, as sulfide alteration products in  black smokers . This photograph shows a specimen of atacamite, on a  malachite  matrix, from the Mount Gunson Mines in  South Australia . The picture was  focus-stacked  from 42 separate images.
+>Whitehead's trogon  ( Harpactes whiteheadi ) is a species of bird in the family  Trogonidae . It is  endemic  to the island of  Borneo , where it is an uncommon  resident  in  primary  mountain forest. One of Borneo's largest trogons, at 29 to 33 centimetres (11 to 13 inches) long, it is  sexually dimorphic . The male is crimson on the head,  nape , and underparts, with a black throat and grey chest; the rest of its  upperparts  are cinnamon-coloured. The female is similarly patterned, but cinnamon-brown where the male is scarlet. The species is primarily an  insectivore , but also eats various plant materials, including fruits and seeds. Other than the timing of its breeding, typically between April and June, little is known about its breeding biology. It is classified as a  near-threatened species , with population numbers thought to be declining and  habitat loss  a key threat. This male Whitehead's trogon was photographed perching on a branch near  Mount Kinabalu  in the Malaysian state of  Sabah .
 
 

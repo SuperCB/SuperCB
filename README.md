@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Boyd%27s_forest_dragon_%28Lophosaurus_boydii%29_Daintree.jpg/500px-Boyd%27s_forest_dragon_%28Lophosaurus_boydii%29_Daintree.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Trillium_erectum_-_Stephen%27s_Gulch_CA.jpg/960px-Trillium_erectum_-_Stephen%27s_Gulch_CA.jpg" />
 </div>
 
->Boyd's forest dragon  ( Lophosaurus boydii ) is a species of arboreal  lizard  in the family  Agamidae . The species is native to  rainforests  and their margins in the  Wet Tropics  region of northern  Queensland , Australia. It spends the majority of its time perched on the trunks of trees, usually at around head height. It is a sit-and-wait predator, catching prey that it spies from its perch. Its diet consists primarily of  invertebrates , with  earthworms  making up a relatively high proportion. Small  fruits  and  vertebrates  are also occasionally consumed. This Boyd's forest dragon was photographed in  Daintree National Park .
+>Trillium erectum , the red trillium, is a species of  flowering plant  in the family  Melanthiaceae . It is a spring  ephemeral plant  whose life-cycle is synchronized with that of the forests in which it lives. It is native to the eastern United States and eastern Canada from northern  Georgia  to  Quebec  and  New Brunswick . Like all trilliums, it has a  whorl  of three  bracts  (leaves) and a single  trimerous  flower with three  sepals , three  petals , two whorls of three  stamens  each, and three  carpels  (fused into a single  ovary  with three  stigmas ). It is a  perennial  plant that persists by means of an underground  rhizome .  Trillium erectum  has  carrion-scented flowers  that produce fetid or putrid odors purported to attract carrion fly and beetle pollinators. This  T. erectum  flower was photographed in  Stephen's Gulch Conservation Area  in  Ontario , Canada.
 
 

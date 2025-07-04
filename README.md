@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/T-7A_Red_Hawk_over_Edwards_Air_Force_Base.jpg/960px-T-7A_Red_Hawk_over_Edwards_Air_Force_Base.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Slaty-crowned_antpitta_%28Grallaricula_nana_occidentalis%29_Caldas.jpg/960px-Slaty-crowned_antpitta_%28Grallaricula_nana_occidentalis%29_Caldas.jpg" />
 </div>
 
->The  Boeing–Saab T-7 Red Hawk  is an American–Swedish  transonic  advanced  jet trainer  produced by  Boeing  with  Saab . In September 2018, the  United States Air Force  (USAF) selected it for the  T-X program  to replace the  Northrop T-38 Talon  as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the  Tuskegee Airmen , who painted their airplane's tails bright red, and to the  Curtiss P-40 Warhawk , the first aircraft flown in combat by the  99th Fighter Squadron , the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This  air-to-air photograph  shows a T-7 Red Hawk on a test flight over  Edwards Air Force Base  in November 2023.
+>The  slaty-crowned antpitta  ( Grallaricula nana ) is a species of bird in the  Antpitta  family, Grallariidae. It has a  disjunct distribution , inhabiting  montane forest  in the subtropical to temperate zone of northern South America. It is 10.5 to 11.5 cm (4.1 to 4.5 in) long and weighs 17.5 to 23 g (0.62 to 0.81 oz). This slaty-crowned antpitta of the subspecies  G. n. occidentalis  was photographed near  Manizales , Colombia.
 
 

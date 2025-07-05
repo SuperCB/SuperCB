@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Slaty-crowned_antpitta_%28Grallaricula_nana_occidentalis%29_Caldas.jpg/960px-Slaty-crowned_antpitta_%28Grallaricula_nana_occidentalis%29_Caldas.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/960px-Mount_Rushmore_detail_view_%28100MP%29.jpg" />
 </div>
 
->The  slaty-crowned antpitta  ( Grallaricula nana ) is a species of bird in the  Antpitta  family, Grallariidae. It has a  disjunct distribution , inhabiting  montane forest  in the subtropical to temperate zone of northern South America. It is 10.5 to 11.5 cm (4.1 to 4.5 in) long and weighs 17.5 to 23 g (0.62 to 0.81 oz). This slaty-crowned antpitta of the subspecies  G. n. occidentalis  was photographed near  Manizales , Colombia.
+>Mount Rushmore National Memorial  is centered on a  colossal sculpture  carved into the granite face of Mount Rushmore in the  Black Hills  near  Keystone, South Dakota . Sculptor  Gutzon Borglum  created the sculpture's design and oversaw the project's execution from 1927 to 1941 with the help of his son,  Lincoln Borglum . The sculpture features the 60-foot-tall (18 m) heads of four  United States Presidents  recommended by Borglum:  George Washington  (1732–1799),  Thomas Jefferson  (1743–1826),  Theodore Roosevelt  (1858–1919) and  Abraham Lincoln  (1809–1865), chosen to represent the nation's birth, growth, development and preservation, respectively.
 
 

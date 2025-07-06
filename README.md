@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/960px-Mount_Rushmore_detail_view_%28100MP%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/William_John_Macquorn_Rankine_by_Thomas_Annan.jpg/500px-William_John_Macquorn_Rankine_by_Thomas_Annan.jpg" />
 </div>
 
->Mount Rushmore National Memorial  is centered on a  colossal sculpture  carved into the granite face of Mount Rushmore in the  Black Hills  near  Keystone, South Dakota . Sculptor  Gutzon Borglum  created the sculpture's design and oversaw the project's execution from 1927 to 1941 with the help of his son,  Lincoln Borglum . The sculpture features the 60-foot-tall (18 m) heads of four  United States Presidents  recommended by Borglum:  George Washington  (1732–1799),  Thomas Jefferson  (1743–1826),  Theodore Roosevelt  (1858–1919) and  Abraham Lincoln  (1809–1865), chosen to represent the nation's birth, growth, development and preservation, respectively.
+>William Rankine  (5 July 1820 – 24 December 1872) was a Scottish mathematician and physicist. He was a founding contributor, with  Rudolf Clausius  and  Lord Kelvin , to the science of  thermodynamics , particularly focusing on  its First Law . He developed the  Rankine scale , a  Fahrenheit -based equivalent to the  Celsius -based  Kelvin scale  of temperature. This undated photograph of Rankine was taken by  Thomas Annan .
 
 

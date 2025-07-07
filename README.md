@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/William_John_Macquorn_Rankine_by_Thomas_Annan.jpg/500px-William_John_Macquorn_Rankine_by_Thomas_Annan.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Dalai_Lama_in_2012.jpg/500px-The_Dalai_Lama_in_2012.jpg" />
 </div>
 
->William Rankine  (5 July 1820 – 24 December 1872) was a Scottish mathematician and physicist. He was a founding contributor, with  Rudolf Clausius  and  Lord Kelvin , to the science of  thermodynamics , particularly focusing on  its First Law . He developed the  Rankine scale , a  Fahrenheit -based equivalent to the  Celsius -based  Kelvin scale  of temperature. This undated photograph of Rankine was taken by  Thomas Annan .
+>The  14th Dalai Lama  (born 6 July 1935), also known by the spiritual name  Tenzin Gyatso , is the incumbent  Dalai Lama , the highest spiritual leader and head of  Tibetan Buddhism . He served as the resident spiritual and temporal leader of Tibet before the  1959 Tibetan uprising  against the  Chinese annexation of Tibet , when he escaped from Tibet to India. Subsequently, he led the Tibetan  government-in-exile , represented by the  Central Tibetan Administration  in  Dharamshala , India. A belief central to the Tibetan Buddhist tradition, as well as the institution of the Dalai Lama, is that he is a living  bodhisattva , specifically an emanation of  Avalokiteśvara  (in Sanskrit) or Chenrezig (in Tibetan), the Bodhisattva of Compassion. This photograph of the Dalai Lama was taken in 2012.
 
 

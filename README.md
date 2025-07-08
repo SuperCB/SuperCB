@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Dalai_Lama_in_2012.jpg/500px-The_Dalai_Lama_in_2012.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Titanus_giganteus_MHNT.jpg/960px-Titanus_giganteus_MHNT.jpg" />
 </div>
 
->The  14th Dalai Lama  (born 6 July 1935), also known by the spiritual name  Tenzin Gyatso , is the incumbent  Dalai Lama , the highest spiritual leader and head of  Tibetan Buddhism . He served as the resident spiritual and temporal leader of Tibet before the  1959 Tibetan uprising  against the  Chinese annexation of Tibet , when he escaped from Tibet to India. Subsequently, he led the Tibetan  government-in-exile , represented by the  Central Tibetan Administration  in  Dharamshala , India. A belief central to the Tibetan Buddhist tradition, as well as the institution of the Dalai Lama, is that he is a living  bodhisattva , specifically an emanation of  Avalokiteśvara  (in Sanskrit) or Chenrezig (in Tibetan), the Bodhisattva of Compassion. This photograph of the Dalai Lama was taken in 2012.
+>The  titan beetle  ( Titanus giganteus ) is a  Neotropical  species of  longhorn beetle . It is one of the largest known  beetles , as well as one of the largest known insects, at more than 170 millimetres (6.7 inches) in length. Adult titan beetles only live for a few weeks, and protect themselves from predators with their sharp spines and powerful jaws. The species is native to  tropical rainforests  throughout South America, primarily the  Amazon rainforest , and is primarily found in  old-growth forests  with plenty of rotting wood, which serves as their principal food supply. Despite a broad distribution throughout South America, it is secretive and rarely seen due to its  nocturnal  habits and cryptic behavior. These three male titan beetles, collected in  French Guiana , are in the collection of the  Muséum de Toulouse  in France.
 
 

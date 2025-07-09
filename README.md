@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Titanus_giganteus_MHNT.jpg/960px-Titanus_giganteus_MHNT.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Thomas_Eakins%2C_American_-_Portrait_of_Dr._Samuel_D._Gross_%28The_Gross_Clinic%29_-_Google_Art_Project.jpg/960px-Thomas_Eakins%2C_American_-_Portrait_of_Dr._Samuel_D._Gross_%28The_Gross_Clinic%29_-_Google_Art_Project.jpg" />
 </div>
 
->The  titan beetle  ( Titanus giganteus ) is a  Neotropical  species of  longhorn beetle . It is one of the largest known  beetles , as well as one of the largest known insects, at more than 170 millimetres (6.7 inches) in length. Adult titan beetles only live for a few weeks, and protect themselves from predators with their sharp spines and powerful jaws. The species is native to  tropical rainforests  throughout South America, primarily the  Amazon rainforest , and is primarily found in  old-growth forests  with plenty of rotting wood, which serves as their principal food supply. Despite a broad distribution throughout South America, it is secretive and rarely seen due to its  nocturnal  habits and cryptic behavior. These three male titan beetles, collected in  French Guiana , are in the collection of the  Muséum de Toulouse  in France.
+>The Gross Clinic  is an 1875 oil-on-canvas painting by the American artist  Thomas Eakins . It measures 8 ft by 6.5 ft (240 cm by 200 cm). The painting depicts  Samuel D. Gross  (July 8, 1805 – May 6, 1884), a seventy-year-old American medical professor, dressed in a black frock coat and lecturing a group of  Jefferson Medical College  students in  Philadelphia , Pennsylvania. The painting is based on a surgery, witnessed by Eakins, in which Gross treated a young man for an infected  femur . Gross is pictured here performing a conservative operation, as opposed to the  amputation  normally carried out at the time. Eakins included a self-portrait in the form of a student with a white cuffed sleeve sketching or writing, at the right-hand edge of the painting, next to the tunnel railing.  The Gross Clinic  has been restored  three times, most recently in 2010, and is currently in the collection of the  Philadelphia Museum of Art .
 
 

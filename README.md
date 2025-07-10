@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Thomas_Eakins%2C_American_-_Portrait_of_Dr._Samuel_D._Gross_%28The_Gross_Clinic%29_-_Google_Art_Project.jpg/960px-Thomas_Eakins%2C_American_-_Portrait_of_Dr._Samuel_D._Gross_%28The_Gross_Clinic%29_-_Google_Art_Project.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamarind_fruits_%28Tamarindus_indica_%27Si_Thong%27%29.jpg/960px-Tamarind_fruits_%28Tamarindus_indica_%27Si_Thong%27%29.jpg" />
 </div>
 
->The Gross Clinic  is an 1875 oil-on-canvas painting by the American artist  Thomas Eakins . It measures 8 ft by 6.5 ft (240 cm by 200 cm). The painting depicts  Samuel D. Gross  (July 8, 1805 – May 6, 1884), a seventy-year-old American medical professor, dressed in a black frock coat and lecturing a group of  Jefferson Medical College  students in  Philadelphia , Pennsylvania. The painting is based on a surgery, witnessed by Eakins, in which Gross treated a young man for an infected  femur . Gross is pictured here performing a conservative operation, as opposed to the  amputation  normally carried out at the time. Eakins included a self-portrait in the form of a student with a white cuffed sleeve sketching or writing, at the right-hand edge of the painting, next to the tunnel railing.  The Gross Clinic  has been restored  three times, most recently in 2010, and is currently in the collection of the  Philadelphia Museum of Art .
+>The  tamarind  ( Tamarindus indica ) is a  leguminous  tree in the family  Fabaceae , indigenous to  tropical Africa  and naturalized in Asia. The tamarind tree produces brown, pod-like edible fruits, 12 to 15 centimetres (4.5 to 6 inches) in length, which contain a sweet, tangy pulp. The pulp is also used in  traditional medicine  and as a  metal polish . This photograph shows two tamarind fruits of the cultivar 'Si Thong', one whole and one opened, with three tamarind seeds in front. The picture was  focus-stacked  from 51 separate images.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamarind_fruits_%28Tamarindus_indica_%27Si_Thong%27%29.jpg/960px-Tamarind_fruits_%28Tamarindus_indica_%27Si_Thong%27%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/L%C3%A1brido_tablero_a_cuadros_%28Halichoeres_hortulanus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-19%2C_DD_43.jpg/960px-L%C3%A1brido_tablero_a_cuadros_%28Halichoeres_hortulanus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-19%2C_DD_43.jpg" />
 </div>
 
->The  tamarind  ( Tamarindus indica ) is a  leguminous  tree in the family  Fabaceae , indigenous to  tropical Africa  and naturalized in Asia. The tamarind tree produces brown, pod-like edible fruits, 12 to 15 centimetres (4.5 to 6 inches) in length, which contain a sweet, tangy pulp. The pulp is also used in  traditional medicine  and as a  metal polish . This photograph shows two tamarind fruits of the cultivar 'Si Thong', one whole and one opened, with three tamarind seeds in front. The picture was  focus-stacked  from 51 separate images.
+>The  checkerboard wrasse  ( Halichoeres hortulanus ) is a species of fish belonging to the  wrasse  family. It is native to the  Indian Ocean  and central  Pacific Ocean . It is a small fish that can reach a maximum length of 27 centimetres (11 inches). Both its sex and appearance change during its life, and the colouring at each stage is variable based on location. Like many other wrasses, the checkerboard wrasse is a  protogynous hermaphrodite , starting life as a female and later becoming a male, changing sex at maturity when it is about 12.8 centimetres (5.0 inches) long. This checkerboard wrasse was photographed in the  Red Sea  off the coast of Egypt. 
 
 

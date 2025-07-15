@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wood_stork_%28Mycteria_americana%29_and_Yacare_caiman.jpg/960px-Wood_stork_%28Mycteria_americana%29_and_Yacare_caiman.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/John_Everett_Millais_-_The_Blind_Girl%2C_1854-56.jpg/500px-John_Everett_Millais_-_The_Blind_Girl%2C_1854-56.jpg" />
 </div>
 
->The  wood stork  ( Mycteria americana ) is a large wading bird found in warmer parts of the Americas. North American birds may disperse to South America, where it is resident. Its bare head and neck are dark grey and the plumage is mostly white, with black on the tail and part of the wing. The sexes are similar, but the juvenile has a feathered head and a yellow, not black, bill. The wood stork nests colonially in wetlands, building its one-metre-diameter (3.3-foot) nest in trees; the breeding season starting when water levels drop. The  clutch  of three to five eggs is incubated for around 30 days, and the chicks fledge 60 to 65 days after hatching, although many die during their first two weeks. The chicks are fed fish while the adult also eats insects, frogs and crabs as available, foraging by touch in shallow water. This wood stork was photographed with a  Yacare caiman  in the  Pantanal , Brazil.
+>The Blind Girl  (1856) is a painting by  John Everett Millais  which depicts two itinerant  beggars , presumed to be sisters, one of whom is a blind  musician , her  concertina  on her lap. They are resting by the roadside after a rainstorm, before travelling to the town of  Winchelsea , visible in the background. The painting has been interpreted as an  allegory  of the senses, contrasting the experiences of the blind and sighted sisters. The former feels the warmth of the sun on her face, and fondles a blade of grass, while the latter shields her eyes from the sun or rain and looks at a  double rainbow  that has just appeared. The painting is in the collection of the  Birmingham Museum and Art Gallery .
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ralph_Cleaver_-_1904_amateur_performance_of_W.S._Gilbert%27s_Rosencrantz_and_Guildenstern_at_the_Garrick_Theatre%2C_London_-_Image_1.jpg/960px-Ralph_Cleaver_-_1904_amateur_performance_of_W.S._Gilbert%27s_Rosencrantz_and_Guildenstern_at_the_Garrick_Theatre%2C_London_-_Image_1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Anne_de_Cl%C3%A8ves_-_Hans_Holbein_le_Jeune_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1348_%3B_MR_756_-_version_2.jpg/500px-Anne_de_Cl%C3%A8ves_-_Hans_Holbein_le_Jeune_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1348_%3B_MR_756_-_version_2.jpg" />
 </div>
 
->Rosencrantz and Guildenstern  is a short play by  W. S. Gilbert  that parodies  William Shakespeare 's  Hamlet . The main characters in Gilbert's play are  King Claudius  and  Queen Gertrude  of Denmark, their son  Prince Hamlet , the courtiers  Rosencrantz and Guildenstern , and  Ophelia . The play first appeared in the magazine  Fun  in 1874 after having been rejected for production by several theatre companies. Its first professional performances were an 1891 benefit matinée and an 1892 run at the  Court Theatre  in London of around 77 performances, with  Decima Moore  as Ophelia,  Brandon Thomas  as Claudius, and  Weedon Grossmith  as Hamlet.  Rosencrantz and Guildenstern  was revived in London and New York over the next 20 years and occasionally thereafter. A review in  The Times  said: "There is more brilliance of merely verbal wit in this little play than in anything else of Mr. Gilbert's. ... It is really a very subtle piece of criticism, sometimes of Shakespeare’s play, sometimes of the commentators, sometimes of the actors who have played the great part." This ink drawing was created by Ralph Cleaver for a 1904 celebrity charity performance of  Rosencrantz and Guildenstern  at the  Garrick Theatre  in London. The drawing depicts various characters in the play and identifies the actors who portrayed them, including Gilbert himself as Claudius.
+>Anne of Cleves  ( German :  Anna von Kleve ; 28 June or 22 September 1515 – 16 July 1557) was  Queen of England  from 6 January to 12 July 1540 as the  fourth wife  of  Henry VIII . Anne outlived the rest of Henry's wives.
 
 

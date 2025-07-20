@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bas%C3%ADlica_de_San_Pablo%2C_Rabat%2C_isla_de_Malta%2C_Malta%2C_2021-08-25%2C_DD_167.jpg/960px-Bas%C3%ADlica_de_San_Pablo%2C_Rabat%2C_isla_de_Malta%2C_Malta%2C_2021-08-25%2C_DD_167.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Passion_fruits_-_whole_and_halved.jpg/960px-Passion_fruits_-_whole_and_halved.jpg" />
 </div>
 
->The  Basilica of St Paul  is a Catholic parish church in  Rabat, Malta , located on the edge of the site of the Roman city of  Melite . The present church was built between 1653 and 1658, replacing a church that was completed in 1578. It was constructed with funds from the noblewoman  Cosmana Navarra , on plans prepared by  Francesco Buonamici . The final stages were completed by  Lorenzo Gafà . It was elevated to the status of a  minor basilica  in 2020. The church features a grotto where, according to tradition,  Paul the Apostle  lived and preached during his three-month stay in Malta in AD 60. This photograph shows the facade of the Basilica of St Paul in 2021.
+>The  passion fruit  is the fruit of a number of plants in the genus  Passiflora . They are round or oval, and range from a width of 1.5 to 3 inches (3.8 to 7.6 centimetres). The fruits have a juicy, edible center composed of a large number of  seeds . They are native to subtropical regions of South America from southern Brazil through Paraguay to northern Argentina. This photograph shows two passion fruits of the species  Passiflora edulis , one whole and one halved. The picture was  focus-stacked  from 22 separate images.
 
 

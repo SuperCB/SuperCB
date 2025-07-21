@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Passion_fruits_-_whole_and_halved.jpg/960px-Passion_fruits_-_whole_and_halved.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/C2022_E3_%28ZTF%29-_Alessandro_Bianconi.jpg/960px-C2022_E3_%28ZTF%29-_Alessandro_Bianconi.jpg" />
 </div>
 
->The  passion fruit  is the fruit of a number of plants in the genus  Passiflora . They are round or oval, and range from a width of 1.5 to 3 inches (3.8 to 7.6 centimetres). The fruits have a juicy, edible center composed of a large number of  seeds . They are native to subtropical regions of South America from southern Brazil through Paraguay to northern Argentina. This photograph shows two passion fruits of the species  Passiflora edulis , one whole and one halved. The picture was  focus-stacked  from 22 separate images.
+>C/2022 E3 (ZTF)  is a  non-periodic comet  from the  Oort cloud  that was discovered by the  Zwicky Transient Facility  (ZTF) in 2022. With a   comet nucleus  of around 1 kilometre (0.62 mi) in diameter, C/2022 E3 rotates on its axis once every 8.5 to 8.7 hours. Its  tails  of dust and gas extended for millions of kilometers and, during January 2023, an  anti-tail  was also visible. The comet reached its most recent  perihelion  in January 2023, at a distance of 1.11 AU (166 million km; 103 million mi) from the sun, and the closest approach to Earth was a few weeks later, at a distance of 0.28 AU (42 million km; 26 million mi). The comet reached  magnitude  5 and was visible with the  naked eye  under moonless  dark skies . This photograph of C/2022 E3 was taken in January 2023 and released by the Italian  National Institute for Astrophysics .
 
 

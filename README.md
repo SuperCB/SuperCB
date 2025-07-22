@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/C2022_E3_%28ZTF%29-_Alessandro_Bianconi.jpg/960px-C2022_E3_%28ZTF%29-_Alessandro_Bianconi.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Southern_Scrub-Robin_0A2A1672.jpg/960px-Southern_Scrub-Robin_0A2A1672.jpg" />
 </div>
 
->C/2022 E3 (ZTF)  is a  non-periodic comet  from the  Oort cloud  that was discovered by the  Zwicky Transient Facility  (ZTF) in 2022. With a   comet nucleus  of around 1 kilometre (0.62 mi) in diameter, C/2022 E3 rotates on its axis once every 8.5 to 8.7 hours. Its  tails  of dust and gas extended for millions of kilometers and, during January 2023, an  anti-tail  was also visible. The comet reached its most recent  perihelion  in January 2023, at a distance of 1.11 AU (166 million km; 103 million mi) from the sun, and the closest approach to Earth was a few weeks later, at a distance of 0.28 AU (42 million km; 26 million mi). The comet reached  magnitude  5 and was visible with the  naked eye  under moonless  dark skies . This photograph of C/2022 E3 was taken in January 2023 and released by the Italian  National Institute for Astrophysics .
+>The  southern scrub robin  ( Drymodes brunneopygia ) is a species of bird in the family Petroicidae, the  Australasian robins . It is  endemic  to Australia, where it occurs in  mallee  and  heathland  in the semi-arid southern parts of the continent. Its range includes several disjoint regions from central  New South Wales  through western  Victoria  and southern  South Australia , through to the southwestern area of  Western Australia . It is a relatively dull and large robin, with adults around 19 to 20 centimetres (7.5 to 7.9 in) in length, of which around a third are the tail feathers. Most of the plumage is grey. It breeds between July and December and has a nest on the ground, built of twigs and lined with twigs, grass and bark. Unusually for a  passerine , it lays only a single egg. This southern scrub robin was photographed in the  Nombinnie Nature Reserve  in New South Wales.
 
 

@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Midtown_Manhattan_from_Weehawken_September_2021_HDR.jpg/960px-Midtown_Manhattan_from_Weehawken_September_2021_HDR.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg/960px-La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg" />
 </div>
 
->Hudson Yards  is a 28-acre (11-hectare) real-estate development located in  Hudson Yards , a neighborhood of the New York City borough of  Manhattan . It is situated on the waterfront of the  Hudson River , on a platform built over the  West Side Yard , a storage depot for the  Long Island Rail Road .  Related Companies  and  Oxford Properties  are the primary developers and major equity partners in the project, with the master plan designed by the architectural firm  Kohn Pedersen Fox . Construction began in 2012 and the first phase opened in 2019, with completion of the second phase expected by 2032. Major office tenants in the development include  Warner Bros. Discovery ,  L'Oréal , and  Wells Fargo  among others. This photograph shows the skyscrapers of Hudson Yards, viewed across the Hudson River from  Weehawken, New Jersey , in 2021.
+>Liberty Leading the People  ( French :  La Liberté guidant le peuple ) is a painting of the  Romantic era  by the French artist  Eugène Delacroix ,  commemorating the  July Revolution  of 1830 that toppled King  Charles X . A bare-breasted "woman of the people" with a  Phrygian cap  personifying the concept and  Goddess of Liberty , accompanied by a young boy brandishing a pistol in each hand, leads a group of various people forward over a  barricade  and the bodies of the fallen while holding aloft the flag of the French Revolution—the  tricolour , which again became France's national flag after these events—in one hand, and brandishing a  bayonetted   musket  with the other. The figure of Liberty is also viewed as a symbol of France and the  French Republic  known as  Marianne . The painting is displayed in the  Louvre  in Paris.
 
 

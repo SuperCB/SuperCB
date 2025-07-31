@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/ClaraBow2.1.jpg/960px-ClaraBow2.1.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/William_Brough%27s_A_Peculiar_Family_-_Royal_Gallery_of_Illustration.jpg/960px-William_Brough%27s_A_Peculiar_Family_-_Royal_Gallery_of_Illustration.jpg" />
 </div>
 
->Clara Bow  (July 29, 1905 – September 27, 1965) was an American actress who rose to stardom during the  silent film  era of the 1920s and successfully made the transition to " talkies " in 1929. Her appearance in the 1927 film  It  brought her global fame and the nickname " It girl ". Bow came to personify the  Roaring Twenties  and has been described as its leading  sex symbol . She appeared in 46 silent films and 11 talkies, including hits such as  Mantrap  (1926),  It  (1927), and  Wings  (1927). She was named first box-office draw in 1928 and 1929, and second box-office draw in 1927 and 1930. Two years after marrying the actor  Rex Bell  in 1931, Bow retired from acting and became a rancher in  Nevada . Her final film,  Hoop-La , was released in 1933. This studio photograph of Bow was taken in 1932.
+>A Peculiar Family  is an 1865 comedy musical play by the English writer  William Brough  featuring music by  Thomas German Reed . The play starred German Reed, his wife  Priscilla , and  John Parry . It premiered in 1865 at the German Reeds' London theatre, the  Royal Gallery of Illustration , and is part of a multi-decade series known as the  German Reed Entertainments . The play is set in a French coastal hotel and features the eponymous family: Barnaby Bounce, his sister, Cherry, two of his nephews and a grandfather, along with a German detective named Herr Von Doppelslich, the French landlady and a countess. The story involves a mix-up over a white hat worn by Barnaby and the hat's owner, who is being pursued by Von Doppelslich. This poster for  A Peculiar Family  was designed by Robert Jacob Hamerton.
 
 

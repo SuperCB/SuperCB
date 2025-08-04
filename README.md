@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lamium_purpureum_-_Tutermaa.jpg/500px-Lamium_purpureum_-_Tutermaa.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Indochinese_Green-Magpie_%28ssp._hypoleuca%29_0A2A5802.jpg/960px-Indochinese_Green-Magpie_%28ssp._hypoleuca%29_0A2A5802.jpg" />
 </div>
 
->Lamium purpureum , commonly known as the red dead-nettle, among other names, is an annual herbaceous  flowering plant . Native to Eurasia, it can also be found in North America, and frequently occurs in meadows, forest edges, roadsides and gardens. It grows with square stems to a height of 5 to 20 centimetres (2 to 8 inches), and occasionally up to 40 centimetres (16 inches). The leaves have  fine hairs , are green at the bottom and shade to purplish at the top, while the  zygomorphic  flowers are bright reddish purple. The pollen is crimson red in colour and thus very noticeable on the heads of the bees that visit its flowers. The plant contains various oils and is characterized by its high contents of  germacrene D . Young plants have edible tops and leaves, which are used in salads and stir fries as a spring vegetable. The plant has also been used for many years in  folk medicine  and herbal remedies. This  L. purpureum   inflorescence  was photographed in  Tutermaa , Estonia. The picture was  focus-stacked  from 101 separate images.
+>The  Indochinese green magpie  ( Cissa hypoleuca ) is a small colorful bird native to the forests of China and southern Asia, through to Vietnam. It is nonmigratory and is found at altitudes up to 1,500 metres (4,900 feet), preferring moist forests and tree canopies within the tropical and subtropical regions, where its plumage provides camouflage. The Indochinese green magpie is approximately 35 centimetres (14 inches) in length, with a green upper body and an underbelly either yellow or green in colour. It features a black band that goes from its bill over the crimson eyes to the back of their head. It is a  songbird , with vocalisations including noisy chattering, rasping notes, screeches, and a ringing whistle. This Indochinese green magpie of the  subspecies   C. h. hypoleuca  was photographed in  Đà Lạt , Vietnam.
 
 

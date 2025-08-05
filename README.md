@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Indochinese_Green-Magpie_%28ssp._hypoleuca%29_0A2A5802.jpg/960px-Indochinese_Green-Magpie_%28ssp._hypoleuca%29_0A2A5802.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Cheat_LCCN2010649713-restored.jpg/960px-The_Cheat_LCCN2010649713-restored.jpg" />
 </div>
 
->The  Indochinese green magpie  ( Cissa hypoleuca ) is a small colorful bird native to the forests of China and southern Asia, through to Vietnam. It is nonmigratory and is found at altitudes up to 1,500 metres (4,900 feet), preferring moist forests and tree canopies within the tropical and subtropical regions, where its plumage provides camouflage. The Indochinese green magpie is approximately 35 centimetres (14 inches) in length, with a green upper body and an underbelly either yellow or green in colour. It features a black band that goes from its bill over the crimson eyes to the back of their head. It is a  songbird , with vocalisations including noisy chattering, rasping notes, screeches, and a ringing whistle. This Indochinese green magpie of the  subspecies   C. h. hypoleuca  was photographed in  Đà Lạt , Vietnam.
+>The Cheat  is a 1923 American  silent drama film  produced by  Famous Players–Lasky  and distributed by  Paramount Pictures . It is a remake of  Cecil B. DeMille 's 1915 film  The Cheat , using the same script by  Hector Turnbull  and  Jeanie MacPherson . The remake stars  Pola Negri  and was directed by  George Fitzmaurice ,  and tells the story of Carmelita De Cordoba, a beautiful young South American woman who has been betrothed by her stern father to Don Pablo, whom she despises, and then meets and falls in love with Dudley Drake, a New York City broker. With no known prints of  The Cheat  remaining, it is considered a  lost film , although there is an extant version in novel form, written in the same year as the film by Russell Holman, a Paramount Pictures employee. This color  lithograph  poster was produced in 1923 by Paramount to promote  The Cheat , and depicts Negri as Carmelita with  Charles de Rochefort  as Claude Mace, an art swindler masquerading as the East Indian prince Rao-Singh.
 
 

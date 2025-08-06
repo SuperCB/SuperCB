@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Cheat_LCCN2010649713-restored.jpg/960px-The_Cheat_LCCN2010649713-restored.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Carmen_Miranda_in_That_Night_in_Rio_%281941%29.jpg/960px-Carmen_Miranda_in_That_Night_in_Rio_%281941%29.jpg" />
 </div>
 
->The Cheat  is a 1923 American  silent drama film  produced by  Famous Players–Lasky  and distributed by  Paramount Pictures . It is a remake of  Cecil B. DeMille 's 1915 film  The Cheat , using the same script by  Hector Turnbull  and  Jeanie MacPherson . The remake stars  Pola Negri  and was directed by  George Fitzmaurice ,  and tells the story of Carmelita De Cordoba, a beautiful young South American woman who has been betrothed by her stern father to Don Pablo, whom she despises, and then meets and falls in love with Dudley Drake, a New York City broker. With no known prints of  The Cheat  remaining, it is considered a  lost film , although there is an extant version in novel form, written in the same year as the film by Russell Holman, a Paramount Pictures employee. This color  lithograph  poster was produced in 1923 by Paramount to promote  The Cheat , and depicts Negri as Carmelita with  Charles de Rochefort  as Claude Mace, an art swindler masquerading as the East Indian prince Rao-Singh.
+>Carmen Miranda  (9 February 1909 – 5 August 1955) was a Portuguese-born Brazilian singer, dancer, and actress. Nicknamed "the Brazilian Bombshell", she was known for her signature  fruit hat  outfit that she wore in her American films. Despite being stereotyped, Miranda's performances popularized Brazilian music and increased public awareness of Latin culture. In 1941, Miranda was the first Latin American star to be invited to leave her hand and footprints in the courtyard of  Grauman's Chinese Theatre , and was the first South American honored with a star on the  Hollywood Walk of Fame . She died in  Beverly Hills, California , and is buried at the  Cemitério de São João Batista  in  Rio de Janeiro . This photograph depicts Miranda in a scene from the 1941 film  Week-End in Havana .
 
 

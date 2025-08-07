@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Carmen_Miranda_in_That_Night_in_Rio_%281941%29.jpg/960px-Carmen_Miranda_in_That_Night_in_Rio_%281941%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Coin_of_Nader_Shah%2C_minted_in_Daghestan_%28Dagestan%29.jpg/960px-Coin_of_Nader_Shah%2C_minted_in_Daghestan_%28Dagestan%29.jpg" />
 </div>
 
->Carmen Miranda  (9 February 1909 – 5 August 1955) was a Portuguese-born Brazilian singer, dancer, and actress. Nicknamed "the Brazilian Bombshell", she was known for her signature  fruit hat  outfit that she wore in her American films. Despite being stereotyped, Miranda's performances popularized Brazilian music and increased public awareness of Latin culture. In 1941, Miranda was the first Latin American star to be invited to leave her hand and footprints in the courtyard of  Grauman's Chinese Theatre , and was the first South American honored with a star on the  Hollywood Walk of Fame . She died in  Beverly Hills, California , and is buried at the  Cemitério de São João Batista  in  Rio de Janeiro . This photograph depicts Miranda in a scene from the 1941 film  Week-End in Havana .
+>Nader Shah Afshar  (6 August 1698 or 22 October 1688 – 20 June 1747) was the founder of the  Afsharid dynasty  of  Iran  and one of the most powerful rulers in  Iranian history , ruling as  shah of Iran  from 1736 to 1747, when he was assassinated during a rebellion. He fought  numerous campaigns  throughout the Middle East, the Caucasus, Central Asia, and South Asia, emerging victorious from the battles of  Herat ,  Mihmandust ,  Murche-Khort ,  Kirkuk ,  Yeghevārd ,  Khyber Pass ,  Karnal , and  Kars . He has been described as "the last great Asiatic military conqueror", and his victories during his campaigns briefly made him  West Asia 's most powerful sovereign, ruling over what was arguably the most powerful empire in the world. Nader also changed the Iranian coinage system, minting silver coins, called  Naderi , that were equal to the Mughal  rupee . This silver coin was minted in  Dagestan  and is dated 1741–1742.
 
 

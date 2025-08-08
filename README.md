@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Coin_of_Nader_Shah%2C_minted_in_Daghestan_%28Dagestan%29.jpg/960px-Coin_of_Nader_Shah%2C_minted_in_Daghestan_%28Dagestan%29.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Map_%28Araschnia_levana%29_form_prorsa_underside_Piatra_Craiului.jpg/500px-Map_%28Araschnia_levana%29_form_prorsa_underside_Piatra_Craiului.jpg" />
 </div>
 
->Nader Shah Afshar  (6 August 1698 or 22 October 1688 – 20 June 1747) was the founder of the  Afsharid dynasty  of  Iran  and one of the most powerful rulers in  Iranian history , ruling as  shah of Iran  from 1736 to 1747, when he was assassinated during a rebellion. He fought  numerous campaigns  throughout the Middle East, the Caucasus, Central Asia, and South Asia, emerging victorious from the battles of  Herat ,  Mihmandust ,  Murche-Khort ,  Kirkuk ,  Yeghevārd ,  Khyber Pass ,  Karnal , and  Kars . He has been described as "the last great Asiatic military conqueror", and his victories during his campaigns briefly made him  West Asia 's most powerful sovereign, ruling over what was arguably the most powerful empire in the world. Nader also changed the Iranian coinage system, minting silver coins, called  Naderi , that were equal to the Mughal  rupee . This silver coin was minted in  Dagestan  and is dated 1741–1742.
+>The  map  ( Araschnia levana ) is a  butterfly  of the family  Nymphalidae . It is found from Spain through Europe and east through the  Palearctic  to Central Asia and the Russian Far East to Korea and Japan. The map exhibits seasonal dimorphism which means it has two different forms, depending on whether its larva grows in the summer or the winter. The summer form ( prorsa ) has black wings, while the winter form ( levana ) – adapted for  diapause  – has red wings. Before the butterfly was fully understood, these were thought to be two different species. The eggs are laid in long strings, one on top of the other, on the underside of  stinging nettles , the larval food plant. It is thought that these strings of eggs mimic the flowers of the nettles, thereby evading predators. This map, in the  prorsa  form, was photographed in the  Piatra Craiului Mountains , Romania.
 
 

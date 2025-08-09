@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Map_%28Araschnia_levana%29_form_prorsa_underside_Piatra_Craiului.jpg/500px-Map_%28Araschnia_levana%29_form_prorsa_underside_Piatra_Craiului.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cognac_glass.jpg/960px-Cognac_glass.jpg" />
 </div>
 
->The  map  ( Araschnia levana ) is a  butterfly  of the family  Nymphalidae . It is found from Spain through Europe and east through the  Palearctic  to Central Asia and the Russian Far East to Korea and Japan. The map exhibits seasonal dimorphism which means it has two different forms, depending on whether its larva grows in the summer or the winter. The summer form ( prorsa ) has black wings, while the winter form ( levana ) – adapted for  diapause  – has red wings. Before the butterfly was fully understood, these were thought to be two different species. The eggs are laid in long strings, one on top of the other, on the underside of  stinging nettles , the larval food plant. It is thought that these strings of eggs mimic the flowers of the nettles, thereby evading predators. This map, in the  prorsa  form, was photographed in the  Piatra Craiului Mountains , Romania.
+>Cognac  is a type of  brandy  named after the commune of  Cognac  in western France. Cognac production falls under French  appellation d'origine contrôlée  (AOC) designation, which stipulates that it must be grown in a specific  wine-growing region  in the departments of  Charente  and  Charente-Maritime . The AOC also mandates that particular grapes (of which  St. Émilion  is the most common) be used, and that the drink be twice  distilled  in copper  pot stills  and aged at least two years in  oak barrels  from designated surrounding areas of France. Close to 200 cognac producers exist, of which the largest producers are  Courvoisier ,  Hennessy ,  Martell  and  Rémy Martin . This photograph shows cognac in a  snifter , a glass with a large tapered bowl and a short stem that allows the drinker to enjoy the aroma by placing their hand underneath the bowl and warming the cognac.
 
 

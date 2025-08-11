@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cognac_glass.jpg/960px-Cognac_glass.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Celeste_box_art_full.png/500px-Celeste_box_art_full.png" />
 </div>
 
->Cognac  is a type of  brandy  named after the commune of  Cognac  in western France. Cognac production falls under French  appellation d'origine contrôlée  (AOC) designation, which stipulates that it must be grown in a specific  wine-growing region  in the departments of  Charente  and  Charente-Maritime . The AOC also mandates that particular grapes (of which  St. Émilion  is the most common) be used, and that the drink be twice  distilled  in copper  pot stills  and aged at least two years in  oak barrels  from designated surrounding areas of France. Close to 200 cognac producers exist, of which the largest producers are  Courvoisier ,  Hennessy ,  Martell  and  Rémy Martin . This photograph shows cognac in a  snifter , a glass with a large tapered bowl and a short stem that allows the drinker to enjoy the aroma by placing their hand underneath the bowl and warming the cognac.
+>Celeste  is a 2018  platform game  developed and published by the  indie  studio  Maddy Makes Games . The player controls  Madeline , a young woman with  anxiety  and  depression  who aims to climb  Celeste Mountain . During her climb, she encounters several characters, including Badeline, a personification of her self-doubt who attempts to stop her from climbing the mountain. Development of  Celeste  began in August 2015, when game developers  Maddy Thorson  and Noel Berry participated in a game jam, where they created  Celeste  for the  PICO-8 . It was released as a full game on January 25, 2018, for  Linux ,  macOS , the  Nintendo Switch , the  PlayStation 4 , and  Windows , before being released on the  Xbox One  the following day, and on  Google Stadia  in July 2020. This  cover art  for  Celeste  depicts, from left to right, the characters Badeline, Oshiro, Madeline, Granny, and Theo.
 
 

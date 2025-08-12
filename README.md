@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Celeste_box_art_full.png/500px-Celeste_box_art_full.png" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Graceful_Pitta_0A2A8564.jpg/960px-Graceful_Pitta_0A2A8564.jpg" />
 </div>
 
->Celeste  is a 2018  platform game  developed and published by the  indie  studio  Maddy Makes Games . The player controls  Madeline , a young woman with  anxiety  and  depression  who aims to climb  Celeste Mountain . During her climb, she encounters several characters, including Badeline, a personification of her self-doubt who attempts to stop her from climbing the mountain. Development of  Celeste  began in August 2015, when game developers  Maddy Thorson  and Noel Berry participated in a game jam, where they created  Celeste  for the  PICO-8 . It was released as a full game on January 25, 2018, for  Linux ,  macOS , the  Nintendo Switch , the  PlayStation 4 , and  Windows , before being released on the  Xbox One  the following day, and on  Google Stadia  in July 2020. This  cover art  for  Celeste  depicts, from left to right, the characters Badeline, Oshiro, Madeline, Granny, and Theo.
+>The  graceful pitta  ( Erythropitta venusta ) is a species of bird in the family  Pittidae . It occurs on the Indonesian island of  Sumatra , where its natural habitat is subtropical or tropical moist  montane forests . The graceful pitta has a length of around 18 cm (7.1 in). It is a predominantly black bird with reddish undertones, the bottom of its wings featuring vivid blue stripes while the lower breast and abdomen are crimson. It has a call which has been described as resembling a high-pitched train whistle which remains at a consistent pitch. The graceful pitta is very rare and is at risk and vulnerable. Although it has been legally protected from hunting since 1931, it is threatened by  habitat loss  as a result of deforestation. This graceful pitta was photographed in tropical rainforest at Sumatra's  Barisan Mountains .
 
 

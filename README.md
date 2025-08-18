@@ -15,9 +15,9 @@
 
 ## Picture of the day
 <div align="center">
-  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Charles_Roscoe_Savage_self-portrait.jpg/500px-Charles_Roscoe_Savage_self-portrait.jpg" />
+  <img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Little_corella_%28Cacatua_sanguinea_gymnopis%29_Blanchetown.jpg/960px-Little_corella_%28Cacatua_sanguinea_gymnopis%29_Blanchetown.jpg" />
 </div>
 
->Charles Roscoe Savage  (August 16, 1832 – February 4, 1909) was a British-born landscape and portrait  photographer  most notable for his images of the American West. Savage converted to  the Church of Jesus Christ of Latter-day Saints  in his youth while living in England. He served a mission in Switzerland and eventually moved to the United States. In America he became interested in photography and began taking portraits for hire in the East. He traveled to  Salt Lake City  with his family and opened up his Art Bazar where he sold many of his photographs. Savage concentrated his photographic efforts primarily on family portraits, landscapes, and documentary views. He is best known for his 1869 photographs of the linking of the  first transcontinental railroad  at  Promontory, Utah . This self-portrait of Savage was taken in the 1880s.
+>The  little corella  ( Cacatua sanguinea ) is a white bird species in the  cockatoo  family, Cacatuidae. It is native to mainland Australia, in a broad arc from eastern South Australia through  Victoria ,  New South Wales ,  Queensland  and the  Northern Territory  around to coastal  Western Australia . The species is also native to southern  New Guinea  and has been introduced to  Tasmania . Its habitat includes savanna, shrubs and grasses as well as urban settings. It grows to a length between 35 and 41 centimetres (14 and 16 in), with a mass between 370 and 630 grams (13 and 22 oz). This little corella of the subspecies  C. s. gymnopsis  was photographed perching on a tree branch near the  Murray River  in  Paisley, South Australia , across the river from  Blanchetown .
 
 

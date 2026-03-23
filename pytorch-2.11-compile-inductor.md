@@ -303,7 +303,82 @@
 
 ---
 
-## 六、总结
+## 六、torch.compile + Deterministic（确定性计算）专题
+
+> 该方向的核心目标是：当用户设置 `torch.use_deterministic_algorithms(True)` 时，`torch.compile` 编译产物的行为应与 eager 完全一致。
+
+### 背景：2.10 建立的基础
+
+| PR | 版本 | 内容 |
+|----|------|------|
+| [#163589](https://github.com/pytorch/pytorch/pull/163589) | 2.10 | **[Inductor] 确定性模式**：新增 `torch._inductor.config.deterministic`，在开启时跳过所有会影响数值结果的 on-device benchmark，包括：pad-mm、dynamic rblock scaling、template autotuning、coordinate descent tuning for reduction、reduction config autotuning（RBLOCK/num_warps 影响数值，XBLOCK 不影响）、计算通信重排序 benchmark |
+| [#165950](https://github.com/pytorch/pytorch/pull/165950) | 2.10 | **自动联动 `use_deterministic_algorithms`**：当用户调用 `torch.use_deterministic_algorithms(True)` 时，自动激活 Inductor 的 deterministic mode（`config.deterministic = True`） |
+| [#164532](https://github.com/pytorch/pytorch/pull/164532) | 2.10 | 配套的测试与 config 传播修复 |
+
+这三个 PR 是 2.10 的核心，也是 2.11 的起点。
+
+---
+
+### 2.11 开发窗口（2026-01-22 至 2026-02-16）中的相关 PR
+
+#### ❌ PR #174718 —— `empty`/`empty_like` 的确定性填充（已合并后被 Revert）
+
+- **Issue [#174386](https://github.com/pytorch/pytorch/issues/174386)**：用户发现在 `torch.use_deterministic_algorithms(True)` 下，`torch.compile` 中 `empty_like` 返回的是**未初始化的随机内存**，而非 eager 下规范的 NaN 填充。
+- **修复（PR #174718）**：在 Inductor 的 allocation 路径中加入确定性 guard，检测到确定性模式时改用 `torch.empty_strided(...)` 等走 eager 语义的分配方式。
+- **状态**：PR 于 2026-02-12/13 合并，但随后因某些 CI 问题被 **Revert**，最终未进入 2.11 release。该 fix 在 2.11 分支切出后重新尝试推进（后续有 PR #178119 以略不同的方式在 Windows 上再次修复）。
+
+#### 🟡 PR #174813 —— FlexAttention Backward 的确定性实现（未及时合并）
+
+- **背景**：FlexAttention backward 中使用了 atomicAdd，在 `use_deterministic_algorithms(True)` 时会 throw error。
+- **修复**：通过计算 `dq_write_order`（exclusive prefix sum 确定写入顺序），实现确定性的 backward pass。
+- **性能**：在 S≥8192 时开销 <0.3%，基本无负担。
+- **状态**：PR 于 2026-02-11 创建，在 2.11 分支切出（2026-02-16）时尚未合并。
+
+---
+
+### 2.11 分支切出后继续推进的相关修复
+
+#### ✅ PR #177166 —— `nn.functional.pad` + deterministic + compile 崩溃修复（2026-03-18 合并）
+
+- **Issue [#170079](https://github.com/pytorch/pytorch/issues/170079)**（发现于 2.9.1）：`torch.compile(ReplicationPad1d(...), fullgraph=True)` 在 `use_deterministic_algorithms(True)` 时 crash，错误为 `Unsupported: Attempted to call function marked as skipped`。
+- **根因**：`replication_pad1d_backward` 的 CUDA 实现使用了 atomicAdd（非确定性），PyTorch 走一条通过 `importlib.import_module` 的 Python decomposition 路径来绕过它。但 Dynamo 无法 trace `importlib.import_module`，导致 `fullgraph=True` 时报错。
+- **修复**：用 `@nonstrict_trace` 装饰该 decomposition 函数，让 Dynamo 跳过其内部追踪、由 AOTAutograd 负责展开——这样 Dynamo 不需要进入，AOTAutograd 能正常处理 backward 的确定性分解。
+- **来源**：PT2 Bug Bash 活动（专项 bug 修复冲刺）的成果。
+
+#### ❌ PR #167318 —— `max_pool2d_with_indices_backward` 确定性分解（2026-03-19 合并后被 Revert）
+
+- **背景**：`max_pool2d_with_indices_backward` 的 CUDA 实现使用了 atomicAdd，导致 `use_deterministic_algorithms(True)` 时会抛出错误。
+- **修复**：新增一个纯 tensor op 的 backward 分解（通过 gather + scatter_add 实现），不依赖任何 atomicAdd，从而可在确定性模式下正常运行。
+- **关键注意**：该分解优先级低于 Inductor 自身的 max_pool2d 优化路径，**不影响 Inductor 编译的代码路径**；仅影响非 Inductor backend 和 `torch.export`。
+- **状态**：合并后因其他问题被 Revert，未最终落地。
+
+#### 🟡 PR #176842 —— `reorder_for_locality` 导致 RNG 顺序变化（仍在 review）
+
+- **Issue [#175156](https://github.com/pytorch/pytorch/issues/175156)**（发现于 2.11.0.dev）：在 `torch.compile(backend='inductor')` 下，多个 `randint` 调用的结果与 eager 不一致，即使手动 `manual_seed` 也无法复现 eager 结果。
+- **根因**：`reorder_for_locality` 调度优化 pass 会对 RNG 操作（如 `aten.randint`）进行重排序，而 RNG 操作消耗全局 RNG state，重排序会改变随机数序列。
+- **修复**：在 `reorder_for_locality` 中将 RNG op 标记为不可重排，保持与 eager 相同的 RNG 消耗顺序。
+- **状态**：PR 于 2026-03-08 提交，截至 2026-03-23 仍在 review 阶段。
+
+#### 🟡 PR #178119 —— Windows 上 Inductor CPU 确定性 empty 路径修复（2026-03-23 提交，仍在 review）
+
+- 专门修复 Windows 平台上 Inductor CPU 的 empty 分配路径未正确遵守确定性语义的问题（是 PR #174718 的后续尝试）。
+
+---
+
+### 小结：2.11 中 deterministic 方向的整体情况
+
+| 类别 | 结论 |
+|------|------|
+| **2.10 已解决** | Inductor 确定性模式（`config.deterministic`）和与 `use_deterministic_algorithms` 的联动 |
+| **2.11 窗口内** | 主要修复（`empty_like` 确定性）被合并又 Revert，未能进入 release |
+| **2.11 分支切出后** | `nn.functional.pad` + 确定性 crash 修复（#177166）合并进 2.11；`max_pool2d` 确定性分解（#167318）Revert |
+| **进行中** | RNG 重排序问题（#176842）、Windows empty 路径（#178119）仍在推进 |
+
+**核心结论**：2.11 对 deterministic 方向**没有重大新功能落地**。2.10 建立了框架（`config.deterministic` + `use_deterministic_algorithms` 联动），2.11 主要是**针对具体 op 的 corner case 修复**（replication pad crash、empty_like 语义差异、RNG 顺序不一致），且部分修复因各种原因被 Revert，属于**持续修缮阶段**而非架构性突破。
+
+---
+
+## 七、总结
 
 PyTorch 2.11 的 `torch.compile` / `torch.inductor` 方向延续了 2.10 的优化路线，主要改进集中在：
 
@@ -313,6 +388,7 @@ PyTorch 2.11 的 `torch.compile` / `torch.inductor` 方向延续了 2.10 的优�
 4. **编译时间持续降低**：Dynamo 前端对 `bind_args`、`inspect.signature`、attr 缓存等热点路径做了专项优化。
 5. **可观测性提升**：Dynamo Profiler、per-graph config override、编译事件在 Profiler 中可见，让调试更友好。
 6. **AOTI XPU 完善**：独立编译 API、多架构 kernel 等特性进一步扩展了 AOTI 对 Intel GPU 的支持。
+7. **Deterministic 持续修缮**：针对 `empty_like`、replication pad、RNG 顺序等 corner case 的修复正在推进，但无架构性突破。
 
 ---
 
